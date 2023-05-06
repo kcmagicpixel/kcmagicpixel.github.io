@@ -1,5 +1,9 @@
 # KCFGC Community Resources
 
+## Development
+
+Install the [Hugo CLI](https://gohugo.io/getting-started/quick-start/).
+
 ## Contributing
 
 TODO:
