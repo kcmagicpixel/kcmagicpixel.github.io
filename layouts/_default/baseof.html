@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>
+      {{ block "title" . }} 
+        {{ .Site.Title }} 
+      {{ end }}
+    </title>
+    <link rel="stylesheet" href="/styles/reset.css">
+    {{ $globalStyle := resources.Get "styles/global.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $globalStyle.Permalink }}">
+  </head>
+  <body>
+    <div id="root">
+      <div class="frame">
+        <div class="top">
+          <span class="left"></span>
+          <img src="/images/icon-conn-dialup.png" alt="" />
+          <div class="text">{{ .Site.Title }}</div>
+          <span class="center"></span>
+          <span class="right"></span>
+        </div>
+        <div class="mid">
+          <span class="left"></span>
+          <div class="content">
+            {{ partial "menu.html" . }}
+            <!-- Code that all your templates share, like a header -->
+            {{ block "main" . }}
+            <!-- The part of the page that begins to differ between templates -->
+            {{ end }} 
+            {{ block "footer" . }}
+            <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+            {{ end }}
+          </div>
+          <span class="right"></span>
+        </div>
+        <div class="bottom slim">
+          <span class="left"></span>
+          <span class="center"></span>
+          <span class="right"></span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

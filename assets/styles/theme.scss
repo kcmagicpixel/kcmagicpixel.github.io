@@ -1,0 +1,18 @@
+$color-primary: #000000;
+$color-secondary: #ffffff;
+$color-text: #000000;
+$color-text-alt: #ffffff;
+
+header.main-header {
+  border-bottom-color: $color-primary;
+
+  & > a {
+    color: $color-text;
+    background-color: $color-secondary;
+
+    &:active {
+      color: $color-text-alt;
+      background-color: $color-primary;
+    }
+  }
+}

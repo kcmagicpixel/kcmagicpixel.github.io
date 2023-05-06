@@ -1,0 +1,120 @@
+.frame {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  
+  .top, .bottom {
+    flex-shrink: 0;
+
+    & span {
+      height: 100%;
+      overflow: hidden;
+      display: block;
+    }
+  }
+
+  .top {
+    flex-grow: 0;
+    width: 100%;
+    height: 26px;
+    display: flex;
+    background-image: url('/images/border-top.png');
+    background-repeat: repeat-x;
+    align-items: center;
+
+    .left {
+      flex-grow: 0;
+      width: 6px;
+      background-image: url('/images/corner-top-left.png');
+    }
+
+    .right {
+      flex-grow: 0;
+      width: 56px;
+      background-image: url('/images/corner-top-right.png');
+    }
+
+    .text {
+      flex-grow: 0;
+      color: white;
+      font-family: 'Microsoft Sans Serif', sans-serif;
+      font-weight: 600;
+      display: inline-block;
+      margin-left: 4px;
+      font-size: 12px;
+      letter-spacing: 0.1px;
+      margin-top: 1px;
+      text-rendering: optimizeLegibility;
+    }
+
+    img {
+      display: inline-block;
+      height: 16px;
+      width: 16px;
+    }
+
+    .center {
+      flex-grow: 1;
+    }
+  }
+
+  .mid {
+    flex: 1;
+    display: flex;
+
+    .left {
+      background-image: url('/images/border-left.png');
+    }
+
+    .right {
+      background-image: url('/images/border-right.png');
+    }
+
+    .left, .right {   
+      width: 6px;
+      flex-grow: 0;
+      display: inline-block;
+      background-repeat: repeat-y;
+    }
+
+    .content {
+      flex: 1;
+      overflow: auto;
+    }
+
+    iframe.content {
+      border: none;
+    }
+  }
+
+  .bottom {
+    flex-grow: 0;
+    display: flex;
+    width: 100%;
+    background-repeat: repeat-x;
+
+    &.slim {
+      height: 6px;
+      background-image: url('/images/border-bottom-slim.png');
+
+      .left {
+        background-image: url('/images/corner-bottom-left-slim.png');
+      }
+
+      .right {
+        background-image: url('/images/corner-bottom-right-slim.png');
+      }
+    }
+
+    .center {
+      flex-grow: 1;
+    }
+
+    .left, .right {
+      width: 6px;
+      flex-grow: 0;
+    }
+  }
+}
+
