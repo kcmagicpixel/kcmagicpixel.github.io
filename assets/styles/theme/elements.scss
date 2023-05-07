@@ -1,0 +1,31 @@
+@import '_colors';
+
+body {
+  color: $color-text;
+}
+
+a {
+  color: $color-primary;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+
+  & > li {
+    border-bottom-color: $color-tertiary;
+    padding: 1rem
+  }
+}
+
+main > h1 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: $color-tertiary;
+}
+
+article {
+  padding: 1rem;
+}

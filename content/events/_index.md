@@ -5,4 +5,4 @@ menu:
     weight: 20
 ---
 
-Description of events page.
+# All Events

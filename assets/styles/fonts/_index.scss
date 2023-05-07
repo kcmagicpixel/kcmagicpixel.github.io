@@ -1,0 +1,19 @@
+/* Google webfont download tool: https://gwfh.mranftl.com/fonts */
+
+@import 'fontawesome';
+@import 'maven';
+@import 'raleway';
+@import 'ubuntu';
+@import 'fonts';
+
+body {
+  font-family: $font-family-body;
+}
+
+h1 {
+  font-family: $font-family-h1;
+}
+
+h2, h3, h4 {
+  font-family: $font-family-h2;
+}

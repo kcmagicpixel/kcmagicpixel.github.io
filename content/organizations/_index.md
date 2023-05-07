@@ -1,8 +1,8 @@
 ---
-title: Organizations
+title: Community
 menu: 
   main:
     weight: 30
 ---
 
-About the organizations page.
+TODO: About the organizations page.

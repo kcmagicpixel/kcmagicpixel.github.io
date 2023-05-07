@@ -5,4 +5,4 @@ menu:
     weight: 1
 ---
 
-Quick description of website. Operated by [Magic Pixel]({{< ref "/organizations/magic-pixel.md" >}} "MP").
+TODO: Quick description of website. Operated by [Magic Pixel]({{< ref "/organizations/magic-pixel.md" >}} "Magic Pixel").

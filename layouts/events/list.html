@@ -1,25 +1,9 @@
 {{ define "main" }}
 <main aria-role="main">
-  <article>
-    {{ .Content }}
-  </article>
+  {{ .Content }}
   <ul class="events">
     {{ range (.Pages.ByParam "start_date") }}
-      <li>
-        <div class="date event-col">
-          <span>{{ .Params.start_date.Format "Tues" }}</span>
-          <span>{{ .Params.start_date.Format "Mar 01" }}</span>
-          <span>{{ .Params.start_date.Format "2006" }}</span>
-        </div>
-        <div class="desc event-col">
-          <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
-          <summary>{{ .Summary }}</summary>
-          <span>{{ .Params.address }}</span>
-        </div>
-        <div class="img">
-          Image here? idk
-        </div>
-      </li>
+      {{ partial "events-li.html" . }}
     {{ end }}
   </ul>
 </main>

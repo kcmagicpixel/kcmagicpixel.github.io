@@ -1,0 +1,27 @@
+@import '_colors';
+
+#root {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  overflow: hidden;
+  background-color: #000;
+
+  @media screen and (min-width: 1025px) {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  & > .frame  {
+    height: 100%;
+    max-width: 1000px;
+
+    & > .mid {
+      overflow-y: auto;
+      
+      & > .content {
+        background-color: $color-background;
+      }
+    }
+  }
+}
