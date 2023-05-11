@@ -2,30 +2,33 @@
 
 header.main-header {
   position: sticky;
+  width: 100%;
   border-bottom-width: 2px;
   border-bottom-style: solid;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
   border-bottom-color: $color-tertiary;
   background-color: $color-secondary;
 
-  @media screen and (min-width: 1025px) {
-    justify-content: flex-start;
-  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
-  & > a {
-    color: $color-text;
-    padding: 1em;
-    text-decoration: none;
-
-    &.active {
-      background-color: $color-primary;
+    @media screen and (min-width: 1025px) {
+      justify-content: flex-start;
     }
 
-    &:active:not(.active) {
-      color: $color-primary;
+    & > a {
+      color: $color-text;
+      padding: 1em;
+      text-decoration: none;
+  
+      &.active {
+        background-color: $color-primary;
+      }
+  
+      &:active:not(.active) {
+        color: $color-primary;
+      }
     }
   }
 }

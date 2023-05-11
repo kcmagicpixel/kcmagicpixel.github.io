@@ -2,56 +2,47 @@
 @import '../fonts/_fonts';
 
 main ul.events {
-  li {
+  li.event {
+    width: 100%;
     display: flex;
-    flex-wrap: nowrap;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-
-    .event-col {
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
+    border-bottom: solid 1px $color-tertiary;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 0.5rem;
+    
+    .desc {
+      flex: 1;
       overflow: hidden;
     }
 
-    .date {
-      margin-right: 1rem;
+    .block-date {
       flex: 0 0 4rem;
-      justify-content: center;
-      align-items: center;
-      line-height: 1;
-
-      & > * {
-        white-space: nowrap;
-      }
-
-      & > .weekday {
-        font-family: $font-family-h2;
-        font-weight: 600;
-      }
-
-      & > .day {
-        font-family: $font-family-h2;
-        font-weight: 900;
-        font-size: 2.5rem;
-      }
-
-      & > .month {
-        font-family: $font-family-h1;
-        font-weight: 300;
-        font-size: 1.25rem;
-        text-align: center;
-      }
-    }
-
-    .desc {
-      flex: 1;
-    }
-
-    .img {
-      flex: 0;
+      border-left: solid 1px $color-tertiary;
+      margin-top: -0.5rem;
+      margin-bottom: -0.5rem;
       margin-left: 1rem;
+      margin-right: 0.5rem;
+    }
+
+    .icon {
+      flex: 0;
+      margin-left: 0.5rem;
+      display: none;
+
+      @media screen and (min-width: 1025px) {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: -0.5rem;
+        margin-bottom: -0.5rem;
+        margin-right: -0.5rem;
+      }
+ 
+      img {
+        height: 100%;
+        max-width: 6rem;
+        object-fit: contain;
+      }
     }
 
     summary {
@@ -90,6 +81,35 @@ main ul.events {
         display: inline-block;
         vertical-align: text-bottom;
       }
+    }
+  }
+}
+
+main.event-single {
+  .banner, .info-title {
+    border-bottom: solid 1px $color-tertiary;
+  }
+
+  .info-title {
+    display: flex;
+ 
+    .block-date {
+      border-left: solid 1px $color-tertiary;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+      margin-left: 1rem;
+    }
+
+    .title {
+      line-height: 1;
+      display: flex;
+      align-items: center;
+      padding: 1rem;
+    }
+
+    .link {
+      border: solid 1px $color-tertiary;
+      border-bottom: none;
     }
   }
 }

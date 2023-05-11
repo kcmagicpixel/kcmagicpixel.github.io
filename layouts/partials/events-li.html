@@ -1,18 +1,16 @@
-<li>
-  <div class="date event-col" aria-label='{{ .Params.start_date | time.Format ":date_full" }}'>
-    <span class="weekday">{{ .Params.start_date.Format "Mon" }}</span>
-    <span class="day">{{ .Params.start_date.Format "02" }}</span>
-    <span class="month">{{ .Params.start_date.Format "Jan" | upper }}</span>
-  </div>
-  <div class="desc event-col">
-    <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+<li class="event">
+  {{ partial "block-date.html" .Params.start_date }}
+  <div class="desc">
+    <a class="title" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
     <summary>{{ .Summary }}</summary>
     <footer>
       {{ with (.Params.address) }}<a class="address" href='https://www.google.com/maps/search/{{ safeURL . }}'><i class="fa-solid fa-location-dot"></i><span>{{ . }}</span></a>{{else}}<span></span>{{ end }}
       {{ with (.Params.url_startgg) }}<a href="{{ . }}" class="start-gg"><img src="/images/start-gg-icon.svg" alt="start.gg icon" width="16px" /></a>{{ end }}
     </footer>
   </div>
-  <div class="img">
-    Image here? idk
+  {{ with resources.Get .Params.ref_icon }}
+  <div class="icon">
+    <img src="{{ .RelPermalink }}" alt="{{ .Title }} icon" />
   </div>
+  {{ end }}
 </li>

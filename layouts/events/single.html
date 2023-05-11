@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <main aria-role="main" class="event-single">
+    {{ with resources.Get .Params.ref_banner }}
+    <div class="banner">
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }} banner" />
+    </div>
+    {{ end }}
+    <div class="info-title">
+      {{ partial "block-date.html" .Params.start_date }}
+      <div class="title"><h1>{{ .Title }}</h1></div>
+      <div class="link">{{.Content}}</div>
+      <div class="link">{{.Content}}</div>
+      <div class="link">{{.Content}}</div>
+      <div class="link">{{.Content}}</div>
+    </div>
+    <article>
+      {{ .Content }}
+    </article>
+  </main>
+{{ end }}

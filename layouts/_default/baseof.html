@@ -10,9 +10,9 @@
     </title>
     <link rel="stylesheet" href="/styles/reset.css">
     {{ $globalStyle := resources.Get "styles/global.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ $globalStyle.Permalink }}">
+    <link rel="stylesheet" href="{{ $globalStyle.RelPermalink }}">
     {{ with .OutputFormats.Get "rss" -}}
-      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
     {{ end -}}
   </head>
   <body>

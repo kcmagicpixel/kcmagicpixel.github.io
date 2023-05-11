@@ -11,11 +11,6 @@ a {
 
 ul {
   padding: 0;
-
-  & > li {
-    border-bottom-color: $color-tertiary;
-    padding: 1rem
-  }
 }
 
 main > h1 {
@@ -28,4 +23,39 @@ main > h1 {
 
 article {
   padding: 1rem;
+}
+
+.block-date {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 1;
+  min-width: 4rem;
+
+  & > * {
+    white-space: nowrap;
+  }
+
+  & > .weekday {
+    font-family: $font-family-h2;
+    font-weight: 600;
+  }
+
+  & > .day {
+    font-family: $font-family-h2;
+    font-weight: 900;
+    font-size: 2.5rem;
+  }
+
+  & > .month {
+    font-family: $font-family-h1;
+    font-weight: 300;
+    font-size: 1.25rem;
+    text-align: center;
+  }
+}
+
+.banner {
+  max-height: 350px;
 }

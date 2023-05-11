@@ -46,6 +46,9 @@
       letter-spacing: 0.1px;
       margin-top: 1px;
       text-rendering: optimizeLegibility;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
       cursor: default;
     }
 
@@ -81,7 +84,8 @@
 
     .content {
       flex: 1;
-      overflow: auto;
+      overflow-y: auto;
+      overflow-x: hidden;
     }
 
     iframe.content {

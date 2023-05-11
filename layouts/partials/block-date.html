@@ -1,0 +1,6 @@
+<!-- Accepts a datetime as input. If you have a string, use `time datestr` to convert. -->
+<div class="block-date" aria-label='{{ time.Format ":date_full" . }}'>
+  <span class="weekday">{{ .Format "Mon" }}</span>
+  <span class="day">{{ .Format "02" }}</span>
+  <span class="month">{{ .Format "Jan" | upper }}</span>
+</div>

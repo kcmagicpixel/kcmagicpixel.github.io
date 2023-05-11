@@ -4,4 +4,3 @@ title = 'Kansas City Fighting Game Community Resources'
 
 [frontmatter]
 date = ['date', 'start_date']
-expiryDate = ['expiryDate', 'end_date']
