@@ -8,9 +8,11 @@
       {{ with (.Params.url_startgg) }}<a href="{{ . }}" class="start-gg"><img src="/images/start-gg-icon.svg" alt="start.gg icon" width="16px" /></a>{{ end }}
     </footer>
   </div>
-  {{ with resources.Get .Params.ref_icon }}
-  <div class="icon">
-    <img src="{{ .RelPermalink }}" alt="{{ .Title }} icon" />
-  </div>
+  {{ with .Params.ref_icon }}
+    {{ with resources.Get . | default (resources.GetRemote .) }}
+    <div class="icon">
+      <img src="{{ .Permalink }}" alt="{{ $.Page.Title }} icon" />
+    </div>
+    {{ end }}
   {{ end }}
 </li>

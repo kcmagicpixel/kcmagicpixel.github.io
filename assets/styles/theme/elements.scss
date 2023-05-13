@@ -56,6 +56,9 @@ article {
   }
 }
 
-.banner {
+img.banner {
   max-height: 350px;
+  width: 100%;
+  overflow: hidden;
+  object-fit: cover;
 }

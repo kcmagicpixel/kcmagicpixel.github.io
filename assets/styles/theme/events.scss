@@ -85,31 +85,100 @@ main ul.events {
   }
 }
 
-main.event-single {
-  .banner, .info-title {
+main#event-single {
+  .banner {
     border-bottom: solid 1px $color-tertiary;
   }
 
-  .info-title {
-    display: flex;
- 
-    .block-date {
-      border-left: solid 1px $color-tertiary;
-      padding-top: 0.5rem;
-      padding-bottom: 0.5rem;
-      margin-left: 1rem;
-    }
+  #event-content {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: auto auto auto auto;
 
-    .title {
-      line-height: 1;
+    @media screen and (min-width: 1025px) {
+      grid-template-rows: auto auto;
+    }  
+
+    #event-title-area {
       display: flex;
-      align-items: center;
-      padding: 1rem;
+      grid-row: 1 / 1;
+      grid-column: 1 / 11;
+      border-bottom: solid 1px $color-tertiary;
+      min-height: 6rem;
+
+      @media screen and (min-width: 1025px) {
+        grid-column: 1 / 7;
+      }  
+
+      .block-date {
+        border-left: solid 1px $color-tertiary;
+        margin-left: 1rem;
+      }
+
+      #event-title {
+        line-height: 1;
+        display: flex;
+        align-items: center;
+        padding: 1rem;
+      }
+     
+    }
+ 
+    #event-quick-info {
+      grid-row: 2 / 2;
+      grid-column: 1 / 11;
+      display: grid;
+      // grid-template-rows: 1fr auto auto;
+      
+      @media screen and (min-width: 1025px) {
+        grid-row: 1 / 1;
+        grid-column: 7 / 11;
+        padding-left: 0;
+      }
     }
 
-    .link {
-      border: solid 1px $color-tertiary;
-      border-bottom: none;
+    #event-description {
+      grid-column: 1 / 11;
+      border-bottom: solid 1px $color-tertiary;
+      margin-left: 1px;
+
+      @media screen and (min-width: 1025px) {
+        grid-column: 1 / 7;
+      }
+    }
+
+    #event-details {
+      grid-column: 1 / 11;
+
+       @media screen and (min-width: 1025px) {
+        grid-column: 7 / 11;
+      } 
+      
+    }
+
+    ul.info-list {
+      margin: 0;
+      padding: 0;
+      padding-left: 1rem;
+      list-style: none;
+      border-bottom: solid 1px $color-tertiary;
+
+      @media screen and (min-width: 1025px) {
+        padding-left: 0;
+      }
+
+      li {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        padding: 0.5rem;
+        border-bottom: solid 1px $color-tertiary;
+        border-left: solid 1px $color-tertiary;
+
+        &:last-of-type {
+          border-bottom: none;
+        }
+      }
     }
   }
 }
