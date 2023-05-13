@@ -2,5 +2,8 @@ baseURL = 'https://kcfgc.github.io/'
 languageCode = 'en-us'
 title = 'Kansas City Fighting Game Community Resources'
 
+[permalinks]
+events = '/:section/:year/:month/:slug'
+
 [frontmatter]
 date = ['date', 'start_date']

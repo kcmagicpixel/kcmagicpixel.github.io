@@ -1,12 +1,15 @@
-@import '_colors';
+@import "_colors";
 
 body {
   color: $color-text;
 }
 
 a {
-  color: $color-primary;
+  color: $color-tertiary;
   text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 ul {

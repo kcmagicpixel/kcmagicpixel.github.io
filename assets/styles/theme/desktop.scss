@@ -1,4 +1,4 @@
-@import '_colors';
+@import "_colors";
 
 #root {
   display: flex;
@@ -12,13 +12,13 @@
     padding-bottom: 0.5rem;
   }
 
-  & > .frame  {
+  & > .frame {
     height: 100%;
     max-width: 1000px;
 
     & > .mid {
       overflow-y: auto;
-      
+
       & > .content {
         background-color: $color-background;
       }

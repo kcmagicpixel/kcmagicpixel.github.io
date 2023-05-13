@@ -1,5 +1,5 @@
-@import '_colors';
-@import '../fonts/_fonts';
+@import "_colors";
+@import "../fonts/_fonts";
 
 main ul.events {
   li.event {
@@ -9,10 +9,14 @@ main ul.events {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     padding-right: 0.5rem;
-    
+
     .desc {
       flex: 1;
       overflow: hidden;
+
+      h3 {
+        color: $color-primary;
+      }
     }
 
     .block-date {
@@ -37,7 +41,7 @@ main ul.events {
         margin-bottom: -0.5rem;
         margin-right: -0.5rem;
       }
- 
+
       img {
         height: 100%;
         max-width: 6rem;
@@ -72,8 +76,9 @@ main ul.events {
           text-align: end;
         }
       }
-      
-      i, img {
+
+      i,
+      img {
         margin-right: 0.25rem;
       }
 
@@ -97,7 +102,7 @@ main#event-single {
 
     @media screen and (min-width: 1025px) {
       grid-template-rows: auto auto;
-    }  
+    }
 
     #event-title-area {
       display: flex;
@@ -108,7 +113,7 @@ main#event-single {
 
       @media screen and (min-width: 1025px) {
         grid-column: 1 / 7;
-      }  
+      }
 
       .block-date {
         border-left: solid 1px $color-tertiary;
@@ -121,15 +126,14 @@ main#event-single {
         align-items: center;
         padding: 1rem;
       }
-     
     }
- 
+
     #event-quick-info {
       grid-row: 2 / 2;
       grid-column: 1 / 11;
       display: grid;
       // grid-template-rows: 1fr auto auto;
-      
+
       @media screen and (min-width: 1025px) {
         grid-row: 1 / 1;
         grid-column: 7 / 11;
@@ -150,10 +154,9 @@ main#event-single {
     #event-details {
       grid-column: 1 / 11;
 
-       @media screen and (min-width: 1025px) {
+      @media screen and (min-width: 1025px) {
         grid-column: 7 / 11;
-      } 
-      
+      }
     }
 
     ul.info-list {
@@ -168,15 +171,37 @@ main#event-single {
       }
 
       li {
-        display: flex;
-        align-items: center;
         height: 100%;
         padding: 0.5rem;
         border-bottom: solid 1px $color-tertiary;
         border-left: solid 1px $color-tertiary;
 
+        &,
+        & > span {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        }
+
         &:last-of-type {
           border-bottom: none;
+        }
+
+        a {
+          color: $color-tertiary;
+        }
+
+        i,
+        img {
+          margin-right: 0.5rem;
+          width: 1rem;
+          text-align: center;
+        }
+
+        i:first-child {
+          margin-right: 0;
+          margin-left: -0.5rem;
+          width: 2rem;
         }
       }
     }

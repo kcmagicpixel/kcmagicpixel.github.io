@@ -4,15 +4,19 @@
     <a class="title" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
     <summary>{{ .Summary }}</summary>
     <footer>
-      {{ with (.Params.address) }}<a class="address" href='https://www.google.com/maps/search/{{ safeURL . }}'><i class="fa-solid fa-location-dot"></i><span>{{ . }}</span></a>{{else}}<span></span>{{ end }}
-      {{ with (.Params.url_startgg) }}<a href="{{ . }}" class="start-gg"><img src="/images/start-gg-icon.svg" alt="start.gg icon" width="16px" /></a>{{ end }}
+      {{ with (.Params.address) }}<a class="address" href='https://www.google.com/maps/search/{{ . }}'><i class="fa-solid fa-location-dot"></i><span>{{ . }}</span></a>{{else}}<span></span>{{ end }}
+      {{ with (.Params.url_startgg) }}<a href="{{ . }}" class="start-gg"><img src="/images/start-gg-icon.svg" alt="start.gg" width="16px" /></a>{{ end }}
     </footer>
   </div>
   {{ with .Params.ref_icon }}
-    {{ with resources.Get . | default (resources.GetRemote .) }}
-    <div class="icon">
-      <img src="{{ .Permalink }}" alt="{{ $.Page.Title }} icon" />
-    </div>
+    {{ $url := "" }}
+    {{ if hasPrefix . "http" }}
+      {{ $url = (resources.GetRemote .).Permalink }}
+    {{ else }}
+      {{ $url = (resources.Get .).RelPermalink }}
     {{ end }}
+    <div class="icon">
+      <img src="{{ $url }}" alt="{{ $.Page.Title }} icon" />
+    </div>
   {{ end }}
 </li>

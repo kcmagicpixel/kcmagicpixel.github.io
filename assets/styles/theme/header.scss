@@ -1,4 +1,4 @@
-@import '_colors';
+@import "_colors";
 
 header.main-header {
   position: sticky;
@@ -21,11 +21,11 @@ header.main-header {
       color: $color-text;
       padding: 1em;
       text-decoration: none;
-  
+
       &.active {
         background-color: $color-primary;
       }
-  
+
       &:active:not(.active) {
         color: $color-primary;
       }

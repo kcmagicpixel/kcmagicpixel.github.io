@@ -3,8 +3,9 @@
   height: 100%;
   display: flex;
   flex-direction: column;
-  
-  .top, .bottom {
+
+  .top,
+  .bottom {
     flex-shrink: 0;
 
     & span {
@@ -19,26 +20,26 @@
     width: 100%;
     height: 26px;
     display: flex;
-    background-image: url('/images/border-top.png');
+    background-image: url("/images/border-top.png");
     background-repeat: repeat-x;
     align-items: center;
 
     .left {
       flex-grow: 0;
       width: 6px;
-      background-image: url('/images/corner-top-left.png');
+      background-image: url("/images/corner-top-left.png");
     }
 
     .right {
       flex-grow: 0;
       width: 56px;
-      background-image: url('/images/corner-top-right.png');
+      background-image: url("/images/corner-top-right.png");
     }
 
     .text {
       flex-grow: 0;
       color: white;
-      font-family: 'Microsoft Sans Serif', sans-serif;
+      font-family: "Microsoft Sans Serif", sans-serif;
       font-weight: 600;
       display: inline-block;
       margin-left: 4px;
@@ -68,14 +69,15 @@
     display: flex;
 
     .left {
-      background-image: url('/images/border-left.png');
+      background-image: url("/images/border-left.png");
     }
 
     .right {
-      background-image: url('/images/border-right.png');
+      background-image: url("/images/border-right.png");
     }
 
-    .left, .right {   
+    .left,
+    .right {
       width: 6px;
       flex-grow: 0;
       display: inline-block;
@@ -101,14 +103,14 @@
 
     &.slim {
       height: 6px;
-      background-image: url('/images/border-bottom-slim.png');
+      background-image: url("/images/border-bottom-slim.png");
 
       .left {
-        background-image: url('/images/corner-bottom-left-slim.png');
+        background-image: url("/images/corner-bottom-left-slim.png");
       }
 
       .right {
-        background-image: url('/images/corner-bottom-right-slim.png');
+        background-image: url("/images/corner-bottom-right-slim.png");
       }
     }
 
@@ -116,10 +118,10 @@
       flex-grow: 1;
     }
 
-    .left, .right {
+    .left,
+    .right {
       width: 6px;
       flex-grow: 0;
     }
   }
 }
-

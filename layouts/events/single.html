@@ -1,9 +1,13 @@
 {{ define "main" }}
   <main aria-role="main" id="event-single">
     {{ with .Params.ref_banner }}
-      {{ with resources.Get . | default (resources.GetRemote .) }}
-      <img class="banner" src="{{ .Permalink }}" alt="{{ $.Page.Title }} banner" />
+      {{ $url := "" }}
+      {{ if hasPrefix . "http" }}
+        {{ $url = (resources.GetRemote .).Permalink }}
+      {{ else }}
+        {{ $url = (resources.Get .).RelPermalink }}
       {{ end }}
+      <img class="banner" src="{{ $url }}" alt="{{ $.Page.Title }} banner" />
     {{ end }}
     <div id="event-content">
       <div id="event-title-area">
@@ -11,15 +15,26 @@
         <div id="event-title"><h1>{{ .Title }}</h1></div>
       </div>
       <ul id="event-quick-info" class="info-list">
-        <li>quick-info</li>
-        {{/*  <li>quick-info</li>  */}}
-        <li>quick-info</li>
+        <li><span><i class="fa-solid fa-clock" title="Time"></i>{{ .Params.start_date.Format "3:04 PM MST" }}</span></li>
+        {{ with .Params.address }}
+          <li><span><i class="fa-solid fa-location-dot" title="Address"></i>{{ . }}</span></li>
+        {{ end }}
+        {{ if .Params.url_startgg }}
+          <li>
+            <span><img src="/images/start-gg-icon.svg" alt="start.gg icon" title="start.gg" width="16px" /><a href="{{ .Params.url_startgg }}">start.gg</a></span>
+            {{ with .Params.participant_count }}
+              <span><i class="fa-solid fa-people-group"></i>{{ . }}</span>
+            {{ end }}
+          </li>
+        {{ end }}
       </ul>
       <article id="event-description">
         {{ .Content }}
       </article>
       <ul id="event-details" class="info-list">
-        <li>details</li>
+        {{ with .Site.GetPage .Params.ref_org }}
+          <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Title }}</a></span><span></li>
+        {{ end }}
       </div>
     </div>
   </main>
