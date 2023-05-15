@@ -170,7 +170,7 @@ main#event-single {
         padding-left: 0;
       }
 
-      li {
+      & > li {
         height: 100%;
         padding: 0.5rem;
         border-bottom: solid 1px $color-tertiary;
