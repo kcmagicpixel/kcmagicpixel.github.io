@@ -32,10 +32,10 @@
         {{ .Content }}
       </article>
       <ul id="event-details" class="info-list">
-        {{ with .Site.GetPage .Params.ref_org }}
-          <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Title }}</a></span><span></li>
-        {{ end }}
-      </div>
+      {{ with .Site.GetPage .Params.ref_org }}
+        <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Title }}</a></span><span></li>
+      {{ end }}
+      </ul>
     </div>
   </main>
 {{ end }}

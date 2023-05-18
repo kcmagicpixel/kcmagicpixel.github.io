@@ -1,0 +1,10 @@
+{{ define "main" }}
+<main aria-role="main">
+  {{ .Content }}
+  <ul class="organizations">
+    {{ range .Pages }}
+      {{ partial "orgs-li.html" . }}
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

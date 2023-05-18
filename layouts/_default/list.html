@@ -7,8 +7,16 @@
     {{ range .Pages }}
       <li>
         <a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a>
+        <span>{{ .Summary }}</span>
       </li>
     {{ end }}
   </ul>
 </main>
 {{ end }}
+{{ define "footer" }}
+  <footer id="main-footer">
+    <div>
+      Site operated by <a href='{{ (.Site.GetPage "/organizations/magic-pixel.md").RelPermalink }}'>Magic Pixel</a>...
+    </div>
+  </footer>
+{{ end}}

@@ -1,0 +1,60 @@
+main .organizations {
+  .organization {
+    & > .indent {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      border-left: solid 1px $color-tertiary;
+      margin-left: 1rem;
+    }
+
+    .title-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      // border-bottom: solid 1px $color-tertiary;
+
+      .title {
+        height: 100%;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        border-right: solid 1px $color-tertiary;
+
+        & > a {
+          color: $color-primary;
+          border-bottom: solid 1px $color-tertiary;
+          flex: 1;
+          display: flex;
+          align-items: center;
+          padding-left: 1rem;
+        }
+
+        .links {
+          display: flex;
+          justify-content: space-around;
+          width: 100%;
+
+          & > * {
+            flex: 0;
+            color: $color-tertiary;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+            padding-right: 1rem;
+            padding-left: 1rem;
+            text-align: center;
+
+            i {
+              margin-right: 0;
+            }
+          }
+        }
+      }
+
+      img {
+        max-height: 6rem;
+      }
+    }
+  }
+}

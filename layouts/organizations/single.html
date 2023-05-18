@@ -1,0 +1,17 @@
+{{ define "main" }}
+<main aria-role="main">
+  {{ .Content }}
+  {{ with .Params.url_discord }}
+    {{ $url := .url }}
+    {{ if $url }}
+      <a href="{{ $url }}">
+      {{ with .id }}
+        <img src="https://discordapp.com/api/guilds/1095390863552688268/widget.png?style=shield" />
+      {{ else }}
+        <i class="fa-brands fa-discord"></i>Discord
+      {{ end }}
+      </a>
+    {{ end }}
+  {{ end }}
+</main>
+{{ end }}

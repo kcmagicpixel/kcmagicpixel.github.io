@@ -1,6 +1,6 @@
 ---
 title: Events
-menu: 
+menu:
   main:
     weight: 20
 ---

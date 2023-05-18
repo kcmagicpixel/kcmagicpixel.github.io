@@ -3,11 +3,6 @@
 
 main ul.events {
   li.event {
-    width: 100%;
-    display: flex;
-    border-bottom: solid 1px $color-tertiary;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
     padding-right: 0.5rem;
 
     .desc {
@@ -16,14 +11,13 @@ main ul.events {
 
       h3 {
         color: $color-primary;
+        padding-top: 0.5rem;
       }
     }
 
     .block-date {
       flex: 0 0 4rem;
       border-left: solid 1px $color-tertiary;
-      margin-top: -0.5rem;
-      margin-bottom: -0.5rem;
       margin-left: 1rem;
       margin-right: 0.5rem;
     }
@@ -66,9 +60,9 @@ main ul.events {
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        color: $color-tertiary;
         margin-right: 1rem;
         min-width: 2.5rem;
+        padding-bottom: 0.5rem;
         height: 100%;
 
         &:last-child:not(:first-child) {
@@ -77,12 +71,8 @@ main ul.events {
         }
       }
 
-      i,
       img {
         margin-right: 0.25rem;
-      }
-
-      img {
         display: inline-block;
         vertical-align: text-bottom;
       }

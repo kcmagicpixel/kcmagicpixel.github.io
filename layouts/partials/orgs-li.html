@@ -1,0 +1,37 @@
+<li class="organization content-item">
+  <div class="indent">
+    <div class="title-container">
+      <div class="title">
+        <a href="{{ .RelPermalink }}"><h1>{{ .Title }}</h1></a>
+        <div class="links">
+        {{ with .Params.url_discord }}
+          {{ $url := .url }}
+          {{ if $url }}
+            <a href="{{ $url }}">
+              <i class="fa-brands fa-discord" title="Discord"></i>
+            </a>
+          {{ end }}
+        {{ end }}
+        {{ with .Params.url_facebook }}
+          <a href="{{ . }}"><i class="fa-brands fa-facebook"></i></a>
+        {{ end }}
+        {{ with .Params.url_facebook }}
+          <a href="{{ . }}"><i class="fa-brands fa-facebook"></i></a>
+        {{ end }}
+        </div>
+      </div>
+      {{ with .Params.ref_icon }}
+        {{ $url := "" }}
+        {{ if hasPrefix . "http" }}
+          {{ $url = (resources.GetRemote .).Permalink }}
+        {{ else }}
+          {{ $url = (resources.Get .).RelPermalink }}
+        {{ end }}
+        <img src="{{ $url }}" alt="{{ $.Page.Title }} icon" />
+      {{ end }}
+    </div>
+    <summary>
+      {{ .Summary }}
+    </summary>
+  </div>
+</li>

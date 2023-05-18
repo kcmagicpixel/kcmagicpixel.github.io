@@ -14,6 +14,16 @@ a {
 
 ul {
   padding: 0;
+
+  li.content-item {
+    width: 100%;
+    display: flex;
+    border-bottom: solid 1px $color-tertiary;
+
+    i {
+      margin-right: 0.25rem;
+    }
+  }
 }
 
 main > h1 {

@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
+    <meta name="description" content="Kansas City Fighting Game Community Resources">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <title>
       {{ block "title" . }} 
@@ -32,17 +33,16 @@
             <!-- Code that all your templates share, like a header -->
             {{ block "main" . }}
             <!-- The part of the page that begins to differ between templates -->
-            {{ end }} 
-            {{ block "footer" . }}
-            <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
             {{ end }}
           </div>
           <span class="right"></span>
         </div>
-        <div class="bottom slim">
+        <div class="bottom">
           <span class="left"></span>
-          <span class="center"></span>
-          <span class="right"></span>
+          <span class="center">
+            {{ partial "footer.html" . }}
+          </span>
+          <span class="right"><a id="github-link" href="https://github.com/kcfgc/kcfgc.github.io" title="GitHub"> </a></span>
         </div>
       </div>
     </div>

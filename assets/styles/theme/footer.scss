@@ -1,0 +1,33 @@
+@import "_colors";
+
+footer#main-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  margin-left: 2px;
+  margin-right: 4px;
+
+  .description {
+    color: $color-text-alt;
+    font-family: "Microsoft Sans Serif", sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: default;
+
+    a {
+      color: $color-primary;
+    }
+  }
+}
+
+#github-link {
+  width: 34px;
+  height: 100%;
+  display: block;
+  margin-left: 10px;
+}
