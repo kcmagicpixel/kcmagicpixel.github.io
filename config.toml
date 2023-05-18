@@ -12,4 +12,4 @@ events = '/:section/:year/:month/:slug'
 date = ['date', 'start_date']
 
 [taxonomies]
-# series = 'series' # To be enabled later, to generate lists of related events
+event-series = 'series'

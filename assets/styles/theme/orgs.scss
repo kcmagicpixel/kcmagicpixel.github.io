@@ -13,7 +13,7 @@ main .organizations {
       justify-content: space-between;
       align-items: center;
       width: 100%;
-      // border-bottom: solid 1px $color-tertiary;
+      border-bottom: solid 1px $color-tertiary;
 
       .title {
         height: 100%;
@@ -44,6 +44,7 @@ main .organizations {
             padding-right: 1rem;
             padding-left: 1rem;
             text-align: center;
+            min-width: 3rem;
 
             i {
               margin-right: 0;
@@ -55,6 +56,10 @@ main .organizations {
       img {
         max-height: 6rem;
       }
+    }
+
+    summary {
+      padding: 1rem;
     }
   }
 }

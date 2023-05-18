@@ -4,19 +4,11 @@
       <div class="title">
         <a href="{{ .RelPermalink }}"><h1>{{ .Title }}</h1></a>
         <div class="links">
-        {{ with .Params.url_discord }}
-          {{ $url := .url }}
-          {{ if $url }}
-            <a href="{{ $url }}">
-              <i class="fa-brands fa-discord" title="Discord"></i>
-            </a>
-          {{ end }}
-        {{ end }}
-        {{ with .Params.url_facebook }}
-          <a href="{{ . }}"><i class="fa-brands fa-facebook"></i></a>
-        {{ end }}
-        {{ with .Params.url_facebook }}
-          <a href="{{ . }}"><i class="fa-brands fa-facebook"></i></a>
+        {{ range $link_key, $link_value := .Params.links }}
+          {{ $title := humanize $link_key }}
+          <a href="{{ $link_value.url }}">
+            <i class="fa-brands fa-{{ $link_key }}" title="{{ $title }}"></i>
+          </a>
         {{ end }}
         </div>
       </div>

@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <h1>Event Series</h1>
+    <ul>
+      {{ range .Pages }}
+        <li class="content-item ml">
+          <a class="p1" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
+        </li>
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}

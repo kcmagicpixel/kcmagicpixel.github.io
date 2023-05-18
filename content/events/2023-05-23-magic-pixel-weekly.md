@@ -8,6 +8,7 @@ ref_banner: https://images.start.gg/images/tournament/549640/image-f8cedeef17b8a
 address:  109 W Lexington Ave, Independence, MO 64050, USA 
 start_date: 2023-05-23T19:00:00-0500 
 end_date: 2023-05-24T00:00:00-0500
+series: Magic Pixel Weekly
 ---
 
 Event will be hosted at a new location, right next to Game Cafe. Door says "Kreative Caviar".
