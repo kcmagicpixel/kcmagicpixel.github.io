@@ -1,5 +1,8 @@
 baseURL = 'https://kcfgc.github.io/'
+enableGitInfo = true
+enableRobotsTXT = true
 languageCode = 'en-us'
+summaryLength = 30
 title = 'Kansas City Fighting Game Community Resources'
 
 [permalinks]
@@ -7,3 +10,6 @@ events = '/:section/:year/:month/:slug'
 
 [frontmatter]
 date = ['date', 'start_date']
+
+[taxonomies]
+# series = 'series' # To be enabled later, to generate lists of related events

@@ -43,9 +43,15 @@ main ul.events {
       }
     }
 
-    summary {
+    summary,
+    details {
       padding-top: 0.5rem;
       padding-bottom: 0.5rem;
+
+      & > summary {
+        padding-top: 0;
+        padding-bottom: 0;
+      }
     }
 
     footer {
@@ -115,6 +121,11 @@ main#event-single {
         display: flex;
         align-items: center;
         padding: 1rem;
+
+        @media screen and (min-width: 1025px) {
+          flex: 1;
+          border-right: solid 1px $color-tertiary;
+        }
       }
     }
 
@@ -138,6 +149,7 @@ main#event-single {
 
       @media screen and (min-width: 1025px) {
         grid-column: 1 / 7;
+        border-right: solid 1px $color-tertiary;
       }
     }
 
@@ -161,10 +173,14 @@ main#event-single {
       }
 
       & > li {
-        height: 100%;
+        min-height: 2rem;
         padding: 0.5rem;
         border-bottom: solid 1px $color-tertiary;
         border-left: solid 1px $color-tertiary;
+
+        @media screen and (min-width: 1025px) {
+          border-left: none;
+        }
 
         &,
         & > span {

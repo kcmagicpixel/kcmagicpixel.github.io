@@ -1,3 +1,6 @@
+{{ define "title" }}
+  {{ .Title }} - {{ time.Format ":date_short" .Params.start_date }}
+{{ end }}
 {{ define "main" }}
   <main aria-role="main" id="event-single">
     {{ with .Params.ref_banner }}
