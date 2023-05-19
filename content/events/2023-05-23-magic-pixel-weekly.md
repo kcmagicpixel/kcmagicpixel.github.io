@@ -1,5 +1,4 @@
 ---
-# TEST EVENT
 title: Magic Pixel Weekly
 ref_org: magic-pixel
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-5-23
