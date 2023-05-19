@@ -15,10 +15,24 @@
     {{ with .OutputFormats.Get "rss" -}}
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
+    <script type="application/javascript">
+      document.addEventListener('DOMContentLoaded', function() {
+        var root = document.getElementById('root');
+        document.getElementById('drawer-open').addEventListener('click', function () {
+          root.classList.toggle('drawer-open', true);
+        });
+        document.getElementById('drawer-close').addEventListener('click', function () {
+          root.classList.toggle('drawer-open', false);
+        });
+        document.getElementById('drawer-backdrop').addEventListener('click', function () {
+          root.classList.toggle('drawer-open', false);
+        });
+      })
+    </script>
   </head>
   <body>
     <div id="root">
-      <div class="frame">
+      <div id="root-frame" class="frame">
         <div class="top">
           <span class="left"></span>
           <img src="/images/icon-conn-dialup.png" alt="" width="16px" height="16px" />
@@ -45,6 +59,7 @@
           <span class="right"><a id="github-link" href="https://github.com/kcfgc/kcfgc.github.io" title="GitHub"> </a></span>
         </div>
       </div>
+      {{ partial "drawer.html" . }}
     </div>
   </body>
 </html>

@@ -1,5 +1,52 @@
 @import "_colors";
 
+#root {
+  &.drawer-open {
+    #root-frame {
+      pointer-events: none;
+    }
+
+    #drawer-frame {
+      pointer-events: auto;
+      transform: translate(0, 0);
+    }
+
+    #drawer-backdrop {
+      pointer-events: auto;
+      opacity: 0.3;
+    }
+  }
+}
+
+nav.menu-nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  & > button {
+    color: $color-text;
+    padding: 1em;
+    background-color: $color-background;
+    border: none;
+    outline: none;
+  }
+
+  & > a {
+    color: $color-text;
+    padding: 1em;
+    text-decoration: none;
+
+    &.active {
+      display: block;
+      background-color: $color-primary;
+    }
+
+    &:active:not(.active) {
+      color: $color-primary;
+    }
+  }
+}
+
 header#main-header {
   position: sticky;
   top: 0;
@@ -9,27 +56,65 @@ header#main-header {
   border-bottom-color: $color-tertiary;
   background-color: $color-secondary;
 
-  nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  nav.menu-nav {
+    & > a {
+      &:not(#nav-open, .active) {
+        display: none;
 
-    @media screen and (min-width: 1025px) {
-      justify-content: flex-start;
+        @media screen and (min-width: 1025px) {
+          display: block;
+        }
+      }
+
+      @media screen and (min-width: 1025px) {
+        &#nav-open {
+          display: none;
+        }
+      }
     }
+  }
+}
+
+#drawer-frame {
+  pointer-events: none;
+  position: absolute;
+  top: 12px;
+  left: 50px;
+  min-width: 50%;
+  transition: ease-in-out 0.25s;
+  transform: translate(calc(-110% - 50px), 50px);
+
+  @media screen and (min-width: 1025px) {
+    display: none;
+  }
+
+  & > .top {
+    background-position: bottom;
+    padding-top: 22px;
+    cursor: pointer;
+    height: 48px;
+  }
+
+  nav.menu-nav {
+    flex-direction: column;
+    background-color: $color-secondary;
 
     & > a {
-      color: $color-text;
-      padding: 1em;
-      text-decoration: none;
-
-      &.active {
-        background-color: $color-primary;
-      }
-
-      &:active:not(.active) {
-        color: $color-primary;
-      }
+      width: 100%;
     }
+  }
+}
+
+#drawer-backdrop {
+  transition: ease-in-out 0.33s;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0;
+  pointer-events: none;
+
+  @media screen and (min-width: 1025px) {
+    display: none;
   }
 }

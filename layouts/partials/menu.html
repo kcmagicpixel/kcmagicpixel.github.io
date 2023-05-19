@@ -1,26 +1,10 @@
 <header id="main-header">
-  <nav>
-  {{- range site.Menus.main }}
-    {{- $attrs := dict "href" .URL }}
-    {{- if or ($.IsMenuCurrent .Menu .) ($.HasMenuCurrent .Menu .) }}
-      {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "true") }}
-    {{- end }}
-    <a 
-      {{- range $k, $v := $attrs }}
-        {{- with $v }}
-          {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-        {{- end }}
-      {{- end -}}
-    >
+  <nav class="menu-nav">
+    <button id="drawer-open" title="Open Drawer">
       <h3>
-        {{ .Name }}
-        {{- with .Page }}
-          {{- with .Params.version -}}
-            ({{ . }})
-          {{- end }}
-        {{- end }}
+        <i class="fa-solid fa-bars"></i>
       </h3>
-    </a>
-  {{- end }}
+    </button>
+    {{ partial "menu-content.html" . }}
   </nav>
 </header>
