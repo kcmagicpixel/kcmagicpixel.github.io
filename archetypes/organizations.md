@@ -1,10 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 ref_icon: images/myicon.png
+slug: my-org # required
 links: 
   discord:
     url: https://discord.gg/invite/yo
-    id: 109539086355261111
   facebook:
     url: https://facebook.com/ok
   startgg:

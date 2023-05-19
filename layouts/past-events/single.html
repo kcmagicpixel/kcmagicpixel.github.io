@@ -1,0 +1,14 @@
+{{ define "title" }}
+  {{ .Title }} - {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<main aria-role="main">
+  {{ .Content }}
+  <ul class="events">
+    {{ $events_list := where (where .Site.RegularPages "Section" "events") "Params.start_date" "le" now }}
+    {{ range ($events_list.ByParam "start_date").Reverse }}
+      {{ partial "events-li.html" . }}
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

@@ -4,13 +4,16 @@
       <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
       {{ .Content }}
     </article>
-    <h1>
-      Upcoming Events
-    </h1>
-    <ul class="events">
-      {{ range first 3 ((where .Site.RegularPages "Section" "events").ByParam "start_date") }}
-        {{ partial "events-li.html" . }}
-      {{ end }}
-    </ul>
+    {{ $events_list := where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now }}
+    {{ with $events_list }}
+      <h1>
+        Upcoming Events
+      </h1>
+      <ul class="events">
+        {{ range first 3 (.ByParam "start_date") }}
+          {{ partial "events-li.html" . }}
+        {{ end }}
+      </ul>
+    {{ end }}
   </main>
 {{ end }}

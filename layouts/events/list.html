@@ -1,10 +1,15 @@
+{{ define "title" }}
+  {{ .Title }} - {{ .Site.Title }}
+{{ end }}
 {{ define "main" }}
 <main aria-role="main">
   {{ .Content }}
   <ul class="events">
-    {{ range (.Pages.ByParam "start_date") }}
+    {{ $events_list := where .Pages "Params.start_date" "ge" now }}
+    {{ range ($events_list.ByParam "start_date") }}
       {{ partial "events-li.html" . }}
     {{ end }}
   </ul>
+  <footer class="past-events"><span>Looking for <a href='{{ ($.Site.GetPage "past-events").RelPermalink }}'>past events</a>?</span></footer>
 </main>
 {{ end }}

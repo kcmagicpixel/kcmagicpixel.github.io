@@ -7,7 +7,11 @@
         {{ range $link_key, $link_value := .Params.links }}
           {{ $title := humanize $link_key }}
           <a href="{{ $link_value.url }}">
+          {{ if eq $link_key "startgg" }}
+            <i class="start-gg" title="start.gg"></i>
+          {{ else }}
             <i class="fa-brands fa-{{ $link_key }}" title="{{ $title }}"></i>
+          {{ end }}
           </a>
         {{ end }}
         </div>

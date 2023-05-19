@@ -1,17 +1,60 @@
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
 {{ define "main" }}
-<main aria-role="main">
-  {{ .Content }}
-  {{ with .Params.url_discord }}
-    {{ $url := .url }}
-    {{ if $url }}
-      <a href="{{ $url }}">
-      {{ with .id }}
-        <img src="https://discordapp.com/api/guilds/1095390863552688268/widget.png?style=shield" />
-      {{ else }}
-        <i class="fa-brands fa-discord"></i>Discord
+  <main aria-role="main" id="details-grid" class="details-org">
+    <div id="grid-content">
+      <div id="grid-title-area">
+        <div id="grid-title"><h1>{{ .Title }}</h1></div>
+        {{ with .Params.ref_icon }}
+          {{ $url := "" }}
+          {{ if hasPrefix . "http" }}
+            {{ $url = (resources.GetRemote .).Permalink }}
+          {{ else }}
+            {{ $url = (resources.Get .).RelPermalink }}
+          {{ end }}
+          <img class="icon" src="{{ $url }}" alt="{{ $.Page.Title }} icon" />
+        {{ end }}
+      </div>
+      {{/*    */}}
+      <ul id="grid-quick-info" class="info-list">
+      {{ with .Params.email }}
+        <li><span><i class="fa-solid fa-envelope" title="Email"></i><a href="mailto:{{ . }}">{{ . }}</span></a></li>
       {{ end }}
-      </a>
+      {{ with .Params.url_codeofconduct }}
+        <li><span><i class="fa-solid fa-scroll" title="Address"></i><a href="{{ . }}">Code of Conduct</a></span></li>
+      {{ end }}
+      </ul>
+      <article id="grid-description">
+        {{ .Content }}
+      </article>
+      <ul id="grid-details" class="info-list">
+      {{ range $link_key, $link_value := .Params.links }}
+        {{ $title := humanize $link_key }}
+        {{ if eq $link_key "startgg" }}
+          {{ $title = "start.gg" }}
+        {{ end }}
+        <li>
+          <span>
+            {{ if eq $link_key "startgg" }}
+              <i class="start-gg" title="start.gg"></i>
+            {{ else }}
+              <i class="fa-brands fa-{{ $link_key }}" title="{{ $title }}"></i>
+            {{ end }}
+            <a href="{{ $link_value.url }}">{{ $title }}</a>
+          </span>
+        </li>
+      {{ end }}
+      </ul>
+    </div>
+    {{ $events_list := where (where (where .Site.RegularPages "Section" "events") "Params.ref_org" "eq" .Params.slug) "Params.start_date" "ge" now }}
+    {{ with $events_list }}
+      <h1>Upcoming Events</h1>
+      <ul class="events">
+        {{ range first 3 (.ByParam "start_date") }}
+          {{ partial "events-li.html" . }}
+        {{ end }}
+      </ul>
     {{ end }}
-  {{ end }}
-</main>
+  </main>
 {{ end }}

@@ -1,6 +1,6 @@
 ---
 title: "{{ replace (replaceRE `\d{4}-\d{2}-\d{2}-` "" .Name) "-" " " | title }}"
-ref_org: /organizations/myorg.md # required
+ref_org: magic-pixel
 ref_banner: images/myimage.png # relative path from assets, or external URL
 ref_icon: images/myicon.png # relative path from assets, or external URL
 url_startgg: https://start.gg/tournament # full url to start.gg tournament listing

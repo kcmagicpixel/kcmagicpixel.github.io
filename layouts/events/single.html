@@ -2,7 +2,7 @@
   {{ .Title }} - {{ time.Format ":date_short" .Params.start_date }}
 {{ end }}
 {{ define "main" }}
-  <main aria-role="main" id="event-single">
+  <main aria-role="main" id="details-grid">
     {{ with .Params.ref_banner }}
       {{ $url := "" }}
       {{ if hasPrefix . "http" }}
@@ -12,31 +12,36 @@
       {{ end }}
       <img class="banner" src="{{ $url }}" alt="{{ $.Page.Title }} banner" />
     {{ end }}
-    <div id="event-content">
-      <div id="event-title-area">
+    <div id="grid-content">
+      <div id="grid-title-area">
         {{ partial "block-date.html" .Params.start_date }}
-        <div id="event-title"><h1>{{ .Title }}</h1></div>
+        <div id="grid-title"><h1>{{ .Title }}</h1></div>
       </div>
-      <ul id="event-quick-info" class="info-list">
+      <ul id="grid-quick-info" class="info-list">
         <li><span><i class="fa-solid fa-clock" title="Time"></i>{{ .Params.start_date.Format "3:04 PM MST" }}</span></li>
         {{ with .Params.address }}
           <li><span><i class="fa-solid fa-location-dot" title="Address"></i>{{ . }}</span></li>
         {{ end }}
         {{ if .Params.url_startgg }}
           <li>
-            <span><img src="/images/start-gg-icon.svg" alt="start.gg icon" title="start.gg" width="16px" /><a href="{{ .Params.url_startgg }}">start.gg</a></span>
+            <span><i class="start-gg" title="start.gg" ></i><a href="{{ .Params.url_startgg }}">start.gg</a></span>
             {{ with .Params.participant_count }}
               <span><i class="fa-solid fa-people-group"></i>{{ . }}</span>
             {{ end }}
           </li>
         {{ end }}
       </ul>
-      <article id="event-description">
+      <article id="grid-description">
         {{ .Content }}
       </article>
-      <ul id="event-details" class="info-list">
-      {{ with .Site.GetPage .Params.ref_org }}
-        <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Title }}</a></span><span></li>
+      <ul id="grid-details" class="info-list">
+      {{ with .Params.ref_org }}
+        {{ with $.Site.GetPage . }}
+          <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Title }}</a></span><span></li>
+          {{ with .Params.url_codeofconduct }}
+            <li><span><i class="fa-solid fa-scroll" title="Code of Conduct"></i><a href="{{ . }}">Code of Conduct</a></span><span></li>
+          {{ end }}
+        {{ end }}
       {{ end }}
       </ul>
     </div>
