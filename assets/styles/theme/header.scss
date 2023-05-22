@@ -4,6 +4,10 @@
   &.drawer-open {
     #root-frame {
       pointer-events: none;
+
+      @media screen and (min-width: 1025px) {
+        pointer-events: auto;
+      }
     }
 
     #drawer-frame {
@@ -43,6 +47,12 @@ nav.menu-nav {
 
     &:active:not(.active) {
       color: $color-primary;
+    }
+  }
+
+  #drawer-open {
+    @media screen and (min-width: 1025px) {
+      display: none;
     }
   }
 }
