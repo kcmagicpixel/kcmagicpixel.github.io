@@ -1,4 +1,4 @@
-baseURL = 'https://kcfgc.github.io/'
+baseURL = 'https://kcfgc.com/'
 enableGitInfo = true
 enableRobotsTXT = true
 languageCode = 'en-us'
