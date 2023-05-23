@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 ---
 
-Welcome to the home of the KCFGC! This is a directory of events, organizations, and community-made content created for and organized by fighting game players in the greater Kansas City area.
+Welcome to the KCFGC! This is a directory of events, organizations, and community-made content created for and organized by fighting game players in the greater Kansas City area.
