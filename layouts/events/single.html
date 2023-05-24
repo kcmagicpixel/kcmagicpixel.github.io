@@ -43,6 +43,22 @@
           {{ end }}
         {{ end }}
       {{ end }}
+      {{ with .Params.events }}
+        <li>
+          <i class="fa-solid fa-gamepad"></i>
+          <div class="game-schedule">
+          {{ range . }}
+            <div class="game-schedule-item">
+              {{ .name }}
+              {{ with .start_date }}
+                <span class="game-schedule-fill"></span>
+                {{ time.Format ":time_short" . }}
+              {{ end }}
+            </div>
+          {{ end }}
+          </div>
+        </li>
+      {{ end }}
       </ul>
     </div>
   </main>

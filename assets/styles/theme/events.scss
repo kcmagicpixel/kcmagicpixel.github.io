@@ -89,3 +89,22 @@ footer.past-events {
   justify-content: center;
   padding: 1rem;
 }
+
+.game-schedule {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+
+  .game-schedule-item {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .game-schedule-fill {
+    flex: 1;
+    border-bottom: dotted;
+    margin-bottom: 0.4rem;
+    margin-right: 0.25rem;
+    margin-left: 0.25rem;
+  }
+}
