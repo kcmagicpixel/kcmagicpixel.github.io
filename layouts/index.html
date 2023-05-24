@@ -7,7 +7,7 @@
     {{ $events_list := where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now }}
     {{ with $events_list }}
       <h1>
-        Upcoming Events
+        <a href='{{ ($.Site.GetPage "events").RelPermalink }}'>Upcoming Events</a>
       </h1>
       <ul class="events">
         {{ range first 3 (.ByParam "start_date") }}

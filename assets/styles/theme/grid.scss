@@ -113,14 +113,13 @@ main#details-grid {
         i,
         img {
           margin-right: 0.5rem;
-          width: 1rem;
+          min-width: 32px;
           text-align: center;
         }
 
         i:first-child {
           margin-right: 0;
           margin-left: -0.5rem;
-          width: 2rem;
         }
       }
     }
