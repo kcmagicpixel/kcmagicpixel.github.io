@@ -2,7 +2,7 @@
   <main aria-role="main">
     <h1>{{ .Title }}</h1>
     <ul class="events">
-      {{ range (.Pages.ByParam "start_date") }}
+      {{ range (.Pages.ByParam "start_date").Reverse }}
         {{ partial "events-li.html" . }}
       {{ end }}
     </ul>
