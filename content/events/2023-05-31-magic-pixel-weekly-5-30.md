@@ -1,5 +1,5 @@
 ---
-title: Magic Pixel Weekly - 5/30
+title: Magic Pixel Weekly
 slug: magic-pixel-weekly-5-30
 ref_org: magic-pixel
 ref_banner: https://images.start.gg/images/tournament/553589/image-b48e91b9b647e1b3f23a484027f778aa.png?ehk=PbxhgP0XRHx2I0VwwyShK807E1Cz0Gh%2Fe%2Bw3TysSN98%3D&ehkOptimized=4%2FG7MMfy0g8UKLa3LiV7qPwHOWCaRTOWt433kTwl89I%3D
