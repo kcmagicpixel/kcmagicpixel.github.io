@@ -12,6 +12,11 @@ end_date: 2023-05-30T23:59:00.000-05:00
 series: Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
+events:
+  - name: Them's Fightin' Herds
+    start_date: 2023-05-30T20:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5-30/events/them-s-fightin-herds/brackets/1380246/2097651
 
 ---
 
