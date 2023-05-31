@@ -7,7 +7,7 @@ ref_icon: https://images.start.gg/images/tournament/551910/image-4848f2df9a03f5f
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-5-23
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 21
+participant_count: 24
 start_date: 2023-05-23T19:00:00.000-05:00
 end_date: 2023-05-23T23:58:00.000-05:00
 series: Magic Pixel Weekly
@@ -24,8 +24,8 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5-23/events/granblue-fantasy-versus/brackets/1374708/2090073
   - name: SOULCALIBUR VI
     start_date: 2023-05-23T20:00:00.000-05:00
-    participant_count: 8
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5-23/events/scvi-double-elimination/brackets/1377384/2093869
+    participant_count: 11
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5-23/events/scvi-double-elimination/brackets/1382662/2100865
   - name: "Guilty Gear: Strive"
     start_date: 2023-05-23T20:30:00.000-05:00
     participant_count: 12
