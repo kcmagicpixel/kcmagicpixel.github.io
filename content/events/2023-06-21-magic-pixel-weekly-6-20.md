@@ -9,7 +9,8 @@ address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
 start_date: 2023-06-20T19:00:00.000-05:00
 end_date: 2023-06-20T23:59:00.000-05:00
-series: Magic Pixel Weekly
+series:
+  - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
