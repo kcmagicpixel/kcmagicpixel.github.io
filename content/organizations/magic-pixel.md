@@ -14,8 +14,8 @@ email: magic.pixel@kcfgc.com
 summary: Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone. We currently run the Magic Pixel Weekly event every Tuesday.
 ---
 
-Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone.
+Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone. Our events are run for the community, by the community, and our priority will always be to cultivate an environment where the games played each week are the games the community wants to play.
 
 ## Events and Schedule
 
-We currently run the [Magic Pixel Weekly]({{< ref "/series/magic-pixel-weekly" >}}) event every Tuesday. Each week we host two double-elimination brackets from of a pool of rotating games, as well as provide a dedicated space for community-organized side brackets and casual play. The last week of the month is reserved exclusively for side brackets and casuals. Check the start.gg page to find out what's happening this week, and join us on discord to be a part of what's next!
+We currently run the [Magic Pixel Weekly]({{< ref "/series/magic-pixel-weekly" >}}) event every Tuesday. Each week we host and stream two double-elimination brackets from of a pool of rotating games, as well as provide a dedicated space for community-organized side brackets and casual play. The last week of the month is reserved exclusively for side brackets and casuals. Check the start.gg page to find out what's happening this week, and join us on discord to be a part of what's next!

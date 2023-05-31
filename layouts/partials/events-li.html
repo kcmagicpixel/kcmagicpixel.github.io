@@ -2,14 +2,7 @@
   {{ partial "block-date.html" .Params.start_date }}
   <div class="desc">
     <a class="title" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
-    {{ if .Truncated }}
-      <details>
-        <summary>{{ .Summary }} (more...)</summary>
-        {{ replace (plainify .Content) .Summary "" | plainify | safeHTML }}
-      </details>
-    {{ else }}
-      <summary>{{ .Summary }}</summary>
-    {{ end }}
+    {{ .Summary }}{{ if .Truncated }} (more...){{ end }}
     <footer>
       {{ with (.Params.address) }}<a class="address" href='https://www.google.com/maps/search/{{ . }}'><i class="fa-solid fa-location-dot"></i><span>{{ . }}</span></a>{{else}}<span></span>{{ end }}
       {{ with (.Params.url_startgg) }}<a href="{{ . }}" class="start-gg"><img src="/images/start-gg-icon.svg" alt="start.gg" width="16px" height="16px" /></a>{{ end }}
