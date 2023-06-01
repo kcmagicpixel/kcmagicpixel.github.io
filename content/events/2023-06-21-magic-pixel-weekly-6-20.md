@@ -7,6 +7,7 @@ ref_icon: https://images.start.gg/images/tournament/555498/image-9b599e47d670d06
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-20
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
+participant_count: 1
 start_date: 2023-06-20T19:00:00.000-05:00
 end_date: 2023-06-20T23:59:00.000-05:00
 series:
@@ -16,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-06-20T19:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible

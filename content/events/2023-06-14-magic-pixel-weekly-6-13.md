@@ -7,6 +7,7 @@ ref_icon: https://images.start.gg/images/tournament/555496/image-18cee763e7b925d
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-13
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
+participant_count: 1
 start_date: 2023-06-13T19:00:00.000-05:00
 end_date: 2023-06-13T23:59:00.000-05:00
 series:
@@ -14,20 +15,6 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
-  - name: Street Fighter 6
-    start_date: 2023-06-13T19:00:00.000-05:00
-    participant_count: 0
-    entry_fee: 5
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-13/events/street-fighter-6/brackets/1383123/2101571
   - name: TEKKEN 7
     start_date: 2023-06-13T19:30:00.000-05:00
     participant_count: 0
@@ -42,6 +29,20 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-13/events/tekken-7/brackets/1383118/2101566
+  - name: Street Fighter 6
+    start_date: 2023-06-13T20:30:00.000-05:00
+    participant_count: 1
+    entry_fee: 5
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-13/events/street-fighter-6/brackets/1383123/2101571
 
 ---
 

@@ -6,7 +6,7 @@ ref_icon: https://images.start.gg/images/tournament/555515/image-26080bc2ba27aca
 url_startgg: https://www.start.gg/tournament/sunday-fight-fest-sf6-ggs-and-more
 address: 15700 Metcalf Ave, Overland Park, KS 66223, USA
 venue_fee: 5
-participant_count: 1
+participant_count: 2
 start_date: 2023-06-04T17:00:00.000-05:00
 end_date: 2023-06-04T21:00:00.000-05:00
 series:
@@ -14,12 +14,12 @@ series:
 events:
   - name: Street Fighter 6
     start_date: 2023-06-04T17:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/sunday-fight-fest-sf6-ggs-and-more/events/sf6/brackets/1383194/2101654
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-04T17:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/sunday-fight-fest-sf6-ggs-and-more/events/guilty-gear-strive-1v1/brackets/1383184/2101644
   - name: MultiVersus
