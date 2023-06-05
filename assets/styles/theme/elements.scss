@@ -36,9 +36,14 @@ main {
   & > h1 {
     padding-left: 1rem;
     padding-right: 1rem;
+    margin-top: 0.5rem;
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-bottom-color: $color-tertiary;
+  }
+
+  & > article + h1 {
+    margin-top: 0;
   }
 }
 

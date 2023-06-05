@@ -7,10 +7,24 @@
     {{ $events_list := where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now }}
     {{ with $events_list }}
       <h1>
-        <a href='{{ ($.Site.GetPage "events").RelPermalink }}'>Upcoming Events</a>
+        Upcoming Events
       </h1>
       <ul class="events">
         {{ range first 3 (.ByParam "start_date") }}
+          {{ partial "events-li.html" . }}
+        {{ end }}
+        <li class="content-item ml">
+          <h2 id="home-more-events"><a href='{{ ($.Site.GetPage "events").RelPermalink }}'>More...</a></h2>
+        </li>
+      </ul>
+    {{ end }}
+    {{ $featured_list := where $events_list "Params.series" "intersect" (slice "Featured") }}
+    {{ with $featured_list }}
+      <h1>
+        Featured Events
+      </h1>
+      <ul class="events">
+        {{ range (.ByParam "start_date") }}
           {{ partial "events-li.html" . }}
         {{ end }}
       </ul>
