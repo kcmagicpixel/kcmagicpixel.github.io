@@ -47,6 +47,13 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Restore Hugo cache
+        uses: actions/cache@v3
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-build-${{ hashFiles('assets/**/*,content/**/*,data/**/*,static/**/*') }}
+          restore-keys: |
+            ${{ runner.os }}-build-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -55,6 +62,7 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          TZ: America/Chicago
         run: |
           hugo \
             --minify \
