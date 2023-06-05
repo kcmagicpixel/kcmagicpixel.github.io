@@ -2,8 +2,8 @@
 title: Magic Pixel Weekly
 slug: magic-pixel-weekly-6-13
 ref_org: magic-pixel
-ref_banner: https://images.start.gg/images/tournament/555496/image-bbfdb90ba595022d37d8400f54d89ef2.png?ehk=A2u7R5nq1Jm5eTF7SJb7tWpzpi8HN8vJCwegxghK99o%3D&ehkOptimized=h41tJNxQ52eHdTTZliwIldnZJNJ5s8jR4KgwIS%2BrQzw%3D
-ref_icon: https://images.start.gg/images/tournament/555496/image-18cee763e7b925d279518783c2a9d6a8.png?ehk=a453Deyt%2BcG%2FaxHJdEvWwXYUevOumNGmCScBM%2Bt4Yas%3D&ehkOptimized=TxdaHSj7kjAG5QqS9ShqcidmcuSk216oGTWc8HjggWA%3D
+ref_banner: images/mp_banner.png
+ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-13
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5

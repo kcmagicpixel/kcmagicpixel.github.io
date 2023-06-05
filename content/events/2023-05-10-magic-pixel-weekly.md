@@ -2,8 +2,8 @@
 title: Magic Pixel Weekly
 slug: magic-pixel-weekly
 ref_org: magic-pixel
-ref_banner: https://images.start.gg/images/tournament/548733/image-76cb3d97055e4176d7b0611acb9f4d6c.png?ehk=1lvSjrssnJFEFbVtVrIEg2YsrsWLkabC06UVpAMU2Oo%3D&ehkOptimized=dsUdn697aE6Jd7z5ZAIYnjYZACwzdGCuu8EUKXF8A%2BE%3D
-ref_icon: https://images.start.gg/images/tournament/548733/image-9f2b0563d340d73fe7304f5d0dfa6bc3.png?ehk=uVxCPSkgFy7MdfQgB%2FqDeqdV3JY%2FEHuWSDwuYM0J9xE%3D&ehkOptimized=XaSFDLdgag9fadDZsebHH4U4X%2ByCHBZprLPoofxO3xs%3D
+ref_banner: images/mp_banner.png
+ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
@@ -48,9 +48,10 @@ events:
     participant_count: 14
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly/events/strive/brackets/1367663/2080877
+
 ---
 
-## Welcome to the first ever Magic Pixel Weekly!
+## Welcome to the first ever Magic Pixel Weekly! 
 
 We're kicking things off with FREE pizza to celebrate! Please pre-register so we know how much to get!
 
@@ -78,3 +79,4 @@ Them's Fightin' Herds: Bo3 (No game fee, single elim, Bo5 finals)
 - 1st - 50% of entry fees for that game
 - 2nd - 30%
 - 3rd - 20%
+  
