@@ -4,13 +4,13 @@
 {{ define "main" }}
   <main aria-role="main" id="details-grid">
     {{ with .Params.ref_banner }}
-      {{ $url := "" }}
+      {{ $img := "" }}
       {{ if hasPrefix . "http" }}
-        {{ $url = (resources.GetRemote .).Permalink }}
+        {{ $img = (resources.GetRemote .).Resize "1000x" }}
       {{ else }}
-        {{ $url = (resources.Get .).RelPermalink }}
+        {{ $img = (resources.Get .).Resize "1000x" }}
       {{ end }}
-      <img class="banner" src="{{ $url }}" alt="{{ $.Page.Title }} banner" />
+      <img class="banner" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" alt="{{ $.Page.Title }} banner" />
     {{ end }}
     <div id="grid-content">
       <div id="grid-title-area">
