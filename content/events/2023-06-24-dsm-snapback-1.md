@@ -9,7 +9,8 @@ venue_fee: 10
 participant_count: 12
 start_date: 2023-06-24T12:00:00.000-05:00
 end_date: 2023-06-24T19:00:00.000-05:00
-series: []
+series:
+  - Featured
 events:
   - name: The King of Fighters XV
     start_date: 2023-06-24T12:00:00.000-05:00
