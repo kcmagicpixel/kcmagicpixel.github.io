@@ -48,10 +48,9 @@ events:
     participant_count: 14
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly/events/strive/brackets/1367663/2080877
-
 ---
 
-## Welcome to the first ever Magic Pixel Weekly! 
+## Welcome to the first ever Magic Pixel Weekly!
 
 We're kicking things off with FREE pizza to celebrate! Please pre-register so we know how much to get!
 
@@ -79,4 +78,3 @@ Them's Fightin' Herds: Bo3 (No game fee, single elim, Bo5 finals)
 - 1st - 50% of entry fees for that game
 - 2nd - 30%
 - 3rd - 20%
-  
