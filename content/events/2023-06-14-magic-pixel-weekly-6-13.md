@@ -52,7 +52,7 @@ Brackets will be run for a rotating selection of games each week. On-stream game
 
 Each week a minimum of 4 setups worth of space will be reserved for casual play and side brackets. This space can be reserved by anyone wanting to organize any game they want to see played, please join us on [discord](https://discord.gg/jkmn6CVrrQ) if you'd like to do so! Community-organized events will be posted here as they're confirmed.
 
-Keep an eye on our [start.gg hub](https://www.start.gg/hub/magic-pixel) for future events, and [kcfgc.com](https://kcfgc.com) for more of what's going on in the KC scene!
+Keep an eye on our [start.gg hub](https://www.start.gg/hub/magic-pixel) for future events, and [kcmagicpixel.com](https://kcmagicpixel.com) for more of what's going on in the KC scene!
 
 ### Entry
 

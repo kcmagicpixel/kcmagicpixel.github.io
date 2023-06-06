@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-6
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 9
+participant_count: 10
 start_date: 2023-06-06T19:00:00.000-05:00
 end_date: 2023-06-06T23:59:00.000-05:00
 series:
@@ -17,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-06-06T19:30:00.000-05:00
-    participant_count: 8
+    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -39,7 +39,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-6/events/scvi-double-elimination/brackets/1383086/2101509
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-06T20:30:00.000-05:00
-    participant_count: 5
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -60,7 +60,7 @@ Brackets will be run for a rotating selection of games each week. On-stream game
 
 Each week a minimum of 4 setups worth of space will be reserved for casual play and side brackets. This space can be reserved by anyone wanting to organize any game they want to see played, please join us on [discord](https://discord.gg/jkmn6CVrrQ) if you'd like to do so! Community-organized events will be posted here as they're confirmed.
 
-Keep an eye on our [start.gg hub](https://www.start.gg/hub/magic-pixel) for future events, and [kcfgc.com](https://kcfgc.com) for more of what's going on in the KC scene!
+Keep an eye on our [start.gg hub](https://www.start.gg/hub/magic-pixel) for future events, and [kcmagicpixel.com](https://kcmagicpixel.com) for more of what's going on in the KC scene!
 
 ### Entry
 
