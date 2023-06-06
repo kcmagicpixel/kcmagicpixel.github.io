@@ -10,7 +10,7 @@ links:
   twitch:
     url: https://twitch.tv/bimmyfgc
 url_codeofconduct: https://fgcoc.com/
-email: magic.pixel@kcfgc.com
+email: magic.pixel@kcmagicpixel.com
 summary: Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone. We currently run the Magic Pixel Weekly event every Tuesday.
 ---
 

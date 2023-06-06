@@ -6,8 +6,8 @@ Even if you are not a developer, adding pages to this website is incredibly simp
 
 ### Creating an event
 
-1. Copy the contents of [archetypes/events.md](https://raw.githubusercontent.com/kcfgc/kcfgc.github.io/main/archetypes/events.md) to your clipboard.
-1. Create a new file in [content/events](https://github.com/kcfgc/kcfgc.github.io/new/main/content/events), and name the file with the format `YYYY-MM-DD-name-of-event.md`.
+1. Copy the contents of [archetypes/events.md](https://raw.githubusercontent.com/kc-magic-pixel/kc-magic-pixel.github.io/main/archetypes/events.md) to your clipboard.
+1. Create a new file in [content/events](https://github.com/kc-magic-pixel/kc-magic-pixel.github.io/new/main/content/events), and name the file with the format `YYYY-MM-DD-name-of-event.md`.
 1. Paste the archetype into the newly created file, and replace all fields in the "front matter" (the section surrounded by `---`).
     - You may remove any properties that aren't relevant to you, except for lines that say `# required` at the end.
 1. In the top right, click "Commit changes", and in the dialog that appears select "Create a new branch for this commit and start a pull request".
