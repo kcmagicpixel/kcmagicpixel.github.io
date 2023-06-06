@@ -1,4 +1,4 @@
-# KCFGC Community Resources
+# Kansas City FGC Community Resources
 
 ## Contributing
 
