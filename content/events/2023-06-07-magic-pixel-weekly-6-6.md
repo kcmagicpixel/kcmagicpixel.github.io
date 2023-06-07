@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-6
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 10
+participant_count: 20
 start_date: 2023-06-06T19:00:00.000-05:00
 end_date: 2023-06-06T23:59:00.000-05:00
 series:
@@ -17,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-06-06T19:30:00.000-05:00
-    participant_count: 9
+    participant_count: 16
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -31,15 +31,50 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-6/events/street-fighter-6/brackets/1383088/2101511
   - name: Vampire Savior
     start_date: 2023-06-06T20:00:00.000-05:00
-    participant_count: 5
+    participant_count: 9
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-6/events/vampire-savior/brackets/1383113/2101561
   - name: SOULCALIBUR VI
     start_date: 2023-06-06T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 6
+    rules: >-
+      Kansas City's SoulCalibur tournaments follow the community standard
+      ruleset.
+
+
+      Preliminary matches are best of three, while finals are best of five.
+
+
+      Any player pausing the game forfeits their current round (or their next round if they are not a participant in the current match).
+
+
+      During the first match of a set, players select their characters and the stage is selected at random.  After a match, the winner is "locked" into their character.  They are not permitted to switch their character until (and unless) they lose a subsequent match.  All matches within a set are loser's choice, with no cap on a particular option.
+
+
+      Loser's Choice Options:
+
+      1. Rematch with the current characters and stage.
+
+      2. Rematch with the current characters and a new random stage.
+
+      3. Return to character select to choose a new character and new random stage.
+
+
+      Inferno and custom characters cannot be selected (even randomly).
+
+
+      Input sequence macros are banned.
+
+
+      All other gameplay is legal.
+
+
+      Our brackets' rules mirror those defined here:
+
+      https://8wayrun.com/wiki/tournament-ruleset/
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-6/events/scvi-double-elimination/brackets/1383086/2101509
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-06T20:30:00.000-05:00
-    participant_count: 6
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
