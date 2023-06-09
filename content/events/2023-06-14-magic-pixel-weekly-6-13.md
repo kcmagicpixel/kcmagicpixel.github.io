@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-13
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 1
+participant_count: 2
 start_date: 2023-06-13T19:00:00.000-05:00
 end_date: 2023-06-13T23:59:00.000-05:00
 series:
@@ -31,7 +31,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-13/events/tekken-7/brackets/1383118/2101566
   - name: Street Fighter 6
     start_date: 2023-06-13T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
