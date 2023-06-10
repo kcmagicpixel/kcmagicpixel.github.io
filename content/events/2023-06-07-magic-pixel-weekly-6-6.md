@@ -6,6 +6,7 @@ ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-6
 address: 109 W Lexington Ave, Independence, MO 64050, USA
+venue_fee: 5
 participant_count: 20
 start_date: 2023-06-06T19:00:00.000-05:00
 end_date: 2023-06-06T23:59:00.000-05:00
@@ -17,6 +18,7 @@ events:
   - name: Street Fighter 6
     start_date: 2023-06-06T19:30:00.000-05:00
     participant_count: 16
+    entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -73,6 +75,7 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-06T20:30:00.000-05:00
     participant_count: 10
+    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
