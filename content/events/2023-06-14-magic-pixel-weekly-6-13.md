@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-13
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 1
+participant_count: 4
 start_date: 2023-06-13T19:00:00.000-05:00
 end_date: 2023-06-13T23:59:00.000-05:00
 series:
@@ -17,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: TEKKEN 7
     start_date: 2023-06-13T19:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -31,7 +31,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-13/events/tekken-7/brackets/1383118/2101566
   - name: Street Fighter 6
     start_date: 2023-06-13T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 3
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -49,6 +49,8 @@ events:
 ## Welcome to the Magic Pixel Weekly! 
 
 Brackets will be run for a rotating selection of games each week. On-stream games will have a $5 entry fee and a payout for top 3. Off-stream games will be free entry. Casuals are welcome all night, as long as setups are available, so please bring a setup if you are able!
+
+This week, there will be MBON (Mobile Suit Gundam Extreme Vs Maxiboost ON) casuals running all night, hosted by Xanivara! It's an absolute blast, so if you have not yet experienced the 2v2 Gundam fighter that requires 4 playstations networked together to play, it's worth dropping by for!
 
 Each week a minimum of 4 setups worth of space will be reserved for casual play and side brackets. This space can be reserved by anyone wanting to organize any game they want to see played, please join us on [discord](https://discord.gg/jkmn6CVrrQ) if you'd like to do so! Community-organized events will be posted here as they're confirmed.
 
