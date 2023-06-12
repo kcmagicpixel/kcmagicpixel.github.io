@@ -50,6 +50,8 @@ events:
 
 Brackets will be run for a rotating selection of games each week. On-stream games will have a $5 entry fee and a payout for top 3. Off-stream games will be free entry. Casuals are welcome all night, as long as setups are available, so please bring a setup if you are able!
 
+This week, there will be MBON (Mobile Suit Gundam Extreme Vs Maxiboost ON) casuals running all night, hosted by Xanivara! It's an absolute blast, so if you have not yet experienced the 2v2 Gundam fighter that requires 4 playstations networked together to play, it's worth dropping by for!
+
 Each week a minimum of 4 setups worth of space will be reserved for casual play and side brackets. This space can be reserved by anyone wanting to organize any game they want to see played, please join us on [discord](https://discord.gg/jkmn6CVrrQ) if you'd like to do so! Community-organized events will be posted here as they're confirmed.
 
 Keep an eye on our [start.gg hub](https://www.start.gg/hub/magic-pixel) for future events, and [kcmagicpixel.com](https://kcmagicpixel.com) for more of what's going on in the KC scene!
