@@ -6,7 +6,7 @@ ref_icon: https://images.start.gg/images/tournament/545546/image-4fda4351213f978
 url_startgg: https://www.start.gg/tournament/dsm-snapback-1
 address: 2323 Grand Ave, Des Moines, IA 50312, USA
 venue_fee: 10
-participant_count: 21
+participant_count: 22
 start_date: 2023-06-24T12:00:00.000-05:00
 end_date: 2023-06-24T19:00:00.000-05:00
 series:
@@ -14,7 +14,7 @@ series:
 events:
   - name: The King of Fighters XV
     start_date: 2023-06-24T12:00:00.000-05:00
-    participant_count: 9
+    participant_count: 10
     entry_fee: 5
     rules: >-
       # **Prizing and Rules**
@@ -97,7 +97,7 @@ events:
     url_bracket: https://www.start.gg/tournament/dsm-snapback-1/events/marvel-3-100-pot-bonus/brackets/1360411/2071067
   - name: Street Fighter 6
     start_date: 2023-06-24T15:00:00.000-05:00
-    participant_count: 15
+    participant_count: 16
     entry_fee: 5
     rules: >-
       # **Prizing and Rules**
