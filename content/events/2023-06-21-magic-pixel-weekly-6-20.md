@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-20
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 2
+participant_count: 5
 start_date: 2023-06-20T19:00:00.000-05:00
 end_date: 2023-06-20T23:59:00.000-05:00
 series:
@@ -17,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-06-20T19:30:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -35,7 +35,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6-20/events/scvi-double-elimination/brackets/1383131/2101580
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-20T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
