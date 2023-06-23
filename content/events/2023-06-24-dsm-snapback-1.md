@@ -6,42 +6,15 @@ ref_icon: https://images.start.gg/images/tournament/545546/image-4fda4351213f978
 url_startgg: https://www.start.gg/tournament/dsm-snapback-1
 address: 2323 Grand Ave, Des Moines, IA 50312, USA
 venue_fee: 10
-participant_count: 29
+participant_count: 31
 start_date: 2023-06-24T12:00:00.000-05:00
 end_date: 2023-06-24T19:00:00.000-05:00
 series:
   - Featured
 events:
-  - name: "Guilty Gear: Strive"
-    start_date: 2023-06-24T12:00:00.000-05:00
-    participant_count: 11
-    entry_fee: 5
-    rules: >-
-      # **Prizing and Rules**
-
-
-      ## Rules
-
-      * 5$ to enter the event
-
-      * All sets will be 3/5
-
-      * If you pause the game whether intentional or not your opponent gets the round victory
-
-      * If a pause happens due to no fault of either player we will reset the match to be as close to as the previous conditions as possible
-
-      * MAKE SURE TO DESYNC PADS BEFORE PLAYING 
-
-
-      ## Prizing
-
-      * For every 8 entrants this game receives 25$ will be added to the pot
-
-      * Pot will be split 50/30/20 for top 3
-    url_bracket: https://www.start.gg/tournament/dsm-snapback-1/events/guilty-gear-strive/brackets/1360410/2071066
   - name: The King of Fighters XV
     start_date: 2023-06-24T12:00:00.000-05:00
-    participant_count: 11
+    participant_count: 13
     entry_fee: 5
     rules: >-
       # **Prizing and Rules**
@@ -68,6 +41,33 @@ events:
 
       * Pot will be split 50/30/20 for top 3
     url_bracket: https://www.start.gg/tournament/dsm-snapback-1/events/kofxv/brackets/1360412/2071068
+  - name: "Guilty Gear: Strive"
+    start_date: 2023-06-24T12:00:00.000-05:00
+    participant_count: 12
+    entry_fee: 5
+    rules: >-
+      # **Prizing and Rules**
+
+
+      ## Rules
+
+      * 5$ to enter the event
+
+      * All sets will be 3/5
+
+      * If you pause the game whether intentional or not your opponent gets the round victory
+
+      * If a pause happens due to no fault of either player we will reset the match to be as close to as the previous conditions as possible
+
+      * MAKE SURE TO DESYNC PADS BEFORE PLAYING 
+
+
+      ## Prizing
+
+      * For every 8 entrants this game receives 25$ will be added to the pot
+
+      * Pot will be split 50/30/20 for top 3
+    url_bracket: https://www.start.gg/tournament/dsm-snapback-1/events/guilty-gear-strive/brackets/1360410/2071066
   - name: Ultimate Marvel vs Capcom 3
     start_date: 2023-06-24T12:00:00.000-05:00
     participant_count: 6
@@ -97,7 +97,7 @@ events:
     url_bracket: https://www.start.gg/tournament/dsm-snapback-1/events/marvel-3-100-pot-bonus/brackets/1360411/2071067
   - name: Street Fighter 6
     start_date: 2023-06-24T15:00:00.000-05:00
-    participant_count: 23
+    participant_count: 24
     entry_fee: 5
     rules: >-
       # **Prizing and Rules**

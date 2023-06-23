@@ -6,6 +6,7 @@ ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-1
 address: 109 W Lexington Ave, Independence, MO 64050, USA
+venue_fee: 5
 participant_count: 19
 start_date: 2023-05-16T19:00:00.000-05:00
 end_date: 2023-05-16T23:58:00.000-05:00
@@ -17,6 +18,7 @@ events:
   - name: TEKKEN 7
     start_date: 2023-05-16T19:30:00.000-05:00
     participant_count: 8
+    entry_fee: 5
     rules: |-
       Preliminaries are best of 3 (first to 2).  
       Finals are best of 5 (first to 3).
@@ -24,6 +26,7 @@ events:
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-05-16T20:00:00.000-05:00
     participant_count: 11
+    entry_fee: 5
     rules: |-
       Preliminaries are best of 3 (first to 2).  
       Finals are best of 5 (first to 3).
@@ -31,6 +34,7 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-05-16T21:00:00.000-05:00
     participant_count: 16
+    entry_fee: 5
     rules: All sets are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1/events/strive/brackets/1369658/2083559
 
