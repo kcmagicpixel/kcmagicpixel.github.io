@@ -7,6 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-6-27
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
+participant_count: 1
 start_date: 2023-06-27T19:00:00.000-05:00
 end_date: 2023-06-27T23:58:00.000-05:00
 series:
@@ -19,6 +20,8 @@ stream: bimmyfgc
 ## Welcome to the Magic Pixel Weekly! 
 
 It's the last Tuesday of the month, which means it's all community-organized games! There will be free brackets and casuals only.
+
+MBON (Mobile Suit Gundam Extreme Vs. Maxiboost ON) will be happening this night, come check it out if you haven't yet!
 
 Each week a minimum of 4 setups worth of space will be reserved for casual play and side brackets. This space can be reserved by anyone wanting to organize another game, please join us on  [discord](https://discord.gg/jkmn6CVrrQ) if you'd like to do so! Community-organized events will be posted here as they're confirmed.
 
