@@ -7,6 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-7-18
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
+participant_count: 2
 start_date: 2023-07-18T19:00:00.000-05:00
 end_date: 2023-07-18T23:59:00.000-05:00
 series:
@@ -30,7 +31,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7-18/events/tekken-7/brackets/1399559/2123486
   - name: Street Fighter 6
     start_date: 2023-07-18T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -47,7 +48,7 @@ events:
 
 ## Welcome to the Magic Pixel Weekly! 
 
-Brackets will be run for a rotating selection of games each week. On-stream games will have a $5 entry fee and a payout for top 3. Off-stream games will be free entry. Casuals are welcome all night as long as setups are available, so please bring a setup if you are able!
+Brackets will be run for a rotating selection of games each week. On-stream games will have a $5 entry fee and a payout for top 3. Off-stream games will be free entry. Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. All of our setups are provided by the community, so for those of you with tournament-ready setups (a playstation with the game + all character DLC + a monitor), please bring them out! Casuals are welcome all night as long as there are extra setups.
 
 Each week a minimum of 4 setups worth of space will be reserved for casual play and side brackets. This space can be reserved by anyone wanting to organize any game they want to see played, please join us on [discord](https://discord.gg/jkmn6CVrrQ) if you'd like to do so! Community-organized events will be posted here as they're confirmed.
 
