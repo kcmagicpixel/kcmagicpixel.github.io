@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-7-11
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 2
+participant_count: 3
 start_date: 2023-07-11T19:00:00.000-05:00
 end_date: 2023-07-11T23:59:00.000-05:00
 series:
@@ -17,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-07-11T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 3
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -35,7 +35,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7-11/events/scvi-double-elimination/brackets/1399525/2123442
   - name: "Guilty Gear: Strive"
     start_date: 2023-07-11T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
