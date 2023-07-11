@@ -13,6 +13,27 @@ main ul.events {
         color: $color-primary;
         padding-top: 0.5rem;
       }
+
+      .games {
+        padding-top: 0.25rem;
+        padding-bottom: 0.25rem;
+
+        b {
+          display: inline-block;
+
+          &::before {
+            content: "•";
+            margin-left: 0.25rem;
+            margin-right: 0.25rem;
+          }
+
+          &:first-of-type::before {
+            content: "";
+            margin-left: 0;
+            margin-right: 0;
+          }
+        }
+      }
     }
 
     .block-date {
