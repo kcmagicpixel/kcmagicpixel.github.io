@@ -5,7 +5,6 @@ ref_banner: https://images.start.gg/images/tournament/545546/image-247a2fac29384
 ref_icon: https://images.start.gg/images/tournament/545546/image-4fda4351213f978ad3619212fc074079.png?ehk=8DNOZ8noW9fNorfDmB2Kpg95hZlngQs1oGVXAxMAquY%3D&ehkOptimized=cNiL4SV3wOVmZhpQX7r3JEnB6TomSZZk8kbkeGwPD2k%3D
 url_startgg: https://www.start.gg/tournament/dsm-snapback-1
 address: 2323 Grand Ave, Des Moines, IA 50312, USA
-venue_fee: 10
 participant_count: 40
 start_date: 2023-06-24T12:00:00.000-05:00
 end_date: 2023-06-24T19:00:00.000-05:00
@@ -15,7 +14,6 @@ events:
   - name: The King of Fighters XV
     start_date: 2023-06-24T12:00:00.000-05:00
     participant_count: 16
-    entry_fee: 5
     rules: >-
       # **Prizing and Rules**
 
@@ -44,7 +42,6 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-24T12:00:00.000-05:00
     participant_count: 12
-    entry_fee: 5
     rules: >-
       # **Prizing and Rules**
 
@@ -71,7 +68,6 @@ events:
   - name: Ultimate Marvel vs Capcom 3
     start_date: 2023-06-24T12:00:00.000-05:00
     participant_count: 12
-    entry_fee: 5
     rules: >-
       # **Prizing and Rules**
 
@@ -98,7 +94,6 @@ events:
   - name: Street Fighter 6
     start_date: 2023-06-24T15:00:00.000-05:00
     participant_count: 30
-    entry_fee: 5
     rules: >-
       # **Prizing and Rules**
 
