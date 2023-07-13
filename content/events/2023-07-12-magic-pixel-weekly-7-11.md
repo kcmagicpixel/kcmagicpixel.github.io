@@ -72,4 +72,7 @@ Drinks (pop and energy drinks) available for purchase.
 ### About Us
 
 Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone. Our events are run for the community, by the community, and our priority will always be to cultivate an environment where the games played each week are the games the community wants to play.
+
+### Stream
+https://twitch.tv/bimmyfgc
   

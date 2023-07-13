@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-7-25
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 2
+participant_count: 3
 start_date: 2023-07-25T19:00:00.000-05:00
 end_date: 2023-07-25T23:58:00.000-05:00
 series:
@@ -17,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-07-25T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 3
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -64,7 +64,19 @@ $5 venue fee, collected by the TO.
 $5/game (excluding off-stream brackets), collected by the TO. CASH ONLY.  
 Drinks (pop and energy drinks) available for purchase.
 
+
+### Schedule
+- Doors @ 7pm
+- Granblue @ 8pm
+- SCVI @ 8:30pm
+- Strive @ 9pm
+
+
 ### About Us
 
 Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone. Our events are run for the community, by the community, and our priority will always be to cultivate an environment where the games played each week are the games the community wants to play.
+
+
+### Stream
+https://twitch.tv/bimmyfgc
   
