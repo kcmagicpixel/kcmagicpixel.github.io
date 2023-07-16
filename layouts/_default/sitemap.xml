@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{ range .Data.Pages }}
     {{- if .Permalink -}}
+    {{- $show := true -}}
+    {{- with .Params.start_date -}}
+      {{- if lt . (now.AddDate 0 0 -14) -}}
+        {{- $show = false -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $show -}}
   <url>
     <loc>{{ .Permalink }}</loc>{{ $lastmod := partial "deep-lastmod.html" . }}
     <lastmod>{{ safeHTML ( $lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ with .Sitemap.ChangeFreq }}
@@ -19,6 +26,7 @@
                 href="{{ .Permalink }}"
                 />{{ end }}
   </url>
+    {{- end -}}
     {{- end -}}
   {{ end }}
 </urlset>
