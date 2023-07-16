@@ -1,0 +1,21 @@
+{{ $recentLastmod := .Lastmod }}
+{{ $childPages := .Pages }}
+{{ if eq .RelPermalink "/past-events/" }}
+  {{ $childPages = where (where .Site.RegularPages "Section" "events") "Params.start_date" "le" now }}
+{{ else if eq .RelPermalink "/events/" }}
+  {{ $childPages = where .Pages "Params.start_date" "ge" now }}
+{{ else if eq .RelPermalink "/" }}
+  {{ $eventsList := where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now }}
+  {{ $upcomingPages := first 3 ($eventsList.ByParam "start_date") }}
+  {{ $featuredPages := (where $eventsList "Params.series" "intersect" (slice "Featured")).ByParam "start_date" }}
+  {{ $childPages = $upcomingPages | append $featuredPages }}
+{{ end }}
+{{ with $childPages }}
+  {{ range . }}
+    {{ $pageLastmod := partial "deep-lastmod.html" . }}
+    {{ if gt $pageLastmod $recentLastmod }}
+      {{ $recentLastmod = $pageLastmod }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $recentLastmod }}
