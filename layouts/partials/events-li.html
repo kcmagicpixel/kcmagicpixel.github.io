@@ -10,6 +10,7 @@
     {{ end }}
     <footer>
       {{ with (.Params.address) }}<a class="address" href='https://www.google.com/maps/search/{{ . }}'><i class="fa-solid fa-location-dot"></i><span>{{ . }}</span></a>{{else}}<span></span>{{ end }}
+      <span class="player-count">{{ with .Params.participant_count }}<i class="fa-solid fa-people-group"></i>{{ . }}{{ end }}</span>
       {{ with (.Params.url_startgg) }}<a href="{{ . }}" class="start-gg"><img src="/images/start-gg-icon.svg" alt="start.gg" width="16px" height="16px" /></a>{{ end }}
     </footer>
   </div>

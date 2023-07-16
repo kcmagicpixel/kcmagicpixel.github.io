@@ -76,22 +76,32 @@ main ul.events {
     footer {
       display: flex;
       justify-content: space-between;
-      align-items: flex-end;
+      align-items: center;
       flex-wrap: nowrap;
 
-      a {
+      & > * {
+        flex: 0;
         display: inline-block;
-        align-items: center;
+        height: 100%;
+        padding-bottom: 0.5rem;
+      }
+
+      .address {
+        flex: 1;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        margin-right: 1rem;
-        min-width: 2.5rem;
-        padding-bottom: 0.5rem;
-        height: 100%;
+      }
 
-        &:last-child:not(:first-child) {
-          margin-right: 0;
+      .player-count {
+        white-space: nowrap;
+      }
+
+      a {
+        &.start-gg {
+          min-width: 34px;
+          display: inline-flex;
+          justify-content: flex-end;
           text-align: end;
         }
       }
