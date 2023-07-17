@@ -86,9 +86,7 @@
     {{- range .Params.events -}}
       {{ $events = $events | append .name }}
     {{- end -}}
-    "description": "{{ with $events }}{{ delimit . " • "}}
-
-{{ end }}{{ .Summary }}",{{ if .Params.url_startgg }}
+    "description": "{{ with $events }}{{ delimit . " • "}} • {{ end }}{{ .Summary }}",{{ if .Params.url_startgg }}
     "offers": {
       "@type": "Offer",
       "url": {{ .Params.url_startgg }},
