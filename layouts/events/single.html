@@ -3,13 +3,8 @@
 {{ end }}
 {{ define "main" }}
   <main aria-role="main" id="details-grid">
-    {{ with .Params.ref_banner }}
-      {{ $img := "" }}
-      {{ if hasPrefix . "http" }}
-        {{ $img = (resources.GetRemote .).Resize "1000x" }}
-      {{ else }}
-        {{ $img = (resources.Get .).Resize "1000x" }}
-      {{ end }}
+    {{ with partial "img-ref.html" .Params.ref_banner }}
+      {{ $img := .Resize "1000x" }}
       <img class="banner" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" alt="{{ $.Page.Title }} banner" />
     {{ end }}
     <div id="grid-content">
@@ -62,4 +57,51 @@
       </ul>
     </div>
   </main>
+{{ end }}
+{{ define "structured_data" }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "{{ .Params.title }}",
+    {{ with .Params.start_date }}"startDate": "{{ .Format "2006-01-02T15:04:05-07:00" }}",{{ end }}
+    {{ with .Params.end_date }}"endDate": "{{ time.Format "2006-01-02T15:04:05-07:00" . }}",{{ end }}{{ if .Params.address }}
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+      "@type": "Place",{{ with .Params.venue_name }}
+      "name": "{{ . }}",{{ end }}
+      "address": "{{ .Params.address }}"
+    },{{ end }}
+    {{- $images := slice -}}
+    {{- range (slice .Params.ref_icon .Params.ref_banner) -}}
+      {{- with partial "img-ref.html" . -}}
+        {{- $images = $images | append .Permalink -}}
+      {{- end -}}
+    {{- end -}}
+    {{ with $images }}
+    "image": [{{ range (. | uniq) }}
+      {{ . }}{{ if ne . (index (last 1 $images) 0) }}, {{ end }}{{ end }}
+    ],{{ end }}
+    {{- $events := slice -}}
+    {{- range .Params.events -}}
+      {{ $events = $events | append .name }}
+    {{- end -}}
+    "description": "{{ with $events }}{{ delimit . " • "}}
+
+{{ end }}{{ .Summary }}",{{ if .Params.url_startgg }}
+    "offers": {
+      "@type": "Offer",
+      "url": {{ .Params.url_startgg }},
+      "price": "{{ with .Params.venue_fee }}{{ . }}{{ else }}{{ 0 }}{{ end }}",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },{{ end }}{{ with .Params.ref_org }}{{ with $.Site.GetPage . }}
+    "organizer": {
+      "@type": "Organization",
+      "name": "{{ .Params.title }}",
+      "url": {{ .Permalink }}
+    },{{ end }}{{ end }}
+    "eventStatus": "https://schema.org/EventScheduled"
+  }
+  </script>
 {{ end }}

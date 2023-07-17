@@ -9,6 +9,7 @@
         {{ .Site.Title }} 
       {{ end }}
     </title>
+    {{ block "structured_data" . }}{{ end }}
     <link rel="stylesheet" href="/styles/reset.css">
     {{ $globalStyle := resources.Get "styles/global.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $globalStyle.Permalink }}">

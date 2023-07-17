@@ -45,3 +45,13 @@
     {{ end }}
   </main>
 {{ end }}
+{{ define "structured_data" }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Magic Pixel",
+    "url": {{ .Permalink }}
+  }
+</script>
+{{ end }}

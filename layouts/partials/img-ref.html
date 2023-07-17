@@ -1,0 +1,9 @@
+{{ $result := "" }}
+{{ with . }}
+  {{ if hasPrefix . "http" }}
+    {{ $result = resources.GetRemote . }}
+  {{ else }}
+    {{ $result = resources.Get . }}
+  {{ end }}
+{{ end }}
+{{ return $result }}

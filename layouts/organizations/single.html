@@ -6,13 +6,8 @@
     <div id="grid-content">
       <div id="grid-title-area">
         <div id="grid-title"><h1>{{ .Title }}</h1></div>
-        {{ with .Params.ref_icon }}
-          {{ $img := "" }}
-          {{ if hasPrefix . "http" }}
-            {{ $img = (resources.GetRemote .).Resize "96x" }}
-          {{ else }}
-            {{ $img = (resources.Get .).Resize "96x" }}
-          {{ end }}
+        {{ with partial "img-ref.html" .Params.ref_icon }}
+          {{ $img := .Resize "96x" }}
           <img class="icon" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Page.Title }} icon" />
         {{ end }}
       </div>

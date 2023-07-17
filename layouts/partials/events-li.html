@@ -14,13 +14,8 @@
       {{ with (.Params.url_startgg) }}<a href="{{ . }}" class="start-gg"><img src="/images/start-gg-icon.svg" alt="start.gg" width="16px" height="16px" /></a>{{ end }}
     </footer>
   </div>
-  {{ with .Params.ref_icon }}
-    {{ $img := "" }}
-    {{ if hasPrefix . "http" }}
-      {{ $img = (resources.GetRemote .).Resize "96x" }}
-    {{ else }}
-      {{ $img = (resources.Get .).Resize "96x" }}
-    {{ end }}
+  {{ with partial "img-ref.html" .Params.ref_icon }}
+    {{ $img := .Resize "96x" }}
     <div class="icon">
       <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Title }} icon" />
     </div>
