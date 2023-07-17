@@ -13,8 +13,18 @@
   <url>
     <loc>{{ .Permalink }}</loc>{{ $lastmod := partial "deep-lastmod.html" . }}
     <lastmod>{{ safeHTML ( $lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ with .Sitemap.ChangeFreq }}
-    <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
-    <priority>{{ .Sitemap.Priority }}</priority>{{ end }}{{ if .IsTranslated }}{{ range .Translations }}
+    <changefreq>{{ . }}</changefreq>{{ end }}
+    {{- if gt .Sitemap.Priority 0.0 -}}
+    <priority>{{ .Sitemap.Priority }}</priority>
+    {{- else -}}
+      {{- if .Params.start_date -}}
+        {{- if gt .Params.start_date now -}}
+    <priority>0.75</priority>
+        {{- else -}}
+    <priority>0.3</priority>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}{{ if .IsTranslated }}{{ range .Translations }}
     <xhtml:link
                 rel="alternate"
                 hreflang="{{ .Language.LanguageCode }}"
