@@ -1,6 +1,8 @@
 ---
 title: Magic Pixel
 slug: magic-pixel
+sitemap:
+  priority: 0.8
 ref_icon: images/mp_icon.png
 links:
   discord:
