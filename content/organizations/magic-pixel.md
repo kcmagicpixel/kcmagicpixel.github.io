@@ -9,6 +9,8 @@ links:
     url: https://www.start.gg/hub/magic-pixel
   twitch:
     url: https://twitch.tv/kcmagicpixel
+  twitter:
+    url: https://twitter.com/kcmagicpixel
 url_codeofconduct: https://fgcoc.com/
 email: magic.pixel@kcmagicpixel.com
 summary: Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone. We currently run the Magic Pixel Weekly event every Tuesday.
