@@ -5,10 +5,10 @@
 {{ else if eq .RelPermalink "/events/" }}
   {{ $childPages = where .Pages "Params.start_date" "ge" now }}
 {{ else if eq .RelPermalink "/" }}
-  {{ $eventsList := where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now }}
-  {{ $upcomingPages := first 3 ($eventsList.ByParam "start_date") }}
-  {{ $featuredPages := (where $eventsList "Params.series" "intersect" (slice "Featured")).ByParam "start_date" }}
-  {{ $childPages = $upcomingPages | append $featuredPages }}
+  {{- $upcomingEvents := first 3 ((where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now).ByParam "start_date") -}}
+  {{- $featuredEvents := where (where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now) "Params.series" "intersect" (slice "Featured") }}
+  {{- $recentEvents := first 3 ((where (where (where .Site.RegularPages "Section" "events") "Params.start_date" "lt" now) "Params.start_date" "ge" (now.AddDate 0 -1 0)).ByParam "start_date").Reverse -}}
+  {{ $childPages = $upcomingEvents | append $featuredEvents | append $recentEvents }}
 {{ end }}
 {{ with $childPages }}
   {{ range . }}
