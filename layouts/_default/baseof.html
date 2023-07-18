@@ -10,6 +10,11 @@
       {{ end }}
     </title>
     {{ block "structured_data" . }}{{ end }}
+    {{- $icon := resources.Get "images/mp_icon.png" -}}
+    <link rel="apple-touch-icon" sizes="180x180" href='{{ ($icon.Resize "180x180").RelPermalink }}'>
+    <link rel="icon" type="image/png" sizes="32x32" href='{{ ($icon.Resize "32x32").RelPermalink }}'>
+    <link rel="icon" type="image/png" sizes="16x16" href='{{ ($icon.Resize "16x16").RelPermalink }}'>
+    <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="/styles/reset.css">
     {{ $globalStyle := resources.Get "styles/global.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $globalStyle.Permalink }}">
