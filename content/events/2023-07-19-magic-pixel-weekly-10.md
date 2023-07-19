@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-10
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_name: Kreative Caviar
 venue_fee: 5
-participant_count: 8
+participant_count: 20
 start_date: 2023-07-18T19:00:00.000-05:00
 end_date: 2023-07-18T23:59:00.000-05:00
 series:
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 7
     start_date: 2023-07-18T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 5
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -32,7 +32,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-10/events/tekken-7/brackets/1399559/2123486
   - name: Street Fighter 6
     start_date: 2023-07-18T21:00:00.000-05:00
-    participant_count: 6
+    participant_count: 14
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
