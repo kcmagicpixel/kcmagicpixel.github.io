@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-12
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 1
+participant_count: 2
 start_date: 2023-08-01T19:00:00.000-05:00
 end_date: 2023-08-01T23:58:00.000-05:00
 series:
