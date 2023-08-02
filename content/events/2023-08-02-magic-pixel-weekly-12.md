@@ -7,13 +7,18 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-12
 address: 109 W Lexington Ave, Independence, MO 64050, USA
 venue_fee: 5
-participant_count: 2
+participant_count: 25
 start_date: 2023-08-01T19:00:00.000-05:00
 end_date: 2023-08-01T23:58:00.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
+events:
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2023-08-01T19:00:00.000-05:00
+    participant_count: 17
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-12/events/melty/brackets/1427229/2163049
 
 ---
 
