@@ -47,7 +47,7 @@ While we're looking for a new permanent space, I've got access to an apartment c
 $5 venue fee, collected by the TO.
 
 - **Melty Blood: Type Lumina** - 8PM, Free
-- **Street Fighter 6** - 9:30PM, $5 entry
+- **Street Fighter 6** - 9PM, $5 entry
 
 ## Social
 Come check out the [discord](https://discord.gg/jkmn6CVrrQ) to be a part of the future of the Magic Pixel Weekly, and get in on our Sunday night casuals event. Keep an eye on our [start.gg hub](https://www.start.gg/hub/magic-pixel) for future events too, as well as [kcmagicpixel.com](https://kcmagicpixel.com) for more of what's going on in the KC scene!
