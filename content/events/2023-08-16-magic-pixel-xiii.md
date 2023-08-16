@@ -7,20 +7,16 @@ ref_icon: https://images.start.gg/images/tournament/576397/image-5be81d8f6e898c6
 url_startgg: https://www.start.gg/tournament/magic-pixel-xiii
 address: 2121 Central St, Kansas City, MO 64108, USA
 venue_fee: 5
-participant_count: 2
+participant_count: 17
 start_date: 2023-08-15T19:00:00.000-05:00
 end_date: 2023-08-15T23:00:00.000-05:00
 series: []
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2023-08-15T19:00:00.000-05:00
-    participant_count: 2
-    url_bracket: https://www.start.gg/tournament/magic-pixel-xiii/events/melty-blood-type-lumina/brackets/1432705/2173020
   - name: Street Fighter 6
     start_date: 2023-08-15T19:00:00.000-05:00
-    participant_count: 1
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -32,6 +28,10 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-xiii/events/street-fighter-6/brackets/1432704/2173019
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2023-08-15T19:00:00.000-05:00
+    participant_count: 9
+    url_bracket: https://www.start.gg/tournament/magic-pixel-xiii/events/melty-blood-type-lumina/brackets/1432705/2173020
 
 ---
 
