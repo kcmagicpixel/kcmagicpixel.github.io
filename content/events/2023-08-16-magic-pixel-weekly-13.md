@@ -6,6 +6,7 @@ ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-13
 address: 2121 Central St, Kansas City, MO 64108, USA
+venue_name: Stuart Hall
 venue_fee: 5
 participant_count: 17
 start_date: 2023-08-15T19:00:00.000-05:00
@@ -37,7 +38,7 @@ events:
 ---
 
 # Magic Pixel On the Move
-While we're looking for a new permanent space, I've got access to an apartment community room.
+While we're looking for a new permanent space, we've got access to an apartment community room.
 
 ## Location
 **Address**: 2121 Central St, Kansas City MO
