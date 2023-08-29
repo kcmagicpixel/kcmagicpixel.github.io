@@ -7,12 +7,33 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-14
 address: 2121 Central St, Kansas City, MO 64108, USA
 venue_name: Stuart Hall
+venue_fee: 5
+participant_count: 3
 start_date: 2023-08-29T19:00:00.000-05:00
 end_date: 2023-08-29T23:58:00.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
+events:
+  - name: "Guilty Gear: Strive"
+    start_date: 2023-08-29T20:00:00.000-05:00
+    participant_count: 2
+    entry_fee: 5
+    rules: >-
+      Game will be played on **PS4**, entrants must provide their own compatible
+      controller.  
+
+      All sets are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-14/events/strive/brackets/1450559/2197326
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2023-08-29T21:00:00.000-05:00
+    participant_count: 1
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-14/events/melty-blood-type-lumina/brackets/1450566/2197333
 
 ---
 
