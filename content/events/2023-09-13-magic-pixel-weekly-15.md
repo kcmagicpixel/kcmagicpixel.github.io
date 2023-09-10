@@ -48,7 +48,7 @@ events:
 ---
 
 # Magic Pixel Making Moves
-We are excited to announce our **NEW** home at [Larry's Game Store](https://www.larrysgamestore.com/), and a return to our regularly scheduled weekly events. Brackets will be run for a rotating selection of games each week. Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!
+We are excited to announce our **NEW** home at [Larry's Game Store](https://www.larrysgamestore.com/), and a return to our regularly scheduled weekly events. Brackets will be run for a rotating selection of games each week, and casuals are welcome for any game all night. Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able! 
 
 ## Fee and Schedule
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**.
