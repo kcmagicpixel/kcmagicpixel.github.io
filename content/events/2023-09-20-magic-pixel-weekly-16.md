@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-16
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 20
 start_date: 2023-09-19T19:00:00.000-05:00
 end_date: 2023-09-19T23:59:00.000-05:00
 series:
@@ -18,12 +18,11 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-09-19T20:00:00.000-05:00
-    participant_count: 6
+    participant_count: 14
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-16/events/melty-blood-type-lumina/brackets/1465635/2217337
   - name: Mortal Kombat 1
     start_date: 2023-09-19T21:00:00.000-05:00
-    participant_count: 3
-    entry_fee: 5
+    participant_count: 10
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
