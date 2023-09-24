@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-1
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 10
 start_date: 2023-09-23T19:00:00.000-05:00
 end_date: 2023-09-23T23:58:00.000-05:00
 series: []
@@ -17,7 +17,7 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-09-23T20:00:00.000-05:00
-    participant_count: 5
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -31,7 +31,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-1/events/street-fighter-6/brackets/1467228/2219391
   - name: SOULCALIBUR VI
     start_date: 2023-09-23T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-1/events/scvi-double-elimination/brackets/1467226/2219389
 
 ---
