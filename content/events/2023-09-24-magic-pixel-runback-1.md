@@ -29,10 +29,6 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-1/events/street-fighter-6/brackets/1467228/2219391
-  - name: SOULCALIBUR VI
-    start_date: 2023-09-23T20:30:00.000-05:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-1/events/scvi-double-elimination/brackets/1467226/2219389
 
 ---
 
