@@ -17,8 +17,21 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-08-01T19:00:00.000-05:00
-    participant_count: 17
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-12/events/melty/brackets/1427229/2163049
+results:
+  - name: "Melty Blood: Type Lumina"
+    participant_count: 17
+    results:
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 2386182
+          name: Sheepy
+      - player:
+          id: 3305506
+          name: Fleabag
 
 ---
 

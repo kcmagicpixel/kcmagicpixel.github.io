@@ -16,23 +16,59 @@ stream: bimmyfgc
 events:
   - name: TEKKEN 7
     start_date: 2023-05-16T19:30:00.000-05:00
-    participant_count: 8
     rules: |-
       Preliminaries are best of 3 (first to 2).  
       Finals are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-2/events/tekken-7/brackets/1369659/2083560
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-05-16T20:00:00.000-05:00
-    participant_count: 11
     rules: |-
       Preliminaries are best of 3 (first to 2).  
       Finals are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-2/events/granblue-fantasy-versus/brackets/1370928/2085276
   - name: "Guilty Gear: Strive"
     start_date: 2023-05-16T21:00:00.000-05:00
-    participant_count: 16
     rules: All sets are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-2/events/strive/brackets/1369658/2083559
+results:
+  - name: TEKKEN 7
+    participant_count: 8
+    results:
+      - player:
+          id: 867659
+          name: Bimmy
+      - player:
+          id: 2938404
+          name: Scrumby
+      - player:
+          id: 2939116
+          name: Fleabag
+  - name: "Granblue Fantasy: Versus"
+    participant_count: 11
+    results:
+      - player:
+          id: 3433839
+          name: emi
+      - player:
+          id: 2262164
+          name: Gooba
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+  - name: "Guilty Gear: Strive"
+    participant_count: 16
+    results:
+      - player:
+          id: 2262164
+          name: Gooba
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 2449687
+          name: cavitae
 
 ---
 

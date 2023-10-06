@@ -17,7 +17,6 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-06-06T19:30:00.000-05:00
-    participant_count: 16
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -31,7 +30,6 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/street-fighter-6/brackets/1383088/2101511
   - name: SOULCALIBUR VI
     start_date: 2023-06-06T20:00:00.000-05:00
-    participant_count: 6
     rules: >-
       Kansas City's SoulCalibur tournaments follow the community standard
       ruleset.
@@ -70,11 +68,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/scvi-double-elimination/brackets/1383086/2101509
   - name: Vampire Savior
     start_date: 2023-06-06T20:00:00.000-05:00
-    participant_count: 13
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/vampire-savior/brackets/1383113/2101561
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-06T20:30:00.000-05:00
-    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -86,6 +82,46 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/strive/brackets/1383082/2101505
+results:
+  - name: Street Fighter 6
+    participant_count: 16
+    results:
+      - player:
+          id: 867659
+          name: Bimmy
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 2938404
+          name: Scrumby
+  - name: Vampire Savior
+    participant_count: 13
+    results:
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 2449687
+          name: cavitae
+      - player:
+          id: 3032380
+          name: Elbereth
+  - name: "Guilty Gear: Strive"
+    participant_count: 10
+    results:
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 2262362
+          name: Saucy
+      - player:
+          id: 2817959
+          name: BoyeBall
 
 ---
 

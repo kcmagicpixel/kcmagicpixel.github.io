@@ -17,7 +17,6 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-09-23T20:00:00.000-05:00
-    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -29,6 +28,19 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-1/events/street-fighter-6/brackets/1467228/2219391
+results:
+  - name: Street Fighter 6
+    participant_count: 8
+    results:
+      - player:
+          id: 357563
+          name: KCWank
+      - player:
+          id: 2231244
+          name: toad_slayer
+      - player:
+          id: 467059
+          name: golbat
 
 ---
 

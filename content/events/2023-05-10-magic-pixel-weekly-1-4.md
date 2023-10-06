@@ -17,13 +17,11 @@ stream: bimmyfgc
 events:
   - name: TEKKEN 7
     start_date: 2023-05-09T20:00:00.000-05:00
-    participant_count: 11
     entry_fee: 5
     rules: https://fgcoc.com/
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/tekken-7/brackets/1367677/2080891
   - name: SOULCALIBUR VI
     start_date: 2023-05-09T20:00:00.000-05:00
-    participant_count: 10
     rules: >-
       Single Elimination Tournament
 
@@ -41,13 +39,62 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/soulcalibur-vi/brackets/1369020/2082641
   - name: Them's Fightin' Herds
     start_date: 2023-05-09T20:30:00.000-05:00
-    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/them-s-fightin-herds/brackets/1368516/2081996
   - name: "Guilty Gear: Strive"
     start_date: 2023-05-09T21:00:00.000-05:00
-    participant_count: 14
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/strive/brackets/1367663/2080877
+results:
+  - name: TEKKEN 7
+    participant_count: 11
+    results:
+      - player:
+          id: 2939116
+          name: Fleabag
+      - player:
+          id: 3058964
+          name: TCxBones
+      - player:
+          id: 357563
+          name: KCWank
+  - name: SOULCALIBUR VI
+    participant_count: 10
+    results:
+      - player:
+          id: 2938404
+          name: Scrumby
+      - player:
+          id: 1177583
+          name: Enker
+      - player:
+          id: 2939116
+          name: Fleabag
+  - name: Them's Fightin' Herds
+    participant_count: 7
+    results:
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 3229429
+          name: httpriestess
+      - player:
+          id: 2939116
+          name: Fleabag
+  - name: "Guilty Gear: Strive"
+    participant_count: 14
+    results:
+      - player:
+          id: 2262164
+          name: Gooba
+      - player:
+          id: 867659
+          name: Bimmy
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
 
 ---
 

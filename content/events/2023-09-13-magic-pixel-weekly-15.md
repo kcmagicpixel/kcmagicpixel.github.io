@@ -18,7 +18,6 @@ stream: bimmyfgc
 events:
   - name: TEKKEN 7
     start_date: 2023-09-12T20:00:00.000-05:00
-    participant_count: 7
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -32,7 +31,6 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-15/events/tekken-7/brackets/1461174/2211370
   - name: "Guilty Gear: Strive"
     start_date: 2023-09-12T21:00:00.000-05:00
-    participant_count: 12
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -44,6 +42,33 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-15/events/strive/brackets/1461173/2211369
+results:
+  - name: TEKKEN 7
+    participant_count: 7
+    results:
+      - player:
+          id: 357563
+          name: KCWank
+      - player:
+          id: 2939116
+          name: Fleabag
+      - player:
+          id: 699803
+          name: KCDank_
+          prefix: PRIME
+  - name: "Guilty Gear: Strive"
+    participant_count: 12
+    results:
+      - player:
+          id: 2262164
+          name: Gooba
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 1636511
+          name: OoeyGooeyChewySnicker
 
 ---
 

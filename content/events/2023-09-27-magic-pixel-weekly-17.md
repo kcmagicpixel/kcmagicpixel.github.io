@@ -18,7 +18,6 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-09-26T20:00:00.000-05:00
-    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -32,7 +31,6 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-17/events/strive/brackets/1473960/2228089
   - name: Mortal Kombat 1
     start_date: 2023-09-26T21:00:00.000-05:00
-    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -45,6 +43,32 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may switch character.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-17/events/mortal-kombat/brackets/1473968/2228097
+results:
+  - name: "Guilty Gear: Strive"
+    participant_count: 9
+    results:
+      - player:
+          id: 2262164
+          name: Gooba
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 2817959
+          name: BoyeBall
+  - name: Mortal Kombat 1
+    participant_count: 9
+    results:
+      - player:
+          id: 867659
+          name: Bimmy
+      - player:
+          id: 3229429
+          name: httpriestess
+      - player:
+          id: 3058964
+          name: TCxBones
 
 ---
 

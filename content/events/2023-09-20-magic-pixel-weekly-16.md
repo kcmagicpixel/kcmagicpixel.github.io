@@ -18,11 +18,9 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-09-19T20:00:00.000-05:00
-    participant_count: 14
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-16/events/melty-blood-type-lumina/brackets/1465635/2217337
   - name: Mortal Kombat 1
     start_date: 2023-09-19T21:00:00.000-05:00
-    participant_count: 10
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -35,6 +33,31 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may switch character.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-16/events/mortal-kombat/brackets/1465636/2217338
+results:
+  - name: "Melty Blood: Type Lumina"
+    participant_count: 14
+    results:
+      - player:
+          id: 2449687
+          name: cavitae
+      - player:
+          id: 2939116
+          name: Fleabag
+      - player:
+          id: 380723
+          name: Ellen
+  - name: Mortal Kombat 1
+    participant_count: 10
+    results:
+      - player:
+          id: 2262362
+          name: Saucy
+      - player:
+          id: 2449687
+          name: cavitae
+      - player:
+          id: 3058964
+          name: TCxBones
 
 ---
 

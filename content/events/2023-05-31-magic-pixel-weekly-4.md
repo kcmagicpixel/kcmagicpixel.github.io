@@ -17,8 +17,20 @@ stream: bimmyfgc
 events:
   - name: Them's Fightin' Herds
     start_date: 2023-05-30T20:00:00.000-05:00
-    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-4/events/them-s-fightin-herds/brackets/1380246/2097651
+results:
+  - name: Them's Fightin' Herds
+    participant_count: 7
+    results:
+      - player:
+          id: 3229429
+          name: httpriestess
+      - player:
+          id: 467059
+          name: golbat
+      - player:
+          id: 2939116
+          name: Fleabag
 
 ---
 

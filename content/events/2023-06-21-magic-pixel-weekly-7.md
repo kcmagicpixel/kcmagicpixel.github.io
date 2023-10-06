@@ -17,7 +17,6 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-06-20T19:30:00.000-05:00
-    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -31,11 +30,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7/events/granblue-fantasy-versus/brackets/1383129/2101578
   - name: SOULCALIBUR VI
     start_date: 2023-06-20T20:00:00.000-05:00
-    participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7/events/scvi-double-elimination/brackets/1383131/2101580
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-20T20:30:00.000-05:00
-    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -47,6 +44,44 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7/events/strive/brackets/1383127/2101576
+results:
+  - name: "Granblue Fantasy: Versus"
+    participant_count: 8
+    results:
+      - player:
+          id: 3253344
+          name: Gaypom
+      - player:
+          id: 3229429
+          name: httpriestess
+      - player:
+          id: 2262164
+          name: Gooba
+  - name: SOULCALIBUR VI
+    participant_count: 10
+    results:
+      - player:
+          id: 357563
+          name: KCWank
+      - player:
+          id: 2938404
+          name: Scrumby
+      - player:
+          id: 3058964
+          name: TCxBones
+  - name: "Guilty Gear: Strive"
+    participant_count: 11
+    results:
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+      - player:
+          id: 2817959
+          name: BoyeBall
+      - player:
+          id: 1636511
+          name: OoeyGooeyChewySnicker
 
 ---
 

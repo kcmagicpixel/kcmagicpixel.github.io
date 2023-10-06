@@ -17,7 +17,6 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-05-23T19:30:00.000-05:00
-    participant_count: 10
     entry_fee: 5
     rules: |-
       Preliminaries are best of 3 (first to 2).  
@@ -25,14 +24,39 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-3/events/granblue-fantasy-versus/brackets/1374708/2090073
   - name: SOULCALIBUR VI
     start_date: 2023-05-23T20:00:00.000-05:00
-    participant_count: 11
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-3/events/scvi-double-elimination/brackets/1382662/2100865
   - name: "Guilty Gear: Strive"
     start_date: 2023-05-23T20:30:00.000-05:00
-    participant_count: 12
     entry_fee: 5
     rules: All sets are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-3/events/strive/brackets/1374706/2090071
+results:
+  - name: "Granblue Fantasy: Versus"
+    participant_count: 10
+    results:
+      - player:
+          id: 2605658
+          name: Twoinone1
+      - player:
+          id: 2262164
+          name: Gooba
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
+  - name: "Guilty Gear: Strive"
+    participant_count: 12
+    results:
+      - player:
+          id: 2817959
+          name: BoyeBall
+      - player:
+          id: 2449687
+          name: cavitae
+      - player:
+          id: 2936709
+          name: Brian_D
+          prefix: VGHS
 
 ---
 
