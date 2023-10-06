@@ -125,20 +125,52 @@ footer.past-events {
   padding: 1rem;
 }
 
-.game-schedule {
+main#details-grid #grid-content .game-schedule {
   flex: 1;
   display: flex;
   flex-direction: column;
 
   .game-schedule-item {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+
+    .game-schedule-item-header {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .game-schedule-item-info {
+      display: flex;
+      justify-content: space-between;
+
+      ol {
+        flex-grow: 1;
+        padding-left: 0;
+        text-align: right;
+        list-style: none;
+
+        li strong {
+          width: 0.75em;
+          display: inline-block;
+        }
+      }
+
+      i.fa-dollar {
+        margin-left: -0.5rem;
+        margin-right: -0.5rem;
+      }
+
+      i.fa-people-group {
+        margin-left: 0;
+        margin-right: 0;
+      }
+    }
   }
 
   .game-schedule-fill {
     flex: 1;
     border-bottom: dotted;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.25rem;
     margin-right: 0.25rem;
     margin-left: 0.25rem;
   }
