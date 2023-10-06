@@ -17,6 +17,7 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-07-11T20:00:00.000-05:00
+    participant_count: 14
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -28,11 +29,27 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-9/events/street-fighter-6/brackets/1399527/2123444
+    standings:
+      - player: Dr M
+        standing: 3
+      - player: Scrumby
+        standing: 2
+      - player: Gooba
+        standing: 1
   - name: SOULCALIBUR VI
     start_date: 2023-07-11T20:30:00.000-05:00
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-9/events/scvi-double-elimination/brackets/1399525/2123442
+    standings:
+      - player: Xanivara
+        standing: 3
+      - player: TCxBones
+        standing: 2
+      - player: Scrumby
+        standing: 1
   - name: "Guilty Gear: Strive"
     start_date: 2023-07-11T21:00:00.000-05:00
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -44,6 +61,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-9/events/strive/brackets/1399521/2123438
+    standings:
+      - player: K.I.D.Goggles
+        prefix: JOB
+        standing: 3
+      - player: BoyeBall
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 1
 results:
   - name: Street Fighter 6
     participant_count: 14

@@ -17,6 +17,7 @@ stream: bimmyfgc
 events:
   - name: TEKKEN 7
     start_date: 2023-06-13T19:30:00.000-05:00
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -28,8 +29,16 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6/events/tekken-7/brackets/1383118/2101566
+    standings:
+      - player: Scrumby
+        standing: 3
+      - player: TCxBones
+        standing: 2
+      - player: KCWank
+        standing: 1
   - name: Street Fighter 6
     start_date: 2023-06-13T20:30:00.000-05:00
+    participant_count: 18
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -41,6 +50,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-6/events/street-fighter-6/brackets/1383123/2101571
+    standings:
+      - player: golbat
+        standing: 3
+      - player: Bimmy
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
 results:
   - name: TEKKEN 7
     participant_count: 8

@@ -18,6 +18,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 7
     start_date: 2023-07-18T20:00:00.000-05:00
+    participant_count: 5
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -29,8 +30,16 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-10/events/tekken-7/brackets/1399559/2123486
+    standings:
+      - player: TCxBones
+        standing: 3
+      - player: Dr M
+        standing: 2
+      - player: KCWank
+        standing: 1
   - name: Street Fighter 6
     start_date: 2023-07-18T21:00:00.000-05:00
+    participant_count: 14
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -42,6 +51,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-10/events/street-fighter-6/brackets/1399564/2123491
+    standings:
+      - player: Gooba
+        standing: 3
+      - player: Dr M
+        standing: 2
+      - player: Sheepy
+        standing: 1
 results:
   - name: TEKKEN 7
     participant_count: 5

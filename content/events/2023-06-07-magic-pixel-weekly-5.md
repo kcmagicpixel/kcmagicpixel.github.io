@@ -17,6 +17,7 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-06-06T19:30:00.000-05:00
+    participant_count: 16
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -28,8 +29,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/street-fighter-6/brackets/1383088/2101511
+    standings:
+      - player: Bimmy
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: Scrumby
+        standing: 1
   - name: SOULCALIBUR VI
     start_date: 2023-06-06T20:00:00.000-05:00
+    participant_count: 6
     rules: >-
       Kansas City's SoulCalibur tournaments follow the community standard
       ruleset.
@@ -66,11 +76,22 @@ events:
 
       https://8wayrun.com/wiki/tournament-ruleset/
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/scvi-double-elimination/brackets/1383086/2101509
+    standings: []
   - name: Vampire Savior
     start_date: 2023-06-06T20:00:00.000-05:00
+    participant_count: 13
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/vampire-savior/brackets/1383113/2101561
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: cavitae
+        standing: 2
+      - player: Elbereth
+        standing: 1
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-06T20:30:00.000-05:00
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -82,6 +103,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-5/events/strive/brackets/1383082/2101505
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: Saucy
+        standing: 2
+      - player: BoyeBall
+        standing: 1
 results:
   - name: Street Fighter 6
     participant_count: 16

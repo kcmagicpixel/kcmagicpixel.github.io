@@ -17,11 +17,20 @@ stream: bimmyfgc
 events:
   - name: TEKKEN 7
     start_date: 2023-05-09T20:00:00.000-05:00
+    participant_count: 11
     entry_fee: 5
     rules: https://fgcoc.com/
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/tekken-7/brackets/1367677/2080891
+    standings:
+      - player: Fleabag
+        standing: 3
+      - player: TCxBones
+        standing: 2
+      - player: KCWank
+        standing: 1
   - name: SOULCALIBUR VI
     start_date: 2023-05-09T20:00:00.000-05:00
+    participant_count: 10
     rules: >-
       Single Elimination Tournament
 
@@ -37,13 +46,38 @@ events:
 
       All gameplay techniques are legal.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/soulcalibur-vi/brackets/1369020/2082641
+    standings:
+      - player: Scrumby
+        standing: 3
+      - player: Enker
+        standing: 2
+      - player: Fleabag
+        standing: 1
   - name: Them's Fightin' Herds
     start_date: 2023-05-09T20:30:00.000-05:00
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/them-s-fightin-herds/brackets/1368516/2081996
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: httpriestess
+        standing: 2
+      - player: Fleabag
+        standing: 1
   - name: "Guilty Gear: Strive"
     start_date: 2023-05-09T21:00:00.000-05:00
+    participant_count: 14
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/strive/brackets/1367663/2080877
+    standings:
+      - player: Gooba
+        standing: 3
+      - player: Bimmy
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
 results:
   - name: TEKKEN 7
     participant_count: 11

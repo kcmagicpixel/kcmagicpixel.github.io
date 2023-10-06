@@ -17,6 +17,7 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-06-20T19:30:00.000-05:00
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -28,11 +29,27 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7/events/granblue-fantasy-versus/brackets/1383129/2101578
+    standings:
+      - player: Gaypom
+        standing: 3
+      - player: httpriestess
+        standing: 2
+      - player: Gooba
+        standing: 1
   - name: SOULCALIBUR VI
     start_date: 2023-06-20T20:00:00.000-05:00
+    participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7/events/scvi-double-elimination/brackets/1383131/2101580
+    standings:
+      - player: KCWank
+        standing: 3
+      - player: Scrumby
+        standing: 2
+      - player: TCxBones
+        standing: 1
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-20T20:30:00.000-05:00
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -44,6 +61,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-7/events/strive/brackets/1383127/2101576
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: BoyeBall
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 1
 results:
   - name: "Granblue Fantasy: Versus"
     participant_count: 8

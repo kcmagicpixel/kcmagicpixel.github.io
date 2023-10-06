@@ -7,6 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-15
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
+venue_fee: 5
 participant_count: 14
 start_date: 2023-09-12T19:00:00.000-05:00
 end_date: 2023-09-12T23:59:00.000-05:00
@@ -17,6 +18,8 @@ stream: bimmyfgc
 events:
   - name: TEKKEN 7
     start_date: 2023-09-12T20:00:00.000-05:00
+    participant_count: 7
+    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
@@ -27,8 +30,18 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-15/events/tekken-7/brackets/1461174/2211370
+    standings:
+      - player: KCWank
+        standing: 3
+      - player: Fleabag
+        standing: 3
+      - player: KCDank_
+        prefix: PRIME
+        standing: 2
   - name: "Guilty Gear: Strive"
     start_date: 2023-09-12T21:00:00.000-05:00
+    participant_count: 12
+    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
@@ -39,6 +52,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-15/events/strive/brackets/1461173/2211369
+    standings:
+      - player: Gooba
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 1
 results:
   - name: TEKKEN 7
     participant_count: 7

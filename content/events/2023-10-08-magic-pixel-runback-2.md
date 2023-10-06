@@ -17,6 +17,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-10-07T19:00:00.000-05:00
+    participant_count: 3
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -28,12 +29,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/strive/brackets/1482329/2239273
+    standings: []
   - name: Fate/unlimited codes
     start_date: 2023-10-07T19:00:00.000-05:00
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/fate-unlimited-codes/brackets/1482341/2239285
+    standings: []
   - name: SOULCALIBUR VI
     start_date: 2023-10-07T19:00:00.000-05:00
+    participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/scvi-double-elimination/brackets/1482333/2239277
+    standings: []
 
 ---
 

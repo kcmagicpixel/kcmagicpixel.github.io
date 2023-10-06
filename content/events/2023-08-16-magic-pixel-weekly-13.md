@@ -18,6 +18,7 @@ stream: bimmyfgc
 events:
   - name: Street Fighter 6
     start_date: 2023-08-15T19:00:00.000-05:00
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -29,9 +30,25 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-13/events/street-fighter-6/brackets/1432704/2173019
+    standings:
+      - player: KCWank
+        standing: 3
+      - player: Gooba
+        standing: 2
+      - player: Dr. M
+        standing: 1
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-08-15T19:00:00.000-05:00
+    participant_count: 9
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-13/events/melty-blood-type-lumina/brackets/1432705/2173020
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: Fleabag
+        standing: 2
+      - player: Bimmy
+        standing: 1
 results:
   - name: Street Fighter 6
     participant_count: 10
