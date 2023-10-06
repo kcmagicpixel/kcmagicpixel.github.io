@@ -86,42 +86,33 @@ results:
   - name: Street Fighter 6
     participant_count: 16
     results:
-      - player:
-          id: 867659
-          name: Bimmy
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2938404
-          name: Scrumby
+      - player: Bimmy
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: Scrumby
+        standing: 1
   - name: Vampire Savior
     participant_count: 13
     results:
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2449687
-          name: cavitae
-      - player:
-          id: 3032380
-          name: Elbereth
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: cavitae
+        standing: 2
+      - player: Elbereth
+        standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 10
     results:
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2262362
-          name: Saucy
-      - player:
-          id: 2817959
-          name: BoyeBall
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: Saucy
+        standing: 2
+      - player: BoyeBall
+        standing: 1
 
 ---
 

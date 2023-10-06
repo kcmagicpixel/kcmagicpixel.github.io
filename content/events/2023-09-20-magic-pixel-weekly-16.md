@@ -37,27 +37,21 @@ results:
   - name: "Melty Blood: Type Lumina"
     participant_count: 14
     results:
-      - player:
-          id: 2449687
-          name: cavitae
-      - player:
-          id: 2939116
-          name: Fleabag
-      - player:
-          id: 380723
-          name: Ellen
+      - player: cavitae
+        standing: 3
+      - player: Fleabag
+        standing: 2
+      - player: Ellen
+        standing: 1
   - name: Mortal Kombat 1
     participant_count: 10
     results:
-      - player:
-          id: 2262362
-          name: Saucy
-      - player:
-          id: 2449687
-          name: cavitae
-      - player:
-          id: 3058964
-          name: TCxBones
+      - player: Saucy
+        standing: 3
+      - player: cavitae
+        standing: 2
+      - player: TCxBones
+        standing: 1
 
 ---
 

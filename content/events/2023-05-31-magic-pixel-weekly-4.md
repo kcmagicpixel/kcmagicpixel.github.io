@@ -22,15 +22,12 @@ results:
   - name: Them's Fightin' Herds
     participant_count: 7
     results:
-      - player:
-          id: 3229429
-          name: httpriestess
-      - player:
-          id: 467059
-          name: golbat
-      - player:
-          id: 2939116
-          name: Fleabag
+      - player: httpriestess
+        standing: 3
+      - player: golbat
+        standing: 2
+      - player: Fleabag
+        standing: 1
 
 ---
 

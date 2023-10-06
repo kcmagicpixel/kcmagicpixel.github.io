@@ -48,40 +48,31 @@ results:
   - name: Street Fighter 6
     participant_count: 14
     results:
-      - player:
-          id: 3519961
-          name: Dr M
-      - player:
-          id: 2938404
-          name: Scrumby
-      - player:
-          id: 2262164
-          name: Gooba
+      - player: Dr M
+        standing: 3
+      - player: Scrumby
+        standing: 2
+      - player: Gooba
+        standing: 1
   - name: SOULCALIBUR VI
     participant_count: 6
     results:
-      - player:
-          id: 1270563
-          name: Xanivara
-      - player:
-          id: 3058964
-          name: TCxBones
-      - player:
-          id: 2938404
-          name: Scrumby
+      - player: Xanivara
+        standing: 3
+      - player: TCxBones
+        standing: 2
+      - player: Scrumby
+        standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 11
     results:
-      - player:
-          id: 15142
-          name: K.I.D.Goggles
-          prefix: JOB
-      - player:
-          id: 2817959
-          name: BoyeBall
-      - player:
-          id: 1636511
-          name: OoeyGooeyChewySnicker
+      - player: K.I.D.Goggles
+        prefix: JOB
+        standing: 3
+      - player: BoyeBall
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 1
 
 ---
 

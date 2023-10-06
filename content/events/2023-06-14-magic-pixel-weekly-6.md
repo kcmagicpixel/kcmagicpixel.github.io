@@ -45,28 +45,22 @@ results:
   - name: TEKKEN 7
     participant_count: 8
     results:
-      - player:
-          id: 2938404
-          name: Scrumby
-      - player:
-          id: 3058964
-          name: TCxBones
-      - player:
-          id: 357563
-          name: KCWank
+      - player: Scrumby
+        standing: 3
+      - player: TCxBones
+        standing: 2
+      - player: KCWank
+        standing: 1
   - name: Street Fighter 6
     participant_count: 18
     results:
-      - player:
-          id: 467059
-          name: golbat
-      - player:
-          id: 867659
-          name: Bimmy
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
+      - player: golbat
+        standing: 3
+      - player: Bimmy
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
 
 ---
 

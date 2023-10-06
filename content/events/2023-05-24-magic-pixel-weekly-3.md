@@ -34,29 +34,23 @@ results:
   - name: "Granblue Fantasy: Versus"
     participant_count: 10
     results:
-      - player:
-          id: 2605658
-          name: Twoinone1
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
+      - player: Twoinone1
+        standing: 3
+      - player: Gooba
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 12
     results:
-      - player:
-          id: 2817959
-          name: BoyeBall
-      - player:
-          id: 2449687
-          name: cavitae
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
+      - player: BoyeBall
+        standing: 3
+      - player: cavitae
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
 
 ---
 

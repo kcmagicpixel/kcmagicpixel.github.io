@@ -36,27 +36,21 @@ results:
   - name: Street Fighter 6
     participant_count: 14
     results:
-      - player:
-          id: 1177583
-          name: Enker
-      - player:
-          id: 467059
-          name: golbat
-      - player:
-          id: 2262164
-          name: Gooba
+      - player: Enker
+        standing: 3
+      - player: golbat
+        standing: 2
+      - player: Gooba
+        standing: 1
   - name: "Melty Blood: Type Lumina"
     participant_count: 12
     results:
-      - player:
-          id: 3229429
-          name: httpriestess
-      - player:
-          id: 2939116
-          name: Fleabag
-      - player:
-          id: 380723
-          name: Ellen
+      - player: httpriestess
+        standing: 3
+      - player: Fleabag
+        standing: 2
+      - player: Ellen
+        standing: 1
 
 ---
 

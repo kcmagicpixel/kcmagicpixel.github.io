@@ -46,27 +46,21 @@ results:
   - name: TEKKEN 7
     participant_count: 5
     results:
-      - player:
-          id: 3058964
-          name: TCxBones
-      - player:
-          id: 3530999
-          name: Dr M
-      - player:
-          id: 357563
-          name: KCWank
+      - player: TCxBones
+        standing: 3
+      - player: Dr M
+        standing: 2
+      - player: KCWank
+        standing: 1
   - name: Street Fighter 6
     participant_count: 14
     results:
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 3530999
-          name: Dr M
-      - player:
-          id: 2386182
-          name: Sheepy
+      - player: Gooba
+        standing: 3
+      - player: Dr M
+        standing: 2
+      - player: Sheepy
+        standing: 1
 
 ---
 

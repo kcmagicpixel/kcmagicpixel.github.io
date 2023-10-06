@@ -22,16 +22,13 @@ results:
   - name: "Melty Blood: Type Lumina"
     participant_count: 17
     results:
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2386182
-          name: Sheepy
-      - player:
-          id: 3305506
-          name: Fleabag
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: Sheepy
+        standing: 2
+      - player: Fleabag
+        standing: 1
 
 ---
 

@@ -46,29 +46,23 @@ results:
   - name: TEKKEN 7
     participant_count: 7
     results:
-      - player:
-          id: 357563
-          name: KCWank
-      - player:
-          id: 2939116
-          name: Fleabag
-      - player:
-          id: 699803
-          name: KCDank_
-          prefix: PRIME
+      - player: KCWank
+        standing: 3
+      - player: Fleabag
+        standing: 3
+      - player: KCDank_
+        prefix: PRIME
+        standing: 2
   - name: "Guilty Gear: Strive"
     participant_count: 12
     results:
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 1636511
-          name: OoeyGooeyChewySnicker
+      - player: Gooba
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 1
 
 ---
 

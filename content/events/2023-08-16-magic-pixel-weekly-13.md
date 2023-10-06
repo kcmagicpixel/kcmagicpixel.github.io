@@ -36,28 +36,22 @@ results:
   - name: Street Fighter 6
     participant_count: 10
     results:
-      - player:
-          id: 357563
-          name: KCWank
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 279485
-          name: Dr. M
+      - player: KCWank
+        standing: 3
+      - player: Gooba
+        standing: 2
+      - player: Dr. M
+        standing: 1
   - name: "Melty Blood: Type Lumina"
     participant_count: 9
     results:
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2939116
-          name: Fleabag
-      - player:
-          id: 867659
-          name: Bimmy
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: Fleabag
+        standing: 2
+      - player: Bimmy
+        standing: 1
 
 ---
 

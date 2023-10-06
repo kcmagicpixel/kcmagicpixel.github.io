@@ -47,28 +47,22 @@ results:
   - name: "Guilty Gear: Strive"
     participant_count: 9
     results:
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2817959
-          name: BoyeBall
+      - player: Gooba
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: BoyeBall
+        standing: 1
   - name: Mortal Kombat 1
     participant_count: 9
     results:
-      - player:
-          id: 867659
-          name: Bimmy
-      - player:
-          id: 3229429
-          name: httpriestess
-      - player:
-          id: 3058964
-          name: TCxBones
+      - player: Bimmy
+        standing: 3
+      - player: httpriestess
+        standing: 2
+      - player: TCxBones
+        standing: 1
 
 ---
 

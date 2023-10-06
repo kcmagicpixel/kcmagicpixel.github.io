@@ -32,15 +32,12 @@ results:
   - name: Street Fighter 6
     participant_count: 8
     results:
-      - player:
-          id: 357563
-          name: KCWank
-      - player:
-          id: 2231244
-          name: toad_slayer
-      - player:
-          id: 467059
-          name: golbat
+      - player: KCWank
+        standing: 3
+      - player: toad_slayer
+        standing: 2
+      - player: golbat
+        standing: 1
 
 ---
 

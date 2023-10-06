@@ -48,53 +48,41 @@ results:
   - name: TEKKEN 7
     participant_count: 11
     results:
-      - player:
-          id: 2939116
-          name: Fleabag
-      - player:
-          id: 3058964
-          name: TCxBones
-      - player:
-          id: 357563
-          name: KCWank
+      - player: Fleabag
+        standing: 3
+      - player: TCxBones
+        standing: 2
+      - player: KCWank
+        standing: 1
   - name: SOULCALIBUR VI
     participant_count: 10
     results:
-      - player:
-          id: 2938404
-          name: Scrumby
-      - player:
-          id: 1177583
-          name: Enker
-      - player:
-          id: 2939116
-          name: Fleabag
+      - player: Scrumby
+        standing: 3
+      - player: Enker
+        standing: 2
+      - player: Fleabag
+        standing: 1
   - name: Them's Fightin' Herds
     participant_count: 7
     results:
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 3229429
-          name: httpriestess
-      - player:
-          id: 2939116
-          name: Fleabag
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: httpriestess
+        standing: 2
+      - player: Fleabag
+        standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 14
     results:
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 867659
-          name: Bimmy
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
+      - player: Gooba
+        standing: 3
+      - player: Bimmy
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
 
 ---
 

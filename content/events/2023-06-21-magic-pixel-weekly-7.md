@@ -48,40 +48,31 @@ results:
   - name: "Granblue Fantasy: Versus"
     participant_count: 8
     results:
-      - player:
-          id: 3253344
-          name: Gaypom
-      - player:
-          id: 3229429
-          name: httpriestess
-      - player:
-          id: 2262164
-          name: Gooba
+      - player: Gaypom
+        standing: 3
+      - player: httpriestess
+        standing: 2
+      - player: Gooba
+        standing: 1
   - name: SOULCALIBUR VI
     participant_count: 10
     results:
-      - player:
-          id: 357563
-          name: KCWank
-      - player:
-          id: 2938404
-          name: Scrumby
-      - player:
-          id: 3058964
-          name: TCxBones
+      - player: KCWank
+        standing: 3
+      - player: Scrumby
+        standing: 2
+      - player: TCxBones
+        standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 11
     results:
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2817959
-          name: BoyeBall
-      - player:
-          id: 1636511
-          name: OoeyGooeyChewySnicker
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: BoyeBall
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 1
 
 ---
 

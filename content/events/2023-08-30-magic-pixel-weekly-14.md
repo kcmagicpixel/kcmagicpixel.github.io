@@ -36,28 +36,22 @@ results:
   - name: "Guilty Gear: Strive"
     participant_count: 13
     results:
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2817959
-          name: BoyeBall
-      - player:
-          id: 1636511
-          name: OoeyGooeyChewySnicker
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: BoyeBall
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 1
   - name: "Melty Blood: Type Lumina"
     participant_count: 12
     results:
-      - player:
-          id: 2449687
-          name: cavitae
-      - player:
-          id: 2939116
-          name: Fleabag
-      - player:
-          id: 867659
-          name: Bimmy
+      - player: cavitae
+        standing: 3
+      - player: Fleabag
+        standing: 2
+      - player: Bimmy
+        standing: 1
 
 ---
 

@@ -34,41 +34,32 @@ results:
   - name: TEKKEN 7
     participant_count: 8
     results:
-      - player:
-          id: 867659
-          name: Bimmy
-      - player:
-          id: 2938404
-          name: Scrumby
-      - player:
-          id: 2939116
-          name: Fleabag
+      - player: Bimmy
+        standing: 3
+      - player: Scrumby
+        standing: 2
+      - player: Fleabag
+        standing: 1
   - name: "Granblue Fantasy: Versus"
     participant_count: 11
     results:
-      - player:
-          id: 3433839
-          name: emi
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
+      - player: emi
+        standing: 3
+      - player: Gooba
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 16
     results:
-      - player:
-          id: 2262164
-          name: Gooba
-      - player:
-          id: 2936709
-          name: Brian_D
-          prefix: VGHS
-      - player:
-          id: 2449687
-          name: cavitae
+      - player: Gooba
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: cavitae
+        standing: 1
 
 ---
 
