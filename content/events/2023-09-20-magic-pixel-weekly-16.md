@@ -36,7 +36,7 @@ events:
 results:
   - name: "Melty Blood: Type Lumina"
     participant_count: 14
-    results:
+    standings:
       - player: cavitae
         standing: 3
       - player: Fleabag
@@ -45,7 +45,7 @@ results:
         standing: 1
   - name: Mortal Kombat 1
     participant_count: 10
-    results:
+    standings:
       - player: Saucy
         standing: 3
       - player: cavitae

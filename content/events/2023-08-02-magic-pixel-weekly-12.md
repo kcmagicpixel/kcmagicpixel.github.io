@@ -21,7 +21,7 @@ events:
 results:
   - name: "Melty Blood: Type Lumina"
     participant_count: 17
-    results:
+    standings:
       - player: Brian_D
         prefix: VGHS
         standing: 3

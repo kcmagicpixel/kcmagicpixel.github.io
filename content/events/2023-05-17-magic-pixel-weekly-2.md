@@ -37,7 +37,7 @@ events:
 results:
   - name: TEKKEN 7
     participant_count: 8
-    results:
+    standings:
       - player: Bimmy
         standing: 3
       - player: Scrumby
@@ -46,7 +46,7 @@ results:
         standing: 1
   - name: "Granblue Fantasy: Versus"
     participant_count: 11
-    results:
+    standings:
       - player: emi
         standing: 3
       - player: Gooba
@@ -56,7 +56,7 @@ results:
         standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 16
-    results:
+    standings:
       - player: Gooba
         standing: 3
       - player: Brian_D

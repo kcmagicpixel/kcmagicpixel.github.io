@@ -21,7 +21,7 @@ events:
 results:
   - name: Them's Fightin' Herds
     participant_count: 7
-    results:
+    standings:
       - player: httpriestess
         standing: 3
       - player: golbat

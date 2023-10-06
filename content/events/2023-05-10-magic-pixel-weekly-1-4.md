@@ -47,7 +47,7 @@ events:
 results:
   - name: TEKKEN 7
     participant_count: 11
-    results:
+    standings:
       - player: Fleabag
         standing: 3
       - player: TCxBones
@@ -56,7 +56,7 @@ results:
         standing: 1
   - name: SOULCALIBUR VI
     participant_count: 10
-    results:
+    standings:
       - player: Scrumby
         standing: 3
       - player: Enker
@@ -65,7 +65,7 @@ results:
         standing: 1
   - name: Them's Fightin' Herds
     participant_count: 7
-    results:
+    standings:
       - player: Brian_D
         prefix: VGHS
         standing: 3
@@ -75,7 +75,7 @@ results:
         standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 14
-    results:
+    standings:
       - player: Gooba
         standing: 3
       - player: Bimmy

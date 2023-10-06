@@ -85,7 +85,7 @@ events:
 results:
   - name: Street Fighter 6
     participant_count: 16
-    results:
+    standings:
       - player: Bimmy
         standing: 3
       - player: Brian_D
@@ -95,7 +95,7 @@ results:
         standing: 1
   - name: Vampire Savior
     participant_count: 13
-    results:
+    standings:
       - player: Brian_D
         prefix: VGHS
         standing: 3
@@ -105,7 +105,7 @@ results:
         standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 10
-    results:
+    standings:
       - player: Brian_D
         prefix: VGHS
         standing: 3

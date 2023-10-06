@@ -47,7 +47,7 @@ events:
 results:
   - name: Street Fighter 6
     participant_count: 14
-    results:
+    standings:
       - player: Dr M
         standing: 3
       - player: Scrumby
@@ -56,7 +56,7 @@ results:
         standing: 1
   - name: SOULCALIBUR VI
     participant_count: 6
-    results:
+    standings:
       - player: Xanivara
         standing: 3
       - player: TCxBones
@@ -65,7 +65,7 @@ results:
         standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 11
-    results:
+    standings:
       - player: K.I.D.Goggles
         prefix: JOB
         standing: 3

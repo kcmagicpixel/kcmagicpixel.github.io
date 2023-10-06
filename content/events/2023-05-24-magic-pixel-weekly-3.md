@@ -33,7 +33,7 @@ events:
 results:
   - name: "Granblue Fantasy: Versus"
     participant_count: 10
-    results:
+    standings:
       - player: Twoinone1
         standing: 3
       - player: Gooba
@@ -43,7 +43,7 @@ results:
         standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 12
-    results:
+    standings:
       - player: BoyeBall
         standing: 3
       - player: cavitae

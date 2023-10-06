@@ -44,7 +44,7 @@ events:
 results:
   - name: TEKKEN 7
     participant_count: 8
-    results:
+    standings:
       - player: Scrumby
         standing: 3
       - player: TCxBones
@@ -53,7 +53,7 @@ results:
         standing: 1
   - name: Street Fighter 6
     participant_count: 18
-    results:
+    standings:
       - player: golbat
         standing: 3
       - player: Bimmy

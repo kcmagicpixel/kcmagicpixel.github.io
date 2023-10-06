@@ -17,7 +17,7 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
   - name: Street Fighter 6
-    start_date: 2023-10-03T19:00:00.000-05:00
+    start_date: 2023-10-03T20:00:00.000-05:00
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -30,12 +30,12 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-18/events/street-fighter-6/brackets/1479063/2234381
   - name: "Melty Blood: Type Lumina"
-    start_date: 2023-10-03T19:00:00.000-05:00
+    start_date: 2023-10-03T21:00:00.000-05:00
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-18/events/melty-blood-type-lumina/brackets/1479064/2234382
 results:
   - name: Street Fighter 6
     participant_count: 14
-    results:
+    standings:
       - player: Enker
         standing: 3
       - player: golbat
@@ -44,7 +44,7 @@ results:
         standing: 1
   - name: "Melty Blood: Type Lumina"
     participant_count: 12
-    results:
+    standings:
       - player: httpriestess
         standing: 3
       - player: Fleabag

@@ -46,7 +46,7 @@ events:
 results:
   - name: "Guilty Gear: Strive"
     participant_count: 9
-    results:
+    standings:
       - player: Gooba
         standing: 3
       - player: Brian_D
@@ -56,7 +56,7 @@ results:
         standing: 1
   - name: Mortal Kombat 1
     participant_count: 9
-    results:
+    standings:
       - player: Bimmy
         standing: 3
       - player: httpriestess

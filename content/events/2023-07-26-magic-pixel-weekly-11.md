@@ -48,7 +48,7 @@ events:
 results:
   - name: "Granblue Fantasy: Versus"
     participant_count: 6
-    results:
+    standings:
       - player: httpriestess
         standing: 3
       - player: Gaypom
@@ -57,7 +57,7 @@ results:
         standing: 1
   - name: SOULCALIBUR VI
     participant_count: 8
-    results:
+    standings:
       - player: TCxBones
         standing: 3
       - player: Scrumby
@@ -66,7 +66,7 @@ results:
         standing: 1
   - name: "Guilty Gear: Strive"
     participant_count: 9
-    results:
+    standings:
       - player: Gooba
         standing: 3
       - player: BoyeBall

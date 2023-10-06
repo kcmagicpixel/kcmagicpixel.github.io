@@ -35,7 +35,7 @@ events:
 results:
   - name: "Guilty Gear: Strive"
     participant_count: 13
-    results:
+    standings:
       - player: Brian_D
         prefix: VGHS
         standing: 3
@@ -45,7 +45,7 @@ results:
         standing: 1
   - name: "Melty Blood: Type Lumina"
     participant_count: 12
-    results:
+    standings:
       - player: cavitae
         standing: 3
       - player: Fleabag

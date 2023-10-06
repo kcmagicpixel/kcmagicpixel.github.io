@@ -31,7 +31,7 @@ events:
 results:
   - name: Street Fighter 6
     participant_count: 8
-    results:
+    standings:
       - player: KCWank
         standing: 3
       - player: toad_slayer

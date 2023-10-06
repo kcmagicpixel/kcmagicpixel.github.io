@@ -35,7 +35,7 @@ events:
 results:
   - name: Street Fighter 6
     participant_count: 10
-    results:
+    standings:
       - player: KCWank
         standing: 3
       - player: Gooba
@@ -44,7 +44,7 @@ results:
         standing: 1
   - name: "Melty Blood: Type Lumina"
     participant_count: 9
-    results:
+    standings:
       - player: Brian_D
         prefix: VGHS
         standing: 3

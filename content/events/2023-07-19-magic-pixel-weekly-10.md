@@ -45,7 +45,7 @@ events:
 results:
   - name: TEKKEN 7
     participant_count: 5
-    results:
+    standings:
       - player: TCxBones
         standing: 3
       - player: Dr M
@@ -54,7 +54,7 @@ results:
         standing: 1
   - name: Street Fighter 6
     participant_count: 14
-    results:
+    standings:
       - player: Gooba
         standing: 3
       - player: Dr M
