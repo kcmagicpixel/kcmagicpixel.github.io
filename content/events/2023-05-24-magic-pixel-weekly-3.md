@@ -24,13 +24,13 @@ events:
       Finals are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-3/events/granblue-fantasy-versus/brackets/1374708/2090073
     standings:
-      - player: Twoinone1
-        standing: 3
-      - player: Gooba
-        standing: 2
       - player: Brian_D
         prefix: VGHS
         standing: 1
+      - player: Gooba
+        standing: 2
+      - player: Twoinone1
+        standing: 3
   - name: SOULCALIBUR VI
     start_date: 2023-05-23T20:00:00.000-05:00
     participant_count: 11
@@ -43,34 +43,13 @@ events:
     rules: All sets are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-3/events/strive/brackets/1374706/2090071
     standings:
-      - player: BoyeBall
-        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
       - player: cavitae
         standing: 2
-      - player: Brian_D
-        prefix: VGHS
-        standing: 1
-results:
-  - name: "Granblue Fantasy: Versus"
-    participant_count: 10
-    standings:
-      - player: Twoinone1
-        standing: 3
-      - player: Gooba
-        standing: 2
-      - player: Brian_D
-        prefix: VGHS
-        standing: 1
-  - name: "Guilty Gear: Strive"
-    participant_count: 12
-    standings:
       - player: BoyeBall
         standing: 3
-      - player: cavitae
-        standing: 2
-      - player: Brian_D
-        prefix: VGHS
-        standing: 1
 
 ---
 

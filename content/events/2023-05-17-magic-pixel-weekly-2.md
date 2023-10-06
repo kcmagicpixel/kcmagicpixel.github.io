@@ -24,12 +24,12 @@ events:
       Finals are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-2/events/tekken-7/brackets/1369659/2083560
     standings:
-      - player: Bimmy
-        standing: 3
-      - player: Scrumby
-        standing: 2
       - player: Fleabag
         standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: Bimmy
+        standing: 3
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-05-16T20:00:00.000-05:00
     participant_count: 11
@@ -39,13 +39,13 @@ events:
       Finals are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-2/events/granblue-fantasy-versus/brackets/1370928/2085276
     standings:
-      - player: emi
-        standing: 3
-      - player: Gooba
-        standing: 2
       - player: Brian_D
         prefix: VGHS
         standing: 1
+      - player: Gooba
+        standing: 2
+      - player: emi
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2023-05-16T21:00:00.000-05:00
     participant_count: 16
@@ -53,43 +53,13 @@ events:
     rules: All sets are best of 5 (first to 3).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-2/events/strive/brackets/1369658/2083559
     standings:
-      - player: Gooba
-        standing: 3
-      - player: Brian_D
-        prefix: VGHS
-        standing: 2
       - player: cavitae
         standing: 1
-results:
-  - name: TEKKEN 7
-    participant_count: 8
-    standings:
-      - player: Bimmy
-        standing: 3
-      - player: Scrumby
-        standing: 2
-      - player: Fleabag
-        standing: 1
-  - name: "Granblue Fantasy: Versus"
-    participant_count: 11
-    standings:
-      - player: emi
-        standing: 3
-      - player: Gooba
-        standing: 2
-      - player: Brian_D
-        prefix: VGHS
-        standing: 1
-  - name: "Guilty Gear: Strive"
-    participant_count: 16
-    standings:
-      - player: Gooba
-        standing: 3
       - player: Brian_D
         prefix: VGHS
         standing: 2
-      - player: cavitae
-        standing: 1
+      - player: Gooba
+        standing: 3
 
 ---
 

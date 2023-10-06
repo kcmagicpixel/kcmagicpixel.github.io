@@ -31,44 +31,24 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-14/events/strive/brackets/1450559/2197326
     standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: BoyeBall
+        standing: 2
       - player: Brian_D
         prefix: VGHS
         standing: 3
-      - player: BoyeBall
-        standing: 2
-      - player: OoeyGooeyChewySnicker
-        standing: 1
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-08-29T21:00:00.000-05:00
     participant_count: 12
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-14/events/melty-blood-type-lumina/brackets/1450566/2197333
     standings:
-      - player: cavitae
-        standing: 3
-      - player: Fleabag
-        standing: 2
       - player: Bimmy
         standing: 1
-results:
-  - name: "Guilty Gear: Strive"
-    participant_count: 13
-    standings:
-      - player: Brian_D
-        prefix: VGHS
-        standing: 3
-      - player: BoyeBall
-        standing: 2
-      - player: OoeyGooeyChewySnicker
-        standing: 1
-  - name: "Melty Blood: Type Lumina"
-    participant_count: 12
-    standings:
-      - player: cavitae
-        standing: 3
       - player: Fleabag
         standing: 2
-      - player: Bimmy
-        standing: 1
+      - player: cavitae
+        standing: 3
 
 ---
 

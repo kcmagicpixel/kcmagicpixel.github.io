@@ -20,24 +20,13 @@ events:
     participant_count: 17
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-12/events/melty/brackets/1427229/2163049
     standings:
+      - player: Fleabag
+        standing: 1
+      - player: Sheepy
+        standing: 2
       - player: Brian_D
         prefix: VGHS
         standing: 3
-      - player: Sheepy
-        standing: 2
-      - player: Fleabag
-        standing: 1
-results:
-  - name: "Melty Blood: Type Lumina"
-    participant_count: 17
-    standings:
-      - player: Brian_D
-        prefix: VGHS
-        standing: 3
-      - player: Sheepy
-        standing: 2
-      - player: Fleabag
-        standing: 1
 
 ---
 

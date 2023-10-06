@@ -31,13 +31,13 @@ events:
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-15/events/tekken-7/brackets/1461174/2211370
     standings:
+      - player: KCDank_
+        prefix: PRIME
+        standing: 2
       - player: KCWank
         standing: 3
       - player: Fleabag
         standing: 3
-      - player: KCDank_
-        prefix: PRIME
-        standing: 2
   - name: "Guilty Gear: Strive"
     start_date: 2023-09-12T21:00:00.000-05:00
     participant_count: 12
@@ -53,34 +53,13 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-15/events/strive/brackets/1461173/2211369
     standings:
-      - player: Gooba
-        standing: 3
+      - player: OoeyGooeyChewySnicker
+        standing: 1
       - player: Brian_D
         prefix: VGHS
         standing: 2
-      - player: OoeyGooeyChewySnicker
-        standing: 1
-results:
-  - name: TEKKEN 7
-    participant_count: 7
-    standings:
-      - player: KCWank
-        standing: 3
-      - player: Fleabag
-        standing: 3
-      - player: KCDank_
-        prefix: PRIME
-        standing: 2
-  - name: "Guilty Gear: Strive"
-    participant_count: 12
-    standings:
       - player: Gooba
         standing: 3
-      - player: Brian_D
-        prefix: VGHS
-        standing: 2
-      - player: OoeyGooeyChewySnicker
-        standing: 1
 
 ---
 
