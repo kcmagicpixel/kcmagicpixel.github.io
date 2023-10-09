@@ -114,14 +114,14 @@
     {{- range .Params.events -}}
       {{ $events = $events | append .name }}
     {{- end -}}
-    "description": "{{ with $events }}{{ delimit . " • "}} • {{ end }}{{ .Summary }}",{{ if .Params.url_startgg }}{{ if gt .Params.start_date now }}
+    "description": "{{ with $events }}{{ delimit . " • "}} • {{ end }}{{ .Summary }}",{{ if .Params.url_startgg }}
     "offers": {
       "@type": "Offer",
       "url": {{ .Params.url_startgg }},
       "price": "{{ with .Params.venue_fee }}{{ . }}{{ else }}{{ 0 }}{{ end }}",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock"
-    },{{ end }}{{ end }}{{ with .Params.ref_org }}{{ with $.Site.GetPage . }}
+    },{{ end }}{{ with .Params.ref_org }}{{ with $.Site.GetPage . }}
     "organizer": {
       "@type": "Organization",
       "name": "{{ .Params.title }}",
