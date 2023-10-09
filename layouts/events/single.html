@@ -95,7 +95,10 @@
     "location": {
       "@type": "Place",{{ with .Params.venue_name }}
       "name": "{{ . }}",{{ end }}
-      "address": "{{ .Params.address }}"
+      "address": {
+        "@type": "PostalAddress",
+        "name": "{{ .Params.address }}"
+       }
     },{{ end }}
     {{- $images := slice -}}
     {{- range (slice .Params.ref_icon .Params.ref_banner) -}}
