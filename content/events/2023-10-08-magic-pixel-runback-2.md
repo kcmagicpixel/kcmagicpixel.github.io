@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-2
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 23
 start_date: 2023-10-07T19:00:00.000-05:00
 end_date: 2023-10-07T23:00:00.000-05:00
 series: []
@@ -16,8 +16,8 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
-    start_date: 2023-10-07T19:00:00.000-05:00
-    participant_count: 3
+    start_date: 2023-10-07T20:00:00.000-05:00
+    participant_count: 14
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -29,17 +29,36 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/strive/brackets/1482329/2239273
-    standings: []
-  - name: Fate/unlimited codes
-    start_date: 2023-10-07T19:00:00.000-05:00
-    participant_count: 1
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/fate-unlimited-codes/brackets/1482341/2239285
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: Gooba
+        standing: 2
+      - player: BoyeBall
+        standing: 3
   - name: SOULCALIBUR VI
-    start_date: 2023-10-07T19:00:00.000-05:00
-    participant_count: 0
+    start_date: 2023-10-07T20:30:00.000-05:00
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/scvi-double-elimination/brackets/1482333/2239277
-    standings: []
+    standings:
+      - player: Graffiti Souls
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: ChibiTanner
+        prefix: Chibi
+        standing: 3
+  - name: Fate/unlimited codes
+    start_date: 2023-10-07T21:00:00.000-05:00
+    participant_count: 6
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/fate-unlimited-codes/brackets/1482341/2239285
+    standings:
+      - player: Claiomh_Solais
+        standing: 1
+      - player: Ellen
+        standing: 2
+      - player: Scrumby
+        standing: 3
 
 ---
 
