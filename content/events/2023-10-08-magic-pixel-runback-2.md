@@ -15,19 +15,8 @@ series: []
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
-  - name: Fate/unlimited codes
-    start_date: 2023-10-07T19:00:00.000-05:00
-    participant_count: 6
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/fate-unlimited-codes/brackets/1482341/2239285
-    standings:
-      - player: Claiomh_Solais
-        standing: 2
-      - player: Ellen
-        standing: 3
-      - player: Scrumby
-        standing: 3
   - name: "Guilty Gear: Strive"
-    start_date: 2023-10-07T19:00:00.000-05:00
+    start_date: 2023-10-07T20:00:00.000-05:00
     participant_count: 14
     entry_fee: 5
     rules: >-
@@ -48,7 +37,7 @@ events:
       - player: BoyeBall
         standing: 3
   - name: SOULCALIBUR VI
-    start_date: 2023-10-07T19:00:00.000-05:00
+    start_date: 2023-10-07T20:30:00.000-05:00
     participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/scvi-double-elimination/brackets/1482333/2239277
     standings:
@@ -58,6 +47,17 @@ events:
         standing: 2
       - player: ChibiTanner
         prefix: Chibi
+        standing: 3
+  - name: Fate/unlimited codes
+    start_date: 2023-10-07T21:00:00.000-05:00
+    participant_count: 6
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-2/events/fate-unlimited-codes/brackets/1482341/2239285
+    standings:
+      - player: Claiomh_Solais
+        standing: 1
+      - player: Ellen
+        standing: 2
+      - player: Scrumby
         standing: 3
 
 ---
