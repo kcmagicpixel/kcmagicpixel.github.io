@@ -7,6 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-22
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
+venue_fee: 5
 start_date: 2023-10-31T19:00:00.000-05:00
 end_date: 2023-10-31T23:58:00.000-05:00
 series:
@@ -22,6 +23,7 @@ events:
   - name: Street Fighter 6
     start_date: 2023-10-31T20:30:00.000-05:00
     participant_count: 0
+    entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  

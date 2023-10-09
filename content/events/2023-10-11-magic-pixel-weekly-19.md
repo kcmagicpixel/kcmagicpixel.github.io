@@ -32,7 +32,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-19/events/mortal-kombat/brackets/1485044/2242696
     standings: []
   - name: Under Night In-Birth Exe:Late[cl-r]
-    start_date: 2023-10-10T21:00:00.000-05:00
+    start_date: 2023-10-10T20:30:00.000-05:00
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-19/events/uniclr/brackets/1485051/2242706
     standings: []
@@ -48,7 +48,7 @@ $5 venue fee, collected by the shop staff. Game entry fees are collected by the 
 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
 - **MK1** (httpriestess) - 8pm, $0 entry 
-- **UNICLR** (toad_slayer) - 9pm, $0 entry
+- **UNICLR** (toad_slayer) - 8:30pm, $0 entry
 - **MBON** (Fox-Shot) - All night!
 
 Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!  
