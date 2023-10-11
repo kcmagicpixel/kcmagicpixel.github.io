@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-19
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 27
 start_date: 2023-10-10T19:00:00.000-05:00
 end_date: 2023-10-10T23:59:00.000-05:00
 series:
@@ -18,7 +18,7 @@ stream: bimmyfgc
 events:
   - name: Mortal Kombat 1
     start_date: 2023-10-10T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -31,12 +31,25 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may switch character.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-19/events/mortal-kombat/brackets/1485044/2242696
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: Bimmy
+        standing: 3
   - name: Under Night In-Birth Exe:Late[cl-r]
     start_date: 2023-10-10T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 15
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-19/events/uniclr/brackets/1485051/2242706
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 1
+      - player: Sheepy
+        standing: 2
+      - player: Alex
+        standing: 3
 
 ---
 
