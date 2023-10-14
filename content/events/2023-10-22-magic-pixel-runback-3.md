@@ -10,6 +10,7 @@ venue_name: Larry's Game Store
 venue_fee: 5
 start_date: 2023-10-21T19:00:00.000-05:00
 end_date: 2023-10-21T23:59:00.000-05:00
+created_date: 2023-10-08T20:09:41.000-05:00
 series:
   - Magic Pixel Runback
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"

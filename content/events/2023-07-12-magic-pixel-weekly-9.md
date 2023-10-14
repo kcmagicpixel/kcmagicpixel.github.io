@@ -10,6 +10,7 @@ venue_fee: 5
 participant_count: 20
 start_date: 2023-07-11T19:00:00.000-05:00
 end_date: 2023-07-11T23:59:00.000-05:00
+created_date: 2023-06-24T10:50:57.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
