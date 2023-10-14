@@ -22,12 +22,6 @@ Magic Pixel is a collective of fighting game players committed to providing an i
 
 ## Events and Schedule
 
-We currently run the [Magic Pixel Weekly]({{< ref "/series/magic-pixel-weekly" >}}) event every Tuesday. Each week we host and stream two double-elimination brackets from of a pool of rotating games, as well as provide a dedicated space for community-organized side brackets and casual play. The last week of the month is reserved exclusively for side brackets and casuals. We currently rotate through the following games each week:  
-
-- Street Fighter 6 (twice a month)
-- Guilty Gear Strive (twice a month)
-- SoulCalibur VI (twice a month)
-- Tekken 7 (once a month)
-- Granblue Fantasy Versus (once a month)
+We currently run the [Magic Pixel Weekly]({{< ref "/series/magic-pixel-weekly" >}}) event every Tuesday, and the [Magic Pixel Runback]({{< ref "/series/magic-pixel-runback" >}}) series every other Saturday. Each event is run by a rotating assembly of our Game Captains, who are community members passionate about their favorite games and volunteer to make events for those games happen at Magic Pixel events. This means that we have events (typically double-elimination brackets) for different games every single week! There's a good chance we're already playing your favorite game, but if we're not and you'd like to contribute to making that game happen, please join us on Discord and let a member of the event team know. In addition to the brackets being run by our Captains, casuals are welcome for any game all night every night as long as setups are available, so everyone is welcome to bring their favorite game out even if they are not a Game Captain!
 
 Check the start.gg page to find out what's happening this week, and join us on discord to be a part of what's next!
