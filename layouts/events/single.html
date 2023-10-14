@@ -61,7 +61,9 @@
                   <i class="fa-solid fa-dollar" title="{{ .name }} Entry Fee"></i>{{ with .entry_fee }}{{ . }}{{ else }}0{{ end }}
                 </span>
                 <span>
-                  <i class="fa-solid fa-people-group" title="{{ .name }} Entrants"></i>{{ with .participant_count }}{{ . }}{{ else }}0{{ end }}
+                  {{ if .participant_count }}
+                  <i class="fa-solid fa-people-group" title="{{ .name }} Entrants"></i>{{ .participant_count }}
+                  {{ end }}
                 </span>
                 {{ with .standings }}
                 <ol>
@@ -120,7 +122,8 @@
       "url": {{ .Params.url_startgg }},
       "price": "{{ with .Params.venue_fee }}{{ . }}{{ else }}{{ 0 }}{{ end }}",
       "priceCurrency": "USD",
-      "availability": "https://schema.org/InStock"
+      {{ with .Params.created_date }}"validFrom": "{{ time.Format "2006-01-02T15:04:05-07:00" . }}",{{ end }}
+      "availability": {{ if (gt .Params.start_date now) }}"https://schema.org/InStock"{{ else }}"https://schema.org/SoldOut"{{ end }}
     },{{ end }}{{ with .Params.ref_org }}{{ with $.Site.GetPage . }}
     "organizer": {
       "@type": "Organization",
