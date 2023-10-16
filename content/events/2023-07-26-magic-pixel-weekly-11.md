@@ -34,7 +34,7 @@ events:
     standings:
       - player: Gooba
         standing: 1
-      - player: Gaypom
+      - player: Ms Gaypom the Clown
         standing: 2
       - player: httpriestess
         standing: 3

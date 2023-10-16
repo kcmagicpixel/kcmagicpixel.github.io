@@ -35,7 +35,7 @@ events:
         standing: 1
       - player: httpriestess
         standing: 2
-      - player: Gaypom
+      - player: Ms Gaypom the Clown
         standing: 3
   - name: SOULCALIBUR VI
     start_date: 2023-06-20T20:00:00.000-05:00
