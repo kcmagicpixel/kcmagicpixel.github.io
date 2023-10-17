@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-20
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 6
 start_date: 2023-10-17T19:00:00.000-05:00
 end_date: 2023-10-17T23:59:00.000-05:00
 created_date: 2023-10-08T19:59:07.000-05:00
@@ -24,7 +24,7 @@ events:
     standings: []
   - name: TEKKEN 7
     start_date: 2023-10-17T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
