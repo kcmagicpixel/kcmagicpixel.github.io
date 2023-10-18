@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-20
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 25
 start_date: 2023-10-17T19:00:00.000-05:00
 end_date: 2023-10-17T23:59:00.000-05:00
 created_date: 2023-10-08T19:59:07.000-05:00
@@ -19,12 +19,18 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-10-17T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-20/events/melty-blood-type-lumina/brackets/1485091/2242774
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 1
+      - player: Loafers
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: TEKKEN 7
     start_date: 2023-10-17T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 8
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
@@ -35,10 +41,16 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-20/events/tekken-7/brackets/1485085/2242768
-    standings: []
+    standings:
+      - player: KCWank
+        standing: 1
+      - player: TCxBones
+        standing: 2
+      - player: Fleabag
+        standing: 3
   - name: Street Fighter 6
     start_date: 2023-10-17T21:00:00.000-05:00
-    participant_count: 4
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -50,7 +62,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-20/events/street-fighter-6/brackets/1485090/2242773
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Gooba
+        standing: 2
+      - player: Enker
+        standing: 3
 
 ---
 
