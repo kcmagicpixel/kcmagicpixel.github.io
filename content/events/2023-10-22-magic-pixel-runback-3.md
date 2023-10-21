@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-3
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 4
 start_date: 2023-10-21T19:00:00.000-05:00
 end_date: 2023-10-21T23:59:00.000-05:00
 created_date: 2023-10-08T20:09:41.000-05:00
@@ -18,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-10-21T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -33,12 +34,12 @@ events:
     standings: []
   - name: SOULCALIBUR VI
     start_date: 2023-10-21T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-3/events/scvi-double-elimination/brackets/1485112/2242798
     standings: []
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-10-21T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
