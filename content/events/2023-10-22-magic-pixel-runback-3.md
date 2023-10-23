@@ -33,11 +33,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-3/events/strive/brackets/1485108/2242794
     standings:
       - player: OoeyGooeyChewySnicker
-        standing: 2
-      - player: Gooba
-        standing: 3
+        standing: 1
       - player: Brian_D
         prefix: VGHS
+        standing: 2
+      - player: Gooba
         standing: 3
   - name: SOULCALIBUR VI
     start_date: 2023-10-21T20:30:00.000-05:00
