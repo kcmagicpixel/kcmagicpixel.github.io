@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-21
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 18
 start_date: 2023-10-24T19:00:00.000-05:00
 end_date: 2023-10-24T23:59:00.000-05:00
 created_date: 2023-10-08T20:22:55.000-05:00
@@ -18,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-10-24T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 13
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -30,10 +31,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-21/events/strive/brackets/1485132/2242826
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: BoyeBall
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: Mortal Kombat 1
     start_date: 2023-10-24T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -49,9 +56,16 @@ events:
     standings: []
   - name: Under Night In-Birth Exe:Late[cl-r]
     start_date: 2023-10-24T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 11
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-21/events/uniclr/brackets/1485142/2242836
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: Derpy
+        standing: 3
 
 ---
 
