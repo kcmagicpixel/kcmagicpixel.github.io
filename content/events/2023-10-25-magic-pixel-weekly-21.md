@@ -38,22 +38,6 @@ events:
         standing: 2
       - player: cavitae
         standing: 3
-  - name: Mortal Kombat 1
-    start_date: 2023-10-24T20:30:00.000-05:00
-    participant_count: 2
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Sets are best of 5 (first to 3), with each game as best of 3 rounds (first to 2).  
-
-      Games will be played with "Tournament Mode Default Options", 90 second timer, interactables on. Default Tournament Mode Variations and Tournament Mode Kustom Variations only.  
-
-      The stage selected must be random, unless players agree on a selected stage.  
-
-      The winner of each game must keep the same character. The loser of that game may switch character.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-21/events/mortal-kombat/brackets/1485140/2242834
-    standings: []
   - name: Under Night In-Birth Exe:Late[cl-r]
     start_date: 2023-10-24T21:00:00.000-05:00
     participant_count: 11
