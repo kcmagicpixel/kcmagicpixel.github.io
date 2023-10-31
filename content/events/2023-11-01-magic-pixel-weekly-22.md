@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-22
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 3
 start_date: 2023-10-31T19:00:00.000-05:00
 end_date: 2023-10-31T23:58:00.000-05:00
 created_date: 2023-10-08T20:42:00.000-05:00
@@ -19,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-10-31T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-22/events/melty-blood-type-lumina/brackets/1485178/2242873
     standings: []
   - name: Street Fighter 6
@@ -39,7 +39,7 @@ events:
     standings: []
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-10-31T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
