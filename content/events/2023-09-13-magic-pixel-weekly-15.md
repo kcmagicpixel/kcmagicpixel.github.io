@@ -35,7 +35,7 @@ events:
       - player: KCDank_
         prefix: PRIME
         standing: 2
-      - player: KCWank
+      - player: HaterEX
         standing: 3
       - player: Fleabag
         standing: 3

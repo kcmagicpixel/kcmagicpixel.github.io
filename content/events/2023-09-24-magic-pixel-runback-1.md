@@ -36,7 +36,7 @@ events:
         standing: 1
       - player: toad_slayer
         standing: 2
-      - player: KCWank
+      - player: HaterEX
         standing: 3
 
 ---

@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-22
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 20
 start_date: 2023-10-31T19:00:00.000-05:00
 end_date: 2023-10-31T23:58:00.000-05:00
 created_date: 2023-10-08T20:42:00.000-05:00
@@ -19,12 +19,18 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-10-31T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 12
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-22/events/melty-blood-type-lumina/brackets/1485178/2242873
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 1
+      - player: Loafers
+        standing: 2
+      - player: Derpy
+        standing: 3
   - name: Street Fighter 6
     start_date: 2023-10-31T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 12
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -36,10 +42,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-22/events/street-fighter-6/brackets/1485177/2242872
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: Sheepy
+        standing: 3
   - name: "Granblue Fantasy: Versus"
     start_date: 2023-10-31T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 8
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
@@ -50,7 +62,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-22/events/granblue-fantasy-versus/brackets/1485173/2242868
-    standings: []
+    standings:
+      - player: Emi
+        standing: 2
+      - player: Gooba
+        standing: 2
+      - player: Bimmy
+        standing: 3
 
 ---
 

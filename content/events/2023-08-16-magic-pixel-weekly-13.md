@@ -36,7 +36,7 @@ events:
         standing: 1
       - player: Gooba
         standing: 2
-      - player: KCWank
+      - player: HaterEX
         standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-08-15T19:00:00.000-05:00

@@ -46,7 +46,7 @@ events:
         standing: 1
       - player: Scrumby
         standing: 2
-      - player: KCWank
+      - player: HaterEX
         standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-20T20:30:00.000-05:00
