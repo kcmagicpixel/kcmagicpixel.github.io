@@ -1,51 +1,49 @@
 ---
-title: "Magic Pixel Runback #4"
-slug: magic-pixel-runback-4
+title: "Magic Pixel Weekly #26"
+slug: magic-pixel-weekly-26
 ref_org: magic-pixel
-ref_banner: https://images.start.gg/images/tournament/605400/image-8b66e9c14a0894a246bc1349be7d5465.png?ehk=%2BWUDFXlSORorQ%2BWOYmNRagLZteMr%2BVGCZT8BoPbDOGQ%3D&ehkOptimized=UYLeeTA%2BsxaFe%2BC%2FlhSFcPUhBkf8eY5yHWm0WFVEtrQ%3D
-ref_icon: https://images.start.gg/images/tournament/605400/image-ad01e44334d84913a1c561a600303520.png?ehk=RUup92HP%2BwtojkI8tbuEdE6noJ0rWIuDYxmKk6OdmQE%3D&ehkOptimized=872b6jnvJxpVMTwYg9w1%2BzJamV2VTs71ltfxP3UmIBw%3D
-url_startgg: https://www.start.gg/tournament/magic-pixel-runback-4
+ref_banner: images/mp_banner.png
+ref_icon: images/mp_icon.png
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-26
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
-start_date: 2023-11-04T19:00:00.000-05:00
-end_date: 2023-11-04T23:58:00.000-05:00
-created_date: 2023-10-28T13:44:10.000-05:00
+start_date: 2023-11-28T19:00:00.000-06:00
+end_date: 2023-11-28T23:58:00.000-06:00
+created_date: 2023-11-03T16:43:42.000-05:00
 series:
-  - Magic Pixel Runback
+  - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
-  - name: "Guilty Gear: Strive"
-    start_date: 2023-11-04T20:00:00.000-05:00
-    participant_count: 3
-    entry_fee: 5
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2023-11-28T20:00:00.000-06:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-26/events/melty-blood-type-lumina/brackets/1506454/2270862
+    standings: []
+  - name: "Granblue Fantasy: Versus"
+    start_date: 2023-11-28T20:30:00.000-06:00
+    participant_count: 0
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
 
-      All sets are best of 5 (first to 3).  
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
 
       The winner of each game must keep the same character, the loser of that game may switch characters.  
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/strive/brackets/1501183/2264143
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-26/events/granblue-fantasy-versus/brackets/1506449/2270857
     standings: []
-  - name: SOULCALIBUR VI
-    start_date: 2023-11-04T20:30:00.000-05:00
-    participant_count: 2
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/scvi-double-elimination/brackets/1501187/2264147
-    standings: []
-  - name: SAMURAI SHODOWN
-    start_date: 2023-11-04T21:00:00.000-05:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/samurai-shodown/brackets/1501196/2264163
+  - name: Under Night In-Birth Exe:Late[cl-r]
+    start_date: 2023-11-28T21:00:00.000-06:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-26/events/uniclr/brackets/1506457/2270865
     standings: []
 
 ---
 
-November's here, so bundle up and get back out here to run it back on another Saturday night at Larry's Game Store! We've got an even more packed lineup of games this month, so check the links below to find out what's going down.
+It's the 26th Magic Pixel weekly! It's hard to believe we've already got half a years worth of these behind us, but here we are. Thanks to everyone that's come out so far and made them what they are!
 
 In addition to the brackets posted below, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out!
 
@@ -53,9 +51,9 @@ In addition to the brackets posted below, casuals are welcome for any game all n
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**.
 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
-- **GGST** (Gaypom) - 8pm, $5 entry 
-- **SCVI** (Scrumby) - 8:30pm, $0 entry
-- **SAMSHO** (Chrono Sanaki) - 9pm, $0 entry
+- **MBTL** (cavitae) - 8pm, $0 entry 
+- **GBVS** (Bimmy) - 8:30pm, $0 entry
+- **UNICLR** (toad_slayer) - 9pm, $0 entry
 
 Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!  
 
