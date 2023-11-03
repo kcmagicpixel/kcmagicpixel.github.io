@@ -18,17 +18,6 @@
         </li>
       </ul>
     {{ end }}
-    {{ $featured_list := where $events_list "Params.series" "intersect" (slice "Featured") }}
-    {{ with $featured_list }}
-      <h1>
-        Featured Events
-      </h1>
-      <ul class="events">
-        {{ range (.ByParam "start_date") }}
-          {{ partial "events-li.html" . }}
-        {{ end }}
-      </ul>
-    {{ end }}
     {{ $recent_list := where (where (where .Site.RegularPages "Section" "events") "Params.start_date" "lt" now) "Params.start_date" "ge" (now.AddDate 0 -1 0) }}
     {{ with $recent_list }}
       <h1>
