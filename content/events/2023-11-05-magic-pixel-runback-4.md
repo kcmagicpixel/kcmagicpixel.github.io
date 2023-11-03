@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-4
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 3
 start_date: 2023-11-04T19:00:00.000-05:00
 end_date: 2023-11-04T23:58:00.000-05:00
 created_date: 2023-10-28T13:44:10.000-05:00
@@ -19,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-11-04T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -39,7 +39,7 @@ events:
     standings: []
   - name: SAMURAI SHODOWN
     start_date: 2023-11-04T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/samurai-shodown/brackets/1501196/2264163
     standings: []
 
