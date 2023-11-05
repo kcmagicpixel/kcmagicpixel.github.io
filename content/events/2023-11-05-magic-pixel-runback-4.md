@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-4
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 13
 start_date: 2023-11-04T19:00:00.000-05:00
 end_date: 2023-11-04T23:58:00.000-05:00
 created_date: 2023-10-28T13:44:10.000-05:00
@@ -19,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-11-04T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -31,17 +31,35 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/strive/brackets/1501183/2264143
-    standings: []
+    standings:
+      - player: BoyeBall
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Pyralis
+        standing: 3
   - name: SOULCALIBUR VI
     start_date: 2023-11-04T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/scvi-double-elimination/brackets/1501187/2264147
-    standings: []
+    standings:
+      - player: Graffiti Souls
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: Fleabag
+        standing: 3
   - name: SAMURAI SHODOWN
     start_date: 2023-11-04T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/samurai-shodown/brackets/1501196/2264163
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 6
+      - player: toad_slayer
+        standing: 6
+      - player: Pyralis
+        standing: 6
 
 ---
 
