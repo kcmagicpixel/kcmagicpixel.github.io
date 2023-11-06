@@ -54,12 +54,12 @@ events:
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-4/events/samurai-shodown/brackets/1501196/2264163
     standings:
-      - player: ChronoSanaki
-        standing: 6
-      - player: toad_slayer
-        standing: 6
+      - player: Scrumby
+        standing: 1
       - player: Pyralis
-        standing: 6
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
 
 ---
 

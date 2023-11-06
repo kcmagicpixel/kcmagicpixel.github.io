@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-24
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2023-11-14T19:00:00.000-06:00
 end_date: 2023-11-14T23:59:00.000-06:00
 created_date: 2023-11-03T16:26:18.000-05:00
@@ -18,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-11-14T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/melty-blood-type-lumina/brackets/1506405/2270813
     standings: []
   - name: Street Fighter 6
@@ -38,7 +39,7 @@ events:
     standings: []
   - name: Under Night In-Birth Exe:Late[cl-r]
     start_date: 2023-11-14T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/uniclr/brackets/1506408/2270816
     standings: []
 
