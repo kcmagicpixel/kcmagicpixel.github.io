@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-23
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 19
 start_date: 2023-11-07T19:00:00.000-06:00
 end_date: 2023-11-07T23:59:00.000-06:00
 created_date: 2023-11-03T16:18:36.000-05:00
@@ -19,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-11-07T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 12
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -31,12 +31,25 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-23/events/strive/brackets/1506382/2270790
-    standings: []
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: BoyeBall
+        standing: 2
+      - player: Gooba
+        standing: 3
   - name: "BlazBlue: Central Fiction"
     start_date: 2023-11-07T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 14
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-23/events/blazblue-central-fiction/brackets/1506395/2270803
-    standings: []
+    standings:
+      - player: derpy
+        standing: 5
+      - player: Xanivara
+        standing: 5
+      - player: Fleabag
+        standing: 5
 
 ---
 
