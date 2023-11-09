@@ -53,9 +53,9 @@ In addition to the brackets posted below, casuals are welcome for any game all n
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**.
 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
-- **MBTL** (cavitae) - 8pm, $0 entry 
+- **UNI** (toad_slayer) - 8pm, $0 entry
 - **SF6** (Enker) - 8:30pm, $5 entry
-- **UNI** (toad_slayer) - 9pm, $0 entry
+- **MBTL** (cavitae) - 9pm, $0 entry 
 
 Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!  
 
