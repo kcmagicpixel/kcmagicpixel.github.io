@@ -34,7 +34,7 @@ events:
     standings:
       - player: Brian_D
         prefix: VGHS
-        standing: 2
+        standing: 1
       - player: BoyeBall
         standing: 2
       - player: Gooba
@@ -44,12 +44,12 @@ events:
     participant_count: 14
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-23/events/blazblue-central-fiction/brackets/1506395/2270803
     standings:
-      - player: derpy
-        standing: 5
-      - player: Xanivara
-        standing: 5
+      - player: Ellen
+        standing: 1
       - player: Fleabag
-        standing: 5
+        standing: 2
+      - player: golbat
+        standing: 3
 
 ---
 
