@@ -17,10 +17,10 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
-  - name: "Melty Blood: Type Lumina"
+  - name: Under Night In-Birth Exe:Late[cl-r]
     start_date: 2023-11-14T20:00:00.000-06:00
     participant_count: 1
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/melty-blood-type-lumina/brackets/1506405/2270813
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/uniclr/brackets/1506408/2270816
     standings: []
   - name: Street Fighter 6
     start_date: 2023-11-14T20:30:00.000-06:00
@@ -37,10 +37,10 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/street-fighter-6/brackets/1506404/2270812
     standings: []
-  - name: Under Night In-Birth Exe:Late[cl-r]
+  - name: "Melty Blood: Type Lumina"
     start_date: 2023-11-14T21:00:00.000-06:00
     participant_count: 1
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/uniclr/brackets/1506408/2270816
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/melty-blood-type-lumina/brackets/1506405/2270813
     standings: []
 
 ---
