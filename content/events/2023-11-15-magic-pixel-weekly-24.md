@@ -23,9 +23,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/uniclr/brackets/1506408/2270816
     standings:
       - player: Loafers
-        standing: 2
+        standing: 1
       - player: Ellen
-        standing: 3
+        standing: 2
       - player: golbat
         standing: 3
   - name: Street Fighter 6
@@ -55,9 +55,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-24/events/melty-blood-type-lumina/brackets/1506405/2270813
     standings:
       - player: Ellen
-        standing: 2
+        standing: 1
       - player: Derpy
-        standing: 3
+        standing: 2
       - player: cavitae
         standing: 3
 
