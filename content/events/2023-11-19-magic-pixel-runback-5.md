@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-5
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2023-11-18T19:00:00.000-06:00
 end_date: 2023-11-18T23:58:00.000-06:00
 created_date: 2023-11-03T16:32:50.000-05:00
@@ -33,7 +34,7 @@ events:
     standings: []
   - name: SOULCALIBUR VI
     start_date: 2023-11-18T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-5/events/scvi-double-elimination/brackets/1506419/2270827
     standings: []
   - name: Fate/unlimited codes
