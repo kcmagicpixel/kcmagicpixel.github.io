@@ -34,22 +34,22 @@ events:
     standings:
       - player: Brian_D
         prefix: VGHS
+        standing: 1
+      - player: BoyeBall
         standing: 2
       - player: Gooba
         standing: 3
-      - player: Saucy
-        standing: 4
   - name: SOULCALIBUR VI
     start_date: 2023-11-18T20:30:00.000-06:00
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-5/events/scvi-double-elimination/brackets/1506419/2270827
     standings:
-      - player: ChronoSanaki
-        standing: 6
       - player: Fleabag
-        standing: 6
-      - player: Loafers
-        standing: 6
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: Shaboski
+        standing: 3
   - name: Fate/unlimited codes
     start_date: 2023-11-18T21:00:00.000-06:00
     participant_count: 0
