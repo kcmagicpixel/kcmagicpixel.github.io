@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-25
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 19
 start_date: 2023-11-21T19:00:00.000-06:00
 end_date: 2023-11-21T23:58:00.000-06:00
 created_date: 2023-11-03T16:38:18.000-05:00
@@ -18,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: Mortal Kombat 1
     start_date: 2023-11-21T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -31,15 +32,27 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may switch character.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-25/events/mortal-kombat/brackets/1506441/2270849
-    standings: []
+    standings:
+      - player: HaterEX
+        standing: 1
+      - player: Bimmy
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "BlazBlue: Central Fiction"
     start_date: 2023-11-21T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-25/events/blazblue-central-fiction/brackets/1506445/2270853
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 1
+      - player: Magikarp
+        standing: 2
+      - player: Xanivara
+        standing: 3
   - name: TEKKEN 7
     start_date: 2023-11-21T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 2
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
