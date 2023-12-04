@@ -33,18 +33,24 @@ events:
     participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-6-1/events/scvi-double-elimination/brackets/1524525/2294679
     standings:
+      - player: Graffiti Souls
+        standing: 1
+      - player: alexpi
+        standing: 2
       - player: ChibiTanner
         prefix: Chibi
-        standing: 5
-      - player: ChronoSanaki
-        standing: 5
-      - player: toad_slayer
-        standing: 5
+        standing: 3
   - name: Fate/unlimited codes
     start_date: 2023-12-02T21:00:00.000-06:00
     participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-6-1/events/fate-unlimited-codes/brackets/1524530/2294684
-    standings: []
+    standings:
+      - player: Claiomh_Solais
+        standing: 1
+      - player: Ellen
+        standing: 2
+      - player: chrono sanaki
+        standing: 3
 
 ---
 
