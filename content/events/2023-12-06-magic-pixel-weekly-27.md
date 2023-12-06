@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-27
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 19
 start_date: 2023-12-05T19:00:00.000-06:00
 end_date: 2023-12-05T23:59:00.000-06:00
 created_date: 2023-12-04T19:45:49.000-06:00
@@ -19,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2023-12-05T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 12
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -31,17 +31,36 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-27/events/strive/brackets/1529943/2301610
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: BoyeBall
+        standing: 3
   - name: "BlazBlue: Central Fiction"
     start_date: 2023-12-05T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-27/events/blazblue-central-fiction/brackets/1529955/2301622
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: Xanivara
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-12-05T21:00:00.000-06:00
-    participant_count: 3
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-27/events/melty-blood-type-lumina/brackets/1529950/2301617
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 2
+      - player: golbat
+        standing: 3
+      - player: Loafers
+        standing: 3
 
 ---
 
