@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-27
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 19
+participant_count: 20
 start_date: 2023-12-05T19:00:00.000-06:00
 end_date: 2023-12-05T23:59:00.000-06:00
 created_date: 2023-12-04T19:45:49.000-06:00
@@ -56,10 +56,10 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-27/events/melty-blood-type-lumina/brackets/1529950/2301617
     standings:
       - player: Ellen
+        standing: 1
+      - player: Loafers
         standing: 2
       - player: golbat
-        standing: 3
-      - player: Loafers
         standing: 3
 
 ---
