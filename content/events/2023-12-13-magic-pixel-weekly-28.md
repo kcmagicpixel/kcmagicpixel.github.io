@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-28
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 10
 start_date: 2023-12-12T19:00:00.000-06:00
 end_date: 2023-12-12T23:58:00.000-06:00
 created_date: 2023-12-10T15:01:47.000-06:00
@@ -19,14 +19,26 @@ stream: bimmyfgc
 events:
   - name: Under Night In-Birth Exe:Late[cl-r]
     start_date: 2023-12-12T20:00:00.000-06:00
-    participant_count: 2
+    participant_count: 9
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-28/events/uniclr/brackets/1533588/2306259
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Sheepy
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: "Skullgirls: 2nd Encore"
     start_date: 2023-12-12T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-28/events/skullgirls/brackets/1533591/2306262
-    standings: []
+    standings:
+      - player: BoyeBall
+        standing: 3
+      - player: Fleabag
+        standing: 3
+      - player: Sheepy
+        standing: 5
 
 ---
 
