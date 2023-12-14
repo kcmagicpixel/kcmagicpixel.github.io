@@ -33,12 +33,12 @@ events:
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-28/events/skullgirls/brackets/1533591/2306262
     standings:
-      - player: BoyeBall
-        standing: 3
       - player: Fleabag
+        standing: 1
+      - player: BoyeBall
+        standing: 2
+      - player: ChronoSanaki
         standing: 3
-      - player: Sheepy
-        standing: 5
 
 ---
 
