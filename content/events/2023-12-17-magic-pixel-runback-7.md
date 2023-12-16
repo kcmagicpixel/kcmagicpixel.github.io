@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-7
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 3
 start_date: 2023-12-16T19:00:00.000-06:00
 end_date: 2023-12-16T23:59:00.000-06:00
 created_date: 2023-12-10T15:15:17.000-06:00
@@ -34,7 +34,7 @@ events:
     standings: []
   - name: SAMURAI SHODOWN
     start_date: 2023-12-16T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-7/events/samurai-shodown/brackets/1533611/2306286
     standings: []
   - name: SOULCALIBUR VI
