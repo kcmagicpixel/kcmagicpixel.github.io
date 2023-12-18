@@ -43,12 +43,12 @@ events:
     participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-7/events/samurai-shodown/brackets/1533611/2306286
     standings:
-      - player: ChronoSanaki
-        standing: 5
       - player: golbat
-        standing: 5
+        standing: 1
       - player: TheRatKing462
-        standing: 5
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
   - name: SOULCALIBUR VI
     start_date: 2023-12-16T21:00:00.000-06:00
     participant_count: 3
