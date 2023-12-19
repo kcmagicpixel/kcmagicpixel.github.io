@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-29
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 3
 start_date: 2023-12-19T19:00:00.000-06:00
 end_date: 2023-12-19T23:59:00.000-06:00
 created_date: 2023-12-10T15:27:28.000-06:00
@@ -19,12 +19,12 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2023-12-19T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-29/events/granblue-fantasy-versus-rising/brackets/1533638/2306313
     standings: []
   - name: Vampire Savior
     start_date: 2023-12-19T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-29/events/vampire-savior/brackets/1533635/2306310
     standings: []
   - name: "BlazBlue: Central Fiction"
