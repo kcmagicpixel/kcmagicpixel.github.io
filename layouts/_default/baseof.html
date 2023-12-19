@@ -15,6 +15,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href='{{ ($icon.Resize "32x32").RelPermalink }}'>
     <link rel="icon" type="image/png" sizes="16x16" href='{{ ($icon.Resize "16x16").RelPermalink }}'>
     <link rel="manifest" href="/site.webmanifest">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     <link rel="stylesheet" href="/styles/reset.css">
     {{ $globalStyle := resources.Get "styles/global.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $globalStyle.Permalink }}">
@@ -41,7 +42,7 @@
       <div id="root-frame" class="frame">
         <div class="top">
           <span class="left"></span>
-          <img src="/images/icon-conn-dialup.png" alt="" width="16px" height="16px" />
+          <img src="/images/icon-conn-dialup.png" alt="" width="16" height="16" />
           <div class="text">{{ .Site.Title }}</div>
           <span class="center"></span>
           <span class="right"></span>
