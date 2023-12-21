@@ -34,9 +34,9 @@ events:
     participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-29/events/vampire-savior/brackets/1533635/2306310
     standings:
-      - player: Enker
-        standing: 2
       - player: golbat
+        standing: 1
+      - player: Enker
         standing: 2
       - player: TheRatKing462
         standing: 3
