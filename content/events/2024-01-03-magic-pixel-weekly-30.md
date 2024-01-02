@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-30
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 3
 start_date: 2024-01-02T19:00:00.000-06:00
 end_date: 2024-01-02T23:58:00.000-06:00
 created_date: 2024-01-01T15:28:32.000-06:00
@@ -19,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-01-02T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-30/events/granblue-fantasy-versus-rising/brackets/1545303/2321748
     standings: []
   - name: "Guilty Gear: Strive"

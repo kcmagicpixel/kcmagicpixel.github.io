@@ -16,18 +16,8 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
-  - name: SAMURAI SHODOWN
-    start_date: 2024-01-06T19:00:00.000-06:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/samurai-shodown/brackets/1545313/2321758
-    standings: []
-  - name: SOULCALIBUR VI
-    start_date: 2024-01-06T19:00:00.000-06:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/scvi-double-elimination/brackets/1545306/2321751
-    standings: []
   - name: "Guilty Gear: Strive"
-    start_date: 2024-01-06T19:00:00.000-06:00
+    start_date: 2024-01-06T20:00:00.000-06:00
     participant_count: 0
     entry_fee: 5
     rules: >-
@@ -40,6 +30,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/strive/brackets/1545304/2321749
+    standings: []
+  - name: SOULCALIBUR VI
+    start_date: 2024-01-06T20:30:00.000-06:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/scvi-double-elimination/brackets/1545306/2321751
+    standings: []
+  - name: SAMURAI SHODOWN
+    start_date: 2024-01-06T21:00:00.000-06:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/samurai-shodown/brackets/1545313/2321758
     standings: []
 
 ---
