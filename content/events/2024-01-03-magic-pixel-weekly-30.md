@@ -17,13 +17,8 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
 events:
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2024-01-02T20:00:00.000-06:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-30/events/granblue-fantasy-versus-rising/brackets/1545303/2321748
-    standings: []
   - name: "Guilty Gear: Strive"
-    start_date: 2024-01-02T20:45:00.000-06:00
+    start_date: 2024-01-02T20:00:00.000-06:00
     participant_count: 0
     entry_fee: 5
     rules: >-
@@ -37,6 +32,11 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-30/events/strive/brackets/1545290/2321735
     standings: []
+  - name: "Granblue Fantasy Versus: Rising"
+    start_date: 2024-01-02T20:45:00.000-06:00
+    participant_count: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-30/events/granblue-fantasy-versus-rising/brackets/1545303/2321748
+    standings: []
 
 ---
 
@@ -48,8 +48,8 @@ As always, in addition to the brackets posted below, casuals are welcome for any
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**. 
 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
-- **GBVSR** (Bimmy) - 8:00pm, $0 entry
-- **GGST** (Lunatec) - 8:45pm, $5 entry 
+- **GGST** (Lunatec) - 8:00pm, $5 entry 
+- **GBVSR** (Bimmy) - 8:45pm, $0 entry
 
 Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!  
 
