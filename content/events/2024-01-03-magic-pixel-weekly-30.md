@@ -33,23 +33,22 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-30/events/strive/brackets/1545290/2321735
     standings:
       - player: OoeyGooeyChewySnicker
-        standing: 3
+        standing: 1
       - player: BoyeBall
+        standing: 2
+      - player: Gooba
         standing: 3
-      - player: Brian_D
-        prefix: VGHS
-        standing: 4
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-01-02T20:45:00.000-06:00
     participant_count: 13
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-30/events/granblue-fantasy-versus-rising/brackets/1545303/2321748
     standings:
       - player: Loafers
-        standing: 3
+        standing: 1
       - player: Gooba
-        standing: 3
+        standing: 2
       - player: Bimmy
-        standing: 5
+        standing: 3
 
 ---
 
