@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-8
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 12
 start_date: 2024-01-06T19:00:00.000-06:00
 end_date: 2024-01-06T23:59:00.000-06:00
 created_date: 2024-01-01T15:34:32.000-06:00
@@ -18,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2024-01-06T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 7
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -30,15 +31,27 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/strive/brackets/1545304/2321749
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 2
+      - player: Saucy
+        standing: 3
+      - player: BoyeBall
+        standing: 3
   - name: SOULCALIBUR VI
     start_date: 2024-01-06T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/scvi-double-elimination/brackets/1545306/2321751
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 5
+      - player: Graffiti Souls
+        standing: 5
+      - player: golbat
+        standing: 5
   - name: SAMURAI SHODOWN
     start_date: 2024-01-06T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/samurai-shodown/brackets/1545313/2321758
     standings: []
 
