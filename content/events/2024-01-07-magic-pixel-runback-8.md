@@ -33,27 +33,33 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/strive/brackets/1545304/2321749
     standings:
       - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: BoyeBall
         standing: 2
       - player: Saucy
-        standing: 3
-      - player: BoyeBall
         standing: 3
   - name: SOULCALIBUR VI
     start_date: 2024-01-06T20:30:00.000-06:00
     participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/scvi-double-elimination/brackets/1545306/2321751
     standings:
-      - player: ChronoSanaki
-        standing: 5
       - player: Graffiti Souls
-        standing: 5
-      - player: golbat
-        standing: 5
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: AlexP
+        standing: 3
   - name: SAMURAI SHODOWN
     start_date: 2024-01-06T21:00:00.000-06:00
     participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-8/events/samurai-shodown/brackets/1545313/2321758
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: Graffiti Souls
+        standing: 3
 
 ---
 
