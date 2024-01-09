@@ -39,7 +39,7 @@ events:
 
 ---
 
-Frosty Faustings XVI recovery edition. This will be our very first UNI2 bracket!
+Frosty Faustings XVI recovery edition. Come lick your wounds, regale us with tales of what might have been and almost was, and start putting what you learned to the test. Additionally, this will be our very first **Under Night In-Birth II Sys:Celes** bracket!
 
 As always, in addition to the brackets posted below, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
 

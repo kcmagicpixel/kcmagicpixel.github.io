@@ -42,7 +42,7 @@ As always, in addition to the brackets posted below, casuals are welcome for any
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**. 
 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
-- **SC2E** (golbat) - 8:00pm, $0 entry
+- **SG2E** (golbat) - 8:00pm, $0 entry
 - **SCVI** (Scrumby) - 8:30pm, $0 entry
 - **FUC** (Claíomh Solais) - 9:00pm, $0 entry
 
