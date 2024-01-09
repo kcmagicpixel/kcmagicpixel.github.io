@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-31
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 3
 start_date: 2024-01-09T19:00:00.000-06:00
 end_date: 2024-01-09T23:59:00.000-06:00
 created_date: 2024-01-08T21:05:15.000-06:00
@@ -24,11 +24,13 @@ events:
     standings: []
   - name: Under Night In-Birth Exe:Late[cl-r]
     start_date: 2024-01-09T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-31/events/uniclr/brackets/1550899/2329253
     standings: []
 
 ---
+
+## ⚠️ CANCELLED due to weather ⚠️
 
 Magic Pixel: Frosty French Bread edition. ❄🥖
 
