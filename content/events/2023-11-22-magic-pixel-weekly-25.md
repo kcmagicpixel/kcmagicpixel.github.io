@@ -33,7 +33,7 @@ events:
       The winner of each game must keep the same character. The loser of that game may switch character.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-25/events/mortal-kombat/brackets/1506441/2270849
     standings:
-      - player: HaterEX
+      - player: Mob$
         standing: 1
       - player: Bimmy
         standing: 2
