@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-32
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 17
 start_date: 2024-01-16T19:00:00.000-06:00
 end_date: 2024-01-16T23:59:00.000-06:00
 created_date: 2024-01-08T21:24:33.000-06:00
@@ -18,17 +19,24 @@ stream: bimmyfgc
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-01-16T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 12
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-32/events/granblue-fantasy-versus-rising/brackets/1550918/2329272
-    standings: []
+    standings:
+      - player: Bimmy
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: Gooba
+        standing: 3
   - name: Them's Fightin' Herds
     start_date: 2024-01-16T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-32/events/them-s-fightin-herds/brackets/1550908/2329262
     standings: []
   - name: Street Fighter 6
     start_date: 2024-01-16T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 8
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -39,7 +47,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-32/events/street-fighter-6/brackets/1550909/2329263
-    standings: []
+    standings:
+      - player: Loafer
+        standing: 2
+      - player: golbat
+        standing: 3
+      - player: Gooba
+        standing: 4
 
 ---
 
