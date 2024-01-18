@@ -23,11 +23,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-32/events/granblue-fantasy-versus-rising/brackets/1550918/2329272
     standings:
       - player: Bimmy
+        standing: 1
+      - player: Gooba
         standing: 2
       - player: Brian_D
         prefix: VGHS
-        standing: 3
-      - player: Gooba
         standing: 3
   - name: Them's Fightin' Herds
     start_date: 2024-01-16T20:30:00.000-06:00
@@ -48,12 +48,12 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-32/events/street-fighter-6/brackets/1550909/2329263
     standings:
+      - player: golbat
+        standing: 1
       - player: Loafer
         standing: 2
-      - player: golbat
-        standing: 3
       - player: Gooba
-        standing: 4
+        standing: 3
 
 ---
 
