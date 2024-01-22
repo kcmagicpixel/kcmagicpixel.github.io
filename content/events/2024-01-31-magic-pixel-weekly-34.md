@@ -37,10 +37,25 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-34/events/strive/brackets/1550966/2329324
     standings: []
+  - name: Tekken 8
+    start_date: 2024-01-30T21:00:00.000-06:00
+    participant_count: 0
+    entry_fee: 5
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminary sets are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The stage selected must be random for game 1.  
+
+      The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-34/events/tekken-8/brackets/1550980/2329338
+    standings: []
 
 ---
 
-Frosty Faustings XVI recovery edition. Come lick your wounds, regale us with tales of what might have been and almost was, and start putting what you learned to the test. Additionally, this will be our very first **Under Night In-Birth II Sys:Celes** bracket!
+Frosty Faustings XVI recovery edition. Come lick your wounds, regale us with tales of what might have been and almost was, and start putting what you learned to the test. Additionally, this will be our very first night running **TEKKEN 8** and **Under Night In-Birth II Sys:Celes** brackets!
 
 As always, in addition to the brackets posted below, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
 
@@ -50,6 +65,7 @@ $5 venue fee, collected by the shop staff. Game entry fees are collected by the 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
 - **UNI2** (Loafer) - 8:00pm, $0 entry
 - **GGST** (Lunatec) - 8:30pm, $5 entry
+- **TEKKEN 8** (TCxBones) - 9:00pm, $5 entry
 
 Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!  
 
