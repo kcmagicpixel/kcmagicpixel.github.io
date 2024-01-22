@@ -33,23 +33,23 @@ events:
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-9/events/scvi-double-elimination/brackets/1550924/2329278
     standings:
-      - player: ChronoSanaki
-        standing: 6
-      - player: Graffiti Souls
-        standing: 6
       - player: Fleabag
-        standing: 6
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: Graffiti Souls
+        standing: 3
   - name: Fate/unlimited codes
     start_date: 2024-01-20T21:00:00.000-06:00
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-9/events/fate-unlimited-codes/brackets/1550929/2329283
     standings:
       - player: Claiomh_Solais
-        standing: 3
+        standing: 1
+      - player: Ellen
+        standing: 2
       - player: ChronoSanaki
-        standing: 4
-      - player: Scrumby
-        standing: 5
+        standing: 3
 
 ---
 
