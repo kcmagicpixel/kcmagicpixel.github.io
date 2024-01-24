@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-33
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 6
 start_date: 2024-01-23T19:00:00.000-06:00
 end_date: 2024-01-23T23:59:00.000-06:00
 created_date: 2024-01-08T21:37:44.000-06:00
@@ -19,12 +19,18 @@ stream: bimmyfgc
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-01-23T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-33/events/melty-blood-type-lumina/brackets/1550945/2329299
-    standings: []
+    standings:
+      - player: Derpy
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: Street Fighter 6
     start_date: 2024-01-23T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 3
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
