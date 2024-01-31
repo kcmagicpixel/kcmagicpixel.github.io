@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-34
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 28
 start_date: 2024-01-30T19:00:00.000-06:00
 end_date: 2024-01-30T23:58:00.000-06:00
 created_date: 2024-01-08T21:47:03.000-06:00
@@ -19,12 +19,18 @@ stream: bimmyfgc
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-01-30T20:00:00.000-06:00
-    participant_count: 3
+    participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-34/events/under-night-in-birth-ii-sys-celes/brackets/1550985/2329346
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 2
+      - player: Sheepy
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-01-30T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -36,10 +42,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-34/events/strive/brackets/1550966/2329324
-    standings: []
+    standings:
+      - player: BoyeBall
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: GeotheGeo
+        standing: 3
   - name: Tekken 8
     start_date: 2024-01-30T21:00:00.000-06:00
-    participant_count: 5
+    participant_count: 16
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -51,7 +63,13 @@ events:
 
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-34/events/tekken-8/brackets/1550980/2329338
-    standings: []
+    standings:
+      - player: deapest
+        standing: 3
+      - player: Scrumby
+        standing: 3
+      - player: TCxBones
+        standing: 5
 
 ---
 
