@@ -23,7 +23,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-34/events/under-night-in-birth-ii-sys-celes/brackets/1550985/2329346
     standings:
       - player: Loafers
-        standing: 2
+        standing: 1
       - player: Sheepy
         standing: 2
       - player: golbat
@@ -64,12 +64,12 @@ events:
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-34/events/tekken-8/brackets/1550980/2329338
     standings:
+      - player: Scrumby
+        standing: 1
+      - player: Fleabag
+        standing: 2
       - player: deapest
         standing: 3
-      - player: Scrumby
-        standing: 3
-      - player: TCxBones
-        standing: 5
 
 ---
 
