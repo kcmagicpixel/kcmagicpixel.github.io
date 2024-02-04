@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-10
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 16
 start_date: 2024-02-03T19:00:00.000-06:00
 end_date: 2024-02-03T23:59:00.000-06:00
 created_date: 2024-01-31T22:04:21.000-06:00
@@ -18,7 +19,7 @@ stream: bimmyfgc
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2024-02-03T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -30,17 +31,36 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-10/events/strive/brackets/1570781/2355424
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: BoyeBall
+        standing: 3
   - name: SAMURAI SHODOWN
     start_date: 2024-02-03T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-10/events/samurai-shodown/brackets/1570788/2355431
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: Ellen
+        standing: 3
   - name: Fate/unlimited codes
     start_date: 2024-02-03T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-10/events/fate-unlimited-codes/brackets/1570787/2355430
-    standings: []
+    standings:
+      - player: Claiomh_Solais
+        standing: 3
+      - player: ChronoSanaki
+        standing: 4
+      - player: Cy3qi
+        standing: 5
 
 ---
 
