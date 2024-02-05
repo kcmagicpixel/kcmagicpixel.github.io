@@ -33,10 +33,10 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-10/events/strive/brackets/1570781/2355424
     standings:
       - player: OoeyGooeyChewySnicker
-        standing: 2
+        standing: 1
       - player: Brian_D
         prefix: VGHS
-        standing: 3
+        standing: 2
       - player: BoyeBall
         standing: 3
   - name: SAMURAI SHODOWN
@@ -56,11 +56,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-10/events/fate-unlimited-codes/brackets/1570787/2355430
     standings:
       - player: Claiomh_Solais
-        standing: 3
+        standing: 1
+      - player: Ellen
+        standing: 2
       - player: ChronoSanaki
-        standing: 4
-      - player: Cy3qi
-        standing: 5
+        standing: 3
 
 ---
 
