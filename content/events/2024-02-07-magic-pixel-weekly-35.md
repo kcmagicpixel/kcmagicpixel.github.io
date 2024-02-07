@@ -8,18 +8,18 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-35
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 29
 start_date: 2024-02-06T19:00:00.000-06:00
 end_date: 2024-02-06T23:59:00.000-06:00
 created_date: 2024-01-31T22:24:07.000-06:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
-stream: bimmyfgc
+stream: kcmagicpixel
 events:
   - name: Street Fighter 6
     start_date: 2024-02-06T20:00:00.000-06:00
-    participant_count: 3
+    participant_count: 10
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -30,15 +30,27 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-35/events/street-fighter-6/brackets/1570799/2355442
-    standings: []
+    standings:
+      - player: golbat
+        standing: 2
+      - player: Loafers
+        standing: 3
+      - player: Ms Gaypom the Clown
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-02-06T20:30:00.000-06:00
-    participant_count: 2
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-35/events/melty-blood-type-lumina/brackets/1570800/2355443
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 1
+      - player: Derpy
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-02-06T21:00:00.000-06:00
-    participant_count: 2
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -50,7 +62,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-35/events/strive/brackets/1570796/2355439
-    standings: []
+    standings:
+      - player: Gooba
+        standing: 3
+      - player: GeotheGeo
+        standing: 3
+      - player: Saucy
+        standing: 4
 
 ---
 
