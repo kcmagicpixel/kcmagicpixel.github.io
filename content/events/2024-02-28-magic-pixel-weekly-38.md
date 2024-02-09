@@ -16,8 +16,26 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
+  - name: Vampire Savior
+    start_date: 2024-02-27T20:00:00.000-06:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-38/events/vampire-savior/brackets/1578317/2365158
+    standings: []
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2024-02-27T20:30:00.000-06:00
+    participant_count: 0
+    rules: |-
+      - Default settings
+      - 2/3 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+      - Random stage select (players may opt for an agreed stage)
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-38/events/melty-blood-type-lumina/brackets/1578311/2365152
+    standings: []
   - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2024-02-27T19:00:00.000-06:00
+    start_date: 2024-02-27T21:00:00.000-06:00
     participant_count: 0
     rules: |-
       - Version: PS4 on PS5
@@ -32,24 +50,6 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-38/events/granblue-fantasy-versus-rising/brackets/1578318/2365159
-    standings: []
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2024-02-27T19:00:00.000-06:00
-    participant_count: 0
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-38/events/melty-blood-type-lumina/brackets/1578311/2365152
-    standings: []
-  - name: Vampire Savior
-    start_date: 2024-02-27T19:00:00.000-06:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-38/events/vampire-savior/brackets/1578317/2365158
     standings: []
 
 ---

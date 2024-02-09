@@ -16,28 +16,13 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Guilty Gear: Strive"
-    start_date: 2024-02-17T19:00:00.000-06:00
-    participant_count: 0
-    entry_fee: 5
-    rules: >-
-      Game will be played on **PS4**, entrants must provide their own compatible
-      controller.  
-
-      All sets are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/guilty-gear-strive/brackets/1578243/2365067
-    standings: []
   - name: SOULCALIBUR VI
-    start_date: 2024-02-17T19:00:00.000-06:00
+    start_date: 2024-02-17T20:00:00.000-06:00
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/soulcalibur-vi/brackets/1578244/2365068
     standings: []
   - name: "Skullgirls: 2nd Encore"
-    start_date: 2024-02-17T19:00:00.000-06:00
+    start_date: 2024-02-17T20:30:00.000-06:00
     participant_count: 0
     rules: >-
       - Default settings
@@ -52,6 +37,21 @@ events:
 
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/skullgirls-2nd-encore/brackets/1578252/2365076
+    standings: []
+  - name: "Guilty Gear: Strive"
+    start_date: 2024-02-17T21:00:00.000-06:00
+    participant_count: 0
+    entry_fee: 5
+    rules: >-
+      Game will be played on **PS4**, entrants must provide their own compatible
+      controller.  
+
+      All sets are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/guilty-gear-strive/brackets/1578243/2365067
     standings: []
 
 ---

@@ -17,7 +17,7 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: Street Fighter 6
-    start_date: 2024-02-20T19:00:00.000-06:00
+    start_date: 2024-02-20T20:00:00.000-06:00
     participant_count: 0
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -31,7 +31,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/street-fighter-6/brackets/1578290/2365125
     standings: []
   - name: Them's Fightin' Herds
-    start_date: 2024-02-20T19:00:00.000-06:00
+    start_date: 2024-02-20T20:30:00.000-06:00
     participant_count: 0
     rules: |-
       - Default settings
@@ -44,7 +44,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/them-s-fightin-herds/brackets/1578289/2365124
     standings: []
   - name: Under Night In-Birth II Sys:Celes
-    start_date: 2024-02-20T19:00:00.000-06:00
+    start_date: 2024-02-20T21:00:00.000-06:00
     participant_count: 0
     rules: |-
       - Default settings
