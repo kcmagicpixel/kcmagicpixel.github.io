@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-36
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 13
 start_date: 2024-02-13T19:00:00.000-06:00
 end_date: 2024-02-13T23:59:00.000-06:00
 created_date: 2024-02-09T09:49:40.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-02-13T20:00:00.000-06:00
-    participant_count: 3
+    participant_count: 5
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -32,12 +32,12 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-02-13T20:30:00.000-06:00
-    participant_count: 2
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-36/events/granblue-fantasy-versus-rising/brackets/1578236/2365059
     standings: []
   - name: Tekken 8
     start_date: 2024-02-13T21:00:00.000-06:00
-    participant_count: 3
+    participant_count: 11
     entry_fee: 5
     rules: >-
       - Tournament Mode Default Settings
@@ -54,11 +54,17 @@ events:
 
       - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-36/events/tekken-8/brackets/1578237/2365060
-    standings: []
+    standings:
+      - player: Bones
+        standing: 2
+      - player: Fleabag
+        standing: 3
+      - player: Bimmy
+        standing: 3
 
 ---
 
-Come on out and join us for this month's **TEKKEN 8** tournament! We'll also be running **GBVSR** and **UNI2** tonight, as well as **Mobile Suit Gundam Extreme Vs. Maxi Boost ON** casuals all night in a dedicated area!
+Come on out and join us for this month's **TEKKEN 8** tournament! We'll also be running **GBVSR** and **UNI2** tonight.
 
 As always, in addition to the brackets posted below, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
 
