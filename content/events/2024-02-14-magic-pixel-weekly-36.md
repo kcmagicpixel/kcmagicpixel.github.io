@@ -55,10 +55,10 @@ events:
       - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-36/events/tekken-8/brackets/1578237/2365060
     standings:
+      - player: Fleabag
+        standing: 2
       - player: Bones
         standing: 2
-      - player: Fleabag
-        standing: 3
       - player: Bimmy
         standing: 3
 
