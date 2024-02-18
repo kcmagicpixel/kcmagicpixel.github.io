@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-11
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 12
 start_date: 2024-02-17T19:00:00.000-06:00
 end_date: 2024-02-17T23:59:00.000-06:00
 created_date: 2024-02-09T09:57:04.000-06:00
@@ -18,9 +19,15 @@ stream: kcmagicpixel
 events:
   - name: SOULCALIBUR VI
     start_date: 2024-02-17T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/soulcalibur-vi/brackets/1578244/2365068
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 6
+      - player: Graffiti Souls
+        standing: 6
+      - player: Riley
+        standing: 6
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-02-17T20:30:00.000-06:00
     participant_count: 0
@@ -40,7 +47,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-02-17T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -52,7 +59,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/guilty-gear-strive/brackets/1578243/2365067
-    standings: []
+    standings:
+      - player: Gooba
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: OoeyGooeyChewySnicker
+        standing: 3
 
 ---
 
