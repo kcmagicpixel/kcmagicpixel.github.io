@@ -22,12 +22,12 @@ events:
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/soulcalibur-vi/brackets/1578244/2365068
     standings:
-      - player: ChronoSanaki
-        standing: 6
       - player: Graffiti Souls
-        standing: 6
-      - player: Riley
-        standing: 6
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-02-17T20:30:00.000-06:00
     participant_count: 0
@@ -60,12 +60,12 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/guilty-gear-strive/brackets/1578243/2365067
     standings:
-      - player: Gooba
-        standing: 3
+      - player: OoeyGooeyChewySnicker
+        standing: 1
       - player: Brian_D
         prefix: VGHS
-        standing: 3
-      - player: OoeyGooeyChewySnicker
+        standing: 2
+      - player: Gooba
         standing: 3
 
 ---
