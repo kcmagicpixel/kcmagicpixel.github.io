@@ -28,23 +28,6 @@ events:
         standing: 2
       - player: ChronoSanaki
         standing: 3
-  - name: "Skullgirls: 2nd Encore"
-    start_date: 2024-02-17T20:30:00.000-06:00
-    participant_count: 0
-    rules: >-
-      - Default settings
-
-      - 2/3 Rounds per Game in solo character vs. solo character matches
-
-      - 3/5 Games per Set
-
-      - Winner of prior game must keep same character(s) and, if applicable, assists
-
-      - Loser of prior game may switch character(s) and, if applicable, assists
-
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-11/events/skullgirls-2nd-encore/brackets/1578252/2365076
-    standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-02-17T21:00:00.000-06:00
     participant_count: 6

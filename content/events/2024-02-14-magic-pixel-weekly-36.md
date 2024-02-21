@@ -17,24 +17,6 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: Under Night In-Birth II Sys:Celes
-    start_date: 2024-02-13T20:00:00.000-06:00
-    participant_count: 5
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-36/events/under-night-in-birth-ii-sys-celes/brackets/1578238/2365061
-    standings: []
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2024-02-13T20:30:00.000-06:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-36/events/granblue-fantasy-versus-rising/brackets/1578236/2365059
-    standings: []
   - name: Tekken 8
     start_date: 2024-02-13T21:00:00.000-06:00
     participant_count: 11
