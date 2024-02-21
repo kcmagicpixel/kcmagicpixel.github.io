@@ -64,7 +64,7 @@ events:
 
 ---
 
-Come on out and join us for this month's **TEKKEN 8** tournament! We'll also be running **GBVSR** and **UNI2** tonight.
+Come on out and join us for this month's **TEKKEN 8** tournament! ~~We'll also be running **GBVSR** and **UNI2** tonight.~~ (cancelled due to illness)
 
 As always, in addition to the brackets posted below, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
 
@@ -72,8 +72,8 @@ As always, in addition to the brackets posted below, casuals are welcome for any
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**. 
 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
-- **UNI2** (Loafer) - 8:00pm, $0 entry
-- **GBVSR** (Bimmy) - 8:30pm, $0 entry
+- ~~**UNI2** (Loafer) - 8:00pm, $0 entry~~
+- ~~**GBVSR** (Bimmy) - 8:30pm, $0 entry~~
 - **TEKKEN8** (TCxBones) - 9:00pm, $5 entry
 
 Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!  

@@ -79,7 +79,7 @@ $5 venue fee, collected by the shop staff. Game entry fees are collected by the 
 
 - **Doors open** - 7pm, please pay your venue fee and check in with the TO on arrival
 - **SCVI** (Scrumby) - 8:00pm, $0 entry
-- **SG2E** (golbat) - 8:30pm, $0 entry
+- ~~**SG2E** (golbat) - 8:30pm, $0 entry~~ (cancelled due to illness)
 - **GGST** (Gaypom) - 9:00pm, $5 entry
 
 Participants must bring their own controller and any necessary adapter, though we do have a limited number of community PS4 controllers and Brook PS5 adapters available. We rely on all of you to be able to run our brackets, so please bring your setup out (a playstation with the game + all character DLC + a monitor) if you are able!  

@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-37
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 18
 start_date: 2024-02-20T19:00:00.000-06:00
 end_date: 2024-02-20T23:59:00.000-06:00
 created_date: 2024-02-09T10:21:46.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: Street Fighter 6
     start_date: 2024-02-20T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -30,10 +30,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/street-fighter-6/brackets/1578290/2365125
-    standings: []
+    standings:
+      - player: golbat
+        standing: 2
+      - player: Fox-Shot
+        standing: 3
+      - player: Gooba
+        standing: 3
   - name: Them's Fightin' Herds
     start_date: 2024-02-20T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 7
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -43,10 +49,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/them-s-fightin-herds/brackets/1578289/2365124
-    standings: []
+    standings:
+      - player: golbat
+        standing: 2
+      - player: Fleabag
+        standing: 3
+      - player: Ellen
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-02-20T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 7
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -56,7 +68,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/under-night-in-birth-ii-sys-celes/brackets/1578300/2365135
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 3
+      - player: Ellen
+        standing: 3
+      - player: Sheepy
+        standing: 4
 
 ---
 
