@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-37
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 18
+participant_count: 21
 start_date: 2024-02-20T19:00:00.000-06:00
 end_date: 2024-02-20T23:59:00.000-06:00
 created_date: 2024-02-09T10:21:46.000-06:00
@@ -51,10 +51,10 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/them-s-fightin-herds/brackets/1578289/2365124
     standings:
       - player: golbat
+        standing: 1
+      - player: Ellen
         standing: 2
       - player: Fleabag
-        standing: 3
-      - player: Ellen
         standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-02-20T21:00:00.000-06:00
@@ -69,12 +69,12 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/under-night-in-birth-ii-sys-celes/brackets/1578300/2365135
     standings:
+      - player: Ellen
+        standing: 2
+      - player: Sheepy
+        standing: 2
       - player: ChronoSanaki
         standing: 3
-      - player: Ellen
-        standing: 3
-      - player: Sheepy
-        standing: 4
 
 ---
 
