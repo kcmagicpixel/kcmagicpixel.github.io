@@ -32,10 +32,10 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-37/events/street-fighter-6/brackets/1578290/2365125
     standings:
       - player: golbat
+        standing: 1
+      - player: Gooba
         standing: 2
       - player: Fox-Shot
-        standing: 3
-      - player: Gooba
         standing: 3
   - name: Them's Fightin' Herds
     start_date: 2024-02-20T20:30:00.000-06:00
