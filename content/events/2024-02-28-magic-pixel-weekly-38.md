@@ -65,12 +65,12 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-38/events/granblue-fantasy-versus-rising/brackets/1578318/2365159
     standings:
       - player: Bimmy
-        standing: 3
+        standing: 1
+      - player: Saucy
+        standing: 2
       - player: Brian_D
         prefix: VGHS
-        standing: 5
-      - player: Pyralis
-        standing: 5
+        standing: 3
 
 ---
 
