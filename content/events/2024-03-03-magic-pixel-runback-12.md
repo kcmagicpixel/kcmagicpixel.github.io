@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-12
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 4
 start_date: 2024-03-02T19:00:00.000-06:00
 end_date: 2024-03-02T23:58:00.000-06:00
 created_date: 2024-02-24T13:06:43.000-06:00
@@ -32,9 +33,15 @@ events:
     standings: []
   - name: SOULCALIBUR VI
     start_date: 2024-03-02T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-12/events/soulcalibur-vi/brackets/1591425/2382711
-    standings: []
+    standings:
+      - player: Scrumby
+        standing: 1
+      - player: Graffiti Souls
+        standing: 2
+      - player: Fleabag
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-03-02T21:00:00.000-06:00
     participant_count: 0
