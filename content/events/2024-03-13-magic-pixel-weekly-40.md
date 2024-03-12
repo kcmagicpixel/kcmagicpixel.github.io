@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-40
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 2
 start_date: 2024-03-12T19:00:00.000-05:00
 end_date: 2024-03-12T23:59:00.000-05:00
 created_date: 2024-02-24T13:26:18.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-03-12T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -49,7 +49,7 @@ events:
     standings: []
   - name: Tekken 8
     start_date: 2024-03-12T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     rules: >-
       - Tournament Mode Default Settings
