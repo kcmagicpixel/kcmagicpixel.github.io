@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-40
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 35
 start_date: 2024-03-12T19:00:00.000-05:00
 end_date: 2024-03-12T23:59:00.000-05:00
 created_date: 2024-02-24T13:26:18.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-03-12T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 11
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -33,10 +33,17 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-40/events/granblue-fantasy-versus-rising/brackets/1591475/2382764
-    standings: []
+    standings:
+      - player: Loafer
+        standing: 1
+      - player: Gooba
+        standing: 2
+      - player: Saucy
+        prefix: MP
+        standing: 3
   - name: Them's Fightin' Herds
     start_date: 2024-03-12T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -45,11 +52,19 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
+      -Baihe is banned
+      -Nidra is allowed, activation of the freeze glitch will count as a loss
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-40/events/them-s-fightin-herds/brackets/1591466/2382755
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Fleabag
+        standing: 2
+      - player: Scrumby
+        standing: 3
   - name: Tekken 8
     start_date: 2024-03-12T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 24
     entry_fee: 5
     rules: >-
       - Tournament Mode Default Settings
@@ -66,7 +81,14 @@ events:
 
       - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-40/events/tekken-8/brackets/1591476/2382765
-    standings: []
+    standings:
+      - player: InVaines
+        prefix: AXL
+        standing: 2
+      - player: TCxBones
+        standing: 3
+      - player: Loafer
+        standing: 4
 
 ---
 
