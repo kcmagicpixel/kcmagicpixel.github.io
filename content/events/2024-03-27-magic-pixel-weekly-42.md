@@ -1,25 +1,38 @@
 ---
-title: "Magic Pixel Weekly #40"
-slug: magic-pixel-weekly-40
+title: "Magic Pixel Weekly #42"
+slug: magic-pixel-weekly-42
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-40
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-42
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 36
-start_date: 2024-03-12T19:00:00.000-05:00
-end_date: 2024-03-12T23:59:00.000-05:00
-created_date: 2024-02-24T13:26:18.000-06:00
+start_date: 2024-03-26T19:00:00.000-05:00
+end_date: 2024-03-26T23:59:00.000-05:00
+created_date: 2024-03-13T20:27:23.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
+  - name: Street Fighter 6
+    start_date: 2024-03-26T20:00:00.000-05:00
+    participant_count: 0
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-42/events/street-fighter-6/brackets/1608824/2405546
+    standings: []
   - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2024-03-12T20:00:00.000-05:00
-    participant_count: 11
+    start_date: 2024-03-26T20:30:00.000-05:00
+    participant_count: 0
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -32,39 +45,11 @@ events:
       - Random stage select (players may opt for an agreed stage)
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-40/events/granblue-fantasy-versus-rising/brackets/1591475/2382764
-    standings:
-      - player: Loafer
-        standing: 1
-      - player: Gooba
-        standing: 2
-      - player: Saucy
-        prefix: MP
-        standing: 3
-  - name: Them's Fightin' Herds
-    start_date: 2024-03-12T20:30:00.000-05:00
-    participant_count: 4
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      -Baihe is banned
-      -Nidra is allowed, activation of the freeze glitch will count as a loss
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-40/events/them-s-fightin-herds/brackets/1591466/2382755
-    standings:
-      - player: golbat
-        standing: 1
-      - player: Fleabag
-        standing: 2
-      - player: Scrumby
-        standing: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-42/events/granblue-fantasy-versus-rising/brackets/1608832/2405554
+    standings: []
   - name: Tekken 8
-    start_date: 2024-03-12T21:00:00.000-05:00
-    participant_count: 24
+    start_date: 2024-03-26T21:00:00.000-05:00
+    participant_count: 0
     entry_fee: 5
     rules: >-
       - Tournament Mode Default Settings
@@ -80,27 +65,20 @@ events:
       - Winner of prior game must keep same character
 
       - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-40/events/tekken-8/brackets/1591476/2382765
-    standings:
-      - player: InVaines
-        prefix: AXL
-        standing: 1
-      - player: TCxBones
-        standing: 2
-      - player: Hez
-        standing: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-42/events/tekken-8/brackets/1608833/2405555
+    standings: []
 
 ---
 
-We're back again with another week of top-tier gaming. Look forward to French Bread day next week, but for this week we've got Granblue Rising, TEKKEN 8, and Them's Fightin' Herds!
+The end of March is upon us, and as we gaze forward into Q2 we see the numbers going _way_ up, the shareholder value skyrocketing, OKRs and KPIs exceeding expectations, and of course many more locals. We'll close out the quarter with **Street Fighter 6**, **Granblue Fantasy Versus: Rising**, and **TEKKEN 8**. See you there.
 
 As always, in addition to the brackets posted below, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! We've had a huge number of people out for Tekken 8 casuals this month, so if that's what you're trying to play, you'll find games!
 
 ## Fee and Schedule
 
 - **Doors open** - 7pm, please pay your venue fee and check in with a TO on arrival (in parentheses below)
-- **GBVSR** (Bimmy) - 8:00pm, $0 entry
-- **TFH** (Fleabag) - 8:30pm, $0 entry
+- **SF6** (toad_slayer) - 8:00pm, $0 entry
+- **GBVSR** (Bimmy) - 8:30pm, $0 entry
 - **TEKKEN 8** (TCxBones) - 9:00pm, $5 entry
 
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**. 
