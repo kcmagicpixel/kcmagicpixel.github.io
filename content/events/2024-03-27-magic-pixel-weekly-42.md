@@ -47,7 +47,7 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-42/events/granblue-fantasy-versus-rising/brackets/1608832/2405554
     standings: []
-  - name: Tekken 8
+  - name: TEKKEN 8
     start_date: 2024-03-26T21:00:00.000-05:00
     participant_count: 0
     entry_fee: 5

@@ -62,7 +62,7 @@ events:
         standing: 2
       - player: Scrumby
         standing: 3
-  - name: Tekken 8
+  - name: TEKKEN 8
     start_date: 2024-03-12T21:00:00.000-05:00
     participant_count: 24
     entry_fee: 5

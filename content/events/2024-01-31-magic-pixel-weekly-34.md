@@ -49,7 +49,7 @@ events:
         standing: 2
       - player: GeotheGeo
         standing: 3
-  - name: Tekken 8
+  - name: TEKKEN 8
     start_date: 2024-01-30T21:00:00.000-06:00
     participant_count: 16
     entry_fee: 5
