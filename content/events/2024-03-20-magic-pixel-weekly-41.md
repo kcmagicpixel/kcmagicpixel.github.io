@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-41
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 14
 start_date: 2024-03-19T19:00:00.000-05:00
 end_date: 2024-03-19T23:59:00.000-05:00
 created_date: 2024-03-13T19:51:07.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-03-19T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,10 +29,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-41/events/melty-blood-type-lumina/brackets/1608776/2405495
-    standings: []
+    standings:
+      - player: Derpy
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Emi
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-03-19T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 8
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -42,10 +48,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-41/events/under-night-in-birth-ii-sys-celes/brackets/1608785/2405504
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-03-19T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     rules: >-
       - Default settings
 
@@ -59,7 +71,13 @@ events:
 
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-41/events/skullgirls-2nd-encore/brackets/1608781/2405500
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Fleabag
+        standing: 2
+      - player: Enker
+        standing: 3
 
 ---
 
