@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-13
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 17
 start_date: 2024-03-23T19:00:00.000-05:00
 end_date: 2024-03-23T23:59:00.000-05:00
 created_date: 2024-03-13T20:06:28.000-05:00
@@ -19,17 +19,29 @@ stream: kcmagicpixel
 events:
   - name: SOULCALIBUR VI
     start_date: 2024-03-23T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-13/events/soulcalibur-vi/brackets/1608802/2405524
-    standings: []
+    standings:
+      - player: Graffiti Souls
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: Digi
+        standing: 3
   - name: Fate/unlimited codes
     start_date: 2024-03-23T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-13/events/fate-unlimited-codes/brackets/1608807/2405529
-    standings: []
+    standings:
+      - player: Claiomh_Solais
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: Scrumby
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-03-23T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -41,7 +53,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-13/events/guilty-gear-strive/brackets/1608801/2405523
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Pyralis
+        standing: 3
 
 ---
 
