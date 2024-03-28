@@ -31,29 +31,12 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-42/events/street-fighter-6/brackets/1608824/2405546
     standings:
-      - player: golbat
-        standing: 2
       - player: Loafers
+        standing: 1
+      - player: golbat
         standing: 2
       - player: Gooba
         standing: 3
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2024-03-26T20:30:00.000-05:00
-    participant_count: 6
-    rules: |-
-      - Version: PS4 on PS5
-      - Double Elimination
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      - Color 17 is banned for all characters
-      - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-42/events/granblue-fantasy-versus-rising/brackets/1608832/2405554
-    standings: []
   - name: TEKKEN 8
     start_date: 2024-03-26T21:00:00.000-05:00
     participant_count: 16
@@ -75,9 +58,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-42/events/tekken-8/brackets/1608833/2405555
     standings:
       - player: Scrumby
-        standing: 2
+        standing: 1
       - player: lillard
-        standing: 3
+        standing: 2
       - player: Pooty
         standing: 3
 
