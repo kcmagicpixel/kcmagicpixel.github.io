@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-43
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 19
 start_date: 2024-04-02T19:00:00.000-05:00
 end_date: 2024-04-02T23:59:00.000-05:00
 created_date: 2024-04-01T20:35:49.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Guilty Gear: Strive"
     start_date: 2024-04-02T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 13
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -31,10 +31,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-43/events/guilty-gear-strive/brackets/1625437/2427725
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-04-02T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 5
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -44,7 +51,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-43/events/melty-blood-type-lumina/brackets/1625441/2427729
-    standings: []
+    standings:
+      - player: Derpy
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Sheepy
+        standing: 3
 
 ---
 
