@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-14
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 9
 start_date: 2024-04-06T19:00:00.000-05:00
 end_date: 2024-04-06T23:58:00.000-05:00
 created_date: 2024-04-01T21:30:48.000-05:00
@@ -18,17 +19,29 @@ stream: kcmagicpixel
 events:
   - name: The King of Fighters XV
     start_date: 2024-04-06T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-14/events/king-of-fighters-xv/brackets/1625526/2427822
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
   - name: SOULCALIBUR VI
     start_date: 2024-04-06T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-14/events/soulcalibur-vi/brackets/1625512/2427808
-    standings: []
+    standings:
+      - player: Graffiti Souls
+        standing: 6
+      - player: ChronoSanaki
+        standing: 6
+      - player: Fleabag
+        standing: 6
   - name: Them's Fightin' Herds
     start_date: 2024-04-06T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
