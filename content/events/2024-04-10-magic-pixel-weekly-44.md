@@ -16,8 +16,22 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: TEKKEN 8
+  - name: Street Fighter 6
     start_date: 2024-04-09T20:00:00.000-05:00
+    participant_count: 0
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-44/events/street-fighter-6/brackets/1631486/2435593
+    standings: []
+  - name: TEKKEN 8
+    start_date: 2024-04-09T21:00:00.000-05:00
     participant_count: 0
     entry_fee: 5
     rules: >-
@@ -36,20 +50,6 @@ events:
       - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-44/events/tekken-8/brackets/1631495/2435602
     standings: []
-  - name: Street Fighter 6
-    start_date: 2024-04-09T21:00:00.000-05:00
-    participant_count: 0
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-44/events/street-fighter-6/brackets/1631486/2435593
-    standings: []
 
 ---
 
@@ -62,8 +62,8 @@ As always, in addition to the brackets posted below, casuals are welcome for any
 ## Fee and Schedule
 
 - **Doors open** - 7pm, please pay your venue fee and check in with a TO on arrival (in parentheses below)
-- **TEKKEN 8** (Enker) - 8:00pm, $5 entry
-- **SF6** (Chibitanner) - 9:00pm, $0 entry
+- **SF6** (Chibitanner) - 8:00pm, $0 entry
+- **TEKKEN 8** (Enker) - 9:00pm, $5 entry
 
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**. 
 

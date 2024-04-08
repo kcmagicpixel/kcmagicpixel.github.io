@@ -39,21 +39,6 @@ events:
         standing: 2
       - player: Fleabag
         standing: 3
-  - name: Them's Fightin' Herds
-    start_date: 2024-04-06T21:00:00.000-05:00
-    participant_count: 2
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      -Baihe is banned
-      -Nidra is allowed, activation of the freeze glitch will count as a loss
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-14/events/them-s-fightin-herds/brackets/1625513/2427809
-    standings: []
 
 ---
 
