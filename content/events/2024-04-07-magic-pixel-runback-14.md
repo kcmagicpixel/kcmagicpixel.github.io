@@ -33,12 +33,12 @@ events:
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-14/events/soulcalibur-vi/brackets/1625512/2427808
     standings:
+      - player: Scrumby
+        standing: 1
       - player: Graffiti Souls
-        standing: 6
-      - player: ChronoSanaki
-        standing: 6
+        standing: 2
       - player: Fleabag
-        standing: 6
+        standing: 3
   - name: Them's Fightin' Herds
     start_date: 2024-04-06T21:00:00.000-05:00
     participant_count: 2
