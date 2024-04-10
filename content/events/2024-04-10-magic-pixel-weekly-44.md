@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-44
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 33
 start_date: 2024-04-09T19:00:00.000-05:00
 end_date: 2024-04-09T23:58:00.000-05:00
 created_date: 2024-04-08T11:03:16.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: Street Fighter 6
     start_date: 2024-04-09T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -30,10 +30,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-44/events/street-fighter-6/brackets/1631486/2435593
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Moiseivitch
+        standing: 2
+      - player: Loafers
+        standing: 3
   - name: TEKKEN 8
     start_date: 2024-04-09T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 14
     entry_fee: 5
     rules: >-
       - Tournament Mode Default Settings
@@ -50,7 +56,14 @@ events:
 
       - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-44/events/tekken-8/brackets/1631495/2435602
-    standings: []
+    standings:
+      - player: InVaines
+        prefix: AXL
+        standing: 1
+      - player: lillard
+        standing: 2
+      - player: Scrumby
+        standing: 3
 
 ---
 
