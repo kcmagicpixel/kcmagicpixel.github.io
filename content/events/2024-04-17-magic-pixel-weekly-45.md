@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-45
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2024-04-16T19:00:00.000-05:00
 end_date: 2024-04-16T23:59:00.000-05:00
 created_date: 2024-04-14T14:33:08.000-05:00
@@ -48,7 +49,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-04-16T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
