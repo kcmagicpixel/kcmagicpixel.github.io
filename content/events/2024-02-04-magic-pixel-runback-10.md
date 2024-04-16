@@ -7,7 +7,6 @@ ref_icon: https://images.start.gg/images/tournament/633256/image-f9d15186438f13a
 url_startgg: https://www.start.gg/tournament/magic-pixel-runback-10
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-venue_fee: 5
 participant_count: 16
 start_date: 2024-02-03T19:00:00.000-06:00
 end_date: 2024-02-03T23:59:00.000-06:00
@@ -20,7 +19,6 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2024-02-03T20:00:00.000-06:00
     participant_count: 10
-    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  

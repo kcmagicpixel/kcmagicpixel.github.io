@@ -7,7 +7,6 @@ ref_icon: https://images.start.gg/images/tournament/654765/image-8c3aac8e793f4c3
 url_startgg: https://www.start.gg/tournament/magic-pixel-runback-14
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-venue_fee: 5
 participant_count: 9
 start_date: 2024-04-06T19:00:00.000-05:00
 end_date: 2024-04-06T23:58:00.000-05:00

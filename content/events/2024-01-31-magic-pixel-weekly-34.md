@@ -7,7 +7,6 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-34
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-venue_fee: 5
 participant_count: 28
 start_date: 2024-01-30T19:00:00.000-06:00
 end_date: 2024-01-30T23:58:00.000-06:00
@@ -31,7 +30,6 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2024-01-30T20:30:00.000-06:00
     participant_count: 6
-    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
@@ -52,7 +50,6 @@ events:
   - name: TEKKEN 8
     start_date: 2024-01-30T21:00:00.000-06:00
     participant_count: 16
-    entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
