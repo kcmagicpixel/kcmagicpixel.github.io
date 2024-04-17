@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-45
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 17
 start_date: 2024-04-16T19:00:00.000-05:00
 end_date: 2024-04-16T23:59:00.000-05:00
 created_date: 2024-04-14T14:33:08.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-04-16T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 5
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,10 +29,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-45/events/melty-blood-type-lumina/brackets/1636865/2443553
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: Derpy
+        standing: 2
+      - player: emi
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-04-16T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 9
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -46,10 +52,17 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-45/events/granblue-fantasy-versus-rising/brackets/1636872/2443560
-    standings: []
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
+      - player: Loafers
+        standing: 3
+      - player: Pyralis
+        standing: 4
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-04-16T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
