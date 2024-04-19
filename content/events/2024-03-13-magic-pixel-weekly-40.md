@@ -83,7 +83,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-40/events/tekken-8/brackets/1591476/2382765
     standings:
       - player: InVaines
-        prefix: AXL
+        prefix: AXL | END
         standing: 1
       - player: TCxBones
         standing: 2
