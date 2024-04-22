@@ -23,7 +23,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-15/events/advanced-v-g-2/brackets/1636895/2443584
     standings:
       - player: ChronoSanaki
-        standing: 2
+        standing: 1
       - player: golbat
         standing: 2
       - player: Fleabag
@@ -34,9 +34,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-15/events/soulcalibur-vi/brackets/1636881/2443570
     standings:
       - player: Scrumby
-        standing: 2
+        standing: 1
       - player: Graffiti Souls
-        standing: 3
+        standing: 2
       - player: Fleabag
         standing: 3
 
