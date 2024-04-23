@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-46
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 2
 start_date: 2024-04-23T19:00:00.000-05:00
 end_date: 2024-04-23T23:59:00.000-05:00
 created_date: 2024-04-22T18:54:58.000-05:00
@@ -34,12 +34,12 @@ events:
     standings: []
   - name: Windjammers
     start_date: 2024-04-23T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-46/events/windjammers/brackets/1644617/2453329
     standings: []
   - name: TEKKEN 8
     start_date: 2024-04-23T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     rules: >-
       - Tournament Mode Default Settings
