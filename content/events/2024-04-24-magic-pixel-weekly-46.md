@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-46
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 33
+participant_count: 34
 start_date: 2024-04-23T19:00:00.000-05:00
 end_date: 2024-04-23T23:59:00.000-05:00
 created_date: 2024-04-22T18:54:58.000-05:00
@@ -44,9 +44,9 @@ events:
     participant_count: 11
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-46/events/windjammers/brackets/1644617/2453329
     standings:
-      - player: Emi
-        standing: 2
       - player: Fleabag
+        standing: 1
+      - player: Emi
         standing: 2
       - player: Fox-Shot
         standing: 3
@@ -70,10 +70,10 @@ events:
       - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-46/events/tekken-8/brackets/1644609/2453318
     standings:
+      - player: Benjamin Boxing
+        standing: 1
       - player: Pootie
         prefix: WFGC
-        standing: 2
-      - player: Benjamin Boxing
         standing: 2
       - player: lillard
         standing: 3
