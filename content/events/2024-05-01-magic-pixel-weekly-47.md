@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-47
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 3
 start_date: 2024-04-30T19:00:00.000-05:00
 end_date: 2024-04-30T23:59:00.000-05:00
 created_date: 2024-04-22T19:13:10.000-05:00
@@ -36,7 +36,7 @@ events:
     standings: []
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-04-30T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: >-
       - Default settings
 
@@ -53,7 +53,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-04-30T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
