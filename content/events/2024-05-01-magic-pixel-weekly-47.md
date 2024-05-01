@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-47
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 25
 start_date: 2024-04-30T19:00:00.000-05:00
 end_date: 2024-04-30T23:59:00.000-05:00
 created_date: 2024-04-22T19:13:10.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-04-30T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 11
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -33,10 +33,17 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-47/events/granblue-fantasy-versus-rising/brackets/1644637/2453349
-    standings: []
+    standings:
+      - player: Brian_D
+        prefix: VGHS
+        standing: 1
+      - player: Ms Gaypom the Clown
+        standing: 2
+      - player: saucy
+        standing: 3
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-04-30T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     rules: >-
       - Default settings
 
@@ -50,10 +57,16 @@ events:
 
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-47/events/skullgirls-2nd-encore/brackets/1644635/2453347
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: BoyeBall
+        standing: 2
+      - player: Gongojo
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-04-30T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 10
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -63,7 +76,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-47/events/under-night-in-birth-ii-sys-celes/brackets/1644639/2453351
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 2
+      - player: Sheepy
+        standing: 2
+      - player: A Beholder
+        standing: 3
 
 ---
 
