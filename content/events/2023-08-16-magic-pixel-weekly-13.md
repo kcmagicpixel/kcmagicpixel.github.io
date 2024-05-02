@@ -36,7 +36,7 @@ events:
         standing: 1
       - player: Gooba
         standing: 2
-      - player: HaterEX
+      - player: Mob$
         standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2023-08-15T19:00:00.000-05:00
@@ -50,6 +50,9 @@ events:
       - player: Brian_D
         prefix: VGHS
         standing: 3
+games:
+  - Street Fighter 6
+  - "Melty Blood: Type Lumina"
 
 ---
 

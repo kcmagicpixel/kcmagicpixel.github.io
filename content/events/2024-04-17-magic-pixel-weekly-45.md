@@ -73,6 +73,10 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-45/events/under-night-in-birth-ii-sys-celes/brackets/1636874/2443562
     standings: []
+games:
+  - "Melty Blood: Type Lumina"
+  - "Granblue Fantasy Versus: Rising"
+  - Under Night In-Birth II Sys:Celes
 
 ---
 

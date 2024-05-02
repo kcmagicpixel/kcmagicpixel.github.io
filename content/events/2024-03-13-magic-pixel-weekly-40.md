@@ -89,6 +89,10 @@ events:
         standing: 2
       - player: Hez
         standing: 3
+games:
+  - "Granblue Fantasy Versus: Rising"
+  - Them's Fightin' Herds
+  - TEKKEN 8
 
 ---
 

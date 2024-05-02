@@ -36,6 +36,11 @@ events:
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/king-of-fighters-xv/brackets/1644676/2453397
     standings: []
+games:
+  - Advanced V.G. 2
+  - SOULCALIBUR VI
+  - Fate/unlimited codes
+  - The King of Fighters XV
 
 ---
 

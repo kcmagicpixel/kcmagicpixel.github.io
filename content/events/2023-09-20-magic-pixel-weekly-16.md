@@ -49,7 +49,11 @@ events:
       - player: cavitae
         standing: 2
       - player: Saucy
+        prefix: MP
         standing: 3
+games:
+  - "Melty Blood: Type Lumina"
+  - Mortal Kombat 1
 
 ---
 

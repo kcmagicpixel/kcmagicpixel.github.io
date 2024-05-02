@@ -69,6 +69,10 @@ events:
         standing: 2
       - player: Bimmy
         standing: 3
+games:
+  - "Melty Blood: Type Lumina"
+  - Street Fighter 6
+  - "Granblue Fantasy: Versus"
 
 ---
 

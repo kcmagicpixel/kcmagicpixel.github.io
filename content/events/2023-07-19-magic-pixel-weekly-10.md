@@ -32,7 +32,7 @@ events:
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-10/events/tekken-7/brackets/1399559/2123486
     standings:
-      - player: HaterEX
+      - player: Mob$
         standing: 1
       - player: Dr M
         standing: 2
@@ -59,6 +59,9 @@ events:
         standing: 2
       - player: Gooba
         standing: 3
+games:
+  - TEKKEN 7
+  - Street Fighter 6
 
 ---
 

@@ -15,6 +15,7 @@ series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: bimmyfgc
+games: []
 
 ---
 

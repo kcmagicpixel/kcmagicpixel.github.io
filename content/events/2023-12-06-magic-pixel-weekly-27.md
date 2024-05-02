@@ -61,6 +61,10 @@ events:
         standing: 2
       - player: golbat
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - "BlazBlue: Central Fiction"
+  - "Melty Blood: Type Lumina"
 
 ---
 

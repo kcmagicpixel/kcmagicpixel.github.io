@@ -70,6 +70,10 @@ events:
         standing: 2
       - player: Gooba
         standing: 3
+games:
+  - "Granblue Fantasy: Versus"
+  - SOULCALIBUR VI
+  - "Guilty Gear: Strive"
 
 ---
 

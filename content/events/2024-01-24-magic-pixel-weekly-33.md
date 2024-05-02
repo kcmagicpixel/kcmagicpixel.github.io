@@ -42,6 +42,9 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-33/events/street-fighter-6/brackets/1550944/2329298
     standings: []
+games:
+  - "Melty Blood: Type Lumina"
+  - Street Fighter 6
 
 ---
 

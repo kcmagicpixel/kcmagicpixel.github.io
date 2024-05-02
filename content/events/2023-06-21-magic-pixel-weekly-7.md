@@ -46,7 +46,7 @@ events:
         standing: 1
       - player: Scrumby
         standing: 2
-      - player: HaterEX
+      - player: Mob$
         standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2023-06-20T20:30:00.000-05:00
@@ -70,6 +70,10 @@ events:
       - player: Brian_D
         prefix: VGHS
         standing: 3
+games:
+  - "Granblue Fantasy: Versus"
+  - SOULCALIBUR VI
+  - "Guilty Gear: Strive"
 
 ---
 

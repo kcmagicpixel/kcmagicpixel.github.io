@@ -58,6 +58,9 @@ events:
         standing: 2
       - player: Sheepy
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - "Melty Blood: Type Lumina"
 
 ---
 

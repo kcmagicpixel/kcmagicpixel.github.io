@@ -10,7 +10,7 @@ venue_fee: 5
 participant_count: 21
 start_date: 2023-06-06T19:00:00.000-05:00
 end_date: 2023-06-06T23:59:00.000-05:00
-created_date: 2023-05-30T19:00:00.000-05:00
+created_date: 2023-05-31T12:24:31.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
@@ -108,10 +108,16 @@ events:
       - player: BoyeBall
         standing: 1
       - player: Saucy
+        prefix: MP
         standing: 2
       - player: Brian_D
         prefix: VGHS
         standing: 3
+games:
+  - Street Fighter 6
+  - SOULCALIBUR VI
+  - Vampire Savior
+  - "Guilty Gear: Strive"
 
 ---
 

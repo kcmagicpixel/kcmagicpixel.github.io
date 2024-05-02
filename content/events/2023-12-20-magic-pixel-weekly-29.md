@@ -45,6 +45,10 @@ events:
     participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-29/events/blazblue-central-fiction/brackets/1533633/2306308
     standings: []
+games:
+  - "Granblue Fantasy Versus: Rising"
+  - Vampire Savior
+  - "BlazBlue: Central Fiction"
 
 ---
 

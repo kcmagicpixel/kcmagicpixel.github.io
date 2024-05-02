@@ -49,6 +49,9 @@ events:
         standing: 2
       - player: httpriestess
         standing: 3
+games:
+  - Street Fighter 6
+  - "Melty Blood: Type Lumina"
 
 ---
 

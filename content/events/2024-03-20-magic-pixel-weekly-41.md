@@ -78,6 +78,10 @@ events:
         standing: 2
       - player: Enker
         standing: 3
+games:
+  - "Melty Blood: Type Lumina"
+  - Under Night In-Birth II Sys:Celes
+  - "Skullgirls: 2nd Encore"
 
 ---
 

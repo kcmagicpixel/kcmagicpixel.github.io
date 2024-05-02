@@ -39,6 +39,9 @@ events:
         standing: 2
       - player: Fleabag
         standing: 3
+games:
+  - Advanced V.G. 2
+  - SOULCALIBUR VI
 
 ---
 

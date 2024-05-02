@@ -78,11 +78,15 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-47/events/under-night-in-birth-ii-sys-celes/brackets/1644639/2453351
     standings:
       - player: Loafers
-        standing: 2
+        standing: 1
       - player: Sheepy
         standing: 2
       - player: A Beholder
         standing: 3
+games:
+  - "Granblue Fantasy Versus: Rising"
+  - "Skullgirls: 2nd Encore"
+  - Under Night In-Birth II Sys:Celes
 
 ---
 

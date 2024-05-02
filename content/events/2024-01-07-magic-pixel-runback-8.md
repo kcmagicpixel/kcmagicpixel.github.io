@@ -60,6 +60,10 @@ events:
         standing: 2
       - player: Graffiti Souls
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - SOULCALIBUR VI
+  - SAMURAI SHODOWN
 
 ---
 

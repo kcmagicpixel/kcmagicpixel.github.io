@@ -75,6 +75,10 @@ events:
         standing: 2
       - player: ChronoSanaki
         standing: 3
+games:
+  - Street Fighter 6
+  - Them's Fightin' Herds
+  - Under Night In-Birth II Sys:Celes
 
 ---
 

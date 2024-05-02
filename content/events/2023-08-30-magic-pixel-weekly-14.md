@@ -50,6 +50,9 @@ events:
         standing: 2
       - player: cavitae
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - "Melty Blood: Type Lumina"
 
 ---
 

@@ -49,6 +49,9 @@ events:
         standing: 2
       - player: Bimmy
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - "Granblue Fantasy Versus: Rising"
 
 ---
 

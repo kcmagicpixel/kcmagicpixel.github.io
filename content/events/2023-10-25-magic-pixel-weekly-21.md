@@ -50,6 +50,9 @@ events:
         standing: 2
       - player: Derpy
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - Under Night In-Birth Exe:Late[cl-r]
 
 ---
 

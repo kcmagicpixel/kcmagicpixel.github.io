@@ -77,6 +77,10 @@ events:
         standing: 2
       - player: lillard
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - Windjammers
+  - TEKKEN 8
 
 ---
 

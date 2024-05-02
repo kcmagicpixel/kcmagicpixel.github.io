@@ -54,6 +54,10 @@ events:
     participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-7/events/scvi-double-elimination/brackets/1533604/2306279
     standings: []
+games:
+  - "Guilty Gear: Strive"
+  - SAMURAI SHODOWN
+  - SOULCALIBUR VI
 
 ---
 

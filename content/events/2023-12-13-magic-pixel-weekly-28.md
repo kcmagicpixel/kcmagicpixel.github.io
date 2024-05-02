@@ -39,6 +39,9 @@ events:
         standing: 2
       - player: ChronoSanaki
         standing: 3
+games:
+  - Under Night In-Birth Exe:Late[cl-r]
+  - "Skullgirls: 2nd Encore"
 
 ---
 

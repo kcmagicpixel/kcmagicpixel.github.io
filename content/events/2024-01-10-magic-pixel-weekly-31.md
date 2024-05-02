@@ -27,6 +27,9 @@ events:
     participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-31/events/uniclr/brackets/1550899/2329253
     standings: []
+games:
+  - "Melty Blood: Type Lumina"
+  - Under Night In-Birth Exe:Late[cl-r]
 
 ---
 

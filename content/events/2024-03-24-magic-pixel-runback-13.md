@@ -60,6 +60,10 @@ events:
         standing: 2
       - player: Pyralis
         standing: 3
+games:
+  - SOULCALIBUR VI
+  - Fate/unlimited codes
+  - "Guilty Gear: Strive"
 
 ---
 

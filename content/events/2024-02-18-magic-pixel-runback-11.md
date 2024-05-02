@@ -50,6 +50,9 @@ events:
         standing: 2
       - player: Gooba
         standing: 3
+games:
+  - SOULCALIBUR VI
+  - "Guilty Gear: Strive"
 
 ---
 

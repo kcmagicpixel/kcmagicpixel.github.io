@@ -61,6 +61,10 @@ events:
         standing: 2
       - player: ChronoSanaki
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - SAMURAI SHODOWN
+  - Fate/unlimited codes
 
 ---
 

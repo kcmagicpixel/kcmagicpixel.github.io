@@ -55,6 +55,10 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-12/events/under-night-in-birth-ii-sys-celes/brackets/1591437/2382723
     standings: []
+games:
+  - Street Fighter 6
+  - SOULCALIBUR VI
+  - Under Night In-Birth II Sys:Celes
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Magic Pixel Weekly #1"
-slug: magic-pixel-weekly-1
+slug: magic-pixel-weekly-1-4
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
@@ -10,7 +10,7 @@ venue_fee: 5
 participant_count: 21
 start_date: 2023-05-09T19:00:00.000-05:00
 end_date: 2023-05-09T23:59:00.000-05:00
-created_date: 2023-05-02T19:00:00.000-05:00
+created_date: 2023-05-08T11:07:21.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
@@ -23,7 +23,7 @@ events:
     rules: https://fgcoc.com/
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-1-4/events/tekken-7/brackets/1367677/2080891
     standings:
-      - player: KCWank
+      - player: Mob$
         standing: 1
       - player: TCxBones
         standing: 2
@@ -79,10 +79,15 @@ events:
         standing: 2
       - player: Gooba
         standing: 3
+games:
+  - TEKKEN 7
+  - SOULCALIBUR VI
+  - Them's Fightin' Herds
+  - "Guilty Gear: Strive"
 
 ---
 
-## Welcome to the first ever Magic Pixel Weekly
+## Welcome to the first ever Magic Pixel Weekly! 
 
 We're kicking things off with FREE pizza to celebrate! Please pre-register so we know how much to get!
 

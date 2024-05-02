@@ -61,6 +61,10 @@ events:
         standing: 2
       - player: Scrumby
         standing: 3
+games:
+  - "Guilty Gear: Strive"
+  - SOULCALIBUR VI
+  - Fate/unlimited codes
 
 ---
 

@@ -51,6 +51,10 @@ events:
         standing: 2
       - player: chrono sanaki
         standing: 3
+games:
+  - Under Night In-Birth Exe:Late[cl-r]
+  - SOULCALIBUR VI
+  - Fate/unlimited codes
 
 ---
 

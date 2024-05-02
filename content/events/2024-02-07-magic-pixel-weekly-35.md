@@ -69,6 +69,10 @@ events:
         standing: 2
       - player: BoyeBall
         standing: 3
+games:
+  - Street Fighter 6
+  - "Melty Blood: Type Lumina"
+  - "Guilty Gear: Strive"
 
 ---
 

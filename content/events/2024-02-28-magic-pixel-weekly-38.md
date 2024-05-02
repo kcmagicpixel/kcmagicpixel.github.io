@@ -71,6 +71,10 @@ events:
       - player: Brian_D
         prefix: VGHS
         standing: 3
+games:
+  - Vampire Savior
+  - "Melty Blood: Type Lumina"
+  - "Granblue Fantasy Versus: Rising"
 
 ---
 

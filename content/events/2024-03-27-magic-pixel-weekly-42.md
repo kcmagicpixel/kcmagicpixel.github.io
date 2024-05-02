@@ -63,6 +63,9 @@ events:
         standing: 2
       - player: Pooty
         standing: 3
+games:
+  - Street Fighter 6
+  - TEKKEN 8
 
 ---
 

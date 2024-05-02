@@ -35,7 +35,7 @@ events:
       - player: KCDank_
         prefix: PRIME
         standing: 2
-      - player: HaterEX
+      - player: Mob$
         standing: 3
       - player: Fleabag
         standing: 3
@@ -61,6 +61,9 @@ events:
         standing: 2
       - player: Gooba
         standing: 3
+games:
+  - TEKKEN 7
+  - "Guilty Gear: Strive"
 
 ---
 

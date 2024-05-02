@@ -70,6 +70,10 @@ events:
         standing: 2
       - player: deapest
         standing: 3
+games:
+  - Under Night In-Birth II Sys:Celes
+  - "Guilty Gear: Strive"
+  - TEKKEN 8
 
 ---
 

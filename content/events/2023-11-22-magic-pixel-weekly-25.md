@@ -64,6 +64,10 @@ events:
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-25/events/tekken-7/brackets/1506434/2270842
     standings: []
+games:
+  - Mortal Kombat 1
+  - "BlazBlue: Central Fiction"
+  - TEKKEN 7
 
 ---
 

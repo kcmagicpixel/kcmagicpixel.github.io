@@ -42,7 +42,7 @@ events:
       The winner of each game must keep the same character. The loser of that game may select a stage (with the same character), or switch character (with a random stage).
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-20/events/tekken-7/brackets/1485085/2242768
     standings:
-      - player: HaterEX
+      - player: Mob$
         standing: 1
       - player: TCxBones
         standing: 2
@@ -69,6 +69,10 @@ events:
         standing: 2
       - player: Enker
         standing: 3
+games:
+  - "Melty Blood: Type Lumina"
+  - TEKKEN 7
+  - Street Fighter 6
 
 ---
 

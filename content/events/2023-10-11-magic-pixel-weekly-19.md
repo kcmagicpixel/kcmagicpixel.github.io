@@ -51,6 +51,9 @@ events:
         standing: 2
       - player: Alex
         standing: 3
+games:
+  - Mortal Kombat 1
+  - Under Night In-Birth Exe:Late[cl-r]
 
 ---
 

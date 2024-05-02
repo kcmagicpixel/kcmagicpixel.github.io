@@ -60,6 +60,10 @@ events:
         standing: 2
       - player: cavitae
         standing: 3
+games:
+  - Under Night In-Birth Exe:Late[cl-r]
+  - Street Fighter 6
+  - "Melty Blood: Type Lumina"
 
 ---
 

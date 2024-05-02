@@ -70,6 +70,10 @@ events:
       - player: K.I.D.Goggles
         prefix: JOB
         standing: 3
+games:
+  - Street Fighter 6
+  - SOULCALIBUR VI
+  - "Guilty Gear: Strive"
 
 ---
 

@@ -55,6 +55,10 @@ events:
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-5/events/fate-unlimited-codes/brackets/1506424/2270832
     standings: []
+games:
+  - "Guilty Gear: Strive"
+  - SOULCALIBUR VI
+  - Fate/unlimited codes
 
 ---
 

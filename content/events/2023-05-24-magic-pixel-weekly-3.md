@@ -10,7 +10,7 @@ venue_fee: 5
 participant_count: 24
 start_date: 2023-05-23T19:00:00.000-05:00
 end_date: 2023-05-23T23:58:00.000-05:00
-created_date: 2023-05-16T19:00:00.000-05:00
+created_date: 2023-05-18T21:40:55.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
@@ -51,6 +51,10 @@ events:
         standing: 2
       - player: BoyeBall
         standing: 3
+games:
+  - "Granblue Fantasy: Versus"
+  - SOULCALIBUR VI
+  - "Guilty Gear: Strive"
 
 ---
 

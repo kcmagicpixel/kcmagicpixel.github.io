@@ -10,7 +10,7 @@ venue_fee: 5
 participant_count: 19
 start_date: 2023-05-30T19:00:00.000-05:00
 end_date: 2023-05-30T23:59:00.000-05:00
-created_date: 2023-05-23T19:00:00.000-05:00
+created_date: 2023-05-24T13:25:41.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
@@ -27,6 +27,8 @@ events:
         standing: 2
       - player: httpriestess
         standing: 3
+games:
+  - Them's Fightin' Herds
 
 ---
 

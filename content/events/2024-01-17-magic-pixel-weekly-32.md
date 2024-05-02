@@ -54,6 +54,10 @@ events:
         standing: 2
       - player: Gooba
         standing: 3
+games:
+  - "Granblue Fantasy Versus: Rising"
+  - Them's Fightin' Herds
+  - Street Fighter 6
 
 ---
 

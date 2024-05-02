@@ -47,6 +47,10 @@ events:
     participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-26/events/uniclr/brackets/1506457/2270865
     standings: []
+games:
+  - "Melty Blood: Type Lumina"
+  - "Granblue Fantasy: Versus"
+  - Under Night In-Birth Exe:Late[cl-r]
 
 ---
 

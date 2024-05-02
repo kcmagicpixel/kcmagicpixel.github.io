@@ -70,6 +70,10 @@ events:
         standing: 3
       - player: Saucy
         standing: 4
+games:
+  - "Guilty Gear: Strive"
+  - SOULCALIBUR VI
+  - "Granblue Fantasy: Versus"
 
 ---
 

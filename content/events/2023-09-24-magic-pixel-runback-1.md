@@ -36,8 +36,10 @@ events:
         standing: 1
       - player: toad_slayer
         standing: 2
-      - player: HaterEX
+      - player: Mob$
         standing: 3
+games:
+  - Street Fighter 6
 
 ---
 

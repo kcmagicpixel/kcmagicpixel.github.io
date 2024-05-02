@@ -28,6 +28,8 @@ events:
       - player: Brian_D
         prefix: VGHS
         standing: 3
+games:
+  - "Melty Blood: Type Lumina"
 
 ---
 

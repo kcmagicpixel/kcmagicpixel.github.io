@@ -50,6 +50,10 @@ events:
         standing: 2
       - player: ChronoSanaki
         standing: 3
+games:
+  - "Skullgirls: 2nd Encore"
+  - SOULCALIBUR VI
+  - Fate/unlimited codes
 
 ---
 
