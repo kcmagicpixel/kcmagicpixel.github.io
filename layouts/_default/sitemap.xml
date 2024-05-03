@@ -19,7 +19,7 @@
     {{- else -}}
       {{- if .Params.start_date -}}
         {{- if gt .Params.start_date now -}}
-    <priority>0.75</priority>
+    <priority>0.65</priority>
         {{- else -}}
     <priority>0.3</priority>
         {{- end -}}
