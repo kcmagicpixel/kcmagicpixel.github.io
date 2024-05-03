@@ -1,0 +1,9 @@
+{{ $suffix := "" }}
+{{ if (eq (int .) 11) }}{{$suffix = "th"}}
+{{ else if (eq (int .) 12) }}{{$suffix = "th"}}
+{{ else if (eq (mod (int .) 10) 1) }}{{$suffix = "st"}}
+{{ else if (eq (mod (int .) 10) 2) }}{{$suffix = "nd"}}
+{{ else if (eq (mod (int .) 10) 3) }}{{$suffix = "rd"}}
+{{ else }}{{$suffix = "th"}}
+{{ end }}
+{{ if $suffix }}{{ . }}{{ $suffix }}{{ end }}

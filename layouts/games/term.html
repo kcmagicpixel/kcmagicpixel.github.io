@@ -1,0 +1,37 @@
+{{ define "title" }}
+{{ .Title }} | Games | {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+  <main aria-role="main" id="game">
+    <h1>{{ .Title }}</h1>
+    {{ with index .Site.Data.schedule.games .Params.title }}
+      {{ $event_schedule := (slice) }}
+      {{ range $k, $v := .schedule }}
+      {{ $event_description := (add "at " $k) }}
+      {{ $event_info := index $.Site.Taxonomies.series (urlize $k) }}
+      {{ if $event_info }}
+        {{ $days := (delimit (apply $v "partial" "nth.html" ".") ", " " and ") }}
+        {{ $day := $event_info.Page.Params.day }}
+        {{ if gt (len $v) 1 }}{{ $day = pluralize $day }}{{ end }}
+        {{ if $day }}{{ $event_description = (add $event_description " on the " $days " " $day " of each month") }}{{ end }}
+      {{ end }}
+      {{ $event_schedule = (append $event_schedule (slice $event_description)) }}
+      {{ end }}
+      <article>
+        <p>Events for {{ $.Title }} are run {{ delimit $event_schedule ", " " and "}}.</p>
+      </article>
+    {{ end }}
+    {{ $games_list := where (where .Site.RegularPages "Section" "events") "Params.games" "intersect" (slice .Params.title) }}
+    {{ with $games_list }}
+      <h1>
+        Events
+      </h1>
+      <ul class="events">
+        {{ range (.ByParam "start_date").Reverse }}
+          {{ partial "events-li.html" . }}
+        {{ end }}
+        <br />
+      </ul>
+    {{ end }}
+  </main>
+{{ end }}

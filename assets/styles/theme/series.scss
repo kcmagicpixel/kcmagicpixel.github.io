@@ -1,0 +1,84 @@
+@import "_colors";
+
+main ul.series-summary {
+  li.series-item {
+    flex-direction: column;
+
+    & > .content {
+      .desc {
+        padding: 0.5rem;
+
+        a h3 {
+          color: $color-primary;
+        }
+      }
+    }
+  }
+}
+
+main ul.series-summary,
+main.series {
+  ul.schedule {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 1rem;
+
+    li.schedule-item {
+      flex-grow: 1;
+      flex-basis: 350px;
+      min-height: 90px;
+      display: flex;
+      align-items: center;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+      border-top: 1px solid $color-tertiary;
+      border-left: 1px solid $color-tertiary;
+
+      .block-date {
+        flex: 0 0 4rem;
+        margin-left: 0.125rem;
+        margin-right: 0.5rem;
+
+        .day {
+          font-size: 1.75rem;
+        }
+      }
+    }
+
+    ul.game-list {
+      margin-right: 0.5rem;
+
+      li {
+        list-style: none;
+        padding-top: 0.125rem;
+        padding-bottom: 0.125rem;
+      }
+    }
+  }
+}
+
+main.series {
+  h1:has(+ div.schedule) {
+    border-bottom: none;
+  }
+
+  div.schedule {
+    display: flex;
+
+    div.gutter {
+      width: 1rem;
+      flex-shrink: 0;
+      flex-grow: 0;
+      border-bottom: 1px solid $color-tertiary;
+      border-top: 1px solid $color-tertiary;
+    }
+
+    ul.schedule {
+      margin-left: 0;
+      width: 100%;
+      border-bottom: 1px solid $color-tertiary;
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{{ $days := dict }}
+{{ $show_days := false }}
+{{ range $k, $v := site.Data.schedule.games }}{{ with index .schedule $.Title }}{{ range . }}
+  {{ $day := (index $days (string .)) }}
+  {{ $days = (merge $days (dict (string .) (union $day (slice $k))))}}
+  {{ $show_days = true }}
+{{ end }}{{ end }}{{ end }}
+{{ if $show_days }}
+<ul class="schedule">
+  {{ range $day, $games := $days }}
+    <li class="schedule-item">
+      <div class="block-date">
+        <span class="day">{{ partial "nth.html" $day }}</span>
+        {{ with $.Params.day }}<span class="month">{{ partial "day.html" . }}</span>{{ end }}
+      </div>
+      <ul class="game-list">
+        {{ range sort $games }}{{ with site.Taxonomies.games.Get (urlize .) }}
+        <li><a href="{{ .Page.RelPermalink }}"><h4>{{.Page.Title}}</h4></a></li>
+        {{ end }}{{ end }}
+      </ul>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}

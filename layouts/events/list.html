@@ -1,9 +1,9 @@
 {{ define "title" }}
-  {{ .Title }} - {{ .Site.Title }}
+{{ .Title }} | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
 <main aria-role="main">
-  {{ .Content }}
+  <h1>Upcoming Events</h1>
   <ul class="events">
     {{ $events_list := where .Pages "Params.start_date" "ge" now }}
     {{ range ($events_list.ByParam "start_date") }}
@@ -11,5 +11,12 @@
     {{ end }}
   </ul>
   <footer class="past-events"><span>Looking for <a href='{{ ($.Site.GetPage "past-events").RelPermalink }}'>past events</a>?</span></footer>
+  {{ $series := slice }}{{ range .Site.Taxonomies.series }}{{ $series = append .Page $series }}{{ end }}
+  {{ with where $series "Params.schedule" true }}
+    <h1>Schedule</h1>
+    <ul class="series-summary">
+      {{ range (sort . "Weight") }}{{ partial "series-li.html" . }}{{ end }}
+    </ul>
+  {{ end }}
 </main>
 {{ end }}

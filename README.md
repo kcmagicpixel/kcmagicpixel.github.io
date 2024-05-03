@@ -13,6 +13,12 @@ Even if you are not a developer, adding pages to this website is incredibly simp
 1. In the top right, click "Commit changes", and in the dialog that appears select "Create a new branch for this commit and start a pull request".
 1. A reviewer will look over your submission. Once accepted, it'll go live on the website immediately.
 
+### Modifying the schedule
+
+1. Open the [schedule.yaml](./data/schedule.yaml) file.
+1. Each of the items in `games` is a game name as it appears in start.gg. The `schedule` property of each game is dictionary where the keys are event names (as they appear in the website, check the [series pages](./content/series/)), and the values are the week of the month where that occurs.
+    - For example, `3` indicates the 3rd week of the month, on the weekday that the event occurs.
+
 ## Development
 
 This section is only relevant if you are working on site functionality or layout.

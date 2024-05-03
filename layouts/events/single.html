@@ -1,5 +1,5 @@
 {{ define "title" }}
-  {{ .Title }} - {{ time.Format ":date_short" .Params.start_date }}
+{{ .Title }} | Events | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
   <main aria-role="main" id="details-grid">
@@ -30,12 +30,10 @@
         {{ .Content }}
       </article>
       <ul id="grid-details" class="info-list">
-      {{ with .Params.ref_org }}
-        {{ with $.Site.GetPage . }}
-          <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Title }}</a></span><span></li>
-          {{ with .Params.url_codeofconduct }}
-            <li><span><i class="fa-solid fa-scroll" title="Code of Conduct"></i><a href="{{ . }}">Code of Conduct</a></span><span></li>
-          {{ end }}
+      {{ with $.Site.GetPage "about" }}
+        <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Params.name }}</a></span><span></li>
+        {{ with .Params.url_codeofconduct }}
+          <li><span><i class="fa-solid fa-scroll" title="Code of Conduct"></i><a href="{{ . }}">Code of Conduct</a></span><span></li>
         {{ end }}
       {{ end }}
       {{ with .Params.events }}
@@ -124,12 +122,12 @@
       "priceCurrency": "USD",{{ with .Params.created_date }}
       "validFrom": "{{ time.Format "2006-01-02T15:04:05-07:00" . }}",{{ end }}
       "availability": {{ if (gt .Params.start_date now) }}"https://schema.org/InStock"{{ else }}"https://schema.org/SoldOut"{{ end }}
-    },{{ end }}{{ with .Params.ref_org }}{{ with $.Site.GetPage . }}
+    },{{ end }}{{ with $.Site.GetPage "about" }}
     "organizer": {
       "@type": "Organization",
-      "name": "{{ .Params.title }}",
+      "name": "{{ .Params.name }}",
       "url": {{ .Permalink }}
-    },{{ end }}{{ end }}
+    },{{ end }}
     "eventStatus": "https://schema.org/EventScheduled"
   }
   </script>

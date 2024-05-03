@@ -3,7 +3,10 @@ enableGitInfo = true
 enableRobotsTXT = true
 languageCode = 'en-us'
 summaryLength = 30
-title = 'Kansas City Fighting Game Community Resources'
+title = 'Magic Pixel'
+
+[params]
+subtitle = 'Kansas City Fighting Game Community Events'
 
 [permalinks]
 events = '/:section/:year/:month/:slug'
@@ -13,3 +16,4 @@ date = ['date', 'start_date']
 
 [taxonomies]
 event-series = 'series'
+games = 'games'

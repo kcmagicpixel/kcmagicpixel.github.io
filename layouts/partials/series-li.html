@@ -1,0 +1,9 @@
+<li class="series-item content-item ml">
+  <div class="content">
+    <div class="desc">
+      {{ with site.Taxonomies.series.Get (urlize .Title) }}<a href="{{ .Page.RelPermalink }}"><h3>{{ $.Title }}</h3></a>{{ else }}<h3>{{ .Title }}</h3>{{ end }}
+      {{ with .Content }}<div>{{ . }}</div>{{ end }}
+    </div>
+  </div>
+  {{ partial "schedule" . }}
+</li>

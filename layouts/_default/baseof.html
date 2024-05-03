@@ -2,11 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="description" content="Kansas City Fighting Game Community Resources">
+    <meta name="description" content="{{ .Site.Params.subtitle }}">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <title>
       {{ block "title" . }} 
-        {{ .Site.Title }} 
+        {{ .Site.Title }} | {{ .Site.Params.subtitle }}
       {{ end }}
     </title>
     {{ block "structured_data" . }}{{ end }}
@@ -43,7 +43,7 @@
         <div class="top">
           <span class="left"></span>
           <img src="/images/icon-conn-dialup.png" alt="" width="16" height="16" />
-          <div class="text">{{ .Site.Title }}</div>
+          <div class="text">{{ .Site.Title }} | {{ .Site.Params.subtitle }}</div>
           <span class="center"></span>
           <span class="right"></span>
         </div>
@@ -63,7 +63,7 @@
           <span class="center">
             {{ partial "footer.html" . }}
           </span>
-          <span class="right"><a id="github-link" href="https://github.com/kc-magic-pixel/kc-magic-pixel.github.io" title="GitHub"> </a></span>
+          <span class="right"><a id="github-link" href="https://github.com/kcmagicpixel/kcmagicpixel.github.io" title="GitHub"> </a></span>
         </div>
       </div>
       {{ partial "drawer.html" . }}

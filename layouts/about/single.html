@@ -1,17 +1,16 @@
 {{ define "title" }}
-  {{ .Title }}
+{{ .Title }} | {{ .Site.Title }} | {{ .Site.Params.subtitle }}
 {{ end }}
 {{ define "main" }}
   <main aria-role="main" id="details-grid" class="details-org">
     <div id="grid-content">
       <div id="grid-title-area">
-        <div id="grid-title"><h1>{{ .Title }}</h1></div>
+        <div id="grid-title"><h1>{{ .Params.name }}</h1></div>
         {{ with partial "img-ref.html" .Params.ref_icon }}
           {{ $img := .Resize "96x" }}
           <img class="icon" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Page.Title }} icon" />
         {{ end }}
       </div>
-      {{/*    */}}
       <ul id="grid-quick-info" class="info-list">
       {{ with .Params.email }}
         <li><span><i class="fa-solid fa-envelope" title="Email"></i><a href="mailto:{{ . }}">{{ . }}</span></a></li>
@@ -42,14 +41,5 @@
       {{ end }}
       </ul>
     </div>
-    {{ $events_list := where (where (where .Site.RegularPages "Section" "events") "Params.ref_org" "eq" .Params.slug) "Params.start_date" "ge" now }}
-    {{ with $events_list }}
-      <h1>Upcoming Events</h1>
-      <ul class="events">
-        {{ range first 3 (.ByParam "start_date") }}
-          {{ partial "events-li.html" . }}
-        {{ end }}
-      </ul>
-    {{ end }}
   </main>
 {{ end }}
