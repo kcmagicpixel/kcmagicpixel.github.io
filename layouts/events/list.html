@@ -2,7 +2,7 @@
 {{ .Title }} | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-<main aria-role="main">
+<main>
   <h1>Upcoming Events</h1>
   <ul class="events">
     {{ $events_list := where .Pages "Params.start_date" "ge" now }}

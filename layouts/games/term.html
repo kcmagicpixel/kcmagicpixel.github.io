@@ -2,7 +2,7 @@
 {{ .Title }} | Games | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-  <main aria-role="main" id="game">
+  <main id="game">
     <h1>{{ .Title }}</h1>
     {{ with index .Site.Data.schedule.games .Params.title }}
       {{ $event_schedule := (slice) }}

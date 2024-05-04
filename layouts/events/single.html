@@ -2,7 +2,7 @@
 {{ .Title }} | Events | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-  <main aria-role="main" id="details-grid">
+  <main id="details-grid">
     {{ with partial "img-ref.html" .Params.ref_banner }}
       {{ $img := .Resize "1000x" }}
       <img class="banner" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" alt="{{ $.Page.Title }} banner" />
