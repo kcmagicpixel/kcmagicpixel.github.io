@@ -1,34 +1,35 @@
 {{ define "main" }}
   <main aria-role="main">
+    <h1>{{ .Site.Title }}</h1>
     <article>
       <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
       {{ .Content }}
     </article>
     {{ $events_list := where (where .Site.RegularPages "Section" "events") "Params.start_date" "ge" now }}
     {{ with $events_list }}
-      <h1>
+      <h2>
         Upcoming Events
-      </h1>
+      </h2>
       <ul class="events">
         {{ range first 3 (.ByParam "start_date") }}
           {{ partial "events-li.html" . }}
         {{ end }}
         <li class="content-item ml">
-          <h2 id="home-more-events"><a href='{{ ($.Site.GetPage "events").RelPermalink }}'>More...</a></h2>
+          <h3 id="home-more-events"><a href='{{ ($.Site.GetPage "events").RelPermalink }}'>More...</a></h3>
         </li>
       </ul>
     {{ end }}
     {{ $recent_list := where (where (where .Site.RegularPages "Section" "events") "Params.start_date" "lt" now) "Params.start_date" "ge" (now.AddDate 0 -1 0) }}
     {{ with $recent_list }}
-      <h1>
+      <h2>
         Recent Events
-      </h1>
+      </h2>
       <ul class="events">
         {{ range first 3 (.ByParam "start_date").Reverse }}
           {{ partial "events-li.html" . }}
         {{ end }}
         <li class="content-item ml">
-          <h2 id="home-recent-events"><a href='{{ ($.Site.GetPage "past-events").RelPermalink }}'>More...</a></h2>
+          <h3 id="home-recent-events"><a href='{{ ($.Site.GetPage "past-events").RelPermalink }}'>More...</a></h3>
         </li>
       </ul>
     {{ end }}

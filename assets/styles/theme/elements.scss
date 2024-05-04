@@ -4,6 +4,10 @@ body {
   color: $color-text;
 }
 
+h2 {
+  font-size: 1.75rem;
+}
+
 a {
   color: $color-tertiary;
   text-decoration: none;
@@ -33,7 +37,8 @@ ul {
 
 main {
   padding-bottom: 1rem;
-  & > h1 {
+  & > h1,
+  & > h2 {
     padding-left: 1rem;
     padding-right: 1rem;
     margin-top: 0.5rem;
@@ -70,12 +75,12 @@ article {
   }
 
   & > .weekday {
-    font-family: $font-family-h2;
+    font-family: $font-family-h3;
     font-weight: 600;
   }
 
   & > .day {
-    font-family: $font-family-h2;
+    font-family: $font-family-h3;
     font-weight: 900;
     font-size: 2.5rem;
   }

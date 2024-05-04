@@ -23,9 +23,9 @@
     {{ end }}
     {{ $games_list := where (where .Site.RegularPages "Section" "events") "Params.games" "intersect" (slice .Params.title) }}
     {{ with $games_list }}
-      <h1>
+      <h2>
         Events
-      </h1>
+      </h2>
       <ul class="events">
         {{ range (.ByParam "start_date").Reverse }}
           {{ partial "events-li.html" . }}

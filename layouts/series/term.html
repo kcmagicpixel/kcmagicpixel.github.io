@@ -5,12 +5,12 @@
   <main aria-role="main" class="series">
     <h1>{{ .Title }}</h1>
     {{ with .Content }}<article>{{ . }}</article>{{ end }}
-    <h1>Schedule</h1>
+    <h2>Schedule</h2>
     <div class="schedule">
       <div class="gutter"></div>
       {{ partial "schedule.html" . }}
     </div>
-    <h1>Events</h1>
+    <h2>Events</h2>
     <ul class="events">
       {{ range (.Pages.ByParam "start_date").Reverse }}
         {{ partial "events-li.html" . }}
