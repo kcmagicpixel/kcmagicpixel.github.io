@@ -53,7 +53,7 @@ As always, in addition to the brackets posted below, casuals are welcome for any
 - **Doors open** - 7pm, please pay your venue fee and check in with a TO on arrival (in parentheses below)
 - **AVG2** (Chrono Sanaki) - 8:00pm, $0 entry
 - **SCVI** (Scrumby) - 8:30pm, $0 entry
-- **KOFXV** (golbat) - 9:00pm, $0 entry
+- **KOFXV** (golbat) - 9:00pm, $0 entry - $10 prize for 1st place!
 - **FUC** (Claíomh Solais) - 9:00pm, $0 entry
 
 $5 venue fee, collected by the shop staff. Game entry fees are collected by the TO, and are **CASH ONLY**. 
