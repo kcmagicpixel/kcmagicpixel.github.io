@@ -10,7 +10,7 @@
       {{ partial "events-li.html" . }}
     {{ end }}
   </ul>
-  <footer class="past-events"><span>Looking for <a href='{{ ($.Site.GetPage "past-events").RelPermalink }}'>past events</a>?</span></footer>
+  <footer class="past-events"><span>Looking for <strong><a href='{{ ($.Site.GetPage "past-events").RelPermalink }}'>past events</a></strong>?</span></footer>
   {{ $series := slice }}{{ range .Site.Taxonomies.series }}{{ $series = append .Page $series }}{{ end }}
   {{ with where $series "Params.schedule" true }}
     <h2>Schedule</h2>
