@@ -17,6 +17,8 @@
     <link rel="manifest" href="/site.webmanifest">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     <link rel="stylesheet" href="/styles/reset.css">
+    {{ $fontStyle := resources.Get "styles/fonts.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $fontStyle.Permalink }}">
     {{ $globalStyle := resources.Get "styles/global.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $globalStyle.Permalink }}">
     {{ with .OutputFormats.Get "rss" -}}

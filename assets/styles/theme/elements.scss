@@ -1,11 +1,26 @@
-@import "_colors";
+@import "colors";
+@import "fonts";
 
 body {
   color: $color-text;
 }
 
+body {
+  font-family: $font-family-body;
+}
+
+h1,
+h2 {
+  font-family: $font-family-h1;
+}
+
 h2 {
   font-size: 1.75rem;
+}
+
+h3,
+h4 {
+  font-family: $font-family-h3;
 }
 
 a {

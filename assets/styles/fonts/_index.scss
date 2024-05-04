@@ -4,18 +4,3 @@
 @import "maven";
 @import "raleway";
 @import "ubuntu";
-@import "fonts";
-
-body {
-  font-family: $font-family-body;
-}
-
-h1,
-h2 {
-  font-family: $font-family-h1;
-}
-
-h3,
-h4 {
-  font-family: $font-family-h3;
-}
