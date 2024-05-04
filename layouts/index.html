@@ -40,8 +40,9 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "Magic Pixel",
-    "url": {{ .Permalink }}
+    "name": {{ .Site.Title }},
+    "url": {{ .Permalink }}{{ with .Site.Params.altnames }},
+    "alternateName": {{ . }}{{ end }}
   }
 </script>
 {{ end }}
