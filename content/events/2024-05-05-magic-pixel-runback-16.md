@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-16
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 11
 start_date: 2024-05-04T19:00:00.000-05:00
 end_date: 2024-05-04T23:59:00.000-05:00
 created_date: 2024-04-22T19:30:42.000-05:00
@@ -17,31 +17,45 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: Advanced V.G. 2
-    start_date: 2024-05-04T20:00:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/advanced-v-g-2/brackets/1644677/2453398
-    standings: []
   - name: SOULCALIBUR VI
     start_date: 2024-05-04T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/soulcalibur-vi/brackets/1644663/2453384
-    standings: []
-  - name: Fate/unlimited codes
-    start_date: 2024-05-04T21:00:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/fate-unlimited-codes/brackets/1644668/2453389
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 5
+      - player: Graffiti Souls
+        standing: 5
+      - player: ChibiTanner
+        prefix: Chibi
+        standing: 5
   - name: The King of Fighters XV
     start_date: 2024-05-04T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/king-of-fighters-xv/brackets/1644676/2453397
-    standings: []
+    standings:
+      - player: golbat
+        standing: 2
+      - player: ChibiTanner
+        prefix: Chibi
+        standing: 3
+      - player: Scrumby
+        standing: 4
+  - name: Fate/unlimited codes
+    start_date: 2024-05-04T21:00:00.000-05:00
+    participant_count: 7
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/fate-unlimited-codes/brackets/1644668/2453389
+    standings:
+      - player: Scrumby
+        standing: 7
+      - player: Graffiti Souls
+        standing: 7
+      - player: Claiomh_Solais
+        standing: 7
 games:
-  - Advanced V.G. 2
   - SOULCALIBUR VI
-  - Fate/unlimited codes
   - The King of Fighters XV
+  - Fate/unlimited codes
 
 ---
 
