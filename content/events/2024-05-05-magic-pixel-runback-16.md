@@ -22,36 +22,35 @@ events:
     participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/soulcalibur-vi/brackets/1644663/2453384
     standings:
-      - player: ChronoSanaki
-        standing: 5
       - player: Graffiti Souls
-        standing: 5
-      - player: ChibiTanner
-        prefix: Chibi
-        standing: 5
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
   - name: The King of Fighters XV
     start_date: 2024-05-04T21:00:00.000-05:00
     participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/king-of-fighters-xv/brackets/1644676/2453397
     standings:
       - player: golbat
+        standing: 1
+      - player: Scrumby
         standing: 2
       - player: ChibiTanner
         prefix: Chibi
         standing: 3
-      - player: Scrumby
-        standing: 4
   - name: Fate/unlimited codes
     start_date: 2024-05-04T21:00:00.000-05:00
     participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-16/events/fate-unlimited-codes/brackets/1644668/2453389
     standings:
-      - player: Scrumby
-        standing: 7
-      - player: Graffiti Souls
-        standing: 7
       - player: Claiomh_Solais
-        standing: 7
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: Scrumby
+        standing: 3
 games:
   - SOULCALIBUR VI
   - The King of Fighters XV
