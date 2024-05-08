@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-48
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 27
 start_date: 2024-05-07T19:00:00.000-05:00
 end_date: 2024-05-07T23:59:00.000-05:00
 created_date: 2024-05-04T11:31:06.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-05-07T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 8
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,10 +29,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-48/events/melty-blood-type-lumina/brackets/1654519/2466483
-    standings: []
+    standings:
+      - player: Derpy
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: Them's Fightin' Herds
     start_date: 2024-05-07T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -47,7 +53,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-05-07T21:00:00.000-05:00
-    participant_count: 5
+    participant_count: 13
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -59,7 +65,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-48/events/guilty-gear-strive/brackets/1654515/2466479
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 2
+      - player: BoyeBall
+        standing: 3
+      - player: Brian_D
+        prefix: VGHS
+        standing: 4
 games:
   - "Melty Blood: Type Lumina"
   - Them's Fightin' Herds
