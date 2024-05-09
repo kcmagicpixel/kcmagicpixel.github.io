@@ -50,7 +50,14 @@ events:
       -Baihe is banned
       -Nidra is allowed, activation of the freeze glitch will count as a loss
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-48/events/them-s-fightin-herds/brackets/1654517/2466481
-    standings: []
+    standings:
+      - player: Solric
+        prefix: American Reset
+        standing: 5
+      - player: golbat
+        standing: 5
+      - player: Fleabag
+        standing: 5
   - name: "Guilty Gear: Strive"
     start_date: 2024-05-07T21:00:00.000-05:00
     participant_count: 13
@@ -67,12 +74,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-48/events/guilty-gear-strive/brackets/1654515/2466479
     standings:
       - player: OoeyGooeyChewySnicker
-        standing: 2
+        standing: 1
       - player: BoyeBall
+        standing: 2
+      - player: cavitae
         standing: 3
-      - player: Brian_D
-        prefix: VGHS
-        standing: 4
 games:
   - "Melty Blood: Type Lumina"
   - Them's Fightin' Herds
