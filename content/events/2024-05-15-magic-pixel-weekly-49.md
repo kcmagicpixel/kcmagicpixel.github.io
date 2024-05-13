@@ -17,18 +17,19 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: Under Night In-Birth II Sys:Celes
+  - name: TEKKEN 8
     start_date: 2024-05-14T20:00:00.000-05:00
     participant_count: 1
+    entry_fee: 5
     rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
       - 2/3 Games per Set
       - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/under-night-in-birth-ii-sys-celes/brackets/1654710/2466719
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/tekken-8/brackets/1654709/2466718
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-05-14T20:30:00.000-05:00
@@ -47,30 +48,23 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/granblue-fantasy-versus-rising/brackets/1654708/2466717
     standings: []
-  - name: TEKKEN 8
+  - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-05-14T21:00:00.000-05:00
     participant_count: 1
-    entry_fee: 5
-    rules: >-
-      - Tournament Mode Default Settings
-
-      - 3/5 Rounds per Game
-
+    rules: |-
+      - Default settings
+      - 2/3 Rounds per Game
       - 2/3 Games per Set
-
       - 3/5 Games for Winners, Losers & Grand Finals
-
-      - Random stage select for Game 1
-
       - Winner of prior game must keep same character
-
-      - Loser of prior game may switch stage (w/ same character) or character (w/ random stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/tekken-8/brackets/1654709/2466718
+      - Loser of prior game may switch character
+      - Random stage select (players may opt for an agreed stage)
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/under-night-in-birth-ii-sys-celes/brackets/1654710/2466719
     standings: []
 games:
-  - Under Night In-Birth II Sys:Celes
-  - "Granblue Fantasy Versus: Rising"
   - TEKKEN 8
+  - "Granblue Fantasy Versus: Rising"
+  - Under Night In-Birth II Sys:Celes
 
 ---
 
