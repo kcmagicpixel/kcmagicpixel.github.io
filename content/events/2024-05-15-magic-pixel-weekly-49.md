@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-49
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 7
+participant_count: 26
 start_date: 2024-05-14T19:00:00.000-05:00
 end_date: 2024-05-14T23:59:00.000-05:00
 created_date: 2024-05-04T15:06:21.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2024-05-14T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 16
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,10 +30,17 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/tekken-8/brackets/1654709/2466718
-    standings: []
+    standings:
+      - player: Scrumby
+        standing: 1
+      - player: TCxBones
+        standing: 2
+      - player: Pootie
+        prefix: WFGC
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-05-14T20:30:00.000-05:00
-    participant_count: 3
+    participant_count: 7
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -47,10 +54,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/granblue-fantasy-versus-rising/brackets/1654708/2466717
-    standings: []
+    standings:
+      - player: Ms Gaypom the Clown
+        standing: 2
+      - player: Pyralis
+        standing: 2
+      - player: emi
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-05-14T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 10
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,7 +73,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/under-night-in-birth-ii-sys-celes/brackets/1654710/2466719
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Sheepy
+        standing: 2
+      - player: A Beholder
+        standing: 3
 games:
   - TEKKEN 8
   - "Granblue Fantasy Versus: Rising"
