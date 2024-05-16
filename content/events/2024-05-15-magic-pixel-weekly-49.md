@@ -55,9 +55,9 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-49/events/granblue-fantasy-versus-rising/brackets/1654708/2466717
     standings:
-      - player: Ms Gaypom the Clown
-        standing: 2
       - player: Pyralis
+        standing: 1
+      - player: Ms Gaypom the Clown
         standing: 2
       - player: emi
         standing: 3
