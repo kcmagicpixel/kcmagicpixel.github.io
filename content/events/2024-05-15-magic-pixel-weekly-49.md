@@ -36,7 +36,7 @@ events:
       - player: TCxBones
         standing: 2
       - player: Pootie
-        prefix: WFGC
+        prefix: CC55
         standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-05-14T20:30:00.000-05:00

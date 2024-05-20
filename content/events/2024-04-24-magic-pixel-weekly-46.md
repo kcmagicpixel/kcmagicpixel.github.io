@@ -73,7 +73,7 @@ events:
       - player: Benjamin Boxing
         standing: 1
       - player: Pootie
-        prefix: WFGC
+        prefix: CC55
         standing: 2
       - player: lillard
         standing: 3
