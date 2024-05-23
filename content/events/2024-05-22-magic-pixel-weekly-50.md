@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-50
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 25
+participant_count: 27
 start_date: 2024-05-21T19:00:00.000-05:00
 end_date: 2024-05-21T23:59:00.000-05:00
 created_date: 2024-05-18T00:20:22.000-05:00
@@ -72,10 +72,10 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-50/events/guilty-gear-strive/brackets/1666190/2482676
     standings:
       - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: BoyeBall
         standing: 2
       - player: GeotheGeo
-        standing: 3
-      - player: BoyeBall
         standing: 3
 games:
   - "Melty Blood: Type Lumina"
