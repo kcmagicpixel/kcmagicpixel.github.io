@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-51
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 27
 start_date: 2024-05-28T19:00:00.000-05:00
 end_date: 2024-05-28T23:58:00.000-05:00
 created_date: 2024-05-18T00:30:23.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2024-05-28T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 17
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,10 +30,16 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-51/events/tekken-8/brackets/1666227/2482713
-    standings: []
+    standings:
+      - player: TCxBones
+        standing: 2
+      - player: HaseoEX
+        standing: 2
+      - player: deapest
+        standing: 3
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-05-28T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 9
     rules: >-
       - Default settings
 
@@ -47,10 +53,16 @@ events:
 
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-51/events/skullgirls-2nd-encore/brackets/1666224/2482710
-    standings: []
+    standings:
+      - player: Ellen
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: Fleabag
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-05-28T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 10
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,7 +72,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-51/events/under-night-in-birth-ii-sys-celes/brackets/1666228/2482714
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Sheepy
+        standing: 2
+      - player: Ellen
+        standing: 3
 games:
   - TEKKEN 8
   - "Skullgirls: 2nd Encore"
