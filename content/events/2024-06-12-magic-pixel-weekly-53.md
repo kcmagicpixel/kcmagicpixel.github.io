@@ -1,25 +1,55 @@
 ---
-title: "Magic Pixel Weekly #52"
-slug: magic-pixel-weekly-52
+title: "Magic Pixel Weekly #53"
+slug: magic-pixel-weekly-53
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-52
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-53
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
-start_date: 2024-06-04T19:00:00.000-05:00
-end_date: 2024-06-04T23:59:00.000-05:00
-created_date: 2024-05-30T21:59:06.000-05:00
+start_date: 2024-06-11T19:00:00.000-05:00
+end_date: 2024-06-11T23:59:00.000-05:00
+created_date: 2024-06-03T20:37:26.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2024-06-04T20:00:00.000-05:00
-    participant_count: 3
+  - name: TEKKEN 8
+    start_date: 2024-06-11T20:00:00.000-05:00
+    participant_count: 0
+    entry_fee: 5
+    rules: |-
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-53/events/tekken-8/brackets/1679654/2500617
+    standings: []
+  - name: "Granblue Fantasy Versus: Rising"
+    start_date: 2024-06-11T20:30:00.000-05:00
+    participant_count: 0
+    rules: |-
+      - Version: PS4 on PS5
+      - Double Elimination
+      - Default settings
+      - 2/3 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+      - Random stage select (players may opt for an agreed stage)
+      - Color 17 is banned for all characters
+      - Prismatic Weapon Skins are banned for all characters
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-53/events/granblue-fantasy-versus-rising/brackets/1679653/2500616
+    standings: []
+  - name: Under Night In-Birth II Sys:Celes
+    start_date: 2024-06-11T21:00:00.000-05:00
+    participant_count: 0
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -28,30 +58,18 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-52/events/melty-blood-type-lumina/brackets/1676357/2496168
-    standings: []
-  - name: "Guilty Gear: Strive"
-    start_date: 2024-06-04T21:00:00.000-05:00
-    participant_count: 1
-    entry_fee: 5
-    rules: >-
-      Game will be played on **PS4**, entrants must provide their own compatible
-      controller.  
-
-      All sets are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-52/events/guilty-gear-strive/brackets/1676353/2496164
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-53/events/under-night-in-birth-ii-sys-celes/brackets/1679655/2500618
     standings: []
 games:
-  - "Melty Blood: Type Lumina"
-  - "Guilty Gear: Strive"
+  - TEKKEN 8
+  - "Granblue Fantasy Versus: Rising"
+  - Under Night In-Birth II Sys:Celes
 
 ---
 
-52 weeklies marks an entire year of Magic Pixel! It's unreal to think we've been doing it for this long already, but here we are, stronger than ever. Thanks to everyone that's come out and made this thing what it is today! For our brackets this night, we'll be playing **Melty Blood: Type Lumina** and **Guilty Gear: Strive**. Come out and celebrate a year of Magic Pixel with us!
+The second Tuesday of the month means it's time for **TEKKEN 8**, **GBVSR**, and **UNI2**! 
+
+For the month of June, we're going to trial running  Tekken World Tour Dojo events, which means that for any brackets with 16 entrants or more, you'll be eligible to receive TWT points depending on your placement. If everything goes smoothly this month, we plan to continue doing this throughout the TWT season, so now's the perfect time to join in! Check out [tekkenworldtour.com](https://www.tekkenworldtour.com/) to find out how to register for the tour and link your start.gg account.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
 
