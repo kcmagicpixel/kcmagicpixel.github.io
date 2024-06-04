@@ -47,20 +47,6 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/granblue-fantasy-versus-rising/brackets/1676422/2496238
     standings: []
-  - name: TEKKEN 8
-    start_date: 2024-06-15T17:00:00.000-05:00
-    participant_count: 0
-    entry_fee: 5
-    rules: |-
-      - Tournament Mode Default Settings
-      - 3/5 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Random stage select
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-    url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/tekken-8/brackets/1676423/2496239
-    standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-06-15T18:00:00.000-05:00
     participant_count: 0
@@ -88,6 +74,20 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/street-fighter-6/brackets/1676414/2496230
+    standings: []
+  - name: TEKKEN 8
+    start_date: 2024-06-15T19:00:00.000-05:00
+    participant_count: 0
+    entry_fee: 5
+    rules: |-
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+    url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/tekken-8/brackets/1676423/2496239
     standings: []
   - name: Advanced V.G. 2
     start_date: 2024-06-15T20:00:00.000-05:00
@@ -122,9 +122,9 @@ events:
 games:
   - Under Night In-Birth II Sys:Celes
   - "Granblue Fantasy Versus: Rising"
-  - TEKKEN 8
   - "Melty Blood: Type Lumina"
   - Street Fighter 6
+  - TEKKEN 8
   - Advanced V.G. 2
   - SOULCALIBUR VI
   - Fate/unlimited codes
@@ -138,10 +138,10 @@ Venue fee: $10 paid on arrival. The venue fee is paid to Larry's Game Store dire
 
 * Doors open at 4pm
 * Granblue Fantasy Versus Rising (PS4) 4:30PM
-* Tekken 8 (PS5) 5:00PM
+* Street Fighter 6 (PS5) 5:00PM
 * Under Night (PS5) 5:00PM
 * Melty Blood (PS4) 6:00PM
-* Street Fighter 6 (PS5) 7:00PM
+* Tekken 8 (PS5) 7:00PM
 * Advance Variable Geo 2: 8:00PM
 * Soul Calibur 6 (PS4): 8:30PM
 * Fate Unlimited Codes (PS2, converters provided): 9:00PM

@@ -17,7 +17,7 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: TEKKEN 8
-    start_date: 2024-06-11T20:00:00.000-05:00
+    start_date: 2024-06-11T19:00:00.000-05:00
     participant_count: 0
     entry_fee: 5
     rules: |-
