@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-52
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 19
 start_date: 2024-06-04T19:00:00.000-05:00
 end_date: 2024-06-04T23:59:00.000-05:00
 created_date: 2024-05-30T21:59:06.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-06-04T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,10 +29,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-52/events/melty-blood-type-lumina/brackets/1676357/2496168
-    standings: []
+    standings:
+      - player: Emi
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-06-04T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 14
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -44,7 +50,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-52/events/guilty-gear-strive/brackets/1676353/2496164
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 2
+      - player: cavitae
+        standing: 2
+      - player: BoyeBall
+        standing: 3
 games:
   - "Melty Blood: Type Lumina"
   - "Guilty Gear: Strive"

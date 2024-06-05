@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-monthly-3
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
+participant_count: 10
 start_date: 2024-06-15T16:00:00.000-05:00
 end_date: 2024-06-16T00:00:00.000-05:00
 created_date: 2024-05-30T23:45:43.000-05:00
@@ -17,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-06-15T16:00:00.000-05:00
-    participant_count: 0
+    participant_count: 3
     entry_fee: 5
     rules: |-
       - Default settings
@@ -31,7 +32,7 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-06-15T16:30:00.000-05:00
-    participant_count: 0
+    participant_count: 3
     entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
@@ -50,6 +51,7 @@ events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-06-15T18:00:00.000-05:00
     participant_count: 0
+    entry_fee: 5
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -62,7 +64,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2024-06-15T19:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -77,7 +79,7 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2024-06-15T19:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -89,24 +91,9 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/tekken-8/brackets/1676423/2496239
     standings: []
-  - name: Advanced V.G. 2
-    start_date: 2024-06-15T20:00:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/advanced-v-g-2/brackets/1676426/2496242
-    standings: []
-  - name: SOULCALIBUR VI
-    start_date: 2024-06-15T20:30:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/soulcalibur-vi/brackets/1676412/2496228
-    standings: []
-  - name: Fate/unlimited codes
-    start_date: 2024-06-15T21:00:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/fate-unlimited-codes/brackets/1676417/2496233
-    standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-06-15T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 5
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -125,9 +112,6 @@ games:
   - "Melty Blood: Type Lumina"
   - Street Fighter 6
   - TEKKEN 8
-  - Advanced V.G. 2
-  - SOULCALIBUR VI
-  - Fate/unlimited codes
   - "Guilty Gear: Strive"
 
 ---
@@ -142,10 +126,9 @@ Venue fee: $10 paid on arrival. The venue fee is paid to Larry's Game Store dire
 * Under Night (PS5) 5:00PM
 * Melty Blood (PS4) 6:00PM
 * Tekken 8 (PS5) 7:00PM
-* Advance Variable Geo 2: 8:00PM
-* Soul Calibur 6 (PS4): 8:30PM
-* Fate Unlimited Codes (PS2, converters provided): 9:00PM
 * Guilty Gear Strive (PS4): 9:00PM
+
+**Normal Saturday brackets start @ 8:00PM**
 
 
 
