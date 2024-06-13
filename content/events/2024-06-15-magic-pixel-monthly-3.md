@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-monthly-3
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 13
+participant_count: 17
 start_date: 2024-06-15T16:00:00.000-05:00
 end_date: 2024-06-16T00:00:00.000-05:00
 created_date: 2024-05-30T23:45:43.000-05:00
@@ -32,7 +32,7 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-06-15T16:30:00.000-05:00
-    participant_count: 3
+    participant_count: 5
     entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
@@ -50,7 +50,7 @@ events:
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-06-15T18:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     rules: |-
       - Default settings
@@ -64,7 +64,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2024-06-15T19:00:00.000-05:00
-    participant_count: 5
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -93,7 +93,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-06-15T21:00:00.000-05:00
-    participant_count: 7
+    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
