@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-monthly-3
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 20
+participant_count: 24
 start_date: 2024-06-15T16:00:00.000-05:00
 end_date: 2024-06-16T00:00:00.000-05:00
 created_date: 2024-05-30T23:45:43.000-05:00
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-06-15T16:00:00.000-05:00
-    participant_count: 6
+    participant_count: 7
     entry_fee: 5
     rules: |-
       - Default settings
@@ -32,7 +32,7 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-06-15T16:30:00.000-05:00
-    participant_count: 5
+    participant_count: 8
     entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
@@ -50,7 +50,7 @@ events:
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-06-15T18:00:00.000-05:00
-    participant_count: 3
+    participant_count: 4
     entry_fee: 5
     rules: |-
       - Default settings
@@ -61,6 +61,20 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/melty-blood-type-lumina/brackets/1676415/2496231
+    standings: []
+  - name: TEKKEN 8
+    start_date: 2024-06-15T19:00:00.000-05:00
+    participant_count: 7
+    entry_fee: 5
+    rules: |-
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+    url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/tekken-8/brackets/1676423/2496239
     standings: []
   - name: Street Fighter 6
     start_date: 2024-06-15T19:00:00.000-05:00
@@ -77,23 +91,9 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/street-fighter-6/brackets/1676414/2496230
     standings: []
-  - name: TEKKEN 8
-    start_date: 2024-06-15T19:00:00.000-05:00
-    participant_count: 6
-    entry_fee: 5
-    rules: |-
-      - Tournament Mode Default Settings
-      - 3/5 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Random stage select
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-    url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/tekken-8/brackets/1676423/2496239
-    standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-06-15T21:00:00.000-05:00
-    participant_count: 9
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -110,8 +110,8 @@ games:
   - Under Night In-Birth II Sys:Celes
   - "Granblue Fantasy Versus: Rising"
   - "Melty Blood: Type Lumina"
-  - Street Fighter 6
   - TEKKEN 8
+  - Street Fighter 6
   - "Guilty Gear: Strive"
 
 ---
