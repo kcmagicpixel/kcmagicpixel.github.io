@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-18
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 14
 start_date: 2024-06-15T19:00:00.000-05:00
 end_date: 2024-06-15T23:58:00.000-05:00
 created_date: 2024-06-13T20:15:15.000-05:00
@@ -16,17 +17,35 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
+  - name: Advanced V.G. 2
+    start_date: 2024-06-15T19:00:00.000-05:00
+    participant_count: 9
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-18/events/avg2/brackets/1688555/2512172
+    standings:
+      - player: ChronoSanaki
+        standing: 2
+      - player: golbat
+        standing: 3
+      - player: Silk
+        standing: 4
   - name: SOULCALIBUR VI
     start_date: 2024-06-15T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-18/events/soulcalibur-vi/brackets/1687658/2511071
     standings: []
   - name: Fate/unlimited codes
     start_date: 2024-06-15T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-18/events/fate-unlimited-codes/brackets/1687663/2511076
-    standings: []
+    standings:
+      - player: Claiomh_Solais
+        standing: 8
+      - player: Silk
+        standing: 8
+      - player: Ace
+        standing: 8
 games:
+  - Advanced V.G. 2
   - SOULCALIBUR VI
   - Fate/unlimited codes
 

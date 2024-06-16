@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-monthly-3
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 24
+participant_count: 38
 start_date: 2024-06-15T16:00:00.000-05:00
 end_date: 2024-06-16T00:00:00.000-05:00
 created_date: 2024-05-30T23:45:43.000-05:00
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-06-15T16:00:00.000-05:00
-    participant_count: 7
+    participant_count: 8
     entry_fee: 5
     rules: |-
       - Default settings
@@ -29,7 +29,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/under-night-in-birth-ii-sys-celes/brackets/1676424/2496240
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Sheepy
+        standing: 2
+      - player: alexpi
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-06-15T16:30:00.000-05:00
     participant_count: 8
@@ -47,10 +53,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/granblue-fantasy-versus-rising/brackets/1676422/2496238
-    standings: []
+    standings:
+      - player: GigaOfTheStars
+        standing: 1
+      - player: Moiseivitch
+        standing: 2
+      - player: Loafers
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-06-15T18:00:00.000-05:00
-    participant_count: 4
+    participant_count: 6
     entry_fee: 5
     rules: |-
       - Default settings
@@ -61,10 +73,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/melty-blood-type-lumina/brackets/1676415/2496231
-    standings: []
+    standings:
+      - player: Derpy
+        standing: 1
+      - player: Nanaya-Gaming
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: TEKKEN 8
     start_date: 2024-06-15T19:00:00.000-05:00
-    participant_count: 7
+    participant_count: 16
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -75,10 +93,17 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/tekken-8/brackets/1676423/2496239
-    standings: []
+    standings:
+      - player: InVaines
+        prefix: AXL | END
+        standing: 2
+      - player: HaseoEX
+        standing: 2
+      - player: HUE MAN
+        standing: 3
   - name: Street Fighter 6
     start_date: 2024-06-15T19:00:00.000-05:00
-    participant_count: 6
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -90,10 +115,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/street-fighter-6/brackets/1676414/2496230
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Moiseivitch
+        standing: 2
+      - player: Pyralis
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-06-15T21:00:00.000-05:00
-    participant_count: 11
+    participant_count: 17
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -105,7 +136,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/guilty-gear-strive/brackets/1676411/2496227
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: Gooba
+        standing: 3
 games:
   - Under Night In-Birth II Sys:Celes
   - "Granblue Fantasy Versus: Rising"
@@ -123,7 +161,7 @@ Venue fee: $10 paid on arrival. The venue fee is paid to Larry's Game Store dire
 * Doors open at 4pm
 * Granblue Fantasy Versus Rising (PS4) 4:30PM
 * Street Fighter 6 (PS5) 5:00PM
-* Under Night (PS5) 5:00PM
+* Under Night (PS4) 5:00PM
 * Melty Blood (PS4) 6:00PM
 * Tekken 8 (PS5) 7:00PM
 * Guilty Gear Strive (PS4): 9:00PM
