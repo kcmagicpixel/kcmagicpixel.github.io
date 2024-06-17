@@ -23,11 +23,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-18/events/avg2/brackets/1688555/2512172
     standings:
       - player: ChronoSanaki
-        standing: 2
+        standing: 1
       - player: golbat
-        standing: 3
+        standing: 2
       - player: Silk
-        standing: 4
+        standing: 3
   - name: SOULCALIBUR VI
     start_date: 2024-06-15T20:30:00.000-05:00
     participant_count: 2
@@ -39,11 +39,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-18/events/fate-unlimited-codes/brackets/1687663/2511076
     standings:
       - player: Claiomh_Solais
-        standing: 8
-      - player: Silk
-        standing: 8
-      - player: Ace
-        standing: 8
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: Graffiti Souls
+        standing: 3
 games:
   - Advanced V.G. 2
   - SOULCALIBUR VI
