@@ -96,7 +96,7 @@ events:
     standings:
       - player: InVaines
         prefix: AXL | END
-        standing: 2
+        standing: 1
       - player: HaseoEX
         standing: 2
       - player: HUE MAN
