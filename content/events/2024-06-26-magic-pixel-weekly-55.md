@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-55
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 22
 start_date: 2024-06-25T19:00:00.000-05:00
 end_date: 2024-06-25T23:59:00.000-05:00
 created_date: 2024-06-17T20:26:01.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2024-06-25T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 12
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,10 +30,17 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-55/events/tekken-8/brackets/1690782/2514932
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 7
+      - player: LambdaX
+        standing: 7
+      - player: Fiend
+        prefix: Lake Trout
+        standing: 7
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-06-25T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     rules: >-
       - Default settings
 
@@ -47,10 +54,17 @@ events:
 
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-55/events/skullgirls-2nd-encore/brackets/1690780/2514930
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Fleabag
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-06-25T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 10
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,7 +74,14 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-55/events/under-night-in-birth-ii-sys-celes/brackets/1690783/2514933
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 2
+      - player: Pipo Password
+        prefix: TSS
+        standing: 2
+      - player: Sheepy
+        standing: 3
 games:
   - TEKKEN 8
   - "Skullgirls: 2nd Encore"
