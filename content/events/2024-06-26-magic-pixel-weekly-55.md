@@ -76,7 +76,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-55/events/under-night-in-birth-ii-sys-celes/brackets/1690783/2514933
     standings:
       - player: Loafers
-        standing: 2
+        standing: 1
       - player: Pipo Password
         prefix: TSS
         standing: 2
