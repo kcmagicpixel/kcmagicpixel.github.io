@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-55
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 22
+participant_count: 30
 start_date: 2024-06-25T19:00:00.000-05:00
 end_date: 2024-06-25T23:59:00.000-05:00
 created_date: 2024-06-17T20:26:01.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2024-06-25T20:00:00.000-05:00
-    participant_count: 12
+    participant_count: 19
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -31,13 +31,13 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-55/events/tekken-8/brackets/1690782/2514932
     standings:
-      - player: httpriestess
-        standing: 7
-      - player: LambdaX
-        standing: 7
-      - player: Fiend
-        prefix: Lake Trout
-        standing: 7
+      - player: InVaines
+        prefix: AXL | END
+        standing: 1
+      - player: deapest
+        standing: 2
+      - player: lillard
+        standing: 3
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-06-25T20:30:00.000-05:00
     participant_count: 4
