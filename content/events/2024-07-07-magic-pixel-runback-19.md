@@ -1,24 +1,33 @@
 ---
-title: "Magic Pixel Weekly #56"
-slug: magic-pixel-weekly-56
+title: "Magic Pixel Runback #19"
+slug: magic-pixel-runback-19
 ref_org: magic-pixel
-ref_banner: images/mp_banner.png
-ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-56
+ref_banner: https://images.start.gg/images/tournament/685328/image-0d80a0a0ab6ae9f8486b0a371a7f8ca9.png?ehk=5uzTXV8CWGcX4BbCUmDdwzms95v5leA2D1%2FI7e0XxNY%3D&ehkOptimized=hNU5WPpU%2FuaqHKIWI4zfnxinWjrb9rBNnTbUWirALpA%3D
+ref_icon: https://images.start.gg/images/tournament/685328/image-04009722a2e954b953bddfac3bf88ab7.png?ehk=6cneyo3XfntwYnLxMB8Lasx6PdZ%2BeJsjiRtIsi4%2Bo3o%3D&ehkOptimized=2sUW3LdvemZ7EVKd%2FH4QMAI1uObxG6ZfTv0HofyTUk4%3D
+url_startgg: https://www.start.gg/tournament/magic-pixel-runback-19
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
-start_date: 2024-07-02T19:00:00.000-05:00
-end_date: 2024-07-02T23:59:00.000-05:00
-created_date: 2024-07-01T19:50:10.000-05:00
+start_date: 2024-07-06T19:00:00.000-05:00
+end_date: 2024-07-06T23:58:00.000-05:00
+created_date: 2024-07-01T19:56:13.000-05:00
 series:
-  - Magic Pixel Weekly
+  - Magic Pixel Runback
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2024-07-02T20:00:00.000-05:00
+  - name: Advanced V.G. 2
+    start_date: 2024-07-06T20:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-19/events/advanced-v-g-2/brackets/1701451/2529792
+    standings: []
+  - name: SOULCALIBUR VI
+    start_date: 2024-07-06T20:30:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-19/events/soulcalibur-vi/brackets/1701441/2529782
+    standings: []
+  - name: Them's Fightin' Herds
+    start_date: 2024-07-06T21:00:00.000-05:00
     participant_count: 0
     rules: |-
       - Default settings
@@ -28,36 +37,18 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-56/events/melty-blood-type-lumina/brackets/1701424/2529763
-    standings: []
-  - name: The King of Fighters XV
-    start_date: 2024-07-02T20:30:00.000-05:00
-    participant_count: 2
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-56/events/king-of-fighters-xv/brackets/1701430/2529769
-    standings: []
-  - name: "Guilty Gear: Strive"
-    start_date: 2024-07-02T21:00:00.000-05:00
-    participant_count: 2
-    entry_fee: 5
-    rules: >-
-      Game will be played on **PS4**, entrants must provide their own compatible
-      controller.  
-
-      All sets are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-56/events/guilty-gear-strive/brackets/1701420/2529759
+      -Baihe is banned
+      -Nidra is allowed, activation of the freeze glitch will count as a loss
+    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-19/events/them-s-fightin-herds/brackets/1701442/2529783
     standings: []
 games:
-  - "Melty Blood: Type Lumina"
-  - The King of Fighters XV
-  - "Guilty Gear: Strive"
+  - Advanced V.G. 2
+  - SOULCALIBUR VI
+  - Them's Fightin' Herds
 
 ---
 
-July is here, and to start off the month we'll be out at Larry's running brackets for **Melty Blood: Type Lumina**, **King of Fighters XV**, and **Guilty Gear: Strive**!
+Welcome to the first MP Runback of July! We'll be gaming this weekend at Larry's as scheduled, with brackets planned for **AVG2**, **TFH**, and **SCVI**.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
 
