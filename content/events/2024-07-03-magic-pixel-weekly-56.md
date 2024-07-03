@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-56
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 22
 start_date: 2024-07-02T19:00:00.000-05:00
 end_date: 2024-07-02T23:59:00.000-05:00
 created_date: 2024-07-01T19:50:10.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-07-02T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 8
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,15 +29,27 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-56/events/melty-blood-type-lumina/brackets/1701424/2529763
-    standings: []
+    standings:
+      - player: Nanaya-Gaming
+        standing: 1
+      - player: Derpy
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: The King of Fighters XV
     start_date: 2024-07-02T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-56/events/king-of-fighters-xv/brackets/1701430/2529769
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: deapest
+        standing: 2
+      - player: Scrumby
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-07-02T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -49,7 +61,13 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-56/events/guilty-gear-strive/brackets/1701420/2529759
-    standings: []
+    standings:
+      - player: Gooba
+        standing: 2
+      - player: OoeyGooeyChewySnicker
+        standing: 2
+      - player: Somedude
+        standing: 3
 games:
   - "Melty Blood: Type Lumina"
   - The King of Fighters XV
