@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-56
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 22
+participant_count: 28
 start_date: 2024-07-02T19:00:00.000-05:00
 end_date: 2024-07-02T23:59:00.000-05:00
 created_date: 2024-07-01T19:50:10.000-05:00
@@ -62,9 +62,9 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-56/events/guilty-gear-strive/brackets/1701420/2529759
     standings:
-      - player: Gooba
-        standing: 2
       - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: Gooba
         standing: 2
       - player: Somedude
         standing: 3
