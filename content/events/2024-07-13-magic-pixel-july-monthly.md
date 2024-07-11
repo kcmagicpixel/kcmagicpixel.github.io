@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-july-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 5
+participant_count: 8
 start_date: 2024-07-13T16:00:00.000-05:00
 end_date: 2024-07-13T23:59:00.000-05:00
 created_date: 2024-07-09T09:27:31.000-05:00
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-07-13T16:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: |-
       - Default settings
@@ -32,7 +32,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2024-07-13T17:00:00.000-05:00
-    participant_count: 2
+    participant_count: 3
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -79,7 +79,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-07-13T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 4
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -94,7 +94,7 @@ events:
     standings: []
   - name: Fate/unlimited codes
     start_date: 2024-07-13T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/fate-unlimited-codes/brackets/1707376/2538260
     standings: []
 games:
@@ -117,7 +117,7 @@ Venue fee: $10 paid on arrival. The venue fee is paid to Larry's Game Store dire
 * Tekken 8 (PS5) 6:00PM
 * Granblue Fantasy Vs Rising (PS5) 7:00PM
 * Guilty Gear Strive (PS4): 8:00PM
-* Fate Unlimited Codes: 8:30PM
+* Fate Unlimited Codes (PS2, converters provided): 8:30PM
 
 
 We will be playing in the shop's event space, which is two doors to the left of the shop itself. Game entry fees are collected by the TO, and are **CASH ONLY**. The event schedule is detailed in the Events section of the sidebar, and is also always listed on the [Magic Pixel Events](https://kcmagicpixel.com/events/) page.
