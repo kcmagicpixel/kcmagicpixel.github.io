@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-july-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 8
+participant_count: 9
 start_date: 2024-07-13T16:00:00.000-05:00
 end_date: 2024-07-13T23:59:00.000-05:00
 created_date: 2024-07-09T09:27:31.000-05:00
@@ -47,7 +47,7 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2024-07-13T18:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
