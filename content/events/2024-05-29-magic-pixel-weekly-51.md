@@ -31,9 +31,9 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-51/events/tekken-8/brackets/1666227/2482713
     standings:
-      - player: TCxBones
-        standing: 2
       - player: HaseoEX
+        standing: 1
+      - player: TCxBones
         standing: 2
       - player: deapest
         standing: 3

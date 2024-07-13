@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-july-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 9
+participant_count: 21
 start_date: 2024-07-13T16:00:00.000-05:00
 end_date: 2024-07-13T23:59:00.000-05:00
 created_date: 2024-07-09T09:27:31.000-05:00
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-07-13T16:30:00.000-05:00
-    participant_count: 1
+    participant_count: 3
     entry_fee: 5
     rules: |-
       - Default settings
@@ -32,7 +32,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2024-07-13T17:00:00.000-05:00
-    participant_count: 3
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -47,7 +47,7 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2024-07-13T18:00:00.000-05:00
-    participant_count: 2
+    participant_count: 5
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -61,7 +61,7 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-07-13T19:00:00.000-05:00
-    participant_count: 0
+    participant_count: 5
     entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
@@ -79,7 +79,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-07-13T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -94,7 +94,7 @@ events:
     standings: []
   - name: Fate/unlimited codes
     start_date: 2024-07-13T20:30:00.000-05:00
-    participant_count: 4
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/fate-unlimited-codes/brackets/1707376/2538260
     standings: []
 games:
