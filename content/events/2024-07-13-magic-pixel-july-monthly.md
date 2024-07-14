@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-july-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 21
+participant_count: 32
 start_date: 2024-07-13T16:00:00.000-05:00
 end_date: 2024-07-13T23:59:00.000-05:00
 created_date: 2024-07-09T09:27:31.000-05:00
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-07-13T16:30:00.000-05:00
-    participant_count: 3
+    participant_count: 8
     entry_fee: 5
     rules: |-
       - Default settings
@@ -29,10 +29,17 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/under-night-in-birth-ii-sys-celes/brackets/1707379/2538263
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Pipo Password
+        prefix: TSS
+        standing: 2
+      - player: Nanaya-Gaming
+        standing: 3
   - name: Street Fighter 6
     start_date: 2024-07-13T17:00:00.000-05:00
-    participant_count: 6
+    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -44,10 +51,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/street-fighter-6/brackets/1707374/2538258
-    standings: []
+    standings:
+      - player: Tcsduo
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: Kannon
+        standing: 3
   - name: TEKKEN 8
     start_date: 2024-07-13T18:00:00.000-05:00
-    participant_count: 5
+    participant_count: 10
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -58,10 +71,18 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/tekken-8/brackets/1707378/2538262
-    standings: []
+    standings:
+      - player: InVaines
+        prefix: AXL | END
+        standing: 1
+      - player: lillard
+        standing: 2
+      - player: Pipo Password
+        prefix: TSS
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-07-13T19:00:00.000-05:00
-    participant_count: 5
+    participant_count: 9
     entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
@@ -76,10 +97,17 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/granblue-fantasy-versus-rising/brackets/1707377/2538261
-    standings: []
+    standings:
+      - player: Loafers
+        standing: 1
+      - player: Nanaya-Gaming
+        standing: 2
+      - player: Brian_D
+        prefix: VGHS
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-07-13T20:00:00.000-05:00
-    participant_count: 8
+    participant_count: 13
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -91,12 +119,25 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/guilty-gear-strive/brackets/1707372/2538256
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnicker
+        standing: 1
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: Gooba
+        standing: 3
   - name: Fate/unlimited codes
     start_date: 2024-07-13T20:30:00.000-05:00
-    participant_count: 6
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-july-monthly/events/fate-unlimited-codes/brackets/1707376/2538260
-    standings: []
+    standings:
+      - player: Claiomh_Solais
+        standing: 1
+      - player: Nanaya-Gaming
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
 games:
   - Under Night In-Birth II Sys:Celes
   - Street Fighter 6
