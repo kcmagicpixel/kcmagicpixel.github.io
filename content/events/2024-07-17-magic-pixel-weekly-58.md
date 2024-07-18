@@ -72,9 +72,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-58/events/guilty-gear-strive/brackets/1706907/2536731
     standings:
       - player: OoeyGooeyChewySnicker
-        standing: 3
+        standing: 1
       - player: Gooba
-        standing: 3
+        standing: 2
       - player: Brian_D
         prefix: VGHS
         standing: 3
