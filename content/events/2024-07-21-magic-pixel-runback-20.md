@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-20
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2024-07-20T19:00:00.000-05:00
 end_date: 2024-07-20T23:59:00.000-05:00
 created_date: 2024-07-08T19:31:02.000-05:00
@@ -23,7 +24,7 @@ events:
     standings: []
   - name: Fate/unlimited codes
     start_date: 2024-07-20T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-20/events/fate-unlimited-codes/brackets/1706961/2536793
     standings: []
 games:
