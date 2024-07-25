@@ -32,11 +32,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-59/events/tekken-8/brackets/1717473/2552511
     standings:
       - player: lillard
+        standing: 1
+      - player: Fleabag
         standing: 2
       - player: Nutterinos
         standing: 3
-      - player: Fleabag
-        standing: 4
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-07-23T21:00:00.000-05:00
     participant_count: 7
