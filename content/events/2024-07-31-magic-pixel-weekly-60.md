@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-60
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 5
 start_date: 2024-07-30T19:00:00.000-05:00
 end_date: 2024-07-30T23:59:00.000-05:00
 created_date: 2024-07-22T22:12:34.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Skullgirls: 2nd Encore"
     start_date: 2024-07-30T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     rules: >-
       - Default settings
 
@@ -33,7 +33,13 @@ events:
 
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-60/events/skullgirls-2nd-encore/brackets/1717485/2552523
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Fleabag
+        standing: 2
+      - player: El Nepatl'
+        standing: 3
 games:
   - "Skullgirls: 2nd Encore"
 
