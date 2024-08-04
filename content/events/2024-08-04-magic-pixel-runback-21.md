@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-21
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 7
 start_date: 2024-08-03T19:00:00.000-05:00
 end_date: 2024-08-03T23:59:00.000-05:00
 created_date: 2024-08-03T13:15:35.000-05:00
@@ -19,9 +19,15 @@ stream: kcmagicpixel
 events:
   - name: SOULCALIBUR VI
     start_date: 2024-08-03T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-21/events/soulcalibur-vi/brackets/1727086/2565683
-    standings: []
+    standings:
+      - player: Graffiti Souls
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: Xanivara
+        standing: 3
 games:
   - SOULCALIBUR VI
 
