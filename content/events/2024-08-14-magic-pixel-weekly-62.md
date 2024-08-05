@@ -16,6 +16,20 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
+  - name: TEKKEN 8
+    start_date: 2024-08-13T20:00:00.000-05:00
+    participant_count: 0
+    entry_fee: 5
+    rules: |-
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-62/events/tekken-8/brackets/1727124/2565736
+    standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-08-13T20:30:00.000-05:00
     participant_count: 0
@@ -33,21 +47,6 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-62/events/granblue-fantasy-versus-rising/brackets/1727123/2565735
     standings: []
-  - name: "Guilty Gear: Strive"
-    start_date: 2024-08-13T21:00:00.000-05:00
-    participant_count: 0
-    entry_fee: 5
-    rules: >-
-      Game will be played on **PS4**, entrants must provide their own compatible
-      controller.  
-
-      All sets are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-62/events/guilty-gear-strive/brackets/1727116/2565728
-    standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-08-13T21:00:00.000-05:00
     participant_count: 0
@@ -62,8 +61,8 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-62/events/under-night-in-birth-ii-sys-celes/brackets/1727125/2565737
     standings: []
 games:
+  - TEKKEN 8
   - "Granblue Fantasy Versus: Rising"
-  - "Guilty Gear: Strive"
   - Under Night In-Birth II Sys:Celes
 
 ---
