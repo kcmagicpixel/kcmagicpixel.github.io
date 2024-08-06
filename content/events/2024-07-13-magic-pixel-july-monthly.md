@@ -7,7 +7,6 @@ ref_icon: https://images.start.gg/images/tournament/687681/image-1894170071ea6fd
 url_startgg: https://www.start.gg/tournament/magic-pixel-july-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-venue_fee: 10
 participant_count: 32
 start_date: 2024-07-13T16:00:00.000-05:00
 end_date: 2024-07-13T23:59:00.000-05:00
@@ -19,7 +18,6 @@ events:
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-07-13T16:30:00.000-05:00
     participant_count: 8
-    entry_fee: 5
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -40,7 +38,6 @@ events:
   - name: Street Fighter 6
     start_date: 2024-07-13T17:00:00.000-05:00
     participant_count: 9
-    entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -61,7 +58,6 @@ events:
   - name: TEKKEN 8
     start_date: 2024-07-13T18:00:00.000-05:00
     participant_count: 10
-    entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -83,7 +79,6 @@ events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-07-13T19:00:00.000-05:00
     participant_count: 9
-    entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -108,7 +103,6 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2024-07-13T20:00:00.000-05:00
     participant_count: 13
-    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
