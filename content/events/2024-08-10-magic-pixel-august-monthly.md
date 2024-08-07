@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-august-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 2
+participant_count: 3
 start_date: 2024-08-10T16:00:00.000-05:00
 end_date: 2024-08-10T23:59:00.000-05:00
 created_date: 2024-08-04T19:25:54.000-05:00
@@ -71,7 +71,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-08-10T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
