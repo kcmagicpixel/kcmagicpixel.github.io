@@ -137,7 +137,8 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-monthly-3/events/guilty-gear-strive/brackets/1676411/2496227
     standings:
-      - player: OoeyGooeyChewySnicker
+      - player: OoeyGooeyChewySnickers
+        prefix: SJS
         standing: 1
       - player: Brian_D
         prefix: VGHS

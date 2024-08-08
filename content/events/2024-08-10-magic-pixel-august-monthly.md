@@ -7,8 +7,7 @@ ref_icon: https://images.start.gg/images/tournament/695764/image-d3718e4b252ad16
 url_startgg: https://www.start.gg/tournament/magic-pixel-august-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-venue_fee: 10
-participant_count: 3
+participant_count: 5
 start_date: 2024-08-10T16:00:00.000-05:00
 end_date: 2024-08-10T23:59:00.000-05:00
 created_date: 2024-08-04T19:25:54.000-05:00
@@ -19,7 +18,6 @@ events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-08-10T16:30:00.000-05:00
     participant_count: 0
-    entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -36,8 +34,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2024-08-10T17:00:00.000-05:00
-    participant_count: 2
-    entry_fee: 5
+    participant_count: 3
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -52,7 +49,6 @@ events:
   - name: TEKKEN 8
     start_date: 2024-08-10T18:00:00.000-05:00
     participant_count: 0
-    entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -66,13 +62,11 @@ events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-08-10T19:00:00.000-05:00
     participant_count: 0
-    entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-august-monthly/events/melty-blood-type-lumina/brackets/1728126/2567115
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2024-08-10T20:00:00.000-05:00
-    participant_count: 1
-    entry_fee: 5
+    participant_count: 3
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  

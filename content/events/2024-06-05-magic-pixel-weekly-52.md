@@ -51,7 +51,8 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-52/events/guilty-gear-strive/brackets/1676353/2496164
     standings:
-      - player: OoeyGooeyChewySnicker
+      - player: OoeyGooeyChewySnickers
+        prefix: SJS
         standing: 1
       - player: cavitae
         standing: 2
