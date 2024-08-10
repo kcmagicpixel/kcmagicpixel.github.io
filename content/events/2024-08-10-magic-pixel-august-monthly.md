@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-august-monthly
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 10
-participant_count: 6
+participant_count: 11
 start_date: 2024-08-10T16:00:00.000-05:00
 end_date: 2024-08-10T23:59:00.000-05:00
 created_date: 2024-08-04T19:25:54.000-05:00
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2024-08-10T16:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: |-
       - Version: PS4 on PS5
@@ -36,7 +36,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2024-08-10T17:00:00.000-05:00
-    participant_count: 4
+    participant_count: 5
     entry_fee: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
@@ -51,7 +51,7 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2024-08-10T18:00:00.000-05:00
-    participant_count: 0
+    participant_count: 3
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -65,7 +65,7 @@ events:
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-08-10T19:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-august-monthly/events/melty-blood-type-lumina/brackets/1728126/2567115
     standings: []
@@ -86,7 +86,7 @@ events:
     standings: []
   - name: Advanced V.G. 2
     start_date: 2024-08-10T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-august-monthly/events/avg2/brackets/1729122/2568342
     standings: []
 games:
