@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-22
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 4
 start_date: 2024-08-17T19:00:00.000-05:00
 end_date: 2024-08-17T23:59:00.000-05:00
 created_date: 2024-08-16T23:50:40.000-05:00
@@ -18,17 +19,17 @@ stream: kcmagicpixel
 events:
   - name: Advanced V.G. 2
     start_date: 2024-08-17T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-22/events/advanced-v-g-2/brackets/1737800/2580021
     standings: []
   - name: SOULCALIBUR VI
     start_date: 2024-08-17T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-22/events/soulcalibur-vi/brackets/1737790/2580011
     standings: []
   - name: Fate/unlimited codes
     start_date: 2024-08-17T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-22/events/fate-unlimited-codes/brackets/1737794/2580015
     standings: []
 games:
