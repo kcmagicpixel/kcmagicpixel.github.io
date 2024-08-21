@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-63
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 21
 start_date: 2024-08-20T19:00:00.000-05:00
 end_date: 2024-08-20T23:00:00.000-05:00
 created_date: 2024-08-16T23:55:13.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-08-20T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,10 +29,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-63/events/melty-blood-type-lumina/brackets/1737807/2580028
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: Emi
+        standing: 3
   - name: Street Fighter 6
     start_date: 2024-08-20T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 8
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -43,10 +49,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-63/events/street-fighter-6/brackets/1737806/2580027
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: Enker
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-08-20T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -58,7 +70,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-63/events/guilty-gear-strive/brackets/1737803/2580024
-    standings: []
+    standings:
+      - player: Sesso
+        standing: 9
+      - player: Jembo
+        standing: 9
+      - player: Solric
+        prefix: American Reset
+        standing: 9
 games:
   - "Melty Blood: Type Lumina"
   - Street Fighter 6
