@@ -71,13 +71,12 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-63/events/guilty-gear-strive/brackets/1737803/2580024
     standings:
-      - player: Sesso
-        standing: 9
+      - player: cavitae
+        standing: 1
       - player: Jembo
-        standing: 9
-      - player: Solric
-        prefix: American Reset
-        standing: 9
+        standing: 2
+      - player: Pyralis
+        standing: 3
 games:
   - "Melty Blood: Type Lumina"
   - Street Fighter 6
