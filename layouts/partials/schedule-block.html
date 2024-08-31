@@ -1,0 +1,7 @@
+{{ $series := slice }}{{ range .Site.Taxonomies.series }}{{ $series = append .Page $series }}{{ end }}
+{{ with where $series "Params.schedule" true }}
+  <h2>Schedule</h2>
+  <ul class="series-summary">
+    {{ range (sort . "Weight") }}{{ partial "series-li.html" . }}{{ end }}
+  </ul>
+{{ end }}

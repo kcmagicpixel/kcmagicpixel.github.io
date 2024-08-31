@@ -18,6 +18,7 @@
         </li>
       </ul>
     {{ end }}
+    {{ partial "schedule-block.html" . }}
     {{ $recent_list := where (where (where .Site.RegularPages "Section" "events") "Params.start_date" "lt" now) "Params.start_date" "ge" (now.AddDate 0 -1 0) }}
     {{ with $recent_list }}
       <h2>
