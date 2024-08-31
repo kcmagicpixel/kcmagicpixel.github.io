@@ -12,10 +12,10 @@
     <meta property="og:title" content='{{ block "title" . }}{{ end }}'>
     {{ with .Summary }}<meta property="og:description" content="{{ . }}">{{ end }}
     <meta property="og:type" content="website">
-    <meta property="og:image" content='{{ ($icon.Resize "256x256").Permalink }}'>
-    <meta property="og:image:width" content="256">
-    <meta property="og:image:height" content="256">
-    <meta property="og:image:alt" content="Magic Pixel Logo">
+    <meta property="og:image" content='{{ ($icon.Resize "512x512").Permalink }}'>
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
+    <meta property="og:image:alt" content="Magic Pixel logo">
     {{ end }}
     <title>
       {{ block "title" . }}{{ .Site.Title }} | {{ .Site.Params.subtitle }}{{ end }}
@@ -23,6 +23,10 @@
     {{ block "structured_data" . }}{{ end }}
     {{- $icon := resources.Get "images/mp_icon.png" -}}
     <link rel="apple-touch-icon" sizes="180x180" href='{{ ($icon.Resize "180x180").RelPermalink }}'>
+    <link rel="icon" type="image/png" sizes="144x144" href='{{ ($icon.Resize "192x192").RelPermalink }}'>
+    <link rel="icon" type="image/png" sizes="144x144" href='{{ ($icon.Resize "144x144").RelPermalink }}'>
+    <link rel="icon" type="image/png" sizes="96x96" href='{{ ($icon.Resize "96x96").RelPermalink }}'>
+    <link rel="icon" type="image/png" sizes="48x48" href='{{ ($icon.Resize "48x48").RelPermalink }}'>
     <link rel="icon" type="image/png" sizes="32x32" href='{{ ($icon.Resize "32x32").RelPermalink }}'>
     <link rel="icon" type="image/png" sizes="16x16" href='{{ ($icon.Resize "16x16").RelPermalink }}'>
     <link rel="manifest" href="/site.webmanifest">
