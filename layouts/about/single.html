@@ -1,45 +1,43 @@
-{{ define "title" }}
-{{ .Title }} | {{ .Site.Title }} | {{ .Site.Params.subtitle }}
-{{ end }}
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }} | {{ .Site.Params.subtitle }}{{ end }}
 {{ define "main" }}
-  <main id="details-grid" class="details-org">
-    <div id="grid-content">
-      <div id="grid-title-area">
-        <div id="grid-title"><h1>{{ .Params.name }}</h1></div>
-        {{ with partial "img-ref.html" .Params.ref_icon }}
-          {{ $img := .Resize "96x" }}
-          <img class="icon" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Page.Title }} icon" />
-        {{ end }}
-      </div>
-      <ul id="grid-quick-info" class="info-list">
-      {{ with .Params.email }}
-        <li><span><i class="fa-solid fa-envelope" title="Email"></i><a href="mailto:{{ . }}">{{ . }}</span></a></li>
+<main id="details-grid" class="details-org">
+  <div id="grid-content">
+    <div id="grid-title-area">
+      <div id="grid-title"><h1>{{ .Params.name }}</h1></div>
+      {{ with partial "img-ref.html" .Params.ref_icon }}
+        {{ $img := .Resize "96x" }}
+        <img class="icon" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Page.Title }} icon" />
       {{ end }}
-      {{ with .Params.url_codeofconduct }}
-        <li><span><i class="fa-solid fa-scroll" title="Address"></i><a href="{{ . }}">Code of Conduct</a></span></li>
-      {{ end }}
-      </ul>
-      <article id="grid-description">
-        {{ .Content }}
-      </article>
-      <ul id="grid-details" class="info-list">
-      {{ range $link_key, $link_value := .Params.links }}
-        {{ $title := humanize $link_key }}
-        {{ if eq $link_key "startgg" }}
-          {{ $title = "start.gg" }}
-        {{ end }}
-        <li>
-          <span>
-            {{ if eq $link_key "startgg" }}
-              <i class="start-gg" title="start.gg"></i>
-            {{ else }}
-              <i class="fa-brands fa-{{ $link_key }}" title="{{ $title }}"></i>
-            {{ end }}
-            <a href="{{ $link_value.url }}">{{ $title }}</a>
-          </span>
-        </li>
-      {{ end }}
-      </ul>
     </div>
-  </main>
+    <ul id="grid-quick-info" class="info-list">
+    {{ with .Params.email }}
+      <li><span><i class="fa-solid fa-envelope" title="Email"></i><a href="mailto:{{ . }}">{{ . }}</span></a></li>
+    {{ end }}
+    {{ with .Params.url_codeofconduct }}
+      <li><span><i class="fa-solid fa-scroll" title="Address"></i><a href="{{ . }}">Code of Conduct</a></span></li>
+    {{ end }}
+    </ul>
+    <article id="grid-description">
+      {{ .Content }}
+    </article>
+    <ul id="grid-details" class="info-list">
+    {{ range $link_key, $link_value := .Params.links }}
+      {{ $title := humanize $link_key }}
+      {{ if eq $link_key "startgg" }}
+        {{ $title = "start.gg" }}
+      {{ end }}
+      <li>
+        <span>
+          {{ if eq $link_key "startgg" }}
+            <i class="start-gg" title="start.gg"></i>
+          {{ else }}
+            <i class="fa-brands fa-{{ $link_key }}" title="{{ $title }}"></i>
+          {{ end }}
+          <a href="{{ $link_value.url }}">{{ $title }}</a>
+        </span>
+      </li>
+    {{ end }}
+    </ul>
+  </div>
+</main>
 {{ end }}

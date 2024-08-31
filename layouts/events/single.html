@@ -1,87 +1,85 @@
-{{ define "title" }}
-{{ .Title }} | Events | {{ .Site.Title }}
-{{ end }}
+{{ define "title" }}{{ .Title }} | Events | {{ .Site.Title }}{{ end }}
 {{ define "main" }}
-  <main id="details-grid">
-    {{ with partial "img-ref.html" .Params.ref_banner }}
-      {{ $img := .Resize "1000x" }}
-      <img class="banner" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" alt="{{ $.Page.Title }} banner" />
-    {{ end }}
-    <div id="grid-content">
-      <div id="grid-title-area">
-        {{ partial "block-date.html" .Params.start_date }}
-        <div id="grid-title"><h1>{{ .Title }}</h1></div>
-      </div>
-      <ul id="grid-quick-info" class="info-list">
-        <li><span><i class="fa-solid fa-clock" title="Time"></i>{{ .Params.start_date.Format "3:04 PM MST" }}</span></li>
-        {{ with .Params.address }}
-          <li><span><i class="fa-solid fa-location-dot" title="Address"></i>{{ . }}</span></li>
-        {{ end }}
-        {{ if .Params.url_startgg }}
-          <li>
-            <span><i class="start-gg" title="start.gg" ></i><a href="{{ .Params.url_startgg }}">start.gg</a></span>
-            {{ with .Params.participant_count }}{{ if ge . 10 }}
-              <span><i class="fa-solid fa-people-group" title="Participants"></i>{{ . }}</span>
-            {{ end }}{{ end }}
-          </li>
-        {{ end }}
-      </ul>
-      <article id="grid-description">
-        {{ .Content }}
-      </article>
-      <ul id="grid-details" class="info-list">
-      {{ with $.Site.GetPage "about" }}
-        <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Params.name }}</a></span><span></li>
-        {{ with .Params.url_codeofconduct }}
-          <li><span><i class="fa-solid fa-scroll" title="Code of Conduct"></i><a href="{{ . }}">Code of Conduct</a></span><span></li>
-        {{ end }}
+<main id="details-grid">
+  {{ with partial "img-ref.html" .Params.ref_banner }}
+    {{ $img := .Resize "1000x" }}
+    <img class="banner" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" alt="{{ $.Page.Title }} banner" />
+  {{ end }}
+  <div id="grid-content">
+    <div id="grid-title-area">
+      {{ partial "block-date.html" .Params.start_date }}
+      <div id="grid-title"><h1>{{ .Title }}</h1></div>
+    </div>
+    <ul id="grid-quick-info" class="info-list">
+      <li><span><i class="fa-solid fa-clock" title="Time"></i>{{ .Params.start_date.Format "3:04 PM MST" }}</span></li>
+      {{ with .Params.address }}
+        <li><span><i class="fa-solid fa-location-dot" title="Address"></i>{{ . }}</span></li>
       {{ end }}
-      {{ with .Params.events }}
+      {{ if .Params.url_startgg }}
         <li>
-          <i class="fa-solid fa-gamepad" title="Schedule"></i>
-          <div class="game-schedule">
-          {{ range . }}
-            <div class="game-schedule-item">
-              <div class="game-schedule-item-header">
-                {{ if .url_bracket }}
-                  <a href="{{ .url_bracket }}">{{ .name }}</a>
-                {{ else }}
-                  {{ .name }}
-                {{ end }}
-                {{ with .start_date }}
-                  <span class="game-schedule-fill"></span>
-                  {{ time.Format ":time_short" . }}
-                {{ end }}
-              </div>
-              <div class="game-schedule-item-info">
-                
-                <span>
-                  <i class="fa-solid fa-dollar" title="{{ .name }} Entry Fee"></i>{{ with .entry_fee }}{{ . }}{{ else }}0{{ end }}
-                </span>
-                <span>
-                  {{ if .participant_count }}
-                  <i class="fa-solid fa-people-group" title="{{ .name }} Entrants"></i>{{ .participant_count }}
-                  {{ end }}
-                </span>
-                {{ with .standings }}
-                <ol>
-                  {{ range . }}
-                  <li>
-                    <span>{{ with .prefix }}{{ . }} | {{ end }}{{ .player }} | </span>
-                    <strong>{{ .standing }}</strong>
-                  </li>
-                  {{ end }}
-                </ol>
-                {{ end }}
-              </div>
-            </div>
-          {{ end }}
-          </div>
+          <span><i class="start-gg" title="start.gg" ></i><a href="{{ .Params.url_startgg }}">start.gg</a></span>
+          {{ with .Params.participant_count }}{{ if ge . 10 }}
+            <span><i class="fa-solid fa-people-group" title="Participants"></i>{{ . }}</span>
+          {{ end }}{{ end }}
         </li>
       {{ end }}
-      </ul>
-    </div>
-  </main>
+    </ul>
+    <article id="grid-description">
+      {{ .Content }}
+    </article>
+    <ul id="grid-details" class="info-list">
+    {{ with $.Site.GetPage "about" }}
+      <li><span><i class="fa-solid fa-shop" title="Host Organization"></i><a href="{{ .RelPermalink }}">{{ .Params.name }}</a></span><span></li>
+      {{ with .Params.url_codeofconduct }}
+        <li><span><i class="fa-solid fa-scroll" title="Code of Conduct"></i><a href="{{ . }}">Code of Conduct</a></span><span></li>
+      {{ end }}
+    {{ end }}
+    {{ with .Params.events }}
+      <li>
+        <i class="fa-solid fa-gamepad" title="Schedule"></i>
+        <div class="game-schedule">
+        {{ range . }}
+          <div class="game-schedule-item">
+            <div class="game-schedule-item-header">
+              {{ if .url_bracket }}
+                <a href="{{ .url_bracket }}">{{ .name }}</a>
+              {{ else }}
+                {{ .name }}
+              {{ end }}
+              {{ with .start_date }}
+                <span class="game-schedule-fill"></span>
+                {{ time.Format ":time_short" . }}
+              {{ end }}
+            </div>
+            <div class="game-schedule-item-info">
+              
+              <span>
+                <i class="fa-solid fa-dollar" title="{{ .name }} Entry Fee"></i>{{ with .entry_fee }}{{ . }}{{ else }}0{{ end }}
+              </span>
+              <span>
+                {{ if .participant_count }}
+                <i class="fa-solid fa-people-group" title="{{ .name }} Entrants"></i>{{ .participant_count }}
+                {{ end }}
+              </span>
+              {{ with .standings }}
+              <ol>
+                {{ range . }}
+                <li>
+                  <span>{{ with .prefix }}{{ . }} | {{ end }}{{ .player }} | </span>
+                  <strong>{{ .standing }}</strong>
+                </li>
+                {{ end }}
+              </ol>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+        </div>
+      </li>
+    {{ end }}
+    </ul>
+  </div>
+</main>
 {{ end }}
 {{ define "structured_data" }}
 <script type="application/ld+json">
@@ -131,4 +129,14 @@
     "eventStatus": "https://schema.org/EventScheduled"
   }
   </script>
+{{ end }}
+{{ define "og" }}
+{{- $icon := resources.Get "images/mp_icon.png" -}}
+<meta property="og:title" content='{{ .Page.Title }}'>
+{{ with .Summary }}<meta property="og:description" content="{{ . }}">{{ end }}
+<meta property="og:type" content="article">
+<meta property="og:image" content='{{ ($icon.Resize "256x256").Permalink }}'>
+<meta property="og:image:width" content="256">
+<meta property="og:image:height" content="256">
+<meta property="og:image:alt" content="Magic Pixel Logo">
 {{ end }}

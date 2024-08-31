@@ -1,15 +1,13 @@
-{{ define "title" }}
-Event Series | {{ .Site.Title }} | {{ .Site.Params.subtitle }}
-{{ end }}
+{{ define "title" }}Event Series | {{ .Site.Title }} | {{ .Site.Params.subtitle }}{{ end }}
 {{ define "main" }}
-  <main>
-    <h1>Event Series</h1>
-    <ul>
-      {{ range .Pages }}
-        <li class="content-item ml">
-          <a class="p1" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
-        </li>
-      {{ end }}
-    </ul>
-  </main>
+<main>
+  <h1>Event Series</h1>
+  <ul>
+    {{ range .Pages }}
+      <li class="content-item ml">
+        <a class="p1" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
+      </li>
+    {{ end }}
+  </ul>
+</main>
 {{ end }}

@@ -2,12 +2,23 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="description" content="{{ .Site.Params.subtitle }}">
-    <meta content="width=device-width, initial-scale=1" name="viewport">
+    {{ with .Summary }}<meta name="description" content="{{ . }}">{{ end }}
+    <meta name="theme-color" content="#0c2340">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:url" content="{{ .Page.Permalink }}">
+    {{ block "og" . }}
+    {{- $icon := resources.Get "images/mp_icon.png" -}}
+    <meta property="og:title" content='{{ block "title" . }}{{ end }}'>
+    {{ with .Summary }}<meta property="og:description" content="{{ . }}">{{ end }}
+    <meta property="og:type" content="website">
+    <meta property="og:image" content='{{ ($icon.Resize "256x256").Permalink }}'>
+    <meta property="og:image:width" content="256">
+    <meta property="og:image:height" content="256">
+    <meta property="og:image:alt" content="Magic Pixel Logo">
+    {{ end }}
     <title>
-      {{ block "title" . }} 
-        {{ .Site.Title }} | {{ .Site.Params.subtitle }}
-      {{ end }}
+      {{ block "title" . }}{{ .Site.Title }} | {{ .Site.Params.subtitle }}{{ end }}
     </title>
     {{ block "structured_data" . }}{{ end }}
     {{- $icon := resources.Get "images/mp_icon.png" -}}
@@ -45,7 +56,7 @@
         <div class="top">
           <span class="left"></span>
           <img src="/images/icon-conn-dialup.png" alt="" width="16" height="16" />
-          <div class="text">{{ .Site.Title }} | {{ .Site.Params.subtitle }}</div>
+          <header class="text">{{ block "title" . }}{{ end }}</header>
           <span class="center"></span>
           <span class="right"></span>
         </div>
@@ -53,10 +64,7 @@
           <span class="left"></span>
           <div class="content">
             {{ partial "menu.html" . }}
-            <!-- Code that all your templates share, like a header -->
-            {{ block "main" . }}
-            <!-- The part of the page that begins to differ between templates -->
-            {{ end }}
+            {{ block "main" . }}{{ end }}
           </div>
           <span class="right"></span>
         </div>

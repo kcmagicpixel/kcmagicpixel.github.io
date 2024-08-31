@@ -6,7 +6,7 @@ summaryLength = 30
 title = 'Magic Pixel'
 
 [params]
-altnames = ['Magic Pixel KC', 'Magic Pixel Fighting Games']
+altnames = ['KC Magic Pixel', 'Magic Pixel KC', 'Magic Pixel FGC', 'Magic Pixel Fighting Games']
 subtitle = 'Kansas City Fighting Game Community Events'
 
 [permalinks]

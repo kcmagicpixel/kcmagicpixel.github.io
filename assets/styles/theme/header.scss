@@ -57,7 +57,7 @@ nav.menu-nav {
   }
 }
 
-header#main-header {
+nav.menu-nav {
   position: sticky;
   top: 0;
   width: 100%;
@@ -65,21 +65,18 @@ header#main-header {
   border-bottom-style: solid;
   border-bottom-color: $color-tertiary;
   background-color: $color-secondary;
+  & > a {
+    &:not(#nav-open, .active) {
+      display: none;
 
-  nav.menu-nav {
-    & > a {
-      &:not(#nav-open, .active) {
-        display: none;
-
-        @media screen and (min-width: 320px), (scripting: none) {
-          display: block;
-        }
+      @media screen and (min-width: 320px), (scripting: none) {
+        display: block;
       }
+    }
 
-      @media screen and (min-width: 320px) {
-        &#nav-open {
-          display: none;
-        }
+    @media screen and (min-width: 320px) {
+      &#nav-open {
+        display: none;
       }
     }
   }
