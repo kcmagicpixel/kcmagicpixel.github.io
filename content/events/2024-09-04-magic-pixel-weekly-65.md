@@ -53,7 +53,7 @@ events:
     standings:
       - player: OoeyGooeyChewySnickers
         prefix: SJS
-        standing: 2
+        standing: 1
       - player: Brian_D
         prefix: VGHS
         standing: 2
