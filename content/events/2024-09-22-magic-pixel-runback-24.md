@@ -2,8 +2,8 @@
 title: "Magic Pixel Runback #24"
 slug: magic-pixel-runback-24
 ref_org: magic-pixel
-ref_banner: https://images.start.gg/images/tournament/709314/image-4269e9e5713fab527f888fc2f5895384.png?ehk=bPSqZYF6I7xmOsx53LL0B60infaJlNN6I80X8D5H%2F50%3D&ehkOptimized=0inVS%2F2x3SmZkY7WJ936D5aqNzSQvunGDQTzV0m9QlE%3D
-ref_icon: https://images.start.gg/images/tournament/709314/image-28f5bf9dfe1c3d6813c834348e453b3c.png?ehk=hqR1MEKPYesAU7OZOLo4coro%2BeOwQtLC2jkv%2FjYaXr0%3D&ehkOptimized=P6T63OWe92Y41vIQUv17BzV3vd6lCZvjcnjYTrflEn0%3D
+ref_banner: images/mp_banner.png
+ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-runback-24
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
