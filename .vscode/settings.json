@@ -1,9 +1,9 @@
 {
-  "emmet.excludeLanguages": [
-    "markdown",
-    "html"
-  ],
+  "emmet.excludeLanguages": ["markdown", "html"],
   "[xml]": {
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
     "editor.formatOnSave": false
   }
 }
