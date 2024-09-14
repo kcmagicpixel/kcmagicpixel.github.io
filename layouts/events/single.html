@@ -101,7 +101,7 @@
     {{- $images := slice -}}
     {{- range (slice .Params.ref_icon .Params.ref_banner) -}}
       {{- with partial "img-ref.html" . -}}
-        {{- $images = $images | append .Permalink -}}
+        {{- $images = $images | append .RelPermalink -}}
       {{- end -}}
     {{- end -}}
     {{ with $images }}

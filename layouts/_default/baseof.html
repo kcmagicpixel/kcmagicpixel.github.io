@@ -33,11 +33,11 @@
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     <link rel="stylesheet" href="/styles/reset.css">
     {{ $fontStyle := resources.Get "styles/fonts.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ $fontStyle.Permalink }}">
+    <link rel="stylesheet" href="{{ $fontStyle.RelPermalink }}">
     {{ $globalStyle := resources.Get "styles/global.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ $globalStyle.Permalink }}">
+    <link rel="stylesheet" href="{{ $globalStyle.RelPermalink }}">
     {{ with .OutputFormats.Get "rss" -}}
-      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
     {{ end -}}
     <script type="application/javascript">
       document.addEventListener('DOMContentLoaded', function() {
