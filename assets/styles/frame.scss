@@ -112,15 +112,15 @@
 
     &.slim {
       height: 6px;
-      background-image: url("/images/border-bottom-slim.png");
+      background-image: url("/images/mobile/border-bottom-slim.png");
 
       .left {
-        background-image: url("/images/corner-bottom-left-slim.png");
+        background-image: url("/images/mobile/corner-bottom-left-slim.png");
         width: 6px;
       }
 
       .right {
-        background-image: url("/images/corner-bottom-right-slim.png");
+        background-image: url("/images/mobile/corner-bottom-right-slim.png");
         width: 6px;
       }
     }
