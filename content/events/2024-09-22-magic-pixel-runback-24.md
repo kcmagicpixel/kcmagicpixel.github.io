@@ -21,11 +21,6 @@ events:
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-24/events/king-of-fighters-xv/brackets/1762847/2613692
     standings: []
-  - name: SOULCALIBUR VI
-    start_date: 2024-09-21T20:30:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-24/events/soulcalibur-vi/brackets/1762838/2613683
-    standings: []
   - name: Fate/unlimited codes
     start_date: 2024-09-21T21:00:00.000-05:00
     participant_count: 0
@@ -38,7 +33,6 @@ events:
     standings: []
 games:
   - The King of Fighters XV
-  - SOULCALIBUR VI
   - Fate/unlimited codes
   - Advanced V.G. 2
 
