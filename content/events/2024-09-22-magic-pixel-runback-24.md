@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-24
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 4
 start_date: 2024-09-21T19:00:00.000-05:00
 end_date: 2024-09-21T23:59:00.000-05:00
 created_date: 2024-09-14T10:58:11.000-05:00
@@ -19,17 +19,17 @@ stream: kcmagicpixel
 events:
   - name: The King of Fighters XV
     start_date: 2024-09-21T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-24/events/king-of-fighters-xv/brackets/1762847/2613692
     standings: []
   - name: Fate/unlimited codes
     start_date: 2024-09-21T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-24/events/fate-unlimited-codes/brackets/1762842/2613687
     standings: []
   - name: Advanced V.G. 2
     start_date: 2024-09-21T21:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-24/events/advanced-v-g-2/brackets/1762848/2613693
     standings: []
 games:
