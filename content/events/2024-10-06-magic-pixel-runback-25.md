@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-25
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 7
 start_date: 2024-10-05T19:00:00.000-05:00
 end_date: 2024-10-05T23:59:00.000-05:00
 created_date: 2024-09-29T14:24:14.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: Them's Fightin' Herds
     start_date: 2024-10-05T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 3
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -34,9 +34,15 @@ events:
     standings: []
   - name: SOULCALIBUR VI
     start_date: 2024-10-05T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-25/events/soulcalibur-vi/brackets/1776613/2631326
-    standings: []
+    standings:
+      - player: Xanivara
+        standing: 7
+      - player: ChronoSanaki
+        standing: 7
+      - player: Fleabag
+        standing: 7
 games:
   - Them's Fightin' Herds
   - SOULCALIBUR VI
