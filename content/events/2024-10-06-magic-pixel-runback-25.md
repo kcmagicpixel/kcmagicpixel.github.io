@@ -37,12 +37,12 @@ events:
     participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-25/events/soulcalibur-vi/brackets/1776613/2631326
     standings:
-      - player: Xanivara
-        standing: 7
-      - player: ChronoSanaki
-        standing: 7
+      - player: Graffiti Souls
+        standing: 1
       - player: Fleabag
-        standing: 7
+        standing: 2
+      - player: Scrumby
+        standing: 3
 games:
   - Them's Fightin' Herds
   - SOULCALIBUR VI
