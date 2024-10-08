@@ -1,25 +1,25 @@
 ---
-title: "Magic Pixel Weekly #64"
-slug: magic-pixel-weekly-64
+title: "Magic Pixel Weekly #70"
+slug: magic-pixel-weekly-70
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-64
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-70
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 15
-start_date: 2024-08-27T19:00:00.000-05:00
-end_date: 2024-08-27T23:59:00.000-05:00
-created_date: 2024-08-17T00:02:14.000-05:00
+participant_count: 1
+start_date: 2024-10-08T19:00:00.000-05:00
+end_date: 2024-10-08T23:59:00.000-05:00
+created_date: 2024-10-07T21:59:39.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: TEKKEN 8
-    start_date: 2024-08-27T20:00:00.000-05:00
-    participant_count: 9
+    start_date: 2024-10-08T20:00:00.000-05:00
+    participant_count: 1
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -29,40 +29,28 @@ events:
       - Random stage select
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-64/events/tekken-8/brackets/1737823/2580044
-    standings:
-      - player: deapest
-        standing: 1
-      - player: Scrumby
-        standing: 2
-      - player: Fleabag
-        standing: 3
-  - name: "Skullgirls: 2nd Encore"
-    start_date: 2024-08-27T20:30:00.000-05:00
-    participant_count: 6
-    rules: >-
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-70/events/tekken-8/brackets/1785079/2641830
+    standings: []
+  - name: "Granblue Fantasy Versus: Rising"
+    start_date: 2024-10-08T20:30:00.000-05:00
+    participant_count: 1
+    rules: |-
+      - Version: PS4 on PS5
+      - Double Elimination
       - Default settings
-
-      - 2/3 Rounds per Game in solo character vs. solo character matches
-
-      - 3/5 Games per Set
-
-      - Winner of prior game must keep same character(s) and, if applicable, assists
-
-      - Loser of prior game may switch character(s) and, if applicable, assists
-
+      - 2/3 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-64/events/skullgirls-2nd-encore/brackets/1737821/2580042
-    standings:
-      - player: golbat
-        standing: 1
-      - player: Copyright
-        standing: 2
-      - player: Fleabag
-        standing: 3
+      - Color 17 is banned for all characters
+      - Prismatic Weapon Skins are banned for all characters
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-70/events/granblue-fantasy-versus-rising/brackets/1785078/2641829
+    standings: []
   - name: Under Night In-Birth II Sys:Celes
-    start_date: 2024-08-27T21:00:00.000-05:00
-    participant_count: 5
+    start_date: 2024-10-08T21:00:00.000-05:00
+    participant_count: 0
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -71,24 +59,18 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-64/events/under-night-in-birth-ii-sys-celes/brackets/1737824/2580045
-    standings:
-      - player: Nanaya-Gaming
-        standing: 2
-      - player: golbat
-        standing: 3
-      - player: Sheepy
-        standing: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-70/events/under-night-in-birth-ii-sys-celes/brackets/1785080/2641831
+    standings: []
 games:
   - TEKKEN 8
-  - "Skullgirls: 2nd Encore"
+  - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
 ---
 
-It's the last Tuesday of the month already, and that means we'll be out at Larry's like we always are playing **TEKKEN 8**, **SG2E**, and **UNI2**. See y'all out there!
+We're back again for another Tuesday night of games! We've got **TEKKEN 8**, **GBVSR**, and **UNI2** brackets, see y'all there!
 
-As always, in addition to the brackets listed, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
+As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
 ## Fee and Schedule
 
