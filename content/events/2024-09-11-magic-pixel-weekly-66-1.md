@@ -58,8 +58,8 @@ events:
         standing: 1
       - player: Pyralis
         standing: 2
-      - player: Sieghart
-        prefix: GG
+      - player: SieghartSF
+        prefix: CC
         standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-09-10T21:00:00.000-05:00
