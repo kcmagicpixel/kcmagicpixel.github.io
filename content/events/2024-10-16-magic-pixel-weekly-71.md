@@ -1,25 +1,25 @@
 ---
-title: "Magic Pixel Weekly #67"
-slug: magic-pixel-weekly-67
+title: "Magic Pixel Weekly #71"
+slug: magic-pixel-weekly-71
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-67
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-71
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 24
-start_date: 2024-09-17T19:00:00.000-05:00
-end_date: 2024-09-17T23:59:00.000-05:00
-created_date: 2024-09-14T10:53:36.000-05:00
+participant_count: 2
+start_date: 2024-10-15T19:00:00.000-05:00
+end_date: 2024-10-15T23:59:00.000-05:00
+created_date: 2024-10-14T19:02:08.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
-    start_date: 2024-09-17T20:00:00.000-05:00
-    participant_count: 7
+    start_date: 2024-10-15T20:00:00.000-05:00
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -28,17 +28,11 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-67/events/melty-blood-type-lumina/brackets/1762826/2613671
-    standings:
-      - player: Nanaya-Gaming
-        standing: 1
-      - player: cavitae
-        standing: 2
-      - player: Emi
-        standing: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-71/events/melty-blood-type-lumina/brackets/1791100/2649670
+    standings: []
   - name: Street Fighter 6
-    start_date: 2024-09-17T20:30:00.000-05:00
-    participant_count: 10
+    start_date: 2024-10-15T20:30:00.000-05:00
+    participant_count: 2
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -48,17 +42,11 @@ events:
       The winner of each game must keep the same character, the loser of that game may switch characters.  
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-67/events/street-fighter-6/brackets/1762825/2613670
-    standings:
-      - player: Bimmy
-        standing: 1
-      - player: JustJewel
-        standing: 2
-      - player: Pyralis
-        standing: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-71/events/street-fighter-6/brackets/1791099/2649669
+    standings: []
   - name: "Guilty Gear: Strive"
-    start_date: 2024-09-17T21:00:00.000-05:00
-    participant_count: 7
+    start_date: 2024-10-15T21:00:00.000-05:00
+    participant_count: 0
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -69,16 +57,8 @@ events:
       The winner of each game must keep the same character, the loser of that game may switch characters.  
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-67/events/guilty-gear-strive/brackets/1762822/2613667
-    standings:
-      - player: OoeyGooeyChewySnickers
-        prefix: SJS
-        standing: 1
-      - player: cavitae
-        standing: 2
-      - player: Brian_D
-        prefix: VGHS
-        standing: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-71/events/guilty-gear-strive/brackets/1791096/2649666
+    standings: []
 games:
   - "Melty Blood: Type Lumina"
   - Street Fighter 6
@@ -86,7 +66,7 @@ games:
 
 ---
 
-We're back again for another Tuesday night of games and gamers. This week we've got **MBTL**, **SF6**, and **GGST** brackets planned.
+Winter is here already, apparently. Bundle up and join us this Tuesday, Oct 15th for **MBTL**, **SF6**, and **GGST**!
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 

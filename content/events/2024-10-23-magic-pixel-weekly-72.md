@@ -1,25 +1,24 @@
 ---
-title: "Magic Pixel Weekly #62"
-slug: magic-pixel-weekly-62
+title: "Magic Pixel Weekly #72"
+slug: magic-pixel-weekly-72
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-62
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-72
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 22
-start_date: 2024-08-13T19:00:00.000-05:00
-end_date: 2024-08-13T23:59:00.000-05:00
-created_date: 2024-08-03T13:30:11.000-05:00
+start_date: 2024-10-22T19:00:00.000-05:00
+end_date: 2024-10-22T23:59:00.000-05:00
+created_date: 2024-10-14T19:18:44.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: TEKKEN 8
-    start_date: 2024-08-13T20:00:00.000-05:00
-    participant_count: 15
+    start_date: 2024-10-22T20:00:00.000-05:00
+    participant_count: 0
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -29,40 +28,11 @@ events:
       - Random stage select
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-62/events/tekken-8/brackets/1727124/2565736
-    standings:
-      - player: lillard
-        standing: 1
-      - player: LambdaX
-        standing: 2
-      - player: Nutterinos
-        standing: 3
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2024-08-13T20:30:00.000-05:00
-    participant_count: 6
-    rules: |-
-      - Version: PS4 on PS5
-      - Double Elimination
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      - Color 17 is banned for all characters
-      - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-62/events/granblue-fantasy-versus-rising/brackets/1727123/2565735
-    standings:
-      - player: Loafers
-        standing: 1
-      - player: JustJewel
-        standing: 2
-      - player: cavitae
-        standing: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-72/events/tekken-8/brackets/1791140/2649711
+    standings: []
   - name: Under Night In-Birth II Sys:Celes
-    start_date: 2024-08-13T21:00:00.000-05:00
-    participant_count: 5
+    start_date: 2024-10-22T21:00:00.000-05:00
+    participant_count: 0
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -71,18 +41,17 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-62/events/under-night-in-birth-ii-sys-celes/brackets/1727125/2565737
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-72/events/under-night-in-birth-ii-sys-celes/brackets/1791141/2649712
     standings: []
 games:
   - TEKKEN 8
-  - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
 ---
 
-Welcome back to another Magic Pixel weekly! I'm really running out of new things to say each week. Luckily, our schedule doesn't need new things, we're out here every week, and on the 2nd Tuesday of the month we have **TEKKEN 8**, **GBVSR**, and **UNI2** brackets. See y'all there!
+It's the 4th Tuesday of Oct, and that means the same thing this month that it does every other month! We'll be at Larry's playing **TEKKEN 8** and **UNI2**.
 
-As always, in addition to the brackets listed, casuals are welcome for any game all night as long as setups are available, so please bring your favorite game out! 
+As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
 ## Fee and Schedule
 

@@ -38,7 +38,7 @@ events:
         standing: 1
       - player: Loafers
         standing: 2
-      - player: Ms Gaypom the Clown
+      - player: JustJewel
         standing: 3
   - name: Street Fighter 6
     start_date: 2024-08-10T17:00:00.000-05:00
