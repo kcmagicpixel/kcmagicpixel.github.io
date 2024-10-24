@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-72
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 19
+participant_count: 22
 start_date: 2024-10-22T19:00:00.000-05:00
 end_date: 2024-10-22T23:59:00.000-05:00
 created_date: 2024-10-14T19:18:44.000-05:00
@@ -51,9 +51,9 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-72/events/under-night-in-birth-ii-sys-celes/brackets/1791141/2649712
     standings:
-      - player: Loafers
-        standing: 2
       - player: KJpixel
+        standing: 1
+      - player: Loafers
         standing: 2
       - player: Sheepy
         standing: 3
