@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-73
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 4
 start_date: 2024-10-29T19:00:00.000-05:00
 end_date: 2024-10-29T23:59:00.000-05:00
 created_date: 2024-10-14T19:21:37.000-05:00
@@ -18,9 +19,15 @@ stream: kcmagicpixel
 events:
   - name: Advanced V.G. 2
     start_date: 2024-10-29T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-73/events/advanced-v-g-2/brackets/1791167/2649738
-    standings: []
+    standings:
+      - player: KJpixel
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: deapest
+        standing: 3
 games:
   - Advanced V.G. 2
 
