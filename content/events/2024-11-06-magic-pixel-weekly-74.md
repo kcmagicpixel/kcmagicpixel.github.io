@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-74
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 2
 start_date: 2024-11-05T19:00:00.000-06:00
 end_date: 2024-11-05T23:59:00.000-06:00
 created_date: 2024-11-01T14:31:25.000-05:00
@@ -18,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2024-11-05T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -31,7 +32,7 @@ events:
     standings: []
   - name: The King of Fighters XV
     start_date: 2024-11-05T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-74/events/king-of-fighters-xv/brackets/1807703/2671933
     standings: []
   - name: "Guilty Gear: Strive"
