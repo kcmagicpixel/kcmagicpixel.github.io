@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-75
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 16
+participant_count: 19
 start_date: 2024-11-12T19:00:00.000-06:00
 end_date: 2024-11-12T23:59:00.000-06:00
 created_date: 2024-11-01T14:39:38.000-05:00
@@ -31,9 +31,9 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-75/events/tekken-8/brackets/1807726/2671959
     standings:
-      - player: Nutterinos
-        standing: 2
       - player: httpriestess
+        standing: 1
+      - player: Nutterinos
         standing: 2
       - player: toad_slayer
         standing: 3
@@ -55,7 +55,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-75/events/granblue-fantasy-versus-rising/brackets/1807725/2671958
     standings:
       - player: Loafers
-        standing: 2
+        standing: 1
       - player: Pyralis
         standing: 2
       - player: httpriestess
@@ -73,12 +73,12 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-75/events/under-night-in-birth-ii-sys-celes/brackets/1807727/2671960
     standings:
+      - player: Loafers
+        standing: 1
       - player: Sheepy
+        standing: 2
+      - player: httpriestess
         standing: 3
-      - player: golbat
-        standing: 4
-      - player: Ellen
-        standing: 5
 games:
   - TEKKEN 8
   - "Granblue Fantasy Versus: Rising"
