@@ -50,7 +50,7 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-67/events/street-fighter-6/brackets/1762825/2613670
     standings:
-      - player: Bimmy
+      - player: NuMetalFan1994
         standing: 1
       - player: JustJewel
         standing: 2
