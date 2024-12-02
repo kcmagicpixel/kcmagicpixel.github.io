@@ -16,25 +16,8 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Skullgirls: 2nd Encore"
-    start_date: 2024-12-21T20:00:00.000-06:00
-    participant_count: 0
-    rules: >-
-      - Default settings
-
-      - 2/3 Rounds per Game in solo character vs. solo character matches
-
-      - 3/5 Games per Set
-
-      - Winner of prior game must keep same character(s) and, if applicable, assists
-
-      - Loser of prior game may switch character(s) and, if applicable, assists
-
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-30/events/skullgirls-2nd-encore/brackets/1833675/2706883
-    standings: []
   - name: Advanced V.G. 2
-    start_date: 2024-12-21T20:30:00.000-06:00
+    start_date: 2024-12-21T20:00:00.000-06:00
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-30/events/advanced-v-g-2/brackets/1833680/2706888
     standings: []
@@ -44,13 +27,12 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-30/events/king-of-fighters-xv/brackets/1833679/2706887
     standings: []
 games:
-  - "Skullgirls: 2nd Encore"
   - Advanced V.G. 2
   - The King of Fighters XV
 
 ---
 
-This Saturday, December 21st, will be the last local of the year! Come out and join us for **SG2E**, **AVG2** and **KOFXV**. We'll be taking the rest of the year off after that, but we'll see y'all for another year of locals in 2025! See you there!
+This Saturday, December 21st, will be the last local of the year! Come out and join us for **AVG2**, **FUC**, and **KOFXV**. We'll be taking the rest of the year off after that, but we'll see y'all for another year of locals in 2025! See you there!
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
