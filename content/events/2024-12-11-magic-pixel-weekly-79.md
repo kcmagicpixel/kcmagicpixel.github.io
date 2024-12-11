@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-79
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 8
+participant_count: 22
 start_date: 2024-12-10T19:00:00.000-06:00
 end_date: 2024-12-10T23:59:00.000-06:00
 created_date: 2024-12-01T20:41:49.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2024-12-10T20:00:00.000-06:00
-    participant_count: 2
+    participant_count: 6
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,27 +30,16 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-79/events/tekken-8/brackets/1833638/2706843
-    standings: []
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2024-12-10T20:30:00.000-06:00
-    participant_count: 3
-    rules: |-
-      - Version: PS4 on PS5
-      - Double Elimination
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      - Color 17 is banned for all characters
-      - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-79/events/granblue-fantasy-versus-rising/brackets/1833637/2706842
-    standings: []
+    standings:
+      - player: Benjamin Boxing
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: QuoteTheRobot
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2024-12-10T21:00:00.000-06:00
-    participant_count: 4
+    participant_count: 7
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,10 +49,15 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-79/events/under-night-in-birth-ii-sys-celes/brackets/1833639/2706844
-    standings: []
+    standings:
+      - player: RAL
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
 games:
   - TEKKEN 8
-  - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
 ---
