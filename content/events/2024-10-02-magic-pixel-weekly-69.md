@@ -52,7 +52,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-69/events/guilty-gear-strive/brackets/1776599/2631312
     standings:
       - player: OoeyGooeyChewySnickers
-        prefix: SJS
+        prefix: TF
         standing: 1
       - player: Gooba
         standing: 2

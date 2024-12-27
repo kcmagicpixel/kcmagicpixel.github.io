@@ -63,7 +63,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-74/events/guilty-gear-strive/brackets/1807693/2671923
     standings:
       - player: OoeyGooeyChewySnickers
-        prefix: SJS
+        prefix: TF
         standing: 1
       - player: cavitae
         standing: 2

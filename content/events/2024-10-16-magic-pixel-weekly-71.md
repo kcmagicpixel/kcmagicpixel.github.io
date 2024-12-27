@@ -72,7 +72,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-71/events/guilty-gear-strive/brackets/1791096/2649666
     standings:
       - player: OoeyGooeyChewySnickers
-        prefix: SJS
+        prefix: TF
         standing: 1
       - player: Brian_D
         prefix: VGHS
