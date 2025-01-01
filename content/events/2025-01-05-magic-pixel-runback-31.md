@@ -49,7 +49,7 @@ games:
 ---
 
 2025 is here, and with it a new year of locals! Come out and join us for the first MP of the year with **TFH**, **SCVI**, and **AVG2**.
-
+<!--more-->
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
 ## Fee and Schedule

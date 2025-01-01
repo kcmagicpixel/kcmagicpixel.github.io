@@ -68,7 +68,7 @@ games:
 ---
 
 The second Tuesday of 2025 is upon us, and that means we'll be running **TEKKEN 8**, **GBVSR**, and **UNI2**. See you all there!
-
+<!--more-->
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
 ## Fee and Schedule

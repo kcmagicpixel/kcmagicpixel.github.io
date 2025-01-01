@@ -56,7 +56,7 @@ games:
 ---
 
 Frosty Faustings is behind us now. Come regale us with your tales of what was or what might have been on this final Tuesday of January. We'll be hanging out and running brackets for **TEKKEN 8**, **KOFXV**, and **UNI2**. 
-
+<!--more-->
 Also in the works is a Gundam setup! It'll probably be MBON, but may be something special! If 2v2 arena battling sounds like your jam, come check it out, it's a rarity to see in-person.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
