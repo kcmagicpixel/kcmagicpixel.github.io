@@ -2,7 +2,7 @@
   {{ partial "block-date.html" .Params.start_date }}
   <div class="desc">
     <a class="title" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>
-    {{ .Summary }}{{ if .Truncated }} (more...){{ end }}
+    {{ .Summary }}
     {{ with (.Params.events) }}
       <div class="games">
         {{ range . }}<b>{{ .name }}</b>{{ end }}
