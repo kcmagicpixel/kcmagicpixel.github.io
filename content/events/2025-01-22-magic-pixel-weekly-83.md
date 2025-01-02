@@ -65,8 +65,8 @@ games:
 
 ---
 
-Frosty Faustings is just days away! Come get some last minute practice in beforehand. We'll be running brackets for **MBTL**, **SF6**, and **GGST**.
-<!--more-->
+Frosty Faustings is just days away! Come get some last minute practice in beforehand. We'll be running brackets for **MBTL**, **SF6**, and **GGST**. <!--more-->
+
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
 ## Fee and Schedule
