@@ -54,7 +54,7 @@ events:
         standing: 1
       - player: Gooba
         standing: 2
-      - player: Drink Apparatus
+      - player: Drankopotamus
         standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2024-12-17T21:00:00.000-06:00
