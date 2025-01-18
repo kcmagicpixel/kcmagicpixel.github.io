@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-32
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2025-01-18T19:00:00.000-06:00
 end_date: 2025-01-18T23:59:00.000-06:00
 created_date: 2025-01-01T16:22:06.000-06:00
@@ -18,12 +19,12 @@ stream: kcmagicpixel
 events:
   - name: Advanced V.G. 2
     start_date: 2025-01-18T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-32/events/advanced-v-g-2/brackets/1853133/2731946
     standings: []
   - name: SOULCALIBUR VI
     start_date: 2025-01-18T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-32/events/soulcalibur-vi/brackets/1853123/2731936
     standings: []
   - name: Fate/unlimited codes
