@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-32
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 7
 start_date: 2025-01-18T19:00:00.000-06:00
 end_date: 2025-01-18T23:59:00.000-06:00
 created_date: 2025-01-01T16:22:06.000-06:00
@@ -19,19 +19,35 @@ stream: kcmagicpixel
 events:
   - name: Advanced V.G. 2
     start_date: 2025-01-18T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-32/events/advanced-v-g-2/brackets/1853133/2731946
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 1
+      - player: El Nepatl'
+        standing: 2
   - name: SOULCALIBUR VI
     start_date: 2025-01-18T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-32/events/soulcalibur-vi/brackets/1853123/2731936
-    standings: []
+    standings:
+      - player: Scrumby
+        standing: 1
+      - player: Graffiti Souls
+        standing: 2
+      - player: Fleabag
+        standing: 3
   - name: Fate/unlimited codes
     start_date: 2025-01-18T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-32/events/fate-unlimited-codes/brackets/1853127/2731940
-    standings: []
+    standings:
+      - player: Claiomh_Solais
+        standing: 1
+      - player: Nanaya-Gaming
+        standing: 2
+      - player: El Nepatl'
+        standing: 3
 games:
   - Advanced V.G. 2
   - SOULCALIBUR VI
