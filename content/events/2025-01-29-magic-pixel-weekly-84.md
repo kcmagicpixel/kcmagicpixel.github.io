@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-84
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 5
 start_date: 2025-01-28T19:00:00.000-06:00
 end_date: 2025-01-28T23:59:00.000-06:00
 created_date: 2025-01-01T16:30:59.000-06:00
@@ -18,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2025-01-28T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 3
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -32,12 +33,12 @@ events:
     standings: []
   - name: The King of Fighters XV
     start_date: 2025-01-28T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-84/events/king-of-fighters-xv/brackets/1853159/2731972
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-01-28T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 4
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
