@@ -56,6 +56,8 @@ games:
 
 ---
 
+**Cancelled due to winter weather**
+
 It's the first Tuesday of 2025 and with it the first weekly of 2025! We'll be running brackets for **MBTL**, **KOFXV**, and **GGST**. <!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
