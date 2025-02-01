@@ -16,11 +16,6 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: SOULCALIBUR VI
-    start_date: 2025-02-01T20:30:00.000-06:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-runback-33/events/soulcalibur-vi/brackets/1876962/2763836
-    standings: []
   - name: Them's Fightin' Herds
     start_date: 2025-02-01T21:00:00.000-06:00
     participant_count: 0
@@ -37,12 +32,11 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-33/events/them-s-fightin-herds/brackets/1876963/2763837
     standings: []
 games:
-  - SOULCALIBUR VI
   - Them's Fightin' Herds
 
 ---
 
-February is here! Come join us for our regularly scheduled **SCVI** and **TFH**, and, as always, a night full of casuals. <!--more-->
+February is here! Come join us for our regularly scheduled **TFH**, and, as always, a night full of casuals. <!--more--> **SCVI** has been canceled for tonight, as the bracket runner is sick.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
