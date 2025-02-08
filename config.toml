@@ -4,6 +4,10 @@ enableRobotsTXT = true
 languageCode = 'en-us'
 summaryLength = 30
 title = 'Magic Pixel'
+ignoreLogs = ['warning-goldmark-raw-html']
+capitalizeListTitles = false
+timeZone = "America/Chicago"
+buildFuture = true
 
 [params]
 altnames = ['KC Magic Pixel', 'Magic Pixel KC', 'Magic Pixel FGC', 'Magic Pixel Fighting Games']

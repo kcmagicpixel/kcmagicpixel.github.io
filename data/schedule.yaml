@@ -27,5 +27,7 @@ games:
     schedule:
       "Magic Pixel Weekly": [2, 4]
   "Them's Fightin' Herds":
+    schedule: {}
+  "BlazBlue: Central Fiction":
     schedule:
       "Magic Pixel Runback": [1]

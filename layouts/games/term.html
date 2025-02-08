@@ -2,11 +2,11 @@
 {{ define "main" }}
 <main id="game">
   <h1>{{ .Title }}</h1>
-  {{ with index .Site.Data.schedule.games .Params.title }}
+  {{ with index .Site.Data.schedule.games .Title }}
     {{ $event_schedule := (slice) }}
     {{ range $k, $v := .schedule }}
     {{ $event_description := (add "at " $k) }}
-    {{ $event_info := index $.Site.Taxonomies.series (urlize $k) }}
+    {{ $event_info := index $.Site.Taxonomies.series (lower $k) }}
     {{ if $event_info }}
       {{ $days := (delimit (apply $v "partial" "nth.html" ".") ", " " and ") }}
       {{ $day := $event_info.Page.Params.day }}
@@ -19,7 +19,7 @@
       <p>Events for {{ $.Title }} are run {{ delimit $event_schedule ", " " and "}}.</p>
     </article>
   {{ end }}
-  {{ $games_list := where (where .Site.RegularPages "Section" "events") "Params.games" "intersect" (slice .Params.title) }}
+  {{ $games_list := where (where .Site.RegularPages "Section" "events") "Params.games" "intersect" (slice .Title) }}
   {{ with $games_list }}
     <h2>
       Events
