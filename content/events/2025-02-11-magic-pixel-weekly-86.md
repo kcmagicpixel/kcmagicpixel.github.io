@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-86
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 9
 start_date: 2025-02-11T19:00:00.000-06:00
 end_date: 2025-02-11T23:58:00.000-06:00
 created_date: 2025-01-29T18:35:25.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2025-02-11T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -33,7 +33,7 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-02-11T20:30:00.000-06:00
-    participant_count: 3
+    participant_count: 8
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -47,7 +47,13 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-86/events/granblue-fantasy-versus-rising/brackets/1877016/2763907
-    standings: []
+    standings:
+      - player: Nanaya-Gaming
+        standing: 1
+      - player: Twoinone1
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-02-11T21:00:00.000-06:00
     participant_count: 1
@@ -68,7 +74,7 @@ games:
 
 ---
 
-Another Tuesday, another night of games at the shop. This week we have **TEKKEN 8**, **GBVSR**, and **UNI2**. Come get some games! <!--more-->
+**Cancelled** due to winter weather.<!--more--> Another Tuesday, another night of games at the shop. This week we have **TEKKEN 8**, **GBVSR**, and **UNI2**. Come get some games!
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
