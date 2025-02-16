@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-34
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 3
 start_date: 2025-02-15T19:00:00.000-06:00
 end_date: 2025-02-15T23:59:00.000-06:00
 created_date: 2025-02-08T12:03:57.000-06:00
@@ -18,12 +19,16 @@ stream: kcmagicpixel
 events:
   - name: Advanced V.G. 2
     start_date: 2025-02-15T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-34/events/advanced-v-g-2/brackets/1885960/2775379
-    standings: []
+    standings:
+      - player: TheRatKing462
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
   - name: Fate/unlimited codes
     start_date: 2025-02-15T21:00:00.000-06:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-34/events/fate-unlimited-codes/brackets/1885954/2775373
     standings: []
 games:
