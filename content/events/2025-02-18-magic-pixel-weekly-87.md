@@ -66,7 +66,7 @@ games:
 
 ---
 
-Welcome back to another Tuesday at Larry's. This week we have **MBTL**, **SF6**, and **GGST** brackets lined up! Virtua Fighter has also been getting a lot of interest lately, be sure to show up if you want some **VF5REVO** games!<!--more-->
+Cancelled due to the winter storm. Stay warm and stay safe y'all!<!--more--> Welcome back to another Tuesday at Larry's. This week we have **MBTL**, **SF6**, and **GGST** brackets lined up! Virtua Fighter has also been getting a lot of interest lately, be sure to show up if you want some **VF5REVO** games!
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
