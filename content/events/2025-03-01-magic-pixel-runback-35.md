@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-runback-35
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2025-03-01T19:00:00.000-06:00
 end_date: 2025-03-01T23:59:00.000-06:00
 created_date: 2025-02-28T00:03:14.000-06:00
@@ -18,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "BlazBlue: Central Fiction"
     start_date: 2025-03-01T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-35/events/blazblue-central-fiction/brackets/1903843/2798717
     standings: []
   - name: SOULCALIBUR VI
