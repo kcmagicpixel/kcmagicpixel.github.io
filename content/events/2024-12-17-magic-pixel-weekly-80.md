@@ -30,7 +30,7 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-80/events/melty-blood-type-lumina/brackets/1833649/2706854
     standings:
-      - player: Ellen
+      - player: Marvel Rivals Is Okay
         standing: 1
       - player: golbat
         standing: 2
