@@ -65,7 +65,7 @@ games:
 
 ---
 
-This week we have **MBTL**, **SF6**, and **GGST** on deck, as scheduled. Come out and get some games!<!--more--> As a note, our schedule is changing slightly for March only, and we'll be running the second Runback of the month on the **4th** Saturday (the 22nd) instead of the 3rd.
+This week we have **MBTL**, **SF6**, and **GGST** brackets, as scheduled. Come out and get some games!<!--more--> As a note, our schedule is changing slightly for March only, and we'll be running the second Runback of the month on the **4th** Saturday (the 22nd) instead of the 3rd.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 

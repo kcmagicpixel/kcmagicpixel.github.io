@@ -50,7 +50,7 @@ games:
 
 ---
 
-A new month is here and with it a fresh set of weekly meetups. This week we have **MBTL** and **GGST**!<!--more--> As a note, our schedule is changing slightly for March only, and we'll be running the second Runback of the month on the **4th** Saturday (the 22nd) instead of the 3rd.
+**CANCELED** due to another blizzard. Stay safe and see you all when this winter nightmare ends!<!--more--> A new month is here and with it a fresh set of weekly meetups. This week we have **MBTL** and **GGST**! As a note, our schedule is changing slightly for March only, and we'll be running the second Runback of the month on the **4th** Saturday (the 22nd) instead of the 3rd.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
