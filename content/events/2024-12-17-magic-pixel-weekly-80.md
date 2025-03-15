@@ -77,7 +77,7 @@ events:
       - player: Gooba
         standing: 2
       - player: Chdr
-        prefix: GOON
+        prefix: STFU
         standing: 3
 games:
   - "Melty Blood: Type Lumina"
