@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-91
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2025-03-18T19:00:00.000-05:00
 end_date: 2025-03-18T23:57:00.000-05:00
 created_date: 2025-03-03T18:44:10.000-06:00
@@ -18,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-03-18T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -31,7 +32,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2025-03-18T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
