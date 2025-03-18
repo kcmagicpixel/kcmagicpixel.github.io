@@ -1,7 +1,7 @@
 ---
 title: "Magic Pixel Runback"
 weight: 50
-schedule: true
+schedule: false
 day: Saturday
 ---
 

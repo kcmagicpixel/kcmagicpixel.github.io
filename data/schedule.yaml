@@ -9,8 +9,7 @@ games:
     schedule:
       "Magic Pixel Weekly": [1, 3]
   "SOULCALIBUR VI":
-    schedule:
-      "Magic Pixel Runback": [1, 3]
+    schedule: {}
   "Street Fighter 6":
     schedule:
       "Magic Pixel Weekly": [3]
@@ -18,16 +17,13 @@ games:
     schedule:
       "Magic Pixel Weekly": [2]
   "Fate/unlimited codes":
-    schedule:
-      "Magic Pixel Runback": [3]
+    schedule: {}
   "Advanced V.G. 2":
-    schedule:
-      "Magic Pixel Runback": [3]
+    schedule: {}
   "Under Night In-Birth II Sys:Celes":
     schedule:
       "Magic Pixel Weekly": [2, 4]
   "Them's Fightin' Herds":
     schedule: {}
   "BlazBlue: Central Fiction":
-    schedule:
-      "Magic Pixel Runback": [1]
+    schedule: {}

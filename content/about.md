@@ -32,7 +32,7 @@ Magic Pixel is a collective of fighting game players committed to providing an i
 
 Magic Pixel events are unique in that there's no top-down authority dictating what games are played or when; every game we play is organized by a different volunteer Game Captain, who is a community member passionate about their favorite game and committed to building a community around that game. "Magic Pixel" is simply the banner under which we all organize and come together to play each week. This means that we have organized play (typically double-elimination brackets) for different games all the time!  There's a good chance we're already playing your favorite game, but if we're not and you'd like to contribute to making that game happen, please join us on Discord and let a member of the event team know. In addition to the brackets being run by our Captains, casuals are welcome for any game all night every night as long as setups are available, so everyone is welcome to bring their favorite game out even if they are not a Game Captain!
 
-We currently run **Magic Pixel Weekly** every Tuesday and **Magic Pixel Runback** every first and third Saturday of each month. Check the [events]({{<ref "/events">}}) page to find out what we've got planned, and join us on discord to be a part of what's next!
+We currently run **Magic Pixel Weekly** every Tuesday. Check the [events]({{<ref "/events">}}) page to find out what we've got planned, and join us on discord to be a part of what's next!
 
 ## Website
 
