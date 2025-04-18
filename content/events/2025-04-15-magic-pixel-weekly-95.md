@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-95
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 16
 start_date: 2025-04-15T19:00:00.000-05:00
 end_date: 2025-04-15T23:58:00.000-05:00
 created_date: 2025-03-31T19:29:53.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-04-15T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,10 +29,17 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-95/events/melty-blood-type-lumina/brackets/1932935/2839513
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: Sheepy
+        standing: 2
+      - player: SieghartSF
+        prefix: CC
+        standing: 3
   - name: Street Fighter 6
     start_date: 2025-04-15T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -43,10 +50,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-95/events/street-fighter-6/brackets/1932934/2839512
-    standings: []
+    standings:
+      - player: Gooba
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: toad_slayer
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-04-15T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -58,7 +71,15 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-95/events/guilty-gear-strive/brackets/1932933/2839511
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Brian_D
+        prefix: VGHS
+        standing: 2
+      - player: Gooba
+        standing: 3
 games:
   - "Melty Blood: Type Lumina"
   - Street Fighter 6
