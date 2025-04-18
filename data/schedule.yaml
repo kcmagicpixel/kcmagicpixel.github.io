@@ -27,3 +27,6 @@ games:
     schedule: {}
   "BlazBlue: Central Fiction":
     schedule: {}
+  "Fatal Fury: City of the Wolves":
+    schedule:
+      "Magic Pixel Weekly": [1, 3]
