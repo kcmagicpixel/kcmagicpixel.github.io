@@ -17,13 +17,25 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
+  - name: Persona 4 Arena Ultimax
+    start_date: 2025-04-29T19:00:00.000-05:00
+    participant_count: 1
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/persona-4-arena-ultimax/brackets/1957157/2874457
+    standings: []
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-04-29T20:00:00.000-05:00
     participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/fatal-fury-city-of-the-wolves/brackets/1933054/2839697
     standings: []
+  - name: Virtua Fighter 5 R.E.V.O.
+    start_date: 2025-04-29T20:30:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/virtua-fighter-5-revo/brackets/1957156/2874456
+    standings: []
 games:
+  - Persona 4 Arena Ultimax
   - "Fatal Fury: City of the Wolves"
+  - Virtua Fighter 5 R.E.V.O.
 
 ---
 
