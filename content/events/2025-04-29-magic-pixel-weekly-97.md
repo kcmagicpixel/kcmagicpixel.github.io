@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-97
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 9
+participant_count: 21
 start_date: 2025-04-29T19:00:00.000-05:00
 end_date: 2025-04-29T23:59:00.000-05:00
 created_date: 2025-03-31T20:22:28.000-05:00
@@ -19,19 +19,38 @@ stream: kcmagicpixel
 events:
   - name: Persona 4 Arena Ultimax
     start_date: 2025-04-29T19:00:00.000-05:00
-    participant_count: 3
+    participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/persona-4-arena-ultimax/brackets/1957157/2874457
-    standings: []
+    standings:
+      - player: AJ Cymbals
+        standing: 1
+      - player: K村
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-04-29T20:00:00.000-05:00
-    participant_count: 7
+    participant_count: 11
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/fatal-fury-city-of-the-wolves/brackets/1933054/2839697
-    standings: []
+    standings:
+      - player: NuMetalFan1994
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: Virtua Fighter 5 R.E.V.O.
     start_date: 2025-04-29T20:30:00.000-05:00
-    participant_count: 5
+    participant_count: 9
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/virtua-fighter-5-revo/brackets/1957156/2874456
-    standings: []
+    standings:
+      - player: ChronoSanaki
+        standing: 1
+      - player: GucciG0n
+        standing: 2
+      - player: ChibiTanner
+        prefix: Chibi
+        standing: 3
 games:
   - Persona 4 Arena Ultimax
   - "Fatal Fury: City of the Wolves"
