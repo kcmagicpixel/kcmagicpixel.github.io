@@ -1,31 +1,30 @@
 ---
-title: "Magic Pixel Weekly #98"
-slug: magic-pixel-weekly-98
+title: "Magic Pixel Weekly #100"
+slug: magic-pixel-weekly-100
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-98
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-100
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
-start_date: 2025-05-06T19:00:00.000-05:00
-end_date: 2025-05-06T23:59:00.000-05:00
-created_date: 2025-05-04T23:04:34.000-05:00
+start_date: 2025-05-20T19:00:00.000-05:00
+end_date: 2025-05-20T23:59:00.000-05:00
+created_date: 2025-05-05T20:10:22.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
-    start_date: 2025-05-06T20:00:00.000-05:00
-    participant_count: 2
+    start_date: 2025-05-20T20:00:00.000-05:00
+    participant_count: 0
     entry_fee: 5
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/fatal-fury-city-of-the-wolves/brackets/1964391/2884078
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/fatal-fury-city-of-the-wolves/brackets/1965464/2885433
     standings: []
   - name: "Melty Blood: Type Lumina"
-    start_date: 2025-05-06T20:30:00.000-05:00
-    participant_count: 1
+    start_date: 2025-05-20T20:30:00.000-05:00
+    participant_count: 0
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -34,10 +33,24 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/melty-blood-type-lumina/brackets/1964385/2884072
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/melty-blood-type-lumina/brackets/1965458/2885427
+    standings: []
+  - name: Street Fighter 6
+    start_date: 2025-05-20T20:30:00.000-05:00
+    participant_count: 0
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/street-fighter-6/brackets/1965457/2885426
     standings: []
   - name: "Guilty Gear: Strive"
-    start_date: 2025-05-06T21:00:00.000-05:00
+    start_date: 2025-05-20T21:00:00.000-05:00
     participant_count: 0
     entry_fee: 5
     rules: >-
@@ -49,16 +62,17 @@ events:
       The winner of each game must keep the same character, the loser of that game may switch characters.  
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/guilty-gear-strive/brackets/1964382/2884069
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/guilty-gear-strive/brackets/1965456/2885425
     standings: []
 games:
   - "Fatal Fury: City of the Wolves"
   - "Melty Blood: Type Lumina"
+  - Street Fighter 6
   - "Guilty Gear: Strive"
 
 ---
 
-May is here! We'll be running our regularly scheduled **MBTL** and **GGST**, as well as **COTW** (which will be every first and third Tuesday going forward)! See you there.<!--more-->
+Welcome to our 100th ever Magic Pixel Weekly! We'll be celebrating with some pizza, snacks, and drinks, so come hungry and ready for some games! We've got a stacked night too, with **COTW**, **SF6**, **MBTL**, and **GGST**. This is the one to plan on, hope to see you all there!<!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 

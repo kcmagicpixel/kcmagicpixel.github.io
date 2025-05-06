@@ -1,31 +1,54 @@
 ---
-title: "Magic Pixel Weekly #98"
-slug: magic-pixel-weekly-98
+title: "Magic Pixel Weekly #99"
+slug: magic-pixel-weekly-99
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-98
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-99
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
-start_date: 2025-05-06T19:00:00.000-05:00
-end_date: 2025-05-06T23:59:00.000-05:00
-created_date: 2025-05-04T23:04:34.000-05:00
+start_date: 2025-05-13T19:00:00.000-05:00
+end_date: 2025-05-13T23:58:00.000-05:00
+created_date: 2025-05-05T19:59:49.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Fatal Fury: City of the Wolves"
-    start_date: 2025-05-06T20:00:00.000-05:00
-    participant_count: 2
-    entry_fee: 5
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/fatal-fury-city-of-the-wolves/brackets/1964391/2884078
+  - name: TEKKEN 8
+    start_date: 2025-05-13T20:00:00.000-05:00
+    participant_count: 0
+    rules: |-
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-99/events/tekken-8/brackets/1965444/2885413
     standings: []
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2025-05-06T20:30:00.000-05:00
-    participant_count: 1
+  - name: "Granblue Fantasy Versus: Rising"
+    start_date: 2025-05-13T20:30:00.000-05:00
+    participant_count: 0
+    rules: |-
+      - Version: PS4 on PS5
+      - Double Elimination
+      - Default settings
+      - 2/3 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+      - Random stage select (players may opt for an agreed stage)
+      - Color 17 is banned for all characters
+      - Prismatic Weapon Skins are banned for all characters
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-99/events/granblue-fantasy-versus-rising/brackets/1965443/2885412
+    standings: []
+  - name: Under Night In-Birth II Sys:Celes
+    start_date: 2025-05-13T21:00:00.000-05:00
+    participant_count: 0
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -34,31 +57,16 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/melty-blood-type-lumina/brackets/1964385/2884072
-    standings: []
-  - name: "Guilty Gear: Strive"
-    start_date: 2025-05-06T21:00:00.000-05:00
-    participant_count: 0
-    entry_fee: 5
-    rules: >-
-      Game will be played on **PS4**, entrants must provide their own compatible
-      controller.  
-
-      All sets are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/guilty-gear-strive/brackets/1964382/2884069
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-99/events/under-night-in-birth-ii-sys-celes/brackets/1965445/2885414
     standings: []
 games:
-  - "Fatal Fury: City of the Wolves"
-  - "Melty Blood: Type Lumina"
-  - "Guilty Gear: Strive"
+  - TEKKEN 8
+  - "Granblue Fantasy Versus: Rising"
+  - Under Night In-Birth II Sys:Celes
 
 ---
 
-May is here! We'll be running our regularly scheduled **MBTL** and **GGST**, as well as **COTW** (which will be every first and third Tuesday going forward)! See you there.<!--more-->
+This Tuesday, May 13th, we'll be running **TEKKEN 8**, **GBVSR**, and **UNI2**. Look forward to next week, when we'll be celebrating our 100th weekly!<!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
