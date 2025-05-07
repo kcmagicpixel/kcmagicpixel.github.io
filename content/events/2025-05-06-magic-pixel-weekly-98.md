@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-98
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 20
 start_date: 2025-05-06T19:00:00.000-05:00
 end_date: 2025-05-06T23:59:00.000-05:00
 created_date: 2025-05-04T23:04:34.000-05:00
@@ -19,10 +19,16 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-05-06T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 7
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/fatal-fury-city-of-the-wolves/brackets/1964391/2884078
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-05-06T20:30:00.000-05:00
     participant_count: 4
@@ -35,10 +41,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/melty-blood-type-lumina/brackets/1964385/2884072
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-05-06T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -50,7 +62,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-98/events/guilty-gear-strive/brackets/1964382/2884069
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        standing: 2
+      - player: cavitae
+        standing: 3
 games:
   - "Fatal Fury: City of the Wolves"
   - "Melty Blood: Type Lumina"
