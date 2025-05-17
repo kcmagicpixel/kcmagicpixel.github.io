@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-100
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 5
 start_date: 2025-05-20T19:00:00.000-05:00
 end_date: 2025-05-20T23:59:00.000-05:00
 created_date: 2025-05-05T20:10:22.000-05:00
@@ -23,6 +23,20 @@ events:
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/fatal-fury-city-of-the-wolves/brackets/1965464/2885433
     standings: []
+  - name: Street Fighter 6
+    start_date: 2025-05-20T20:30:00.000-05:00
+    participant_count: 3
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/street-fighter-6/brackets/1965457/2885426
+    standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-05-20T20:30:00.000-05:00
     participant_count: 2
@@ -36,23 +50,9 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/melty-blood-type-lumina/brackets/1965458/2885427
     standings: []
-  - name: Street Fighter 6
-    start_date: 2025-05-20T20:30:00.000-05:00
-    participant_count: 2
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-100/events/street-fighter-6/brackets/1965457/2885426
-    standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2025-05-20T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -67,8 +67,8 @@ events:
     standings: []
 games:
   - "Fatal Fury: City of the Wolves"
-  - "Melty Blood: Type Lumina"
   - Street Fighter 6
+  - "Melty Blood: Type Lumina"
   - "Guilty Gear: Strive"
 
 ---
