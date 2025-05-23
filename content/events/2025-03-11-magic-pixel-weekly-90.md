@@ -31,7 +31,8 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-90/events/tekken-8/brackets/1907331/2803209
     standings:
-      - player: Imogen Heap
+      - player: Dolly Parton
+        prefix: Mob$
         standing: 1
       - player: Benjamin Boxing
         standing: 2
