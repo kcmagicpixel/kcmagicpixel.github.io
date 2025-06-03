@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-102
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 8
 start_date: 2025-06-03T19:00:00.000-05:00
 end_date: 2025-06-03T23:57:00.000-05:00
 created_date: 2025-05-31T11:04:48.000-05:00
@@ -19,13 +19,13 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-06-03T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-102/events/fatal-fury-city-of-the-wolves/brackets/1987269/2914753
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-06-03T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -38,7 +38,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2025-06-03T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
