@@ -31,11 +31,6 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-103/events/tekken-8/brackets/1987290/2914778
     standings: []
-  - name: Rivals of Aether II
-    start_date: 2025-06-10T20:00:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-103/events/rivals-of-aether-2/brackets/1990389/2919113
-    standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-06-10T20:30:00.000-05:00
     participant_count: 1
@@ -68,13 +63,12 @@ events:
     standings: []
 games:
   - TEKKEN 8
-  - Rivals of Aether II
   - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
 ---
 
-We are truly in summer now, so what better time than the present to sweat it out in bracket. Join us Tuesday, June 10th, for **TEKKEN 8**, **GBVSR**, **UNI2**, and as a special addition, **Rivals of Aether 2**!<!--more-->
+We are truly in summer now, so what better time than the present to sweat it out in bracket. Join us Tuesday, June 10th, for **TEKKEN 8**, **GBVSR**, **UNI2**!<!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 

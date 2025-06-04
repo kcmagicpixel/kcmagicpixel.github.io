@@ -16,6 +16,11 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
+  - name: Rivals of Aether II
+    start_date: 2025-06-24T20:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-105/events/rivals-of-aether-2/brackets/1990653/2919588
+    standings: []
   - name: TEKKEN 8
     start_date: 2025-06-24T20:00:00.000-05:00
     participant_count: 0
@@ -61,13 +66,14 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-105/events/under-night-in-birth-ii-sys-celes/brackets/1987320/2914809
     standings: []
 games:
+  - Rivals of Aether II
   - TEKKEN 8
   - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
 ---
 
-For the final Tuesday in June, we'll be running our regularly scheduled **TEKKEN 8**, **GBVSR**, and **UNI2**. Come hang out and get some games, we'll see you there!<!--more-->
+For the final Tuesday in June, we'll be running our regularly scheduled **TEKKEN 8**, **GBVSR**, and **UNI2**. Additionally, **Rivals of Aether 2** will be making a special appearance! Come hang out and get some games, we'll see you there!<!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 

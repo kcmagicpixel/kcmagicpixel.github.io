@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-102
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 10
+participant_count: 18
 start_date: 2025-06-03T19:00:00.000-05:00
 end_date: 2025-06-03T23:57:00.000-05:00
 created_date: 2025-05-31T11:04:48.000-05:00
@@ -19,13 +19,19 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-06-03T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 8
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-102/events/fatal-fury-city-of-the-wolves/brackets/1987269/2914753
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: Reinh0ld
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-06-03T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 4
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -35,10 +41,17 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-102/events/melty-blood-type-lumina/brackets/1987263/2914747
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: SieghartSF
+        prefix: CC
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-06-03T21:00:00.000-05:00
-    participant_count: 5
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -50,7 +63,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-102/events/guilty-gear-strive/brackets/1987261/2914745
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 5
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 5
+      - player: Jembo
+        standing: 5
 games:
   - "Fatal Fury: City of the Wolves"
   - "Melty Blood: Type Lumina"
