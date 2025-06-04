@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-102
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 18
+participant_count: 24
 start_date: 2025-06-03T19:00:00.000-05:00
 end_date: 2025-06-03T23:57:00.000-05:00
 created_date: 2025-05-31T11:04:48.000-05:00
@@ -64,13 +64,13 @@ events:
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-102/events/guilty-gear-strive/brackets/1987261/2914745
     standings:
-      - player: cavitae
-        standing: 5
       - player: OoeyGooeyChewySnickers
         prefix: TF
-        standing: 5
-      - player: Jembo
-        standing: 5
+        standing: 1
+      - player: Gooba
+        standing: 2
+      - player: cavitae
+        standing: 3
 games:
   - "Fatal Fury: City of the Wolves"
   - "Melty Blood: Type Lumina"
