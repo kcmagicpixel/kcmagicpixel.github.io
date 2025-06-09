@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-103
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 3
 start_date: 2025-06-10T19:00:00.000-05:00
 end_date: 2025-06-10T23:58:00.000-05:00
 created_date: 2025-05-31T11:21:11.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2025-06-10T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -50,7 +50,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-06-10T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
