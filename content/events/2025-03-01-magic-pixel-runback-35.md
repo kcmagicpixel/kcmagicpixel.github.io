@@ -22,7 +22,7 @@ events:
     participant_count: 13
     url_bracket: https://www.start.gg/tournament/magic-pixel-runback-35/events/blazblue-central-fiction/brackets/1903843/2798717
     standings:
-      - player: Mongolian Death Worm
+      - player: 20-Yr-Old Oblivion Bugs
         standing: 1
       - player: Fleabag
         standing: 2
