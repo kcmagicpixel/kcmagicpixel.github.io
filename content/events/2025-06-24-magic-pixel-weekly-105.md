@@ -7,7 +7,8 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-105
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-participant_count: 7
+venue_fee: 5
+participant_count: 24
 start_date: 2025-06-24T19:00:00.000-05:00
 end_date: 2025-06-24T23:58:00.000-05:00
 created_date: 2025-05-31T11:31:31.000-05:00
@@ -18,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: Rivals of Aether II
     start_date: 2025-06-24T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 14
     rules: >-
       * 3 stock, 8 minute games
 
@@ -26,10 +27,17 @@ events:
 
       * Stage striking/rock paper scissors tournament mode settings enabled
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-105/events/rivals-of-aether-2/brackets/1990653/2919588
-    standings: []
+    standings:
+      - player: Kiri
+        standing: 1
+      - player: Benjamin Boxing
+        standing: 2
+      - player: jubear
+        standing: 3
   - name: TEKKEN 8
     start_date: 2025-06-24T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 8
+    entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -39,10 +47,16 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-105/events/tekken-8/brackets/1987319/2914808
-    standings: []
+    standings:
+      - player: Curlyy25
+        standing: 1
+      - player: GucciG0n
+        standing: 2
+      - player: LambdaX
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-06-24T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 7
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -56,10 +70,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-105/events/granblue-fantasy-versus-rising/brackets/1987318/2914807
-    standings: []
+    standings:
+      - player: uklj
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Emi
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-06-24T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -69,7 +89,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-105/events/under-night-in-birth-ii-sys-celes/brackets/1987320/2914809
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: toad_slayer
+        standing: 3
 games:
   - Rivals of Aether II
   - TEKKEN 8
