@@ -23,19 +23,6 @@ events:
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-108/events/fatal-fury-city-of-the-wolves/brackets/2012383/2947590
     standings: []
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2025-07-15T20:30:00.000-05:00
-    participant_count: 1
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-108/events/melty-blood-type-lumina/brackets/2012377/2947584
-    standings: []
   - name: Street Fighter 6
     start_date: 2025-07-15T20:30:00.000-05:00
     participant_count: 1
@@ -67,13 +54,12 @@ events:
     standings: []
 games:
   - "Fatal Fury: City of the Wolves"
-  - "Melty Blood: Type Lumina"
   - Street Fighter 6
   - "Guilty Gear: Strive"
 
 ---
 
-We're halfway through July already, and for our 3rd Tuesday we have a stacked night! We'll be running **COTW**, **MBTL**,  **SF6**, and **GGST**, so we hope you can make it out!<!--more-->
+We're halfway through July already, and for our 3rd Tuesday we have a stacked night! We'll be running **COTW**,  **SF6**, and **GGST**, so we hope you can make it out!<!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
