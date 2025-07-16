@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-108
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 19
 start_date: 2025-07-15T19:00:00.000-05:00
 end_date: 2025-07-15T23:59:00.000-05:00
 created_date: 2025-06-30T19:51:37.000-05:00
@@ -19,13 +19,19 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-07-15T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 4
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-108/events/fatal-fury-city-of-the-wolves/brackets/2012383/2947590
-    standings: []
+    standings:
+      - player: JustJewel
+        standing: 1
+      - player: ChronoSanaki
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: Street Fighter 6
     start_date: 2025-07-15T20:30:00.000-05:00
-    participant_count: 3
+    participant_count: 10
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -36,10 +42,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-108/events/street-fighter-6/brackets/2012376/2947583
-    standings: []
+    standings:
+      - player: golbat
+        standing: 1
+      - player: Gooba
+        standing: 2
+      - player: SieghartSF
+        prefix: CC
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-07-15T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -51,7 +64,15 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-108/events/guilty-gear-strive/brackets/2012375/2947582
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        standing: 2
+      - player: Galanos
+        prefix: MM
+        standing: 3
 games:
   - "Fatal Fury: City of the Wolves"
   - Street Fighter 6
