@@ -75,7 +75,7 @@ events:
     standings:
       - player: Nanaya-Gaming
         standing: 1
-      - player: Sheepy
+      - player: Manhattan Cafe
         standing: 2
       - player: golbat
         standing: 3

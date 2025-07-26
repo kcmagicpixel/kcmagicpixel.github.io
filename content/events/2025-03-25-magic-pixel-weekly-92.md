@@ -58,7 +58,7 @@ events:
         standing: 1
       - player: JustJewel
         standing: 2
-      - player: Sheepy
+      - player: Manhattan Cafe
         standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-03-25T21:00:00.000-05:00
@@ -73,7 +73,7 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-92/events/under-night-in-birth-ii-sys-celes/brackets/1907381/2803264
     standings:
-      - player: Sheepy
+      - player: Manhattan Cafe
         standing: 1
       - player: Nanaya-Gaming
         standing: 2

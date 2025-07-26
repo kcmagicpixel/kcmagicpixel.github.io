@@ -32,7 +32,7 @@ events:
     standings:
       - player: httpriestess
         standing: 1
-      - player: Sheepy
+      - player: Manhattan Cafe
         standing: 2
       - player: SieghartSF
         prefix: CC

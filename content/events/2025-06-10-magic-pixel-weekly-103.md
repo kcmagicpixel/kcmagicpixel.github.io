@@ -76,7 +76,7 @@ events:
       - player: Pipo Password
         prefix: TSS
         standing: 1
-      - player: Sheepy
+      - player: Manhattan Cafe
         standing: 2
       - player: golbat
         standing: 3

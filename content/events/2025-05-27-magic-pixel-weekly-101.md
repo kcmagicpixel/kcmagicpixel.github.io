@@ -72,7 +72,7 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-101/events/under-night-in-birth-ii-sys-celes/brackets/1965513/2885501
     standings:
-      - player: Sheepy
+      - player: Manhattan Cafe
         standing: 1
       - player: Pipo Password
         prefix: TSS
