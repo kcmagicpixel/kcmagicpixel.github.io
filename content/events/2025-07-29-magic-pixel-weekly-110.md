@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-110
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 3
 start_date: 2025-07-29T19:00:00.000-05:00
 end_date: 2025-07-29T23:59:00.000-05:00
 created_date: 2025-06-30T20:17:58.000-05:00
@@ -16,11 +16,24 @@ series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
-games: []
+events:
+  - name: The King of Fighters XV
+    start_date: 2025-07-29T20:00:00.000-05:00
+    participant_count: 2
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-110/events/king-of-fighters-xv/brackets/2012417/2947624
+    standings: []
+  - name: Ultra Street Fighter IV
+    start_date: 2025-07-29T20:00:00.000-05:00
+    participant_count: 2
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-110/events/ultra-street-fighter-iv/brackets/2033301/2977429
+    standings: []
+games:
+  - The King of Fighters XV
+  - Ultra Street Fighter IV
 
 ---
 
-For the 5th Tuesday of the month, we have a free-for-all! No brackets scheduled so bring whatever you want to play, and get some games all night long! If you are showing up with a setup, make sure to let others know in our <code>#community-organizing</code> discord channel. See y'all there!<!--more-->
+For the 5th Tuesday of the month, we have a free-for-all! Bring whatever you want to play, and get some games all night long! We also have some one-off brackets for **KOFXV** and **Ultra Street Fighter IV**. If you are showing up with a setup, make sure to let others know in our <code>#community-organizing</code> discord channel. See y'all there!<!--more-->
 
 <!--As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! -->
 
