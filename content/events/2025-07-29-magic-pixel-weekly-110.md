@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-110
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 8
 start_date: 2025-07-29T19:00:00.000-05:00
 end_date: 2025-07-29T23:59:00.000-05:00
 created_date: 2025-06-30T20:17:58.000-05:00
@@ -17,19 +17,31 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: The King of Fighters XV
-    start_date: 2025-07-29T20:00:00.000-05:00
-    participant_count: 2
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-110/events/king-of-fighters-xv/brackets/2012417/2947624
-    standings: []
   - name: Ultra Street Fighter IV
     start_date: 2025-07-29T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-110/events/ultra-street-fighter-iv/brackets/2033301/2977429
-    standings: []
+    standings:
+      - player: toad_slayer
+        standing: 5
+      - player: golbat
+        standing: 5
+      - player: Manhattan Cafe
+        standing: 5
+  - name: The King of Fighters XV
+    start_date: 2025-07-29T20:00:00.000-05:00
+    participant_count: 4
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-110/events/king-of-fighters-xv/brackets/2012417/2947624
+    standings:
+      - player: golbat
+        standing: 1
+      - player: deapest
+        standing: 2
+      - player: ChronoSanaki
+        standing: 3
 games:
-  - The King of Fighters XV
   - Ultra Street Fighter IV
+  - The King of Fighters XV
 
 ---
 
