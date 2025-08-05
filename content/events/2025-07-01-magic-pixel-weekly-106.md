@@ -25,7 +25,7 @@ events:
     standings:
       - player: httpriestess
         standing: 1
-      - player: ChronoSanaki
+      - player: Tanino Gimlet
         standing: 2
       - player: Reinh0ld
         standing: 3

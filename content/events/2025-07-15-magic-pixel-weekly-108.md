@@ -25,7 +25,7 @@ events:
     standings:
       - player: JustJewel
         standing: 1
-      - player: ChronoSanaki
+      - player: Tanino Gimlet
         standing: 2
       - player: golbat
         standing: 3

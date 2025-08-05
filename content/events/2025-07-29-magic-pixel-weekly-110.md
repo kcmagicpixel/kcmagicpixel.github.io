@@ -37,7 +37,7 @@ events:
         standing: 1
       - player: deapest
         standing: 2
-      - player: ChronoSanaki
+      - player: Tanino Gimlet
         standing: 3
 games:
   - Ultra Street Fighter IV

@@ -27,7 +27,7 @@ events:
         standing: 1
       - player: httpriestess
         standing: 2
-      - player: ChronoSanaki
+      - player: Tanino Gimlet
         standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-05-06T20:30:00.000-05:00

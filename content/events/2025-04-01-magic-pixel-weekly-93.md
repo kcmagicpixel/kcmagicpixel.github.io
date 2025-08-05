@@ -43,7 +43,7 @@ events:
     standings:
       - player: golbat
         standing: 1
-      - player: ChronoSanaki
+      - player: Tanino Gimlet
         standing: 2
       - player: SieghartSF
         prefix: CC

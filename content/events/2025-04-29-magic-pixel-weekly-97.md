@@ -26,7 +26,7 @@ events:
         standing: 1
       - player: K村
         standing: 2
-      - player: ChronoSanaki
+      - player: Tanino Gimlet
         standing: 3
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-04-29T20:00:00.000-05:00
@@ -44,7 +44,7 @@ events:
     participant_count: 9
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/virtua-fighter-5-revo/brackets/1957156/2874456
     standings:
-      - player: ChronoSanaki
+      - player: Tanino Gimlet
         standing: 1
       - player: GucciG0n
         standing: 2
