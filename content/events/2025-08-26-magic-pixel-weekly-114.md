@@ -1,24 +1,23 @@
 ---
-title: "Magic Pixel Weekly #112"
-slug: magic-pixel-weekly-112
+title: "Magic Pixel Weekly #114"
+slug: magic-pixel-weekly-114
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-112
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-114
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 8
-start_date: 2025-08-12T19:00:00.000-05:00
-end_date: 2025-08-12T23:58:00.000-05:00
-created_date: 2025-08-11T10:45:03.000-05:00
+start_date: 2025-08-26T19:00:00.000-05:00
+end_date: 2025-08-26T23:56:00.000-05:00
+created_date: 2025-08-11T14:02:30.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: TEKKEN 8
-    start_date: 2025-08-12T20:00:00.000-05:00
+    start_date: 2025-08-26T20:00:00.000-05:00
     participant_count: 0
     entry_fee: 5
     rules: |-
@@ -29,11 +28,11 @@ events:
       - Random stage select
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-112/events/tekken-8/brackets/2045906/2994514
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-114/events/tekken-8/brackets/2046157/2994803
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2025-08-12T20:30:00.000-05:00
-    participant_count: 5
+    start_date: 2025-08-26T20:30:00.000-05:00
+    participant_count: 0
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -46,11 +45,11 @@ events:
       - Random stage select (players may opt for an agreed stage)
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-112/events/granblue-fantasy-versus-rising/brackets/2045905/2994513
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-114/events/granblue-fantasy-versus-rising/brackets/2046156/2994802
     standings: []
   - name: Under Night In-Birth II Sys:Celes
-    start_date: 2025-08-12T21:00:00.000-05:00
-    participant_count: 3
+    start_date: 2025-08-26T21:00:00.000-05:00
+    participant_count: 0
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -59,7 +58,7 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-112/events/under-night-in-birth-ii-sys-celes/brackets/2045907/2994515
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-114/events/under-night-in-birth-ii-sys-celes/brackets/2046158/2994804
     standings: []
 games:
   - TEKKEN 8
@@ -68,7 +67,7 @@ games:
 
 ---
 
-It's time to go Wilnas mode in the Granblue bracket. We're also playing Tekken 8 and Under Night!
+Izumi has been released so lock in to tonight's UNI2 bracket! Test your might in the Tekken 8 and Granblue brackets as well.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 

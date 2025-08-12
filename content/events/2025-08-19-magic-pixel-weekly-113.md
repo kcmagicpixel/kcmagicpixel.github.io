@@ -1,56 +1,30 @@
 ---
-title: "Magic Pixel Weekly #112"
-slug: magic-pixel-weekly-112
+title: "Magic Pixel Weekly #113"
+slug: magic-pixel-weekly-113
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-112
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-113
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 8
-start_date: 2025-08-12T19:00:00.000-05:00
-end_date: 2025-08-12T23:58:00.000-05:00
-created_date: 2025-08-11T10:45:03.000-05:00
+start_date: 2025-08-19T19:00:00.000-05:00
+end_date: 2025-08-19T23:55:00.000-05:00
+created_date: 2025-08-11T14:10:20.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: TEKKEN 8
-    start_date: 2025-08-12T20:00:00.000-05:00
+  - name: "Fatal Fury: City of the Wolves"
+    start_date: 2025-08-19T20:00:00.000-05:00
     participant_count: 0
     entry_fee: 5
-    rules: |-
-      - Tournament Mode Default Settings
-      - 3/5 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Random stage select
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-112/events/tekken-8/brackets/2045906/2994514
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-113/events/fatal-fury-city-of-the-wolves/brackets/2046178/2994825
     standings: []
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2025-08-12T20:30:00.000-05:00
-    participant_count: 5
-    rules: |-
-      - Version: PS4 on PS5
-      - Double Elimination
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      - Color 17 is banned for all characters
-      - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-112/events/granblue-fantasy-versus-rising/brackets/2045905/2994513
-    standings: []
-  - name: Under Night In-Birth II Sys:Celes
-    start_date: 2025-08-12T21:00:00.000-05:00
-    participant_count: 3
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2025-08-19T20:30:00.000-05:00
+    participant_count: 0
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -59,16 +33,46 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-112/events/under-night-in-birth-ii-sys-celes/brackets/2045907/2994515
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-113/events/melty-blood-type-lumina/brackets/2046172/2994819
+    standings: []
+  - name: Street Fighter 6
+    start_date: 2025-08-19T20:30:00.000-05:00
+    participant_count: 0
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-113/events/street-fighter-6/brackets/2046171/2994818
+    standings: []
+  - name: "Guilty Gear: Strive"
+    start_date: 2025-08-19T21:00:00.000-05:00
+    participant_count: 0
+    entry_fee: 5
+    rules: >-
+      Game will be played on **PS4**, entrants must provide their own compatible
+      controller.  
+
+      All sets are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-113/events/guilty-gear-strive/brackets/2046170/2994817
     standings: []
 games:
-  - TEKKEN 8
-  - "Granblue Fantasy Versus: Rising"
-  - Under Night In-Birth II Sys:Celes
+  - "Fatal Fury: City of the Wolves"
+  - "Melty Blood: Type Lumina"
+  - Street Fighter 6
+  - "Guilty Gear: Strive"
 
 ---
 
-It's time to go Wilnas mode in the Granblue bracket. We're also playing Tekken 8 and Under Night!
+Big Tuesday for the gamers with City of the Wolves, Type Lumina, Strive, and SF6 brackets all happening at Larry's Game Store! We're entering our Sagat era.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
