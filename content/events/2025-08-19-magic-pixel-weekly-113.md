@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-113
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 2
 start_date: 2025-08-19T19:00:00.000-05:00
 end_date: 2025-08-19T23:55:00.000-05:00
 created_date: 2025-08-11T14:10:20.000-05:00
@@ -19,13 +19,13 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-08-19T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-113/events/fatal-fury-city-of-the-wolves/brackets/2046178/2994825
     standings: []
   - name: Street Fighter 6
     start_date: 2025-08-19T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
