@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-114
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 4
 start_date: 2025-08-26T19:00:00.000-05:00
 end_date: 2025-08-26T23:56:00.000-05:00
 created_date: 2025-08-11T14:02:30.000-05:00
@@ -32,7 +33,7 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-08-26T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 3
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -49,7 +50,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-08-26T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
