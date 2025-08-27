@@ -33,7 +33,7 @@ events:
     participant_count: 11
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-97/events/fatal-fury-city-of-the-wolves/brackets/1933054/2839697
     standings:
-      - player: NuMetalFan1994
+      - player: CouldBePlayingDeadlock
         standing: 1
       - player: httpriestess
         standing: 2

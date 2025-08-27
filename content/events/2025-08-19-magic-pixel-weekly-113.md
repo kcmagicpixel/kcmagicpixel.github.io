@@ -23,7 +23,7 @@ events:
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-113/events/fatal-fury-city-of-the-wolves/brackets/2046178/2994825
     standings:
-      - player: NuMetalFan1994
+      - player: CouldBePlayingDeadlock
         standing: 1
       - player: httpriestess
         standing: 2
