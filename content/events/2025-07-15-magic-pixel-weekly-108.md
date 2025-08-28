@@ -69,6 +69,7 @@ events:
         prefix: TF
         standing: 1
       - player: Jembo
+        prefix: GER
         standing: 2
       - player: Galanos
         prefix: MM

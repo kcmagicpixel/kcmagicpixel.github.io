@@ -64,6 +64,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-106/events/guilty-gear-strive/brackets/2012339/2947546
     standings:
       - player: Jembo
+        prefix: GER
         standing: 1
       - player: cavitae
         standing: 2

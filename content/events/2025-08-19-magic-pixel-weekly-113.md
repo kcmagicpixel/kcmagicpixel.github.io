@@ -89,6 +89,7 @@ events:
       - player: Gooba
         standing: 2
       - player: Jembo
+        prefix: GER
         standing: 3
 games:
   - "Fatal Fury: City of the Wolves"
