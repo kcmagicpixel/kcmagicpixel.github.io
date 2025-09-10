@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-116
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 21
 start_date: 2025-09-09T19:00:00.000-05:00
 end_date: 2025-09-09T23:55:00.000-05:00
 created_date: 2025-09-01T19:50:01.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2025-09-09T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 9
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,10 +30,17 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-116/events/tekken-8/brackets/2064652/3020248
-    standings: []
+    standings:
+      - player: InVaines
+        prefix: AXL | END
+        standing: 1
+      - player: Curlyy25
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-09-09T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -50,7 +57,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-09-09T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,7 +67,14 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-116/events/under-night-in-birth-ii-sys-celes/brackets/2064653/3020249
-    standings: []
+    standings:
+      - player: Manhattan Cafe
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: SieghartSF
+        prefix: CC
+        standing: 3
 games:
   - TEKKEN 8
   - "Granblue Fantasy Versus: Rising"
