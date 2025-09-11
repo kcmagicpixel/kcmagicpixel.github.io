@@ -27,7 +27,7 @@ events:
         standing: 1
       - player: golbat
         standing: 2
-      - player: Tanino Gimlet
+      - player: Chrono Sanaki
         standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-08-05T20:30:00.000-05:00

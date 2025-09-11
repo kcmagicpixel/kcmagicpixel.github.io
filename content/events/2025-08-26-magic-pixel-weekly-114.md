@@ -77,7 +77,7 @@ events:
         standing: 1
       - player: golbat
         standing: 2
-      - player: Tanino Gimlet
+      - player: Chrono Sanaki
         standing: 3
 games:
   - TEKKEN 8
