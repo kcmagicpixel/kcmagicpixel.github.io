@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-117
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 5
 start_date: 2025-09-16T19:00:00.000-05:00
 end_date: 2025-09-16T23:55:00.000-05:00
 created_date: 2025-09-01T20:00:03.000-05:00
@@ -25,7 +25,7 @@ events:
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-09-16T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -38,7 +38,7 @@ events:
     standings: []
   - name: Street Fighter 6
     start_date: 2025-09-16T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -52,7 +52,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2025-09-16T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
