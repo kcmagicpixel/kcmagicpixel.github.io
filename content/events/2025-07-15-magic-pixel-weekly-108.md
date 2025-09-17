@@ -47,7 +47,7 @@ events:
         standing: 1
       - player: Gooba
         standing: 2
-      - player: SieghartSF
+      - player: SieghartSFLC
         prefix: CC
         standing: 3
   - name: "Guilty Gear: Strive"

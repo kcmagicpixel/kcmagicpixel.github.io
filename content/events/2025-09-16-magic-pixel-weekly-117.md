@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-117
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 15
 start_date: 2025-09-16T19:00:00.000-05:00
 end_date: 2025-09-16T23:55:00.000-05:00
 created_date: 2025-09-01T20:00:03.000-05:00
@@ -19,26 +19,13 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-09-16T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-117/events/fatal-fury-city-of-the-wolves/brackets/2064674/3020277
     standings: []
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2025-09-16T20:30:00.000-05:00
-    participant_count: 2
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-117/events/melty-blood-type-lumina/brackets/2064668/3020271
-    standings: []
   - name: Street Fighter 6
     start_date: 2025-09-16T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -49,10 +36,36 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-117/events/street-fighter-6/brackets/2064667/3020270
-    standings: []
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: Cmoney
+        standing: 2
+      - player: toad_slayer
+        standing: 3
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2025-09-16T20:30:00.000-05:00
+    participant_count: 6
+    rules: |-
+      - Default settings
+      - 2/3 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+      - Random stage select (players may opt for an agreed stage)
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-117/events/melty-blood-type-lumina/brackets/2064668/3020271
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 2
+      - player: jeanneshorts
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-09-16T21:00:00.000-05:00
-    participant_count: 4
+    participant_count: 7
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -67,8 +80,8 @@ events:
     standings: []
 games:
   - "Fatal Fury: City of the Wolves"
-  - "Melty Blood: Type Lumina"
   - Street Fighter 6
+  - "Melty Blood: Type Lumina"
   - "Guilty Gear: Strive"
 
 ---

@@ -72,7 +72,7 @@ events:
         standing: 1
       - player: golbat
         standing: 2
-      - player: SieghartSF
+      - player: SieghartSFLC
         prefix: CC
         standing: 3
 games:

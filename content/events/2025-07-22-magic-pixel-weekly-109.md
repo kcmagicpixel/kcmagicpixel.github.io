@@ -79,7 +79,7 @@ events:
         standing: 1
       - player: Manhattan Cafe
         standing: 2
-      - player: SieghartSF
+      - player: SieghartSFLC
         prefix: CC
         standing: 3
 games:

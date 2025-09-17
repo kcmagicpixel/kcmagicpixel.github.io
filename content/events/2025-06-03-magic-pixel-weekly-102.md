@@ -44,7 +44,7 @@ events:
     standings:
       - player: cavitae
         standing: 1
-      - player: SieghartSF
+      - player: SieghartSFLC
         prefix: CC
         standing: 2
       - player: httpriestess
