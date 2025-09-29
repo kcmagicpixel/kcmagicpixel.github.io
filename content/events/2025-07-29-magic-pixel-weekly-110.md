@@ -26,7 +26,7 @@ events:
         standing: 5
       - player: golbat
         standing: 5
-      - player: Manhattan Cafe
+      - player: Sheepy
         standing: 5
   - name: The King of Fighters XV
     start_date: 2025-07-29T20:00:00.000-05:00

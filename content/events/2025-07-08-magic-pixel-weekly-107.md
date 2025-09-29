@@ -78,7 +78,7 @@ events:
         standing: 1
       - player: golbat
         standing: 2
-      - player: Manhattan Cafe
+      - player: Sheepy
         standing: 3
 games:
   - TEKKEN 8

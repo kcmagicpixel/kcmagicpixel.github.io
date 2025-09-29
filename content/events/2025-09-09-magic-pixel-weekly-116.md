@@ -68,7 +68,7 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-116/events/under-night-in-birth-ii-sys-celes/brackets/2064653/3020249
     standings:
-      - player: Manhattan Cafe
+      - player: Sheepy
         standing: 1
       - player: golbat
         standing: 2

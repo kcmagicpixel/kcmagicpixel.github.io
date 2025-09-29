@@ -77,7 +77,7 @@ events:
       - player: Pipo Password
         prefix: TSS
         standing: 1
-      - player: Manhattan Cafe
+      - player: Sheepy
         standing: 2
       - player: SieghartSFLC
         prefix: CC
