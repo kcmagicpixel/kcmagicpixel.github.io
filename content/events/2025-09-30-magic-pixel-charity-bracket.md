@@ -6,19 +6,38 @@ ref_icon: https://images.start.gg/images/tournament/808446/image-1cb538c7630cd83
 url_startgg: https://www.start.gg/tournament/magic-pixel-charity-bracket
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_fee: 5
-participant_count: 14
+participant_count: 22
 start_date: 2025-09-30T19:00:00.000-05:00
 end_date: 2025-09-30T23:00:00.000-05:00
 created_date: 2025-07-13T09:18:21.000-05:00
 series: []
 events:
+  - name: Persona 4 Arena Ultimax
+    start_date: 2025-09-30T19:00:00.000-05:00
+    participant_count: 9
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-bracket/events/persona/brackets/2092089/3055035
+    standings:
+      - player: ellen
+        standing: 1
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-09-30T20:00:00.000-05:00
-    participant_count: 14
+    participant_count: 15
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-bracket/events/melty-blood-type-lumina/brackets/2022243/2961487
-    standings: []
+    standings:
+      - player: Nanaya-Gaming
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Fleabag
+        standing: 3
 games:
+  - Persona 4 Arena Ultimax
   - "Melty Blood: Type Lumina"
 
 ---
