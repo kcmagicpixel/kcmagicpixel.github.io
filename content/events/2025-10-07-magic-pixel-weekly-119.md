@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-119
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 18
 start_date: 2025-10-07T19:00:00.000-05:00
 end_date: 2025-10-07T23:00:00.000-05:00
 created_date: 2025-10-02T17:01:23.000-05:00
@@ -17,15 +17,9 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Fatal Fury: City of the Wolves"
-    start_date: 2025-10-07T20:00:00.000-05:00
-    participant_count: 0
-    entry_fee: 5
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-119/events/fatal-fury-city-of-the-wolves/brackets/2094016/3057542
-    standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-10-07T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 5
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -35,10 +29,17 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-119/events/melty-blood-type-lumina/brackets/2094010/3057536
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 2
+      - player: Sheepy
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-10-07T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -50,9 +51,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-119/events/guilty-gear-strive/brackets/2094008/3057534
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Blaire Mix Project
+        prefix: GNC
+        standing: 2
+      - player: Malleth
+        standing: 3
 games:
-  - "Fatal Fury: City of the Wolves"
   - "Melty Blood: Type Lumina"
   - "Guilty Gear: Strive"
 
