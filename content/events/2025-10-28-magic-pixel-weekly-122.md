@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-122
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2025-10-28T19:00:00.000-05:00
 end_date: 2025-10-28T23:00:00.000-05:00
 created_date: 2025-10-02T16:58:20.000-05:00
@@ -18,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2025-10-28T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,9 +31,14 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-122/events/tekken-8/brackets/2093993/3057512
     standings: []
+  - name: 2XKO
+    start_date: 2025-10-28T20:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-122/events/2xko-pc/brackets/2101228/3066376
+    standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-10-28T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -62,12 +68,13 @@ events:
     standings: []
 games:
   - TEKKEN 8
+  - 2XKO
   - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
 ---
 
-Do you like video games? Then you'll love such brackets as **Tekken 8**, **Granblue**, and **Under Night** at Larry's Game Store. Quit rage-queuing in ranked and come on down for some IRL gaming the old-fashioned way.
+Do you like video games? Then you'll love such brackets as **Tekken 8**, **Granblue**, **Under Night**, and **2XKO** at Larry's Game Store. Quit rage-queuing in ranked and come on down for some IRL gaming the old-fashioned way.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
