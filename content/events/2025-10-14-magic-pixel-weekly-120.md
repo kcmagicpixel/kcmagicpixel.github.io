@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-120
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 7
 start_date: 2025-10-14T19:00:00.000-05:00
 end_date: 2025-10-14T23:00:00.000-05:00
 created_date: 2025-10-02T16:52:28.000-05:00
@@ -17,14 +17,9 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: 2XKO
-    start_date: 2025-10-14T20:00:00.000-05:00
-    participant_count: 1
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/2xko-pc/brackets/2101224/3066372
-    standings: []
   - name: TEKKEN 8
     start_date: 2025-10-14T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 5
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -35,6 +30,11 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/tekken-8/brackets/2093964/3057476
+    standings: []
+  - name: 2XKO
+    start_date: 2025-10-14T20:00:00.000-05:00
+    participant_count: 3
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/2xko-pc/brackets/2101224/3066372
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-10-14T20:30:00.000-05:00
@@ -55,7 +55,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-10-14T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -67,8 +67,8 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/under-night-in-birth-ii-sys-celes/brackets/2093965/3057477
     standings: []
 games:
-  - 2XKO
   - TEKKEN 8
+  - 2XKO
   - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
