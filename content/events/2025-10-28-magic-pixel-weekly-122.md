@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-122
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 1
 start_date: 2025-10-28T19:00:00.000-05:00
 end_date: 2025-10-28T23:00:00.000-05:00
 created_date: 2025-10-02T16:58:20.000-05:00
@@ -17,11 +17,6 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: 2XKO
-    start_date: 2025-10-28T20:00:00.000-05:00
-    participant_count: 1
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-122/events/2xko-pc/brackets/2101228/3066376
-    standings: []
   - name: TEKKEN 8
     start_date: 2025-10-28T20:00:00.000-05:00
     participant_count: 1
@@ -35,6 +30,11 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-122/events/tekken-8/brackets/2093993/3057512
+    standings: []
+  - name: 2XKO
+    start_date: 2025-10-28T20:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-122/events/2xko-mixed-pc/brackets/2104515/3070402
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-10-28T20:30:00.000-05:00
@@ -67,8 +67,8 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-122/events/under-night-in-birth-ii-sys-celes/brackets/2093994/3057513
     standings: []
 games:
-  - 2XKO
   - TEKKEN 8
+  - 2XKO
   - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 

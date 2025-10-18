@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-120
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 13
+participant_count: 33
 start_date: 2025-10-14T19:00:00.000-05:00
 end_date: 2025-10-14T23:00:00.000-05:00
 created_date: 2025-10-02T16:52:28.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2025-10-14T20:00:00.000-05:00
-    participant_count: 8
+    participant_count: 14
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,20 +30,29 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/tekken-8/brackets/2093964/3057476
-    standings: []
+    standings:
+      - player: InVaines
+        prefix: AXL | END
+        standing: 1
+      - player: mob
+        standing: 2
+      - player: TheFoxInTheSoKS
+        prefix: PN!E
+        standing: 3
   - name: 2XKO
     start_date: 2025-10-14T20:00:00.000-05:00
-    participant_count: 6
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/2xko-pc/brackets/2101224/3066372
-    standings: []
-  - name: 2XKO
-    start_date: 2025-10-14T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 12
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/2xko-pc-1/brackets/2104449/3070322
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: JackieNuts
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-10-14T20:30:00.000-05:00
-    participant_count: 3
+    participant_count: 6
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -57,10 +66,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/granblue-fantasy-versus-rising/brackets/2093963/3057475
-    standings: []
+    standings:
+      - player: K村
+        standing: 1
+      - player: JustJewel
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-10-14T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 8
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -70,10 +85,15 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-120/events/under-night-in-birth-ii-sys-celes/brackets/2093965/3057477
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: Graffiti Souls
+        standing: 2
+      - player: L.N. DOOM
+        standing: 3
 games:
   - TEKKEN 8
-  - 2XKO
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
