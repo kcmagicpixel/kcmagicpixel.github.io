@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-121
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 23
 start_date: 2025-10-21T19:00:00.000-05:00
 end_date: 2025-10-21T23:00:00.000-05:00
 created_date: 2025-10-02T16:56:06.000-05:00
@@ -19,13 +19,19 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-10-21T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 8
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-121/events/fatal-fury-city-of-the-wolves/brackets/2093986/3057505
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: Reinh0ld
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
   - name: Street Fighter 6
     start_date: 2025-10-21T20:30:00.000-05:00
-    participant_count: 3
+    participant_count: 11
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -36,10 +42,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-121/events/street-fighter-6/brackets/2093979/3057498
-    standings: []
+    standings:
+      - player: LG
+        prefix: Enron
+        standing: 1
+      - player: Reinh0ld
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-10-21T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 7
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -49,10 +62,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-121/events/melty-blood-type-lumina/brackets/2093980/3057499
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: jeanneshorts
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-10-21T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -64,7 +83,15 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-121/events/guilty-gear-strive/brackets/2093978/3057497
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Saucy
+        prefix: MP
+        standing: 3
 games:
   - "Fatal Fury: City of the Wolves"
   - Street Fighter 6
