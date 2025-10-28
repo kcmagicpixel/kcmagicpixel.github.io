@@ -35,7 +35,7 @@ events:
     standings:
       - player: golbat
         standing: 1
-      - player: deapest
+      - player: 24k gold labubu
         standing: 2
       - player: Chrono Sanaki
         standing: 3
