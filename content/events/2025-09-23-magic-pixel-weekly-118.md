@@ -37,6 +37,7 @@ events:
       - player: Curlyy25
         standing: 2
       - player: GucciG0n
+        prefix: KCFGC
         standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-09-23T20:30:00.000-05:00

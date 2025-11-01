@@ -34,6 +34,7 @@ events:
       - player: uklj
         standing: 1
       - player: GucciG0n
+        prefix: KCFGC
         standing: 2
       - player: Hez
         standing: 3
