@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-123
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 12
 start_date: 2025-11-04T19:00:00.000-06:00
 end_date: 2025-11-04T23:55:00.000-06:00
 created_date: 2025-11-03T12:51:46.000-06:00
@@ -25,7 +25,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2025-11-04T21:00:00.000-06:00
-    participant_count: 1
+    participant_count: 11
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -37,7 +37,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-123/events/guilty-gear-strive/brackets/2123153/3095705
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: K村
+        standing: 2
+      - player: Gooba
+        standing: 3
 games:
   - "Fatal Fury: City of the Wolves"
   - "Guilty Gear: Strive"
