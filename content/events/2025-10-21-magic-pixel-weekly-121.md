@@ -67,7 +67,7 @@ events:
         standing: 1
       - player: httpriestess
         standing: 2
-      - player: jeanneshorts
+      - player: GlenPowellFGC
         standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-10-21T21:00:00.000-05:00

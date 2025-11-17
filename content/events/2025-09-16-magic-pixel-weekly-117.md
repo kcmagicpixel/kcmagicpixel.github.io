@@ -61,7 +61,7 @@ events:
       - player: SieghartSFLC
         prefix: CC
         standing: 2
-      - player: jeanneshorts
+      - player: GlenPowellFGC
         standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-09-16T21:00:00.000-05:00
