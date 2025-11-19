@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-125
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 8
+participant_count: 21
 start_date: 2025-11-18T19:00:00.000-06:00
 end_date: 2025-11-18T23:55:00.000-06:00
 created_date: 2025-11-03T14:10:34.000-06:00
@@ -19,13 +19,39 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-11-18T20:00:00.000-06:00
-    participant_count: 2
+    participant_count: 4
     entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-125/events/fatal-fury-city-of-the-wolves/brackets/2123283/3095928
-    standings: []
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: Chrono Sanaki
+        standing: 2
+      - player: golbat
+        standing: 3
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2025-11-18T20:30:00.000-06:00
+    participant_count: 8
+    rules: |-
+      - Default settings
+      - 2/3 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+      - Random stage select (players may opt for an agreed stage)
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-125/events/melty-blood-type-lumina/brackets/2123277/3095922
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: Sheepy
+        standing: 2
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 3
   - name: Street Fighter 6
     start_date: 2025-11-18T20:30:00.000-06:00
-    participant_count: 4
+    participant_count: 8
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -36,23 +62,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-125/events/street-fighter-6/brackets/2123276/3095921
-    standings: []
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2025-11-18T20:30:00.000-06:00
-    participant_count: 3
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-125/events/melty-blood-type-lumina/brackets/2123277/3095922
-    standings: []
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: LG
+        prefix: Enron
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-11-18T21:00:00.000-06:00
-    participant_count: 3
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -64,11 +84,18 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-125/events/guilty-gear-strive/brackets/2123275/3095920
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Malleth
+        standing: 3
 games:
   - "Fatal Fury: City of the Wolves"
-  - Street Fighter 6
   - "Melty Blood: Type Lumina"
+  - Street Fighter 6
   - "Guilty Gear: Strive"
 
 ---
