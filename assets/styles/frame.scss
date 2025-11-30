@@ -23,12 +23,14 @@
 
     .left {
       flex-grow: 0;
+      flex-shrink: 0;
       width: 6px;
       background-image: url("/images/corner-top-left.png");
     }
 
     .right {
       flex-grow: 0;
+      flex-shrink: 0;
       width: 56px;
       background-image: url("/images/corner-top-right.png");
     }
@@ -75,6 +77,7 @@
     .right {
       width: 6px;
       flex-grow: 0;
+      flex-shrink: 0;
       display: inline-block;
       background-repeat: repeat-y;
     }
@@ -101,12 +104,14 @@
     .left {
       background-image: url("/images/corner-bottom-left.png");
       flex-grow: 0;
+      flex-shrink: 0;
       width: 58px;
     }
 
     .right {
       background-image: url("/images/corner-bottom-right.png");
       flex-grow: 0;
+      flex-shrink: 0;
       width: 76px;
     }
 
