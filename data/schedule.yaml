@@ -4,7 +4,7 @@ games:
       "Magic Pixel Weekly": [1, 3]
   "TEKKEN 8":
     schedule:
-      "Magic Pixel Weekly": [2, 4]
+      "Magic Pixel Weekly": [1, 3]
   "Guilty Gear: Strive":
     schedule:
       "Magic Pixel Weekly": [1, 3]
@@ -27,6 +27,6 @@ games:
     schedule: {}
   "BlazBlue: Central Fiction":
     schedule: {}
-  "Fatal Fury: City of the Wolves":
+  "2XKO":
     schedule:
-      "Magic Pixel Weekly": [1, 3]
+      "Magic Pixel Weekly": [2, 4]
