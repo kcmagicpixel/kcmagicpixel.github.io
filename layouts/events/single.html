@@ -1,10 +1,10 @@
 {{ define "title" }}{{ .Title }} | Events | {{ .Site.Title }}{{ end }}
 {{ define "main" }}
 <main id="details-grid">
-  {{ with partial "img-ref.html" .Params.ref_banner }}
+  <!-- {{ with partial "img-ref.html" .Params.ref_banner }}
     {{ $img := .Resize "1000x" }}
     <img class="banner" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" alt="{{ $.Page.Title }} banner" />
-  {{ end }}
+  {{ end }} -->
   <div id="grid-content">
     <div id="grid-title-area">
       {{ partial "block-date.html" .Params.start_date }}
