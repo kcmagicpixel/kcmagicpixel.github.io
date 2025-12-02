@@ -7,7 +7,6 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-115
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-venue_fee: 5
 participant_count: 21
 start_date: 2025-09-02T19:00:00.000-05:00
 end_date: 2025-09-02T23:55:00.000-05:00
@@ -20,7 +19,6 @@ events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-09-02T20:00:00.000-05:00
     participant_count: 5
-    entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-115/events/fatal-fury-city-of-the-wolves/brackets/2064641/3020237
     standings:
       - player: Zintai
@@ -52,7 +50,6 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2025-09-02T21:00:00.000-05:00
     participant_count: 13
-    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
