@@ -7,6 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-122
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
+venue_fee: 5
 participant_count: 20
 start_date: 2025-10-28T19:00:00.000-05:00
 end_date: 2025-10-28T23:00:00.000-05:00
@@ -19,6 +20,7 @@ events:
   - name: TEKKEN 8
     start_date: 2025-10-28T20:00:00.000-05:00
     participant_count: 6
+    entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game

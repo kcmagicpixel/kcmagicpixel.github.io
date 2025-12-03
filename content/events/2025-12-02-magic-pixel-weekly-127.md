@@ -7,7 +7,8 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-127
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-participant_count: 4
+venue_fee: 5
+participant_count: 14
 start_date: 2025-12-02T19:00:00.000-06:00
 end_date: 2025-12-02T23:59:00.000-06:00
 created_date: 2025-11-30T13:03:24.000-06:00
@@ -18,7 +19,8 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2025-12-02T20:00:00.000-06:00
-    participant_count: 2
+    participant_count: 8
+    entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -28,10 +30,16 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-127/events/tekken-8/brackets/2146011/3125965
-    standings: []
+    standings:
+      - player: Curlyy25
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: LambdaX
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-12-02T20:30:00.000-06:00
-    participant_count: 2
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -41,10 +49,17 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-127/events/melty-blood-type-lumina/brackets/2146009/3125963
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: rump
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2025-12-02T21:00:00.000-06:00
-    participant_count: 1
+    participant_count: 8
+    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  
@@ -55,7 +70,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-127/events/guilty-gear-strive/brackets/2146007/3125961
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: K村
+        standing: 2
+      - player: cavitae
+        standing: 3
 games:
   - TEKKEN 8
   - "Melty Blood: Type Lumina"
