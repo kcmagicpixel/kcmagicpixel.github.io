@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-128
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 18
 start_date: 2025-12-09T19:00:00.000-06:00
 end_date: 2025-12-09T23:59:00.000-06:00
 created_date: 2025-11-30T13:16:26.000-06:00
@@ -19,12 +19,18 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2025-12-09T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-128/events/2xko-mixed-pc/brackets/2146043/3125997
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: JackieNuts
+        standing: 2
+      - player: Pyralis
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-12-09T20:30:00.000-06:00
-    participant_count: 3
+    participant_count: 9
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -38,10 +44,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-128/events/granblue-fantasy-versus-rising/brackets/2146035/3125989
-    standings: []
+    standings:
+      - player: MysticArte
+        standing: 1
+      - player: Kikirin
+        standing: 2
+      - player: JustJewel
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-12-09T21:00:00.000-06:00
-    participant_count: 3
+    participant_count: 11
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -51,7 +63,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-128/events/under-night-in-birth-ii-sys-celes/brackets/2146037/3125991
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: addmein
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
