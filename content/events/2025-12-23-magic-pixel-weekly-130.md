@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-130
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-participant_count: 4
+participant_count: 11
 start_date: 2025-12-23T19:00:00.000-06:00
 end_date: 2025-12-23T23:59:00.000-06:00
 created_date: 2025-11-30T13:32:58.000-06:00
@@ -23,7 +23,7 @@ events:
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-12-23T20:30:00.000-06:00
-    participant_count: 2
+    participant_count: 6
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -37,10 +37,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-130/events/granblue-fantasy-versus-rising/brackets/2146076/3126035
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Malleth
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-12-23T21:00:00.000-06:00
-    participant_count: 2
+    participant_count: 8
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -50,7 +56,14 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-130/events/under-night-in-birth-ii-sys-celes/brackets/2146078/3126037
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: Graffiti Souls
+        standing: 2
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
