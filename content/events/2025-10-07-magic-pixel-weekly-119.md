@@ -7,7 +7,6 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-119
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-venue_fee: 5
 participant_count: 18
 start_date: 2025-10-07T19:00:00.000-05:00
 end_date: 2025-10-07T23:00:00.000-05:00
@@ -40,7 +39,6 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2025-10-07T21:00:00.000-05:00
     participant_count: 11
-    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  

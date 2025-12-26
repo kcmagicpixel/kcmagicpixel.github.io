@@ -5,7 +5,6 @@ ref_org: magic-pixel
 ref_icon: https://images.start.gg/images/tournament/808446/image-1cb538c7630cd83b0c03425694f23768.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-charity-bracket
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
-venue_fee: 5
 participant_count: 22
 start_date: 2025-09-30T19:00:00.000-05:00
 end_date: 2025-09-30T23:00:00.000-05:00
@@ -27,7 +26,6 @@ events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2025-09-30T20:00:00.000-05:00
     participant_count: 15
-    entry_fee: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-bracket/events/melty-blood-type-lumina/brackets/2022243/2961487
     standings:
       - player: Nanaya-Gaming
