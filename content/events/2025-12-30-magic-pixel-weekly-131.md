@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-131
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-participant_count: 2
+participant_count: 3
 start_date: 2025-12-30T19:00:00.000-06:00
 end_date: 2025-12-30T23:58:00.000-06:00
 created_date: 2025-11-30T13:38:35.000-06:00
@@ -18,7 +18,7 @@ stream: kcmagicpixel
 events:
   - name: "Fatal Fury: City of the Wolves"
     start_date: 2025-12-30T20:30:00.000-06:00
-    participant_count: 2
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-131/events/fatal-fury-city-of-the-wolves/brackets/2146098/3126057
     standings: []
 games:
