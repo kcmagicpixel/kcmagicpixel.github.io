@@ -88,7 +88,7 @@ events:
         standing: 1
       - player: Graffiti Souls
         standing: 2
-      - player: L.N. DOOM
+      - player: LN DOOM
         standing: 3
 games:
   - TEKKEN 8
