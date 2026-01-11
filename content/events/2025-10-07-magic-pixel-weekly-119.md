@@ -54,7 +54,6 @@ events:
         prefix: TF
         standing: 1
       - player: Blaire Mix Project
-        prefix: GNC
         standing: 2
       - player: Malleth
         standing: 3
