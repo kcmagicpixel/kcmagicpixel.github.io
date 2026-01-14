@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-133
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-participant_count: 2
+participant_count: 21
 start_date: 2026-01-13T19:00:00.000-06:00
 end_date: 2026-01-13T23:00:00.000-06:00
 created_date: 2026-01-05T09:20:00.000-06:00
@@ -18,12 +18,12 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-01-13T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-133/events/2xko-mixed-pc/brackets/2168965/3156579
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-01-13T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 10
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -37,10 +37,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-133/events/granblue-fantasy-versus-rising/brackets/2168957/3156571
-    standings: []
+    standings:
+      - player: MysticArte
+        standing: 1
+      - player: Kikirin
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-01-13T21:00:00.000-06:00
-    participant_count: 1
+    participant_count: 11
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -50,7 +56,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-133/events/under-night-in-birth-ii-sys-celes/brackets/2168959/3156573
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: Loafers
+        standing: 2
+      - player: addmein
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
