@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-135-1
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-participant_count: 1
+participant_count: 5
 start_date: 2026-01-27T19:00:00.000-06:00
 end_date: 2026-01-27T23:00:00.000-06:00
 created_date: 2026-01-05T09:32:38.000-06:00
@@ -18,12 +18,12 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-01-27T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-135-1/events/2xko-mixed-pc/brackets/2168993/3156612
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-01-27T20:30:00.000-06:00
-    participant_count: 1
+    participant_count: 4
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -40,7 +40,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-01-27T21:00:00.000-06:00
-    participant_count: 1
+    participant_count: 3
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
