@@ -7,6 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-132
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
+venue_fee: 5
 participant_count: 22
 start_date: 2026-01-06T19:00:00.000-06:00
 end_date: 2026-01-06T23:00:00.000-06:00
@@ -19,6 +20,7 @@ events:
   - name: TEKKEN 8
     start_date: 2026-01-06T20:00:00.000-06:00
     participant_count: 6
+    entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -59,6 +61,7 @@ events:
   - name: "Guilty Gear: Strive"
     start_date: 2026-01-06T21:00:00.000-06:00
     participant_count: 14
+    entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
       controller.  

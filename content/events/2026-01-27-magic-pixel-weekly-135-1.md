@@ -7,6 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-135-1
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
+venue_fee: 5
 participant_count: 12
 start_date: 2026-01-27T19:00:00.000-06:00
 end_date: 2026-01-27T23:00:00.000-06:00
@@ -30,12 +31,12 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-135-1/events/under-night-in-birth-ii-sys-celes/brackets/2168987/3156606
     standings:
       - player: toad_slayer
-        standing: 6
-      - player: golbat
-        standing: 6
+        standing: 1
       - player: SieghartSFLC
         prefix: CC
-        standing: 6
+        standing: 2
+      - player: golbat
+        standing: 3
 games:
   - Under Night In-Birth II Sys:Celes
 
