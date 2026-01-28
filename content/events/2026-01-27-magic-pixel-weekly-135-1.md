@@ -7,7 +7,7 @@ ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-135-1
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
-participant_count: 5
+participant_count: 12
 start_date: 2026-01-27T19:00:00.000-06:00
 end_date: 2026-01-27T23:00:00.000-06:00
 created_date: 2026-01-05T09:32:38.000-06:00
@@ -16,31 +16,9 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: 2XKO
-    start_date: 2026-01-27T20:00:00.000-06:00
-    participant_count: 2
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-135-1/events/2xko-mixed-pc/brackets/2168993/3156612
-    standings: []
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2026-01-27T20:30:00.000-06:00
-    participant_count: 4
-    rules: |-
-      - Version: PS4 on PS5
-      - Double Elimination
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      - Color 17 is banned for all characters
-      - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-135-1/events/granblue-fantasy-versus-rising/brackets/2168985/3156604
-    standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-01-27T21:00:00.000-06:00
-    participant_count: 3
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -50,10 +28,15 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-135-1/events/under-night-in-birth-ii-sys-celes/brackets/2168987/3156606
-    standings: []
+    standings:
+      - player: toad_slayer
+        standing: 6
+      - player: golbat
+        standing: 6
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 6
 games:
-  - 2XKO
-  - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
 ---

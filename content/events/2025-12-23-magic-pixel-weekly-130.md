@@ -16,11 +16,6 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: 2XKO
-    start_date: 2025-12-23T20:00:00.000-06:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-130/events/2xko-mixed-pc/brackets/2146084/3126043
-    standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2025-12-23T20:30:00.000-06:00
     participant_count: 6
@@ -65,7 +60,6 @@ events:
         prefix: CC
         standing: 3
 games:
-  - 2XKO
   - "Granblue Fantasy Versus: Rising"
   - Under Night In-Birth II Sys:Celes
 
