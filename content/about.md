@@ -11,6 +11,10 @@ links:
     url: https://twitch.tv/kcmagicpixel
   twitter:
     url: https://twitter.com/kcmagicpixel
+  youtube:
+    url: https://youtube.com/@kcmagicpixel
+  bluesky:
+    url: https://bsky.app/profile/kcmagicpixel.com
 url_codeofconduct: https://fgcoc.com/
 email: magic.pixel@kcmagicpixel.com
 summary: Magic Pixel is a collective of fighting game players committed to providing an inclusive and welcoming place to play for everyone.
