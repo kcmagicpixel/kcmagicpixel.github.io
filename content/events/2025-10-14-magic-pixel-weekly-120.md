@@ -36,7 +36,7 @@ events:
         standing: 1
       - player: mob
         standing: 2
-      - player: TheFoxInTheSoKS
+      - player: Foxy
         prefix: PN!E
         standing: 3
   - name: 2XKO

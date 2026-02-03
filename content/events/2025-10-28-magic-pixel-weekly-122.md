@@ -31,7 +31,7 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-122/events/tekken-8/brackets/2093993/3057512
     standings:
-      - player: TheFoxInTheSoKS
+      - player: Foxy
         prefix: PN!E
         standing: 1
       - player: httpriestess
