@@ -19,7 +19,7 @@ events:
   - name: 2XKO
     start_date: 2026-02-24T20:00:00.000-06:00
     participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-139/events/2xko-mixed-pc/brackets/2191268/3186598
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-139/events/2xko-mixed/brackets/2191268/3186598
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-02-24T20:30:00.000-06:00
