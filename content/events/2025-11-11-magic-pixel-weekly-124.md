@@ -47,7 +47,7 @@ events:
         standing: 1
       - player: JustJewel
         standing: 2
-      - player: Nanaya-Gaming
+      - player: Shiki Nekotare
         standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2025-11-11T21:00:00.000-06:00

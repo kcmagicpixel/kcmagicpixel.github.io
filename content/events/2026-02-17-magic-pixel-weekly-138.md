@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-138
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 32
 start_date: 2026-02-17T19:00:00.000-06:00
 end_date: 2026-02-17T23:59:00.000-06:00
 created_date: 2026-01-30T22:06:57.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2026-02-17T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 9
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,10 +30,16 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-138/events/tekken-8/brackets/2191247/3186577
-    standings: []
+    standings:
+      - player: mob
+        standing: 1
+      - player: uklj
+        standing: 2
+      - player: Reinh0ld
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-02-17T20:30:00.000-06:00
-    participant_count: 4
+    participant_count: 11
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -43,10 +49,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-138/events/melty-blood-type-lumina/brackets/2191245/3186575
-    standings: []
+    standings:
+      - player: Shiki Nekotare
+        standing: 2
+      - player: httpriestess
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: Street Fighter 6
     start_date: 2026-02-17T20:30:00.000-06:00
-    participant_count: 3
+    participant_count: 13
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -57,10 +69,18 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-138/events/street-fighter-6/brackets/2191244/3186574
-    standings: []
+    standings:
+      - player: Cmoney
+        standing: 1
+      - player: Beef Dog
+        prefix: Beef Dog
+        standing: 2
+      - player: LG
+        prefix: Enron
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-02-17T21:00:00.000-06:00
-    participant_count: 3
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -72,7 +92,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-138/events/guilty-gear-strive/brackets/2191243/3186573
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Saucy
+        prefix: MP
+        standing: 2
+      - player: Jembo
+        prefix: GER
+        standing: 3
 games:
   - TEKKEN 8
   - "Melty Blood: Type Lumina"
