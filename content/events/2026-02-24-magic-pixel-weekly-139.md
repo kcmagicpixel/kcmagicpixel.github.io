@@ -46,7 +46,7 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-139/events/granblue-fantasy-versus-rising/brackets/2191260/3186590
     standings:
       - player: hiyukime
-        standing: 2
+        standing: 1
       - player: K村
         standing: 2
       - player: MysticArte
