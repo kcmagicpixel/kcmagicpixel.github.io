@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-139
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 21
 start_date: 2026-02-24T19:00:00.000-06:00
 end_date: 2026-02-24T23:58:00.000-06:00
 created_date: 2026-01-30T22:16:40.000-06:00
@@ -19,12 +19,18 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-02-24T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-139/events/2xko-mixed/brackets/2191268/3186598
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-02-24T20:30:00.000-06:00
-    participant_count: 2
+    participant_count: 12
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -38,10 +44,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-139/events/granblue-fantasy-versus-rising/brackets/2191260/3186590
-    standings: []
+    standings:
+      - player: hiyukime
+        standing: 2
+      - player: K村
+        standing: 2
+      - player: MysticArte
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-02-24T21:00:00.000-06:00
-    participant_count: 2
+    participant_count: 8
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -51,7 +63,13 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-139/events/under-night-in-birth-ii-sys-celes/brackets/2191262/3186592
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: addmein
+        standing: 2
+      - player: LN DOOM
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
