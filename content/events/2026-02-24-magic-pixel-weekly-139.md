@@ -45,7 +45,7 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-139/events/granblue-fantasy-versus-rising/brackets/2191260/3186590
     standings:
-      - player: hiyukime
+      - player: hyuki
         standing: 1
       - player: K村
         standing: 2
