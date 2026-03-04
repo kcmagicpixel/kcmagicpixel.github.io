@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-140
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 11
 start_date: 2026-03-03T19:00:00.000-06:00
 end_date: 2026-03-03T23:59:00.000-06:00
 created_date: 2026-03-01T17:41:04.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2026-03-03T20:00:00.000-06:00
-    participant_count: 0
+    participant_count: 5
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,10 +30,16 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-140/events/tekken-8/brackets/2219428/3222320
-    standings: []
+    standings:
+      - player: Curlyy25
+        standing: 1
+      - player: uklj
+        standing: 2
+      - player: LambdaX
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-03-03T20:30:00.000-06:00
-    participant_count: 2
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -43,10 +49,18 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-140/events/melty-blood-type-lumina/brackets/2219426/3222318
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 2
+      - player: Jembo
+        prefix: GER
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-03-03T21:00:00.000-06:00
-    participant_count: 2
+    participant_count: 5
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
