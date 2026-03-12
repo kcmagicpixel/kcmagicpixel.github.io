@@ -28,22 +28,8 @@ events:
         standing: 2
       - player: Pyralis
         standing: 3
-  - name: Under Night In-Birth II Sys:Celes
-    start_date: 2026-03-10T21:00:00.000-05:00
-    participant_count: 3
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-141/events/under-night-in-birth-ii-sys-celes/brackets/2219443/3222335
-    standings: []
 games:
   - 2XKO
-  - Under Night In-Birth II Sys:Celes
 
 ---
 
