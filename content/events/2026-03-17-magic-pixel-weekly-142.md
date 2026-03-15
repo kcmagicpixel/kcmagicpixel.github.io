@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-142
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 3
 start_date: 2026-03-17T19:00:00.000-05:00
 end_date: 2026-04-21T23:59:00.000-05:00
 created_date: 2026-03-01T17:55:00.000-06:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: TEKKEN 8
     start_date: 2026-03-17T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -30,6 +30,20 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-142/events/tekken-8/brackets/2219454/3222346
+    standings: []
+  - name: Street Fighter 6
+    start_date: 2026-03-17T20:30:00.000-05:00
+    participant_count: 1
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-142/events/street-fighter-6/brackets/2219451/3222343
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-03-17T20:30:00.000-05:00
@@ -43,20 +57,6 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-142/events/melty-blood-type-lumina/brackets/2219452/3222344
-    standings: []
-  - name: Street Fighter 6
-    start_date: 2026-03-17T20:30:00.000-05:00
-    participant_count: 0
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-142/events/street-fighter-6/brackets/2219451/3222343
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-03-17T21:00:00.000-05:00
@@ -75,8 +75,8 @@ events:
     standings: []
 games:
   - TEKKEN 8
-  - "Melty Blood: Type Lumina"
   - Street Fighter 6
+  - "Melty Blood: Type Lumina"
   - "Guilty Gear: Strive"
 
 ---
