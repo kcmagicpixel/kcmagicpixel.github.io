@@ -53,7 +53,6 @@ games:
 
 ---
 
-# About
 The Magic Pixel Charity Championship is a community-organized, 100% grassroots fighting game tournament raising money for Our Spot KC. Instead of charging a fee for registration or a prize pool, we ask for a donation of $10 to the Support Trans Youth campaign. This donation goes directly to Our Spot KC to help meet the needs of young LGBT people in our city who face economic disadvantages and political adversity.<!--more-->
 
 # Details
