@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-144
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 14
 start_date: 2026-03-31T19:00:00.000-05:00
 end_date: 2026-03-31T23:59:00.000-05:00
 created_date: 2026-03-01T18:03:04.000-06:00
@@ -19,14 +19,28 @@ stream: kcmagicpixel
 events:
   - name: "Aquapazza: Aquaplus Dream Match"
     start_date: 2026-03-31T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-144/events/aquapazza/brackets/2219494/3222386
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: Xanivara
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
   - name: Lethal League Blaze
     start_date: 2026-03-31T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-144/events/lethal-league-blaze/brackets/2219495/3222387
-    standings: []
+    standings:
+      - player: Antero
+        prefix: OZ
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: oscmod2s
+        standing: 3
 games:
   - "Aquapazza: Aquaplus Dream Match"
   - Lethal League Blaze
