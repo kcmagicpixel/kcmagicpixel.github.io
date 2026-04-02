@@ -61,9 +61,22 @@ games:
 
 ---
 
-Springtime is here, and we've cleaned up the schedule! We're mixing things up in April, join us on the first and third Tuesdays each month now for **2XKO**, **GBVSR**, and **GGST**!<!--more--> Make sure to check out the [website](https://kcmagicpixel.com) to see how the schedule has changed! <!-- Additionally, for the month of April, the winner of 2XKO will win a $20 Chipotle gift card (in addition to 50% of the pot), so hit the lab and don't miss it! -->
+Springtime is here, and we've cleaned up the schedule! We're mixing things up in April, join us on the first and third Tuesdays each month now for **2XKO**, **GBVSR**, and **GGST**! For 2XKO specifically, show up to win prizes both in-game and in-person: the winner will get a $30 Chipotle gift card and an exclusive in-game title (be sure to link your Riot account with start.gg)!<!--more--> Make sure to check out the [website](https://kcmagicpixel.com) to see how the schedule has changed.
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
+
+### 2XKO Prizes
+
+There will be special prizes on offer for **2XKO**! We're participating in Riot's [community league](https://2xko.riotgames.com/en-us/news/community/2xko-community-event-support-live-now/), which means you'll earn in-game rewards just for participating, in addition to our other prizes! Be sure to connect your Riot account with start.gg ahead of time and pre-register to claim that reward. Here's what you can win:
+
+- **1st place**: The "Local Legend 2026" in-game title, and a Chipotle gift card!
+  - First time bracket champions will win **$30**. 
+  - If you haven't won either of the previous two brackets, you'll get **$20**.
+  - Recent victors will still win a cool **$10**.
+- **2nd place**: A physical goodie from the mystery prize box. Pins, keychains, all sorts of stuff.
+- **Participation**: 3000 in-game credits. Additionally, after entering 5 tournaments, you'll receive an in-game avatar outfit.
+
+We're committing to offering these in-person prizes every bracket through at least the end of June, so there's plenty of time to hit the lab and push for 1st! 
 
 ## Fee and Schedule
 
