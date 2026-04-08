@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-145
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 9
+participant_count: 23
 start_date: 2026-04-07T19:00:00.000-05:00
 end_date: 2026-04-07T23:59:00.000-05:00
 created_date: 2026-03-29T23:34:27.000-05:00
@@ -19,12 +19,18 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-04-07T20:30:00.000-05:00
-    participant_count: 4
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-145/events/2xko/brackets/2246523/3256255
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Benjamin Boxing
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-04-07T20:30:00.000-05:00
-    participant_count: 4
+    participant_count: 8
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -38,10 +44,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-145/events/granblue-fantasy-versus-rising/brackets/2246489/3256214
-    standings: []
+    standings:
+      - player: JustJewel
+        standing: 1
+      - player: Malleth
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-04-07T21:00:00.000-05:00
-    participant_count: 6
+    participant_count: 18
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -53,7 +65,15 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-145/events/guilty-gear-strive/brackets/2246486/3256211
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: Blaire Mix Project
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
