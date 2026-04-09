@@ -31,8 +31,7 @@ events:
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-142/events/tekken-8/brackets/2219454/3222346
     standings:
-      - player: InVaines
-        prefix: AXL | END
+      - player: InVaines 20z
         standing: 1
       - player: httpriestess
         standing: 2
