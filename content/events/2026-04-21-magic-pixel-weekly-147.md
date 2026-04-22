@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-147
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 11
+participant_count: 25
 start_date: 2026-04-21T19:00:00.000-05:00
 end_date: 2026-04-21T23:59:00.000-05:00
 created_date: 2026-03-30T00:20:03.000-05:00
@@ -17,14 +17,9 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: 2XKO
-    start_date: 2026-04-21T20:30:00.000-05:00
-    participant_count: 6
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-147/events/2xko/brackets/2246533/3256265
-    standings: []
   - name: Street Fighter 6
     start_date: 2026-04-21T20:30:00.000-05:00
-    participant_count: 6
+    participant_count: 10
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -35,10 +30,28 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-147/events/street-fighter-6/brackets/2246528/3256260
-    standings: []
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: LG
+        prefix: Enron
+        standing: 3
+  - name: 2XKO
+    start_date: 2026-04-21T20:30:00.000-05:00
+    participant_count: 9
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-147/events/2xko/brackets/2246533/3256265
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: LambdaX
+        standing: 2
+      - player: Pyralis
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-04-21T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -52,10 +65,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-147/events/granblue-fantasy-versus-rising/brackets/2246530/3256262
-    standings: []
+    standings:
+      - player: JustJewel
+        standing: 1
+      - player: K村
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-04-21T21:00:00.000-05:00
-    participant_count: 5
+    participant_count: 13
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -67,10 +86,18 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-147/events/guilty-gear-strive/brackets/2246527/3256259
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: Blaire Mix Project
+        standing: 3
 games:
-  - 2XKO
   - Street Fighter 6
+  - 2XKO
   - "Granblue Fantasy Versus: Rising"
   - "Guilty Gear: Strive"
 

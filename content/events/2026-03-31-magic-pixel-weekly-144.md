@@ -39,7 +39,7 @@ events:
       - player: Jembo
         prefix: GER
         standing: 2
-      - player: oscmod2s
+      - player: oscmod
         standing: 3
 games:
   - "Aquapazza: Aquaplus Dream Match"
