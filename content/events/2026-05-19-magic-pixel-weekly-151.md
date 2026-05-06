@@ -1,30 +1,29 @@
 ---
-title: "Magic Pixel Weekly #149"
-slug: magic-pixel-weekly-149
+title: "Magic Pixel Weekly #151"
+slug: magic-pixel-weekly-151
 ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
-url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-149
+url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-151
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 11
-start_date: 2026-05-05T19:00:00.000-05:00
-end_date: 2026-05-05T23:59:00.000-05:00
-created_date: 2026-04-28T19:09:17.000-05:00
+start_date: 2026-05-19T19:00:00.000-05:00
+end_date: 2026-05-19T23:59:00.000-05:00
+created_date: 2026-05-05T19:15:59.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: 2XKO
-    start_date: 2026-05-05T20:00:00.000-05:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-149/events/2xko/brackets/2275642/3296834
+    start_date: 2026-05-19T20:30:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/2xko/brackets/2281956/3304782
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2026-05-05T20:30:00.000-05:00
-    participant_count: 4
+    start_date: 2026-05-19T20:30:00.000-05:00
+    participant_count: 0
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -37,11 +36,25 @@ events:
       - Random stage select (players may opt for an agreed stage)
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-149/events/granblue-fantasy-versus-rising/brackets/2275639/3296831
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/granblue-fantasy-versus-rising/brackets/2281953/3304779
+    standings: []
+  - name: Street Fighter 6
+    start_date: 2026-05-19T20:30:00.000-05:00
+    participant_count: 0
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/street-fighter-6/brackets/2281951/3304777
     standings: []
   - name: "Guilty Gear: Strive"
-    start_date: 2026-05-05T21:00:00.000-05:00
-    participant_count: 6
+    start_date: 2026-05-19T21:00:00.000-05:00
+    participant_count: 0
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -52,16 +65,17 @@ events:
       The winner of each game must keep the same character, the loser of that game may switch characters.  
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-149/events/guilty-gear-strive/brackets/2275636/3296828
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/guilty-gear-strive/brackets/2281950/3304776
     standings: []
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
+  - Street Fighter 6
   - "Guilty Gear: Strive"
 
 ---
 
-Cookout season is here and for the month of May we've got a lot cooking! Join us for some **2XKO**, **GBVSR**, and **GGST** brackets! For 2XKO specifically, show up to win prizes both in-game and in-person: the winner will get a $30 Chipotle gift card and an exclusive in-game title (be sure to link your Riot account with start.gg)!<!--more-->
+For MP number 151, we've got a huge night of games lined up! We'll see you at Larry's for **2XKO**, **SF6**, **GBVSR**, and **GGST**. Come get your sets in ahead of Combo Breaker!<!--more--> 
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
