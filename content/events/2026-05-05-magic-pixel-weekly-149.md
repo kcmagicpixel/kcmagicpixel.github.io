@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-149
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 11
+participant_count: 17
 start_date: 2026-05-05T19:00:00.000-05:00
 end_date: 2026-05-05T23:59:00.000-05:00
 created_date: 2026-04-28T19:09:17.000-05:00
@@ -19,12 +19,18 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-05-05T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-149/events/2xko/brackets/2275642/3296834
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: toad_slayer
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-05-05T20:30:00.000-05:00
-    participant_count: 4
+    participant_count: 5
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -38,10 +44,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-149/events/granblue-fantasy-versus-rising/brackets/2275639/3296831
-    standings: []
+    standings:
+      - player: Kikirin
+        standing: 1
+      - player: MysticArte
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-05-05T21:00:00.000-05:00
-    participant_count: 6
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -53,7 +65,15 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-149/events/guilty-gear-strive/brackets/2275636/3296828
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Gooba
+        standing: 2
+      - player: Saucy
+        prefix: MP
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
