@@ -7,6 +7,7 @@ ref_icon: https://images.start.gg/images/tournament/895249/image-49f00ebeb76ec2a
 url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
+venue_fee: 0
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
