@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-151
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 6
 start_date: 2026-05-19T19:00:00.000-05:00
 end_date: 2026-05-19T23:59:00.000-05:00
 created_date: 2026-05-05T19:15:59.000-05:00
@@ -18,12 +19,26 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-05-19T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/2xko/brackets/2281956/3304782
+    standings: []
+  - name: Street Fighter 6
+    start_date: 2026-05-19T20:30:00.000-05:00
+    participant_count: 4
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/street-fighter-6/brackets/2281951/3304777
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-05-19T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -37,20 +52,6 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/granblue-fantasy-versus-rising/brackets/2281953/3304779
-    standings: []
-  - name: Street Fighter 6
-    start_date: 2026-05-19T20:30:00.000-05:00
-    participant_count: 0
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/street-fighter-6/brackets/2281951/3304777
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-05-19T21:00:00.000-05:00
@@ -69,8 +70,8 @@ events:
     standings: []
 games:
   - 2XKO
-  - "Granblue Fantasy Versus: Rising"
   - Street Fighter 6
+  - "Granblue Fantasy Versus: Rising"
   - "Guilty Gear: Strive"
 
 ---
