@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-151
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 20
 start_date: 2026-05-19T19:00:00.000-05:00
 end_date: 2026-05-19T23:59:00.000-05:00
 created_date: 2026-05-05T19:15:59.000-05:00
@@ -17,14 +17,9 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: 2XKO
-    start_date: 2026-05-19T20:30:00.000-05:00
-    participant_count: 4
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/2xko/brackets/2281956/3304782
-    standings: []
   - name: Street Fighter 6
     start_date: 2026-05-19T20:30:00.000-05:00
-    participant_count: 4
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -35,27 +30,28 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/street-fighter-6/brackets/2281951/3304777
-    standings: []
-  - name: "Granblue Fantasy Versus: Rising"
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: LG
+        prefix: Enron
+        standing: 3
+  - name: 2XKO
     start_date: 2026-05-19T20:30:00.000-05:00
-    participant_count: 1
-    rules: |-
-      - Version: PS4 on PS5
-      - Double Elimination
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      - Color 17 is banned for all characters
-      - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/granblue-fantasy-versus-rising/brackets/2281953/3304779
-    standings: []
+    participant_count: 7
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/2xko/brackets/2281956/3304782
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: toad_slayer
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-05-19T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 10
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -67,11 +63,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-151/events/guilty-gear-strive/brackets/2281950/3304776
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Gooba
+        standing: 2
+      - player: K村
+        standing: 3
 games:
-  - 2XKO
   - Street Fighter 6
-  - "Granblue Fantasy Versus: Rising"
+  - 2XKO
   - "Guilty Gear: Strive"
 
 ---
