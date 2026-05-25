@@ -14,19 +14,7 @@ created_date: 2026-03-25T13:50:44.000-05:00
 series: []
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 events:
-  - name: 2XKO
-    start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 0
-    standings: []
   - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 0
-    standings: []
-  - name: "Guilty Gear: Strive"
-    start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 0
-    standings: []
-  - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-08T11:00:00.000-05:00
     participant_count: 0
     standings: []
@@ -38,18 +26,40 @@ events:
     start_date: 2026-08-08T11:00:00.000-05:00
     participant_count: 0
     standings: []
+  - name: "Avatar Legends: The Fighting Game"
+    start_date: 2026-08-08T14:00:00.000-05:00
+    participant_count: 0
+    standings: []
+  - name: "Marvel Tokon: Fighting Souls"
+    start_date: 2026-08-08T14:00:00.000-05:00
+    participant_count: 0
+    standings: []
   - name: Under Night In-Birth II Sys:Celes
-    start_date: 2026-08-08T11:00:00.000-05:00
+    start_date: 2026-08-08T14:00:00.000-05:00
+    participant_count: 0
+    standings: []
+  - name: 2XKO
+    start_date: 2026-08-08T17:00:00.000-05:00
+    participant_count: 0
+    standings: []
+  - name: "Guilty Gear: Strive"
+    start_date: 2026-08-08T17:00:00.000-05:00
+    participant_count: 0
+    standings: []
+  - name: "plasma Sword: Nightmare of Bilstein"
+    start_date: 2026-08-08T17:00:00.000-05:00
     participant_count: 0
     standings: []
 games:
-  - 2XKO
   - "Granblue Fantasy Versus: Rising"
-  - "Guilty Gear: Strive"
-  - "Marvel Tokon: Fighting Souls"
   - "Melty Blood: Type Lumina"
   - TEKKEN 8
+  - "Avatar Legends: The Fighting Game"
+  - "Marvel Tokon: Fighting Souls"
   - Under Night In-Birth II Sys:Celes
+  - 2XKO
+  - "Guilty Gear: Strive"
+  - "plasma Sword: Nightmare of Bilstein"
 
 ---
 
@@ -60,6 +70,8 @@ The Magic Pixel Charity Championship is a community-organized, 100% grassroots f
 - **Time:** 11am-8pm
 - **Place:** Central Presbyterian Church, 3501 Campbell St, KCMO
 
+# [Click Here to Donate](https://secure.givelively.org/donate/our-spot-kc/support-trans-youth/justin-stout-1)
 
-### Check back soon for schedule, registration, and donation information!
+
+### Check back soon for schedule, bracket, and stream information!
   
