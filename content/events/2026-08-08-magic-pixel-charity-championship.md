@@ -42,6 +42,11 @@ events:
     start_date: 2026-08-08T17:00:00.000-05:00
     participant_count: 0
     standings: []
+  - name: Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND
+    start_date: 2026-08-08T17:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/arcana-heart-3-lovemax-sixstars-xtend/brackets/2299794/3328693
+    standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-08T17:00:00.000-05:00
     participant_count: 0
@@ -58,6 +63,7 @@ games:
   - "Marvel Tokon: Fighting Souls"
   - Under Night In-Birth II Sys:Celes
   - 2XKO
+  - Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND
   - "Guilty Gear: Strive"
   - "plasma Sword: Nightmare of Bilstein"
 
@@ -70,7 +76,12 @@ The Magic Pixel Charity Championship is a community-organized, 100% grassroots f
 - **Time:** 11am-8pm
 - **Place:** Central Presbyterian Church, 3501 Campbell St, KCMO
 
-# [Click Here to Donate](https://secure.givelively.org/donate/our-spot-kc/support-trans-youth/justin-stout-1)
+# Donate
+## [Click Here to Donate](https://secure.givelively.org/donate/our-spot-kc/support-trans-youth/justin-stout-1)
+All donations go directly to Our Spot KC. Magic Pixel organizers cannot refund these payments. The Support Trans Youth campaign offers merch for various donation tiers; these are processed and fulfilled by Our Spot KC and are not handled by anyone at Magic Pixel.
+
+# Volunteer
+Want to bring your own game, contribute setups or streaming equipment, run a special bracket, or do anything else cool at this event? Reach out to @cavitae in the MP Discord to get on the list!
 
 
 ### Check back soon for schedule, bracket, and stream information!
