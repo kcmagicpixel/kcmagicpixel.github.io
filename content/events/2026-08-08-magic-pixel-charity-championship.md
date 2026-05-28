@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
 venue_fee: 0
-participant_count: 3
+participant_count: 4
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
@@ -30,30 +30,30 @@ events:
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/tekken-8/brackets/2242634/3251317
     standings: []
+  - name: "Avatar Legends: The Fighting Game"
+    start_date: 2026-08-08T14:00:00.000-05:00
+    participant_count: 1
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/avatar-legends-the-fighting-game/brackets/2297857/3326317
+    standings: []
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-08T14:00:00.000-05:00
     participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/marvel-tokon-fighting-souls/brackets/2242639/3251322
-    standings: []
-  - name: "Avatar Legends: The Fighting Game"
-    start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/avatar-legends-the-fighting-game/brackets/2297857/3326317
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-08-08T14:00:00.000-05:00
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/under-night-in-birth-ii-sys-celes/brackets/2242638/3251321
     standings: []
+  - name: 2XKO
+    start_date: 2026-08-08T17:00:00.000-05:00
+    participant_count: 1
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/2xko/brackets/2242631/3251314
+    standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-08T17:00:00.000-05:00
     participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/guilty-gear-strive/brackets/2242637/3251320
-    standings: []
-  - name: 2XKO
-    start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 0
-    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/2xko/brackets/2242631/3251314
     standings: []
   - name: Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND
     start_date: 2026-08-08T17:00:00.000-05:00
@@ -69,11 +69,11 @@ games:
   - "Granblue Fantasy Versus: Rising"
   - "Melty Blood: Type Lumina"
   - TEKKEN 8
-  - "Marvel Tokon: Fighting Souls"
   - "Avatar Legends: The Fighting Game"
+  - "Marvel Tokon: Fighting Souls"
   - Under Night In-Birth II Sys:Celes
-  - "Guilty Gear: Strive"
   - 2XKO
+  - "Guilty Gear: Strive"
   - Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND
   - "plasma Sword: Nightmare of Bilstein"
 

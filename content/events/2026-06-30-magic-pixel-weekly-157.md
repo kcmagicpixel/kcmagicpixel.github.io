@@ -15,7 +15,14 @@ series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
-games: []
+events:
+  - name: Your Only Move Is Hustle
+    start_date: 2026-06-30T20:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-157/events/yomi-hustle/brackets/2301189/3330548
+    standings: []
+games:
+  - Your Only Move Is Hustle
 
 ---
 
