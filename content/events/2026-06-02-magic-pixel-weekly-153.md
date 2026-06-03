@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-153
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 5
+participant_count: 18
 start_date: 2026-06-02T19:00:00.000-05:00
 end_date: 2026-06-02T23:59:00.000-05:00
 created_date: 2026-05-27T21:16:57.000-05:00
@@ -19,12 +19,18 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-06-02T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-153/events/2xko/brackets/2301107/3330461
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-06-02T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -38,10 +44,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-153/events/granblue-fantasy-versus-rising/brackets/2301104/3330458
-    standings: []
+    standings:
+      - player: JustJewel
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: Smeebles
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-06-02T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -53,7 +65,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-153/events/guilty-gear-strive/brackets/2301101/3330455
-    standings: []
+    standings:
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: cavitae
+        standing: 2
+      - player: Dupeb
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
