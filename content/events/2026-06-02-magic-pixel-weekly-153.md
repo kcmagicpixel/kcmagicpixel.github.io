@@ -68,7 +68,7 @@ events:
     standings:
       - player: Jembo
         prefix: GER
-        standing: 2
+        standing: 1
       - player: cavitae
         standing: 2
       - player: Dupeb
