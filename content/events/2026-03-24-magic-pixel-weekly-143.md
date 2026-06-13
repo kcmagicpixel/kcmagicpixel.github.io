@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-143
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 17
+participant_count: 18
 start_date: 2026-03-24T19:00:00.000-05:00
 end_date: 2026-03-24T23:59:00.000-05:00
 created_date: 2026-03-01T17:58:34.000-06:00
