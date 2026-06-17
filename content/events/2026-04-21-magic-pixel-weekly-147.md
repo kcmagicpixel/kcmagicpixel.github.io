@@ -36,7 +36,6 @@ events:
       - player: golbat
         standing: 2
       - player: LG
-        prefix: Enron
         standing: 3
   - name: 2XKO
     start_date: 2026-04-21T20:30:00.000-05:00
