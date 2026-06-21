@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
 venue_fee: 0
-participant_count: 10
+participant_count: 11
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
@@ -55,9 +55,14 @@ events:
     participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/2xko/brackets/2242631/3251314
     standings: []
+  - name: Melty Blood Actress Again Current Code
+    start_date: 2026-08-08T17:00:00.000-05:00
+    participant_count: 1
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/melty-blood-actress-again-current-code/brackets/2322891/3359891
+    standings: []
   - name: "plasma Sword: Nightmare of Bilstein"
     start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/plasma-sword-cfc2/brackets/2297856/3326316
     standings: []
 games:
@@ -69,6 +74,7 @@ games:
   - Under Night In-Birth II Sys:Celes
   - "Guilty Gear: Strive"
   - 2XKO
+  - Melty Blood Actress Again Current Code
   - "plasma Sword: Nightmare of Bilstein"
 
 ---
