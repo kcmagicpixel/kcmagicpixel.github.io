@@ -47,7 +47,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 5
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/guilty-gear-strive/brackets/2242637/3251320
     standings: []
   - name: 2XKO
