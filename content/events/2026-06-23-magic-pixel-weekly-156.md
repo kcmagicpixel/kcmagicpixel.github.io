@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-156
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 5
 start_date: 2026-06-23T19:00:00.000-05:00
 end_date: 2026-06-23T23:59:00.000-05:00
 created_date: 2026-05-27T21:48:01.000-05:00
@@ -17,22 +17,9 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Melty Blood: Type Lumina"
-    start_date: 2026-06-23T20:30:00.000-05:00
-    participant_count: 2
-    rules: |-
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-156/events/melty-blood-type-lumina/brackets/2301145/3330504
-    standings: []
   - name: TEKKEN 8
     start_date: 2026-06-23T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 4
     entry_fee: 5
     rules: |-
       - Tournament Mode Default Settings
@@ -43,6 +30,19 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-156/events/tekken-8/brackets/2301147/3330506
+    standings: []
+  - name: "Melty Blood: Type Lumina"
+    start_date: 2026-06-23T20:30:00.000-05:00
+    participant_count: 3
+    rules: |-
+      - Default settings
+      - 2/3 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+      - Random stage select (players may opt for an agreed stage)
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-156/events/melty-blood-type-lumina/brackets/2301145/3330504
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-06-23T21:00:00.000-05:00
@@ -58,8 +58,8 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-156/events/under-night-in-birth-ii-sys-celes/brackets/2301148/3330507
     standings: []
 games:
-  - "Melty Blood: Type Lumina"
   - TEKKEN 8
+  - "Melty Blood: Type Lumina"
   - Under Night In-Birth II Sys:Celes
 
 ---
