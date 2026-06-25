@@ -16,12 +16,6 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: "Fatal Fury: City of the Wolves"
-    start_date: 2026-06-30T20:00:00.000-05:00
-    participant_count: 0
-    entry_fee: 5
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-157/events/fatal-fury-city-of-the-wolves/brackets/2301176/3330535
-    standings: []
   - name: "plasma Sword: Nightmare of Bilstein"
     start_date: 2026-06-30T20:00:00.000-05:00
     participant_count: 0
@@ -33,13 +27,12 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-157/events/yomi-hustle/brackets/2301189/3330548
     standings: []
 games:
-  - "Fatal Fury: City of the Wolves"
   - "plasma Sword: Nightmare of Bilstein"
   - Your Only Move Is Hustle
 
 ---
 
-June has an extra Tuesday, which means we're running everything except our regular schedule! **YOMI Hustle**, **Plasma Sword**, and **COTW** are in the lineup, but it’s also a great night to bring your favorite game out!<!--more-->
+June has an extra Tuesday, which means we're running everything except our regular schedule! **YOMI Hustle** and **Plasma Sword** are in the lineup, but it’s also a great night to bring your favorite game out!<!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
