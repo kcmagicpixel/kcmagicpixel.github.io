@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
 venue_fee: 0
-participant_count: 13
+participant_count: 14
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
@@ -27,17 +27,17 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/tekken-8/brackets/2242634/3251317
     standings: []
   - name: "Avatar Legends: The Fighting Game"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 3
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/avatar-legends-the-fighting-game/brackets/2297857/3326317
     standings: []
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 3
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/marvel-tokon-fighting-souls/brackets/2242639/3251322
     standings: []
   - name: Under Night In-Birth II Sys:Celes
