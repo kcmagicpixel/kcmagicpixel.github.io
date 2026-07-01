@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-157
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 17
 start_date: 2026-06-30T19:00:00.000-05:00
 end_date: 2026-06-30T23:59:00.000-05:00
 created_date: 2026-05-27T22:12:31.000-05:00
@@ -17,19 +17,32 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
-  - name: Your Only Move Is Hustle
-    start_date: 2026-06-30T20:00:00.000-05:00
-    participant_count: 2
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-157/events/yomi-hustle/brackets/2301189/3330548
-    standings: []
   - name: "plasma Sword: Nightmare of Bilstein"
     start_date: 2026-06-30T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-157/events/plasma-sword/brackets/2323793/3361031
-    standings: []
+    standings:
+      - player: Benjamin Boxing
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 2
+      - player: JustJewel
+        standing: 3
+  - name: Your Only Move Is Hustle
+    start_date: 2026-06-30T20:00:00.000-05:00
+    participant_count: 4
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-157/events/yomi-hustle/brackets/2301189/3330548
+    standings:
+      - player: Somedude
+        standing: 3
+      - player: MagnetiCube
+        standing: 4
+      - player: Jembo
+        prefix: GER
+        standing: 4
 games:
-  - Your Only Move Is Hustle
   - "plasma Sword: Nightmare of Bilstein"
+  - Your Only Move Is Hustle
 
 ---
 
