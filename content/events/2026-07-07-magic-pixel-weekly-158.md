@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-158
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2026-07-07T19:00:00.000-05:00
 end_date: 2026-07-07T23:59:00.000-05:00
 created_date: 2026-07-03T12:58:21.000-05:00
@@ -18,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-07-07T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-158/events/2xko/brackets/2334096/3374130
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
