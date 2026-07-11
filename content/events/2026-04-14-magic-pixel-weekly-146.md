@@ -36,6 +36,7 @@ events:
         prefix: CC
         standing: 2
       - player: Yabby
+        prefix: FaeFighter
         standing: 3
   - name: TEKKEN 8
     start_date: 2026-04-14T20:30:00.000-05:00
