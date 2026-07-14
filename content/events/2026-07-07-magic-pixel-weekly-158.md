@@ -71,7 +71,8 @@ events:
         standing: 1
       - player: K村
         standing: 2
-      - player: ßad
+      - player: モブ
+        prefix: shark
         standing: 3
 games:
   - 2XKO
