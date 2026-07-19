@@ -8,22 +8,22 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
 venue_fee: 0
-participant_count: 38
+participant_count: 39
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
 series: []
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 events:
+  - name: "Granblue Fantasy Versus: Rising"
+    start_date: 2026-08-08T11:00:00.000-05:00
+    participant_count: 10
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/granblue-fantasy-versus-rising/brackets/2242633/3251316
+    standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-08-08T11:00:00.000-05:00
     participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/melty-blood-type-lumina/brackets/2242620/3251303
-    standings: []
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 9
-    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/granblue-fantasy-versus-rising/brackets/2242633/3251316
     standings: []
   - name: 2XKO
     start_date: 2026-08-08T11:00:00.000-05:00
@@ -32,7 +32,7 @@ events:
     standings: []
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 19
+    participant_count: 20
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/marvel-tokon-fighting-souls/brackets/2242639/3251322
     standings: []
   - name: "Avatar Legends: The Fighting Game"
@@ -52,7 +52,7 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 6
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/tekken-8/brackets/2242634/3251317
     standings: []
   - name: Melty Blood Actress Again Current Code
@@ -66,8 +66,8 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/plasma-sword-cfc2/brackets/2297856/3326316
     standings: []
 games:
-  - "Melty Blood: Type Lumina"
   - "Granblue Fantasy Versus: Rising"
+  - "Melty Blood: Type Lumina"
   - 2XKO
   - "Marvel Tokon: Fighting Souls"
   - "Avatar Legends: The Fighting Game"
