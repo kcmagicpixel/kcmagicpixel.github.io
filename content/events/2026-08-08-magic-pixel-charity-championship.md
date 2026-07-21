@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
 venue_fee: 0
-participant_count: 39
+participant_count: 41
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
@@ -17,7 +17,7 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 10
+    participant_count: 11
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/granblue-fantasy-versus-rising/brackets/2242633/3251316
     standings: []
   - name: "Melty Blood: Type Lumina"
@@ -27,23 +27,28 @@ events:
     standings: []
   - name: 2XKO
     start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 8
+    participant_count: 9
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/2xko/brackets/2242631/3251314
     standings: []
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 20
+    participant_count: 21
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/marvel-tokon-fighting-souls/brackets/2242639/3251322
     standings: []
   - name: "Avatar Legends: The Fighting Game"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 11
+    participant_count: 12
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/avatar-legends-the-fighting-game/brackets/2297857/3326317
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-08-08T14:00:00.000-05:00
     participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/under-night-in-birth-ii-sys-celes/brackets/2242638/3251321
+    standings: []
+  - name: Hunter x Hunter Nen x Impact
+    start_date: 2026-08-08T14:00:00.000-05:00
+    participant_count: 0
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/hunter-x-hunter-nen-x-impact/brackets/2348849/3393142
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-08T17:00:00.000-05:00
@@ -52,18 +57,18 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 7
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/tekken-8/brackets/2242634/3251317
+    standings: []
+  - name: "plasma Sword: Nightmare of Bilstein"
+    start_date: 2026-08-08T17:00:00.000-05:00
+    participant_count: 4
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/plasma-sword-cfc2/brackets/2297856/3326316
     standings: []
   - name: Melty Blood Actress Again Current Code
     start_date: 2026-08-08T17:00:00.000-05:00
     participant_count: 3
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/melty-blood-actress-again-current-code/brackets/2322891/3359891
-    standings: []
-  - name: "plasma Sword: Nightmare of Bilstein"
-    start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/plasma-sword-cfc2/brackets/2297856/3326316
     standings: []
 games:
   - "Granblue Fantasy Versus: Rising"
@@ -72,14 +77,15 @@ games:
   - "Marvel Tokon: Fighting Souls"
   - "Avatar Legends: The Fighting Game"
   - Under Night In-Birth II Sys:Celes
+  - Hunter x Hunter Nen x Impact
   - "Guilty Gear: Strive"
   - TEKKEN 8
-  - Melty Blood Actress Again Current Code
   - "plasma Sword: Nightmare of Bilstein"
+  - Melty Blood Actress Again Current Code
 
 ---
 
-The Magic Pixel Charity Championship is a community-organized, 100% grassroots fighting game tournament raising money for Our Spot KC. Instead of charging a fee for registration or a prize pool, we ask for a donation of $10 to the Support Trans Youth campaign. This donation goes directly to Our Spot KC to help meet the needs of young LGBT people in our city who face economic disadvantages and political adversity.<!--more-->
+The Magic Pixel Charity Championship is a community-organized, 100% grassroots fighting game tournament raising money for Our Spot KC. Instead of charging a fee for registration or a prize pool, we ask for a donation of $10 to the Support Trans Youth campaign. This donation goes directly to Our Spot KC to help meet the needs of young LGBTQ+ people in our city who face economic disadvantages and political adversity.<!--more-->
 
 # Details
 - **Date:** Saturday August 8, 2026
