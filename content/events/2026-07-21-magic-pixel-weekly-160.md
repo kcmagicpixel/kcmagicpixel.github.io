@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-160
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 7
+participant_count: 26
 start_date: 2026-07-21T19:00:00.000-05:00
 end_date: 2026-07-21T23:59:00.000-05:00
 created_date: 2026-07-03T13:19:47.000-05:00
@@ -18,13 +18,19 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: kcmagicpixel
 events:
   - name: 2XKO
-    start_date: 2026-07-21T20:30:00.000-05:00
-    participant_count: 4
+    start_date: 2026-07-21T20:00:00.000-05:00
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-160/events/2xko/brackets/2334124/3374161
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: Reinh0ld
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-07-21T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 10
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -38,10 +44,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-160/events/granblue-fantasy-versus-rising/brackets/2334121/3374158
-    standings: []
+    standings:
+      - player: hyuki
+        standing: 1
+      - player: Smeebles
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: Street Fighter 6
     start_date: 2026-07-21T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 8
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -52,10 +64,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-160/events/street-fighter-6/brackets/2334119/3374156
-    standings: []
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 2
+      - player: jeanneshorts
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-07-21T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 9
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -67,7 +86,15 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-160/events/guilty-gear-strive/brackets/2334118/3374155
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: Somedude
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
