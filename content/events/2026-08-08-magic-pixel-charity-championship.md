@@ -27,12 +27,12 @@ events:
     standings: []
   - name: 2XKO
     start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 9
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/2xko/brackets/2242631/3251314
     standings: []
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 22
+    participant_count: 23
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/marvel-tokon-fighting-souls/brackets/2242639/3251322
     standings: []
   - name: "Avatar Legends: The Fighting Game"
