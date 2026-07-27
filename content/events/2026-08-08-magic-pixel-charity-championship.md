@@ -8,22 +8,22 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
 venue_fee: 0
-participant_count: 45
+participant_count: 48
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
 series: []
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 events:
+  - name: "Granblue Fantasy Versus: Rising"
+    start_date: 2026-08-08T11:00:00.000-05:00
+    participant_count: 12
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/granblue-fantasy-versus-rising/brackets/2242633/3251316
+    standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-08-08T11:00:00.000-05:00
     participant_count: 12
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/melty-blood-type-lumina/brackets/2242620/3251303
-    standings: []
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 11
-    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/granblue-fantasy-versus-rising/brackets/2242633/3251316
     standings: []
   - name: 2XKO
     start_date: 2026-08-08T11:00:00.000-05:00
@@ -32,17 +32,17 @@ events:
     standings: []
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 24
+    participant_count: 26
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/marvel-tokon-fighting-souls/brackets/2242639/3251322
     standings: []
   - name: "Avatar Legends: The Fighting Game"
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 13
+    participant_count: 14
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/avatar-legends-the-fighting-game/brackets/2297857/3326317
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-08-08T14:00:00.000-05:00
-    participant_count: 7
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/under-night-in-birth-ii-sys-celes/brackets/2242638/3251321
     standings: []
   - name: Hunter x Hunter Nen x Impact
@@ -52,7 +52,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 12
+    participant_count: 14
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/guilty-gear-strive/brackets/2242637/3251320
     standings: []
   - name: TEKKEN 8
@@ -60,19 +60,19 @@ events:
     participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/tekken-8/brackets/2242634/3251317
     standings: []
+  - name: Melty Blood Actress Again Current Code
+    start_date: 2026-08-08T17:00:00.000-05:00
+    participant_count: 4
+    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/melty-blood-actress-again-current-code/brackets/2322891/3359891
+    standings: []
   - name: "plasma Sword: Nightmare of Bilstein"
     start_date: 2026-08-08T17:00:00.000-05:00
     participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/plasma-sword-cfc2/brackets/2297856/3326316
     standings: []
-  - name: Melty Blood Actress Again Current Code
-    start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/melty-blood-actress-again-current-code/brackets/2322891/3359891
-    standings: []
 games:
-  - "Melty Blood: Type Lumina"
   - "Granblue Fantasy Versus: Rising"
+  - "Melty Blood: Type Lumina"
   - 2XKO
   - "Marvel Tokon: Fighting Souls"
   - "Avatar Legends: The Fighting Game"
@@ -80,8 +80,8 @@ games:
   - Hunter x Hunter Nen x Impact
   - "Guilty Gear: Strive"
   - TEKKEN 8
-  - "plasma Sword: Nightmare of Bilstein"
   - Melty Blood Actress Again Current Code
+  - "plasma Sword: Nightmare of Bilstein"
 
 ---
 
@@ -99,6 +99,21 @@ All donations go directly to Our Spot KC. Magic Pixel organizers cannot refund t
 # Volunteer
 Want to bring your own game, contribute setups or streaming equipment, run a special bracket, or do anything else cool at this event? Reach out to @cavitae in the MP Discord to get on the list!
 
+# Schedule
+## 11am - 2pm
+- Granblue Fantasy Versus: Rising
+- Melty Blood: Type Lumina
+- 2XKO
 
-### Check back soon for schedule, bracket, and stream information!
+## 2pm - 5pm
+- Under Night In-Birth II Sys:Celes
+- Marvel Tokon: Fighting Souls
+- Avatar Legends: The Fighting Game
+- Hunter x Hunter Nen x Impact
+
+## 5pm - 8pm
+- TEKKEN 8
+- Guilty Gear: Strive
+- Plasma Sword
+- Melty Blood Actress Again Current Code
   
