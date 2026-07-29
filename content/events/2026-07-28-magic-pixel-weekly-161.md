@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-161
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 4
+participant_count: 18
 start_date: 2026-07-28T19:00:00.000-05:00
 end_date: 2026-07-28T23:59:00.000-05:00
 created_date: 2026-07-03T13:28:40.000-05:00
@@ -19,7 +19,7 @@ stream: kcmagicpixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-07-28T20:30:00.000-05:00
-    participant_count: 3
+    participant_count: 9
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -29,10 +29,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-161/events/melty-blood-type-lumina/brackets/2334134/3374173
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: qwrty
+        standing: 3
   - name: TEKKEN 8
     start_date: 2026-07-28T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 6
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -42,10 +48,17 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-161/events/tekken-8/brackets/2334136/3374175
-    standings: []
+    standings:
+      - player: Fiend
+        prefix: Lake Trout
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: Scrumby
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-07-28T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 10
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -55,7 +68,14 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-161/events/under-night-in-birth-ii-sys-celes/brackets/2334137/3374176
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 2
+      - player: toad_slayer
+        standing: 3
 games:
   - "Melty Blood: Type Lumina"
   - TEKKEN 8
