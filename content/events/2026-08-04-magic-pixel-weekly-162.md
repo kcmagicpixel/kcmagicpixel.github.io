@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-162
 address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 12
 start_date: 2026-08-04T19:00:00.000-05:00
 end_date: 2026-08-04T23:59:00.000-05:00
 created_date: 2026-08-02T23:09:40.000-05:00
@@ -19,12 +19,18 @@ stream: kcmagicpixel
 events:
   - name: 2XKO
     start_date: 2026-08-04T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-162/events/2xko/brackets/2360234/3408097
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Solric / ZenAtlas
+        standing: 2
+      - player: ChocolateLion
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-08-04T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -38,10 +44,14 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-162/events/granblue-fantasy-versus-rising/brackets/2360231/3408094
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: Big Shrimpin
+        standing: 2
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-04T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 8
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -53,7 +63,14 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-162/events/guilty-gear-strive/brackets/2360228/3408091
-    standings: []
+    standings:
+      - player: Jembo
+        prefix: GER
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: MagnetiCube
+        standing: 3
 games:
   - 2XKO
   - "Granblue Fantasy Versus: Rising"
