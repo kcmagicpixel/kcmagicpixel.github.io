@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-charity-championship
 address: 3501 Campbell St, Kansas City, MO 64109, USA
 venue_name: Central Presbyterian Church
 venue_fee: 0
-participant_count: 71
+participant_count: 77
 start_date: 2026-08-08T11:00:00.000-05:00
 end_date: 2026-08-08T20:00:00.000-05:00
 created_date: 2026-03-25T13:50:44.000-05:00
@@ -17,17 +17,17 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 events:
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 19
+    participant_count: 21
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/granblue-fantasy-versus-rising/brackets/2242633/3251316
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 17
+    participant_count: 18
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/melty-blood-type-lumina/brackets/2242620/3251303
     standings: []
   - name: 2XKO
     start_date: 2026-08-08T11:00:00.000-05:00
-    participant_count: 13
+    participant_count: 14
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/2xko/brackets/2242631/3251314
     standings: []
   - name: "Marvel Tokon: Fighting Souls"
@@ -52,7 +52,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 22
+    participant_count: 25
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/guilty-gear-strive/brackets/2242637/3251320
     standings: []
   - name: TEKKEN 8
@@ -67,7 +67,7 @@ events:
     standings: []
   - name: "plasma Sword: Nightmare of Bilstein"
     start_date: 2026-08-08T17:00:00.000-05:00
-    participant_count: 5
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-charity-championship/events/plasma-sword-cfc2/brackets/2297856/3326316
     standings: []
 games:
