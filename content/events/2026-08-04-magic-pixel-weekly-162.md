@@ -5,7 +5,7 @@ ref_org: magic-pixel
 ref_banner: images/mp_banner.png
 ref_icon: images/mp_icon.png
 url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-162
-address: 113 S Mur-Len Rd, Olathe, KS 66062, USA
+address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
 participant_count: 12
@@ -15,7 +15,7 @@ created_date: 2026-08-02T23:09:40.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
-stream: kcmagicpixel
+stream: Magic Pixel
 events:
   - name: 2XKO
     start_date: 2026-08-04T20:00:00.000-05:00

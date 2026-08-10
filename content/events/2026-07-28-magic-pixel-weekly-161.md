@@ -15,7 +15,7 @@ created_date: 2026-07-03T13:28:40.000-05:00
 series:
   - Magic Pixel Weekly
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
-stream: kcmagicpixel
+stream: Magic Pixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-07-28T20:30:00.000-05:00
