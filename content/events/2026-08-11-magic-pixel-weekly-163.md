@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-163
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 10
 start_date: 2026-08-11T19:00:00.000-05:00
 end_date: 2026-08-11T23:59:00.000-05:00
 created_date: 2026-08-02T23:17:13.000-05:00
@@ -19,7 +19,7 @@ stream: Magic Pixel
 events:
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-08-11T20:00:00.000-05:00
-    participant_count: 1
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -32,12 +32,12 @@ events:
     standings: []
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-08-11T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-163/events/marvel-tokon-fighting-souls/brackets/2360246/3408119
     standings: []
   - name: TEKKEN 8
     start_date: 2026-08-11T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 3
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -50,7 +50,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-08-11T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
