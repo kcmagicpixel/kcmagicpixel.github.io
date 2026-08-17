@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-164
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 2
 start_date: 2026-08-18T19:00:00.000-05:00
 end_date: 2026-08-18T23:59:00.000-05:00
 created_date: 2026-08-02T23:23:29.000-05:00
@@ -20,6 +21,20 @@ events:
     start_date: 2026-08-18T20:00:00.000-05:00
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/2xko/brackets/2360255/3408129
+    standings: []
+  - name: Street Fighter 6
+    start_date: 2026-08-18T20:30:00.000-05:00
+    participant_count: 1
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/street-fighter-6/brackets/2360250/3408124
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-08-18T20:30:00.000-05:00
@@ -38,23 +53,9 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/granblue-fantasy-versus-rising/brackets/2360252/3408126
     standings: []
-  - name: Street Fighter 6
-    start_date: 2026-08-18T20:30:00.000-05:00
-    participant_count: 0
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/street-fighter-6/brackets/2360250/3408124
-    standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-18T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -69,8 +70,8 @@ events:
     standings: []
 games:
   - 2XKO
-  - "Granblue Fantasy Versus: Rising"
   - Street Fighter 6
+  - "Granblue Fantasy Versus: Rising"
   - "Guilty Gear: Strive"
 
 ---
