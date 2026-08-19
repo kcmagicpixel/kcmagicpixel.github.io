@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-164
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 7
+participant_count: 28
 start_date: 2026-08-18T19:00:00.000-05:00
 end_date: 2026-08-18T23:59:00.000-05:00
 created_date: 2026-08-02T23:23:29.000-05:00
@@ -17,14 +17,31 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: Magic Pixel
 events:
+  - name: "MerFight: Curse of the Arctic Prince"
+    start_date: 2026-08-18T19:00:00.000-05:00
+    participant_count: 10
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/marvel-nemesis-rise-of-the-imperfects/brackets/2374180/3425925
+    standings:
+      - player: MagnetiCube
+        standing: 1
+      - player: Chachi
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
   - name: 2XKO
     start_date: 2026-08-18T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/2xko/brackets/2360255/3408129
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Eeviebug
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: Street Fighter 6
     start_date: 2026-08-18T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 9
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -35,10 +52,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/street-fighter-6/brackets/2360250/3408124
-    standings: []
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: LG
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-08-18T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -52,10 +75,16 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/granblue-fantasy-versus-rising/brackets/2360252/3408126
-    standings: []
+    standings:
+      - player: hyuki
+        standing: 1
+      - player: JustJewel
+        standing: 2
+      - player: SieghartSF
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-08-18T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 7
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -67,8 +96,17 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-164/events/guilty-gear-strive/brackets/2360249/3408123
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: Somedude
+        standing: 3
 games:
+  - "MerFight: Curse of the Arctic Prince"
   - 2XKO
   - Street Fighter 6
   - "Granblue Fantasy Versus: Rising"
