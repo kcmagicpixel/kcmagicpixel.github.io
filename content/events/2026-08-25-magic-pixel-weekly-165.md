@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-165
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 4
 start_date: 2026-08-25T19:00:00.000-05:00
 end_date: 2026-08-25T23:59:00.000-05:00
 created_date: 2026-08-02T23:32:09.000-05:00
@@ -17,26 +17,8 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: Magic Pixel
 events:
-  - name: "Marvel Tokon: Fighting Souls"
-    start_date: 2026-08-25T20:30:00.000-05:00
-    participant_count: 1
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-165/events/marvel-tokon-fighting-souls/brackets/2360264/3408138
-    standings: []
-  - name: TEKKEN 8
-    start_date: 2026-08-25T20:30:00.000-05:00
-    participant_count: 1
-    rules: |-
-      - Tournament Mode Default Settings
-      - 3/5 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Random stage select
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-165/events/tekken-8/brackets/2360261/3408135
-    standings: []
   - name: "Melty Blood: Type Lumina"
-    start_date: 2026-08-25T20:30:00.000-05:00
+    start_date: 2026-08-25T20:00:00.000-05:00
     participant_count: 0
     rules: |-
       - Default settings
@@ -48,9 +30,27 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-165/events/melty-blood-type-lumina/brackets/2360259/3408133
     standings: []
+  - name: "Marvel Tokon: Fighting Souls"
+    start_date: 2026-08-25T20:30:00.000-05:00
+    participant_count: 4
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-165/events/marvel-tokon-fighting-souls/brackets/2360264/3408138
+    standings: []
+  - name: TEKKEN 8
+    start_date: 2026-08-25T20:30:00.000-05:00
+    participant_count: 2
+    rules: |-
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-165/events/tekken-8/brackets/2360261/3408135
+    standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-08-25T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -62,9 +62,9 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-165/events/under-night-in-birth-ii-sys-celes/brackets/2360262/3408136
     standings: []
 games:
+  - "Melty Blood: Type Lumina"
   - "Marvel Tokon: Fighting Souls"
   - TEKKEN 8
-  - "Melty Blood: Type Lumina"
   - Under Night In-Birth II Sys:Celes
 
 ---
