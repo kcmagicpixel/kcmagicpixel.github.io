@@ -8,6 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-169
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
+participant_count: 1
 start_date: 2026-09-22T19:00:00.000-05:00
 end_date: 2026-09-22T23:59:00.000-05:00
 created_date: 2026-08-29T12:37:55.000-05:00
@@ -23,7 +24,7 @@ events:
     standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-09-22T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
