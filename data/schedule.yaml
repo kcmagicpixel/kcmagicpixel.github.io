@@ -30,3 +30,8 @@ games:
   "2XKO":
     schedule:
       "Magic Pixel Weekly": [1, 3]
+  "Marvel Tokon: Fighting Souls":
+    schedule:
+      "Magic Pixel Weekly": [2, 4]
+  "Avatar Legends: The Fighting Game":
+    schedule: {}
