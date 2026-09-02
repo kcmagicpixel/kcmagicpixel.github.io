@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-166
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 16
 start_date: 2026-09-01T19:00:00.000-05:00
 end_date: 2026-09-01T23:59:00.000-05:00
 created_date: 2026-08-29T12:08:27.000-05:00
@@ -17,31 +17,33 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: Magic Pixel
 events:
+  - name: Duck Hunt
+    start_date: 2026-09-01T19:00:00.000-05:00
+    participant_count: 10
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-166/events/duck-hunt/brackets/2386796/3442375
+    standings:
+      - player: Yabby
+        prefix: FAEF
+        standing: 1
+      - player: Saucy
+        prefix: MP
+        standing: 2
+      - player: Scrumby
+        standing: 3
   - name: 2XKO
     start_date: 2026-09-01T20:00:00.000-05:00
-    participant_count: 3
+    participant_count: 5
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-166/events/2xko/brackets/2383363/3437737
-    standings: []
-  - name: "Granblue Fantasy Versus: Rising"
-    start_date: 2026-09-01T20:30:00.000-05:00
-    participant_count: 1
-    rules: |-
-      - Version: PS4 on PS5
-      - Double Elimination
-      - Default settings
-      - 2/3 Rounds per Game
-      - 2/3 Games per Set
-      - 3/5 Games for Winners, Losers & Grand Finals
-      - Winner of prior game must keep same character
-      - Loser of prior game may switch character
-      - Random stage select (players may opt for an agreed stage)
-      - Color 17 is banned for all characters
-      - Prismatic Weapon Skins are banned for all characters
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-166/events/granblue-fantasy-versus-rising/brackets/2383360/3437734
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: LambdaX
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-09-01T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -53,10 +55,19 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-166/events/guilty-gear-strive/brackets/2383357/3437731
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Saucy
+        prefix: MP
+        standing: 2
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 3
 games:
+  - Duck Hunt
   - 2XKO
-  - "Granblue Fantasy Versus: Rising"
   - "Guilty Gear: Strive"
 
 ---
