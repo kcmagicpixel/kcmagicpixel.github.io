@@ -23,7 +23,6 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-166/events/duck-hunt/brackets/2386796/3442375
     standings:
       - player: Yabby
-        prefix: FAEF
         standing: 1
       - player: Saucy
         prefix: MP

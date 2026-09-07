@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-167
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 1
+participant_count: 3
 start_date: 2026-09-08T19:00:00.000-05:00
 end_date: 2026-09-08T23:59:00.000-05:00
 created_date: 2026-08-29T12:23:34.000-05:00
@@ -19,7 +19,7 @@ stream: Magic Pixel
 events:
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-09-08T19:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-167/events/marvel-tokon-fighting-souls/brackets/2383388/3437762
     standings: []
   - name: "Melty Blood: Type Lumina"
@@ -37,7 +37,7 @@ events:
     standings: []
   - name: TEKKEN 8
     start_date: 2026-09-08T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
