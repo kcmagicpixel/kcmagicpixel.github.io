@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-167
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 10
+participant_count: 21
 start_date: 2026-09-08T19:00:00.000-05:00
 end_date: 2026-09-08T23:59:00.000-05:00
 created_date: 2026-08-29T12:23:34.000-05:00
@@ -19,12 +19,19 @@ stream: Magic Pixel
 events:
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-09-08T19:30:00.000-05:00
-    participant_count: 7
+    participant_count: 8
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-167/events/marvel-tokon-fighting-souls/brackets/2383388/3437762
-    standings: []
+    standings:
+      - player: uklj
+        standing: 1
+      - player: LambdaX
+        standing: 2
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-09-08T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 6
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -34,10 +41,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-167/events/melty-blood-type-lumina/brackets/2383382/3437756
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: sheepy
+        standing: 2
+      - player: cavitae
+        standing: 3
   - name: TEKKEN 8
     start_date: 2026-09-08T20:30:00.000-05:00
-    participant_count: 5
+    participant_count: 11
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -47,10 +60,18 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-167/events/tekken-8/brackets/2383385/3437759
-    standings: []
+    standings:
+      - player: Dolly Parton (RIP)
+        prefix: Mob$
+        standing: 1
+      - player: GucciG0n
+        prefix: KCFGC
+        standing: 2
+      - player: httpriestess
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-09-08T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 7
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,12 +81,31 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-167/events/under-night-in-birth-ii-sys-celes/brackets/2383386/3437760
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: Graffiti Souls
+        standing: 2
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 3
+  - name: "MerFight: Curse of the Arctic Prince"
+    start_date: 2026-09-08T21:30:00.000-05:00
+    participant_count: 9
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-167/events/inuyasha-a-feudal-fairy-tale/brackets/2393403/3450785
+    standings:
+      - player: deapest
+        standing: 1
+      - player: LambdaX
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
 games:
   - "Marvel Tokon: Fighting Souls"
   - "Melty Blood: Type Lumina"
   - TEKKEN 8
   - Under Night In-Birth II Sys:Celes
+  - "MerFight: Curse of the Arctic Prince"
 
 ---
 
