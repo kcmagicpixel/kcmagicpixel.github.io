@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-170
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 6
 start_date: 2026-09-29T19:00:00.000-05:00
 end_date: 2026-09-29T23:59:00.000-05:00
 created_date: 2026-08-29T12:47:43.000-05:00
@@ -19,7 +19,7 @@ stream: Magic Pixel
 events:
   - name: "Avatar Legends: The Fighting Game"
     start_date: 2026-09-29T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 6
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-170/events/avatar-legends/brackets/2383441/3437820
     standings: []
 games:
