@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-170
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 6
+participant_count: 18
 start_date: 2026-09-29T19:00:00.000-05:00
 end_date: 2026-09-29T23:59:00.000-05:00
 created_date: 2026-08-29T12:47:43.000-05:00
@@ -17,12 +17,46 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: Magic Pixel
 events:
+  - name: Soulcalibur Legends
+    start_date: 2026-09-29T19:00:00.000-05:00
+    participant_count: 9
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-170/events/soulcalibur-legends/brackets/2414455/3478344
+    standings:
+      - player: GucciG0n
+        prefix: KCFGC
+        standing: 1
+      - player: Dolly Parton (RIP)
+        prefix: Mob$
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
+  - name: "SpeedRunners 2: King of Speed"
+    start_date: 2026-09-29T19:00:00.000-05:00
+    participant_count: 8
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-170/events/singles/brackets/2414441/3478330
+    standings:
+      - player: Jembo
+        prefix: GER
+        standing: 1
+      - player: MagnetiCube
+        standing: 2
+      - player: LambdaX
+        standing: 3
   - name: "Avatar Legends: The Fighting Game"
     start_date: 2026-09-29T20:00:00.000-05:00
-    participant_count: 6
+    participant_count: 12
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-170/events/avatar-legends/brackets/2383441/3437820
-    standings: []
+    standings:
+      - player: Idiom
+        standing: 1
+      - player: Hinzae
+        prefix: CCND
+        standing: 2
+      - player: httpriestess
+        standing: 3
 games:
+  - Soulcalibur Legends
+  - "SpeedRunners 2: King of Speed"
   - "Avatar Legends: The Fighting Game"
 
 ---
