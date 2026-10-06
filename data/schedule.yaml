@@ -34,4 +34,5 @@ games:
     schedule:
       "Magic Pixel Weekly": [2, 4]
   "Avatar Legends: The Fighting Game":
-    schedule: {}
+    schedule:
+      "Magic Pixel Weekly": [1, 3]
