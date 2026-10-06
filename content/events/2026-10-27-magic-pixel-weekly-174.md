@@ -17,7 +17,7 @@ rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: Magic Pixel
 events:
   - name: "Marvel Tokon: Fighting Souls"
-    start_date: 2026-10-27T19:30:00.000-05:00
+    start_date: 2026-10-27T20:00:00.000-05:00
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/marvel-tokon-fighting-souls/brackets/2420760/3486474
     standings: []
