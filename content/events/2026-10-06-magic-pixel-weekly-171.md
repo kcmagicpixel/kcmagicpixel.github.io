@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-171
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 7
+participant_count: 19
 start_date: 2026-10-06T19:00:00.000-05:00
 end_date: 2026-10-06T23:59:00.000-05:00
 created_date: 2026-10-05T19:18:59.000-05:00
@@ -19,14 +19,15 @@ stream: Magic Pixel
 events:
   - name: 2XKO
     start_date: 2026-10-06T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-171/events/2xko/brackets/2420638/3486350
-    standings: []
-  - name: "Avatar Legends: The Fighting Game"
-    start_date: 2026-10-06T20:30:00.000-05:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-171/events/avatar-legends/brackets/2420643/3486355
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Pyralis
+        standing: 2
+      - player: Benjamin Boxing
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-10-06T20:30:00.000-05:00
     participant_count: 1
@@ -44,14 +45,31 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-171/events/granblue-fantasy-versus-rising/brackets/2420635/3486347
     standings: []
+  - name: "Avatar Legends: The Fighting Game"
+    start_date: 2026-10-06T20:30:00.000-05:00
+    participant_count: 8
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-171/events/avatar-legends/brackets/2420643/3486355
+    standings:
+      - player: Chrono Sanaki
+        standing: 1
+      - player: Kascade
+        standing: 2
+      - player: LambdaX
+        standing: 3
   - name: "Vampire Savior: The Lord of Vampire"
     start_date: 2026-10-06T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-171/events/vampire-savior-the-lord-of-vampire/brackets/2421331/3487293
-    standings: []
+    standings:
+      - player: TheBratKing365
+        standing: 1
+      - player: deapest
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-10-06T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 7
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -63,11 +81,20 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-171/events/guilty-gear-strive/brackets/2420632/3486344
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: Saucy
+        prefix: MP
+        standing: 3
 games:
   - 2XKO
-  - "Avatar Legends: The Fighting Game"
   - "Granblue Fantasy Versus: Rising"
+  - "Avatar Legends: The Fighting Game"
   - "Vampire Savior: The Lord of Vampire"
   - "Guilty Gear: Strive"
 
