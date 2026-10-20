@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-173
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 11
 start_date: 2026-10-20T19:00:00.000-05:00
 end_date: 2026-10-20T23:59:00.000-05:00
 created_date: 2026-10-05T20:12:09.000-05:00
@@ -19,12 +19,12 @@ stream: Magic Pixel
 events:
   - name: 2XKO
     start_date: 2026-10-20T20:00:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/2xko/brackets/2420734/3486448
     standings: []
   - name: Street Fighter 6
     start_date: 2026-10-20T20:30:00.000-05:00
-    participant_count: 2
+    participant_count: 5
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -38,12 +38,12 @@ events:
     standings: []
   - name: "Avatar Legends: The Fighting Game"
     start_date: 2026-10-20T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/avatar-legends/brackets/2420737/3486451
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-10-20T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -60,7 +60,7 @@ events:
     standings: []
   - name: "Guilty Gear: Strive"
     start_date: 2026-10-20T21:00:00.000-05:00
-    participant_count: 0
+    participant_count: 2
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
