@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-173
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 11
+participant_count: 25
 start_date: 2026-10-20T19:00:00.000-05:00
 end_date: 2026-10-20T23:59:00.000-05:00
 created_date: 2026-10-05T20:12:09.000-05:00
@@ -19,12 +19,29 @@ stream: Magic Pixel
 events:
   - name: 2XKO
     start_date: 2026-10-20T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/2xko/brackets/2420734/3486448
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: LambdaX
+        standing: 2
+      - player: Pyralis
+        standing: 3
+  - name: "Avatar Legends: The Fighting Game"
+    start_date: 2026-10-20T20:30:00.000-05:00
+    participant_count: 8
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/avatar-legends/brackets/2420737/3486451
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: MagnetiCube
+        standing: 3
   - name: Street Fighter 6
     start_date: 2026-10-20T20:30:00.000-05:00
-    participant_count: 5
+    participant_count: 8
     rules: >-
       Game will be played on **PS5**, entrants must provide their own compatible
       controller.  
@@ -35,15 +52,16 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/street-fighter-6/brackets/2420729/3486443
-    standings: []
-  - name: "Avatar Legends: The Fighting Game"
-    start_date: 2026-10-20T20:30:00.000-05:00
-    participant_count: 2
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/avatar-legends/brackets/2420737/3486451
-    standings: []
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: Cmoney
+        standing: 2
+      - player: golbat
+        standing: 3
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-10-20T20:30:00.000-05:00
-    participant_count: 1
+    participant_count: 4
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -57,10 +75,17 @@ events:
       - Color 17 is banned for all characters
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/granblue-fantasy-versus-rising/brackets/2420731/3486445
-    standings: []
+    standings:
+      - player: JustJewel
+        standing: 1
+      - player: Big Shrimpin
+        standing: 2
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-10-20T21:00:00.000-05:00
-    participant_count: 2
+    participant_count: 7
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -72,13 +97,34 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/guilty-gear-strive/brackets/2420728/3486442
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: Saucy
+        prefix: MP
+        standing: 3
+  - name: "Vampire Savior: The Lord of Vampire"
+    start_date: 2026-10-20T21:00:00.000-05:00
+    participant_count: 7
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-173/events/vampire-savior-the-lord-of-vampire/brackets/2435627/3505493
+    standings:
+      - player: golbat
+        standing: 1
+      - player: TheBratKing365
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
 games:
   - 2XKO
-  - Street Fighter 6
   - "Avatar Legends: The Fighting Game"
+  - Street Fighter 6
   - "Granblue Fantasy Versus: Rising"
   - "Guilty Gear: Strive"
+  - "Vampire Savior: The Lord of Vampire"
 
 ---
 
