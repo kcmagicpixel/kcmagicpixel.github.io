@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-174
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 2
+participant_count: 10
 start_date: 2026-10-27T19:00:00.000-05:00
 end_date: 2026-10-27T23:59:00.000-05:00
 created_date: 2026-10-05T20:19:20.000-05:00
@@ -17,9 +17,14 @@ series:
 rules: "All participants must agree to adhere to the FGCoC: https://fgcoc.com/"
 stream: Magic Pixel
 events:
+  - name: "Marvel Tokon: Fighting Souls"
+    start_date: 2026-10-27T20:00:00.000-05:00
+    participant_count: 6
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/marvel-tokon-fighting-souls/brackets/2420760/3486474
+    standings: []
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-10-27T20:00:00.000-05:00
-    participant_count: 2
+    participant_count: 4
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -30,14 +35,9 @@ events:
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/melty-blood-type-lumina/brackets/2420755/3486469
     standings: []
-  - name: "Marvel Tokon: Fighting Souls"
-    start_date: 2026-10-27T20:00:00.000-05:00
-    participant_count: 1
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/marvel-tokon-fighting-souls/brackets/2420760/3486474
-    standings: []
   - name: TEKKEN 8
     start_date: 2026-10-27T20:30:00.000-05:00
-    participant_count: 0
+    participant_count: 4
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -50,7 +50,7 @@ events:
     standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-10-27T21:00:00.000-05:00
-    participant_count: 1
+    participant_count: 3
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -62,8 +62,8 @@ events:
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/under-night-in-birth-ii-sys-celes/brackets/2420758/3486472
     standings: []
 games:
-  - "Melty Blood: Type Lumina"
   - "Marvel Tokon: Fighting Souls"
+  - "Melty Blood: Type Lumina"
   - TEKKEN 8
   - Under Night In-Birth II Sys:Celes
 
