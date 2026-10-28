@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-174
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 10
+participant_count: 23
 start_date: 2026-10-27T19:00:00.000-05:00
 end_date: 2026-10-27T23:59:00.000-05:00
 created_date: 2026-10-05T20:19:20.000-05:00
@@ -19,12 +19,18 @@ stream: Magic Pixel
 events:
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-10-27T20:00:00.000-05:00
-    participant_count: 6
+    participant_count: 7
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/marvel-tokon-fighting-souls/brackets/2420760/3486474
-    standings: []
+    standings:
+      - player: uklj
+        standing: 1
+      - player: thomashazl
+        standing: 2
+      - player: deapest
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-10-27T20:00:00.000-05:00
-    participant_count: 4
+    participant_count: 7
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -34,10 +40,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/melty-blood-type-lumina/brackets/2420755/3486469
-    standings: []
+    standings:
+      - player: cavitae
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: Wumbo
+        standing: 3
   - name: TEKKEN 8
     start_date: 2026-10-27T20:30:00.000-05:00
-    participant_count: 4
+    participant_count: 6
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -47,10 +59,28 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/tekken-8/brackets/2420757/3486471
-    standings: []
+    standings:
+      - player: GucciG0n
+        prefix: KCFGC
+        standing: 1
+      - player: thomashazl
+        standing: 2
+      - player: deapest
+        standing: 3
+  - name: "Vampire Savior: The Lord of Vampire"
+    start_date: 2026-10-27T21:00:00.000-05:00
+    participant_count: 13
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/vampire-savior-the-lord-of-vampire/brackets/2441850/3513262
+    standings:
+      - player: golbat
+        standing: 1
+      - player: deapest
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-10-27T21:00:00.000-05:00
-    participant_count: 3
+    participant_count: 11
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,11 +90,18 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-174/events/under-night-in-birth-ii-sys-celes/brackets/2420758/3486472
-    standings: []
+    standings:
+      - player: Sheepy
+        standing: 1
+      - player: Graffiti Souls
+        standing: 2
+      - player: golbat
+        standing: 3
 games:
   - "Marvel Tokon: Fighting Souls"
   - "Melty Blood: Type Lumina"
   - TEKKEN 8
+  - "Vampire Savior: The Lord of Vampire"
   - Under Night In-Birth II Sys:Celes
 
 ---
