@@ -22,7 +22,7 @@ events:
     participant_count: 10
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-166/events/duck-hunt/brackets/2386796/3442375
     standings:
-      - player: Yabby
+      - player: FlowerKnightYabby
         standing: 1
       - player: Saucy
         prefix: MP
