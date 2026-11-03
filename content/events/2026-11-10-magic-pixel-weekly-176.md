@@ -21,6 +21,19 @@ events:
     participant_count: 0
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-176/events/marvel-tokon-fighting-souls/brackets/2446124/3518579
     standings: []
+  - name: TEKKEN 8
+    start_date: 2026-11-10T20:30:00.000-06:00
+    participant_count: 0
+    rules: |-
+      - Tournament Mode Default Settings
+      - 3/5 Rounds per Game
+      - 2/3 Games per Set
+      - 3/5 Games for Winners, Losers & Grand Finals
+      - Random stage select
+      - Winner of prior game must keep same character
+      - Loser of prior game may switch character
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-176/events/tekken-8/brackets/2446122/3518577
+    standings: []
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-11-10T21:00:00.000-06:00
     participant_count: 0
@@ -36,11 +49,12 @@ events:
     standings: []
 games:
   - "Marvel Tokon: Fighting Souls"
+  - TEKKEN 8
   - Under Night In-Birth II Sys:Celes
 
 ---
 
-This Tuesday, Nov 10, we'll be out at Larry's playing **MTFS** and **UNI2**! No Tekken 8 or MBTL this week, but they will be back later in the month.<!--more-->
+This Tuesday, Nov 10, we'll be out at Larry's playing **MTFS**, **T8**, and **UNI2**! No MBTL this week, but it will return later in the month.<!--more-->
 
 As always, in addition to the brackets listed, casuals are welcome for any game all night if setups are available, so please bring your favorite game out! 
 
