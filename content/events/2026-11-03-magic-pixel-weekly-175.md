@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-175
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 3
+participant_count: 13
 start_date: 2026-11-03T19:00:00.000-06:00
 end_date: 2026-11-03T23:59:00.000-06:00
 created_date: 2026-11-01T21:58:10.000-06:00
@@ -22,14 +22,9 @@ events:
     participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-175/events/2xko/brackets/2446115/3518570
     standings: []
-  - name: "Avatar Legends: The Fighting Game"
-    start_date: 2026-11-03T20:30:00.000-06:00
-    participant_count: 3
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-175/events/avatar-legends/brackets/2446116/3518571
-    standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-11-03T20:30:00.000-06:00
-    participant_count: 0
+    participant_count: 1
     rules: |-
       - Version: PS4 on PS5
       - Double Elimination
@@ -44,9 +39,33 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-175/events/granblue-fantasy-versus-rising/brackets/2446114/3518569
     standings: []
+  - name: "Avatar Legends: The Fighting Game"
+    start_date: 2026-11-03T20:30:00.000-06:00
+    participant_count: 7
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-175/events/avatar-legends/brackets/2446116/3518571
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: Kascade
+        standing: 2
+      - player: Zen
+        standing: 3
+  - name: J-Stars Victory Vs
+    start_date: 2026-11-03T21:00:00.000-06:00
+    participant_count: 9
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-175/events/j-stars-victory-vs/brackets/2448273/3521191
+    standings:
+      - player: Solric
+        prefix: American Reset
+        standing: 1
+      - player: MagnetiCube
+        standing: 2
+      - player: Saucy
+        prefix: MP
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-11-03T21:00:00.000-06:00
-    participant_count: 1
+    participant_count: 6
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -58,11 +77,21 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-175/events/guilty-gear-strive/brackets/2446113/3518568
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Jembo
+        prefix: GER
+        standing: 2
+      - player: Saucy
+        prefix: MP
+        standing: 3
 games:
   - 2XKO
-  - "Avatar Legends: The Fighting Game"
   - "Granblue Fantasy Versus: Rising"
+  - "Avatar Legends: The Fighting Game"
+  - J-Stars Victory Vs
   - "Guilty Gear: Strive"
 
 ---
