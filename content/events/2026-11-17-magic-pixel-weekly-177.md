@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-177
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 11
+participant_count: 23
 start_date: 2026-11-17T19:00:00.000-06:00
 end_date: 2026-11-17T23:59:00.000-06:00
 created_date: 2026-11-01T22:08:34.000-06:00
@@ -21,25 +21,6 @@ events:
     start_date: 2026-11-17T20:00:00.000-06:00
     participant_count: 1
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/2xko/brackets/2446129/3518584
-    standings: []
-  - name: "Avatar Legends: The Fighting Game"
-    start_date: 2026-11-17T20:30:00.000-06:00
-    participant_count: 5
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/avatar-legends/brackets/2446130/3518585
-    standings: []
-  - name: Street Fighter 6
-    start_date: 2026-11-17T20:30:00.000-06:00
-    participant_count: 4
-    rules: >-
-      Game will be played on **PS5**, entrants must provide their own compatible
-      controller.  
-
-      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
-
-      The winner of each game must keep the same character, the loser of that game may switch characters.  
-
-      The stage selected must be agreed upon by both players, or otherwise selected at random.
-    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/street-fighter-6/brackets/2446127/3518582
     standings: []
   - name: "Granblue Fantasy Versus: Rising"
     start_date: 2026-11-17T20:30:00.000-06:00
@@ -58,9 +39,51 @@ events:
       - Prismatic Weapon Skins are banned for all characters
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/granblue-fantasy-versus-rising/brackets/2446128/3518583
     standings: []
+  - name: "Avatar Legends: The Fighting Game"
+    start_date: 2026-11-17T20:30:00.000-06:00
+    participant_count: 8
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/avatar-legends/brackets/2446130/3518585
+    standings:
+      - player: Bench
+        standing: 1
+      - player: Justin
+        standing: 2
+      - player: Kascade
+        standing: 3
+  - name: Street Fighter 6
+    start_date: 2026-11-17T20:30:00.000-06:00
+    participant_count: 7
+    rules: >-
+      Game will be played on **PS5**, entrants must provide their own compatible
+      controller.  
+
+      Preliminaries are best of 3 (first to 2). Finals are best of 5 (first to 3).  
+
+      The winner of each game must keep the same character, the loser of that game may switch characters.  
+
+      The stage selected must be agreed upon by both players, or otherwise selected at random.
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/street-fighter-6/brackets/2446127/3518582
+    standings:
+      - player: Reinh0ld
+        standing: 1
+      - player: golbat
+        standing: 2
+      - player: Cmoney
+        standing: 3
+  - name: Fighting EX Layer
+    start_date: 2026-11-17T21:00:00.000-06:00
+    participant_count: 7
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/fighting-ex-layer/brackets/2460705/3536735
+    standings:
+      - player: deapest
+        standing: 1
+      - player: Scrumby
+        standing: 2
+      - player: Chrono Sanaki
+        standing: 3
   - name: "Guilty Gear: Strive"
     start_date: 2026-11-17T21:00:00.000-06:00
-    participant_count: 3
+    participant_count: 7
     entry_fee: 5
     rules: >-
       Game will be played on **PS4**, entrants must provide their own compatible
@@ -72,12 +95,21 @@ events:
 
       The stage selected must be agreed upon by both players, or otherwise selected at random.
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-177/events/guilty-gear-strive/brackets/2446126/3518581
-    standings: []
+    standings:
+      - player: OoeyGooeyChewySnickers
+        prefix: TF
+        standing: 1
+      - player: Saucy
+        prefix: MP
+        standing: 2
+      - player: MagnetiCube
+        standing: 3
 games:
   - 2XKO
+  - "Granblue Fantasy Versus: Rising"
   - "Avatar Legends: The Fighting Game"
   - Street Fighter 6
-  - "Granblue Fantasy Versus: Rising"
+  - Fighting EX Layer
   - "Guilty Gear: Strive"
 
 ---
