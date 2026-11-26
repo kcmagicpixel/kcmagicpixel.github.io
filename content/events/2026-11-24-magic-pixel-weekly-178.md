@@ -8,7 +8,7 @@ url_startgg: https://www.start.gg/tournament/magic-pixel-weekly-178
 address: 659 N Somerset Terrace, Olathe, KS 66062, USA
 venue_name: Larry's Game Store
 venue_fee: 5
-participant_count: 8
+participant_count: 15
 start_date: 2026-11-24T19:00:00.000-06:00
 end_date: 2026-11-24T23:59:00.000-06:00
 created_date: 2026-11-01T22:16:51.000-06:00
@@ -19,12 +19,20 @@ stream: Magic Pixel
 events:
   - name: "Marvel Tokon: Fighting Souls"
     start_date: 2026-11-24T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 4
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-178/events/marvel-tokon-fighting-souls/brackets/2446141/3518596
-    standings: []
+    standings:
+      - player: LambdaX
+        standing: 1
+      - player: GucciG0n
+        prefix: KCFGC
+        standing: 2
+      - player: Solric
+        prefix: American Reset
+        standing: 3
   - name: "Melty Blood: Type Lumina"
     start_date: 2026-11-24T20:00:00.000-06:00
-    participant_count: 1
+    participant_count: 3
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -34,10 +42,16 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-178/events/melty-blood-type-lumina/brackets/2446138/3518593
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: MagnetiCube
+        standing: 3
   - name: TEKKEN 8
     start_date: 2026-11-24T20:30:00.000-06:00
-    participant_count: 3
+    participant_count: 6
     rules: |-
       - Tournament Mode Default Settings
       - 3/5 Rounds per Game
@@ -47,10 +61,28 @@ events:
       - Winner of prior game must keep same character
       - Loser of prior game may switch character
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-178/events/tekken-8/brackets/2446139/3518594
-    standings: []
+    standings:
+      - player: httpriestess
+        standing: 1
+      - player: GucciG0n
+        prefix: KCFGC
+        standing: 2
+      - player: Scrumby
+        standing: 3
+  - name: Soul Edge
+    start_date: 2026-11-24T21:00:00.000-06:00
+    participant_count: 8
+    url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-178/events/soul-blade/brackets/2466197/3543951
+    standings:
+      - player: Scrumby
+        standing: 1
+      - player: httpriestess
+        standing: 2
+      - player: MagnetiCube
+        standing: 3
   - name: Under Night In-Birth II Sys:Celes
     start_date: 2026-11-24T21:00:00.000-06:00
-    participant_count: 4
+    participant_count: 8
     rules: |-
       - Default settings
       - 2/3 Rounds per Game
@@ -60,11 +92,19 @@ events:
       - Loser of prior game may switch character
       - Random stage select (players may opt for an agreed stage)
     url_bracket: https://www.start.gg/tournament/magic-pixel-weekly-178/events/under-night-in-birth-ii-sys-celes/brackets/2446140/3518595
-    standings: []
+    standings:
+      - player: SieghartSFLC
+        prefix: CC
+        standing: 1
+      - player: cavitae
+        standing: 2
+      - player: A Beholder
+        standing: 3
 games:
   - "Marvel Tokon: Fighting Souls"
   - "Melty Blood: Type Lumina"
   - TEKKEN 8
+  - Soul Edge
   - Under Night In-Birth II Sys:Celes
 
 ---
